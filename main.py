@@ -44,6 +44,7 @@ Make the channels and programmes into something readable by XMLTV
 
     data = etree.Element("tv")
     data.set("generator-info-name", "sky-epg-parser")
+    data.set("generator-info-url", "https://github.com/dp247/Freeview-EPG")
     for ch in channels:
         channel = etree.SubElement(data, "channel")
         channel.set("id", ch[1][1])
@@ -81,6 +82,7 @@ channels_data = get_channels_data()
 programme_data = []
 for channel in channels_data:
     print(channel[1][1])
+    # Get some epoch times - right now, 12am tomorrow and 12am the day after tomorrow (so 48h)
     epoch_times = get_days()
     for epoch in epoch_times:
         url = f"https://epgservices.sky.com/5.2.2/api/2.0/channel/json/{channel[2][1]}/{epoch}/86400/4"
@@ -108,7 +110,7 @@ for channel in channels_data:
 
 channel_xml = build_xmltv(channels_data, programme_data)
 
-with open('test.xml', 'wb') as f:
+with open('epg.xml', 'wb') as f:
     f.write(channel_xml)
     f.close()
 
