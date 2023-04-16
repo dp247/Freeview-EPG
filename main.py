@@ -20,7 +20,7 @@ Load XML file of channel information
     :return: XML elements as a set, then all sets as a list
     """
     data_list = []
-    x = etree.parse('sky.com.channels.xml')
+    x = etree.parse('freeview_channels.xml')
     data = x.find('channels').getchildren()
 
     for element in data:
