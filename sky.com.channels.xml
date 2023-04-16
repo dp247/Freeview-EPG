@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site site="sky.com">
-  <channels>
-    <channel lang="en" xmltv_id="4seven.uk" site_id="3150">4Seven</channel>
-    <channel lang="en" xmltv_id="BBCTwoEngland.uk" site_id="1060">BBC Two</channel>
-    <channel lang="en" xmltv_id="ITV1.uk" site_id="1020">ITV</channel>
-    <channel lang="en" xmltv_id="Yesterday.uk" site_id="2305">Yesterday</channel>
-  </channels>
-</site>
