@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site site="sky.com">
+  <channels>
+    <channel lang="en" xmltv_id="4Music.uk" site_id="1350">4Music</channel>
+    <channel lang="en" xmltv_id="4seven.uk" site_id="3150">4Seven</channel>
+    <channel lang="en" xmltv_id="5Action.uk" site_id="1036">5 Action</channel>
+    <channel lang="en" xmltv_id="5Select.uk" site_id="3028">5 Select</channel>
+    <channel lang="en" xmltv_id="5Star.uk" site_id="3023">5 Star</channel>
+    <channel lang="en" xmltv_id="5StarPlus1.uk" site_id="3024">5STAR+1</channel>
+    <channel lang="en" xmltv_id="5USA.uk" site_id="3022">5 USA</channel>
+    <channel lang="en" xmltv_id="5USAPlus1.uk" site_id="3027">5USA+1</channel>
+    <channel lang="en" xmltv_id="AdultChannel.uk" site_id="4195">Adult Channel</channel>
+    <channel lang="en" xmltv_id="AlJazeeraEnglish.qa" site_id="1023">Aljazeera English</channel>
+    <channel lang="en" xmltv_id="Alibi.uk" site_id="2303">alibi</channel>
+    <channel lang="en" xmltv_id="AlibiPlus1.uk" site_id="2630">alibi+1</channel>
+    <channel lang="en" xmltv_id="AnimalPlanetUK.uk" site_id="2402">Animal Planet</channel>
+    <channel lang="en" xmltv_id="AnimalPlanetUKPlus1.uk" site_id="1352">Animal Plnt+1</channel>
+    <channel lang="en" xmltv_id="ArirangWorld.kr" site_id="1066">Arirang World</channel>
+    <channel lang="en" xmltv_id="BBCAlba.uk" site_id="2012">BBC Alba</channel>
+    <channel lang="en" xmltv_id="BBCFour.uk" site_id="1092">BBC Four</channel>
+    <channel lang="en" xmltv_id="BBCNews.uk" site_id="2011">BBC News</channel>
+    <channel lang="en" xmltv_id="BBCOneChannelIslands.uk" site_id="2074">BBC One CI</channel>
+    <channel lang="en" xmltv_id="BBCOneEastMidlands.uk" site_id="2105">BBC One E Mid</channel>
+    <channel lang="en" xmltv_id="BBCOneEngland.uk" site_id="2076">BBC One</channel>
+    <channel lang="en" xmltv_id="BBCOneLondon.uk" site_id="1059">BBC One Lon</channel>
+    <channel lang="en" xmltv_id="BBCOneNorthEastCumbria.uk" site_id="2155">BBC One NE&amp;C</channel>
+    <channel lang="en" xmltv_id="BBCOneNorthWest.uk" site_id="2102">BBC One N West</channel>
+    <channel lang="en" xmltv_id="BBCOneNorthernIreland.uk" site_id="2005">BBC One NI</channel>
+    <channel lang="en" xmltv_id="BBCOneOxfordshire.uk" site_id="2156">BBC One Oxford</channel>
+    <channel lang="en" xmltv_id="BBCOneScotland.uk" site_id="2004">BBC One Scotland</channel>
+    <channel lang="en" xmltv_id="BBCOneSouth.uk" site_id="2153">BBC One South</channel>
+    <channel lang="en" xmltv_id="BBCOneSouthEast.uk" site_id="2152">BBC One S East</channel>
+    <channel lang="en" xmltv_id="BBCOneSouthWest.uk" site_id="2154">BBC One S West</channel>
+    <channel lang="en" xmltv_id="BBCOneWales.uk" site_id="2003">BBC One Wales</channel>
+    <channel lang="en" xmltv_id="BBCOneWest.uk" site_id="2151">BBC One West</channel>
+    <channel lang="en" xmltv_id="BBCOneWestMidlands.uk" site_id="2101">BBC One W Mid</channel>
+    <channel lang="en" xmltv_id="BBCOneYorksLincs.uk" site_id="2103">BBC One Yk&amp;Li</channel>
+    <channel lang="en" xmltv_id="BBCOneYorkshire.uk" site_id="2104">BBC One Yorks</channel>
+    <channel lang="en" xmltv_id="BBCParliament.uk" site_id="2072">BBC Parliament</channel>
+    <channel lang="en" xmltv_id="BBCRedButton1.uk" site_id="2051">BBC Red Button 1</channel>
+    <channel lang="en" xmltv_id="BBCScotland.uk" site_id="1137">BBC Scotland</channel>
+    <channel lang="en" xmltv_id="BBCThree.uk" site_id="2022">BBC Three</channel>
+    <channel lang="en" xmltv_id="BBCTwoEngland.uk" site_id="1060">BBC Two</channel>
+    <channel lang="en" xmltv_id="BBCTwoNorthernIreland.uk" site_id="2017">BBC Two NI</channel>
+    <channel lang="en" xmltv_id="BBCTwoWales.uk" site_id="2015">BBC Two Wales</channel>
+    <channel lang="en" xmltv_id="Blaze.uk" site_id="1065">Blaze UK</channel>
+    <channel lang="en" xmltv_id="BloombergTVEurope.uk" site_id="1074">Bloomberg HD</channel>
+    <channel lang="en" xmltv_id="CBBC.uk" site_id="1095">CBBC</channel>
+    <channel lang="en" xmltv_id="CBSDramaUK.uk" site_id="3617">CBS Drama UK</channel>
+    <channel lang="en" xmltv_id="CBSRealityUK.uk" site_id="1142">CBS Reality</channel>
+    <channel lang="en" xmltv_id="CBSRealityUKPlus1.uk" site_id="3602">CBS Reality+1</channel>
+    <channel lang="en" xmltv_id="CBeebies.uk" site_id="1093">CBeebies</channel>
+    <channel lang="en" xmltv_id="CITV.uk" site_id="6273">CITV</channel>
+    <channel lang="en" xmltv_id="CNBCEurope.uk" site_id="1088">CNBC UK</channel>
+    <channel lang="en" xmltv_id="Challenge.uk" site_id="2202">Challenge UK</channel>
+    <channel lang="en" xmltv_id="Channel4.uk" site_id="1621">Channel 4</channel>
+    <channel lang="en" xmltv_id="Channel4Plus1.uk" site_id="1671">Channel 4+1</channel>
+    <channel lang="en" xmltv_id="Channel5.uk" site_id="1800">Channel 5</channel>
+    <channel lang="en" xmltv_id="Channel5Plus1.uk" site_id="1839">Channel 5 +1</channel>
+    <channel lang="en" xmltv_id="ClublandTV.uk" site_id="4505">Clubland TV</channel>
+    <channel lang="en" xmltv_id="CraftExtra.uk" site_id="3357">Craft Extra</channel>
+    <channel lang="en" xmltv_id="CreateandCraft.uk" site_id="1245">Create and Craft</channel>
+    <channel lang="en" xmltv_id="DMAXUK.uk" site_id="3618">DMAX UK</channel>
+    <channel lang="en" xmltv_id="DMAXUKPlus1.uk" site_id="1865">DMAX+1</channel>
+    <channel lang="en" xmltv_id="Dave.uk" site_id="2306">Dave UK</channel>
+    <channel lang="en" xmltv_id="Davejavu.uk" site_id="2320">Dave ja vu</channel>
+    <channel lang="en" xmltv_id="Drama.uk" site_id="2612">Drama UK</channel>
+    <channel lang="en" xmltv_id="DramaPlus1.uk" site_id="1081">Drama UK +1</channel>
+    <channel lang="en" xmltv_id="E4.uk" site_id="1628">E4 UK</channel>
+    <channel lang="en" xmltv_id="E4Extra.uk" site_id="1758">E4 Extra</channel>
+    <channel lang="en" xmltv_id="E4Plus1.uk" site_id="3300">E4 UK +1</channel>
+    <channel lang="en" xmltv_id="EarthxTV.us" site_id="1086">EarthxTV HD</channel>
+    <channel lang="en" xmltv_id="EuronewsEnglish.fr" site_id="4604">EuroNews English</channel>
+    <channel lang="en" xmltv_id="Film4.uk" site_id="1073">Film4</channel>
+    <channel lang="en" xmltv_id="Film4Plus1.uk" site_id="1629">Film 4 UK +1</channel>
+    <channel lang="en" xmltv_id="FoodNetworkUK.uk" site_id="3590">Food Network UK</channel>
+    <channel lang="en" xmltv_id="FoodNetworkUKPlus1.uk" site_id="3592">Food Netwrk+1</channel>
+    <channel lang="en" xmltv_id="Foodxp.uk" site_id="1227">Foodxp</channel>
+    <channel lang="en" xmltv_id="France24English.fr" site_id="1121">France 24 English</channel>
+    <channel lang="en" xmltv_id="GBNews.uk" site_id="1196">GB News</channel>
+    <channel lang="en" xmltv_id="GINXEsportsTV.uk" site_id="1830">Ginx eSports TV UK</channel>
+    <channel lang="en" xmltv_id="GemsTV.uk" site_id="3010">Gems TV</channel>
+    <channel lang="en" xmltv_id="GreatMovies.uk" site_id="3709">Great! Movies</channel>
+    <channel lang="en" xmltv_id="GreatMoviesAction.uk" site_id="3708">Great! Movies Action</channel>
+    <channel lang="en" xmltv_id="GreatMoviesActionPlus1.uk" site_id="3721">GREAT!action+1</channel>
+    <channel lang="en" xmltv_id="GreatMoviesClassic.uk" site_id="3643">Great! Movies Classic</channel>
+    <channel lang="en" xmltv_id="GreatMoviesPlus1.uk" site_id="3771">GREAT! movies+1</channel>
+    <channel lang="en" xmltv_id="GreatTV.uk" site_id="4266">Great! TV</channel>
+    <channel lang="en" xmltv_id="GreatTVPlus1.uk" site_id="5338">GREAT! tv+1</channel>
+    <channel lang="en" xmltv_id="HGTVUK.uk" site_id="2301">HGTV UK</channel>
+    <channel lang="en" xmltv_id="HGTVUKPlus1.uk" site_id="2309">HGTV+1</channel>
+    <channel lang="en" xmltv_id="HorrorXtra.uk" site_id="3605">HorrorXtra</channel>
+    <channel lang="en" xmltv_id="HorrorXtraPlus1.uk" site_id="4502">HorrorXtra+1</channel>
+    <channel lang="en" xmltv_id="ITV1.uk" site_id="1020">ITV</channel>
+    <channel lang="en" xmltv_id="ITV1Plus1.uk" site_id="6145">ITV+1</channel>
+    <channel lang="en" xmltv_id="ITV2.uk" site_id="6240">ITV 2</channel>
+    <channel lang="en" xmltv_id="ITV2Plus1.uk" site_id="6241">ITV 2 +1</channel>
+    <channel lang="en" xmltv_id="ITV3.uk" site_id="6260">ITV 3</channel>
+    <channel lang="en" xmltv_id="ITV3Plus1.uk" site_id="6261">ITV 3 +1</channel>
+    <channel lang="en" xmltv_id="ITV4.uk" site_id="6272">ITV 4</channel>
+    <channel lang="en" xmltv_id="ITV4Plus1.uk" site_id="6274">ITV 4 +1</channel>
+    <channel lang="en" xmltv_id="ITVBe.uk" site_id="6508">ITV Be</channel>
+    <channel lang="en" xmltv_id="IdealWorldTV.uk" site_id="1244">Ideal World</channel>
+    <channel lang="en" xmltv_id="JewelleryMaker.uk" site_id="3354">Jewellery Maker</channel>
+    <channel lang="en" xmltv_id="Kerrang.uk" site_id="1853">Kerrang!</channel>
+    <channel lang="en" xmltv_id="KissTVUK.uk" site_id="1858">Kiss TV</channel>
+    <channel lang="en" xmltv_id="Legend.uk" site_id="4610">Legend</channel>
+    <channel lang="en" xmltv_id="LondonLive.uk" site_id="5090">London Live</channel>
+    <channel lang="en" xmltv_id="Magic.uk" site_id="3660">Magic</channel>
+    <channel lang="en" xmltv_id="More4.uk" site_id="3340">More 4 UK</channel>
+    <channel lang="en" xmltv_id="More4Plus1.uk" site_id="3310">More4+1</channel>
+    <channel lang="en" xmltv_id="Movies24.uk" site_id="4420">Movies24</channel>
+    <channel lang="en" xmltv_id="Movies24Plus.uk" site_id="4421">Movies24+</channel>
+    <channel lang="en" xmltv_id="NBCNewsNOW.us" site_id="1039">NBCNewsNowHD</channel>
+    <channel lang="en" xmltv_id="NHKWorldJapan.jp" site_id="3147">NHK World HD</channel>
+    <channel lang="en" xmltv_id="Now70s.uk" site_id="3403">Now 70&apos;s</channel>
+    <channel lang="en" xmltv_id="Now80s.uk" site_id="4541">Now 80&apos;s</channel>
+    <channel lang="en" xmltv_id="Now90s.uk" site_id="3682">Now 90&apos;s</channel>
+    <channel lang="en" xmltv_id="PBSAmerica.uk" site_id="5500">PBS America</channel>
+    <channel lang="en" xmltv_id="Pick.uk" site_id="1832">Pick UK</channel>
+    <channel lang="en" xmltv_id="Pop.uk" site_id="3750">Pop</channel>
+    <channel lang="en" xmltv_id="PopMax.uk" site_id="4262">Pop Max</channel>
+    <channel lang="en" xmltv_id="PopMaxPlus1.uk" site_id="4263">POP Max+1</channel>
+    <channel lang="en" xmltv_id="PopPlus1.uk" site_id="4216">POP+1</channel>
+    <channel lang="en" xmltv_id="QVCBeautyUK.uk" site_id="4105">QVC Beauty</channel>
+    <channel lang="en" xmltv_id="QVCExtraUK.uk" site_id="3359">QVC Extra</channel>
+    <channel lang="en" xmltv_id="QVCStyleUK.uk" site_id="4410">QVC Style UK</channel>
+    <channel lang="en" xmltv_id="QVCUK.uk" site_id="5907">QVC</channel>
+    <channel lang="en" xmltv_id="QuestRedUK.uk" site_id="2410">Quest Red</channel>
+    <channel lang="en" xmltv_id="QuestRedUKPlus1.uk" site_id="4547">Quest Red UK +1</channel>
+    <channel lang="en" xmltv_id="QuestUK.uk" site_id="1128">Quest</channel>
+    <channel lang="en" xmltv_id="QuestUKPlus1.uk" site_id="3621">QUEST+1</channel>
+    <channel lang="en" xmltv_id="RTE2.ie" site_id="1252">RTÉ2</channel>
+    <channel lang="en" xmltv_id="RTE2Plus1.ie" site_id="1158">RTÉ2+1</channel>
+    <channel lang="en" xmltv_id="RTENews.ie" site_id="2804">RTÉ News</channel>
+    <channel lang="en" xmltv_id="RTEOne.ie" site_id="1251">RTÉ One</channel>
+    <channel lang="en" xmltv_id="RTEOnePlus1.ie" site_id="2808">RTÉ One+1</channel>
+    <channel lang="en" xmltv_id="RTEjr.ie" site_id="1256">RTÉjr</channel>
+    <channel lang="en" xmltv_id="RTUK.uk" site_id="3213">RT UK</channel>
+    <channel lang="en" xmltv_id="RealityXtra.uk" site_id="1232">RealityXtra</channel>
+    <channel lang="en" xmltv_id="Really.uk" site_id="2324">Really</channel>
+    <channel lang="en" xmltv_id="RokUK.uk" site_id="3542">ROK</channel>
+    <channel lang="en" xmltv_id="S4C.uk" site_id="5701">S4C</channel>
+    <channel lang="en" xmltv_id="STV.uk" site_id="6325">STV</channel>
+    <channel lang="en" xmltv_id="TBNUK.uk" site_id="3109">TBN UK</channel>
+    <channel lang="en" xmltv_id="TJC.uk" site_id="1033">TJC</channel>
+    <channel lang="en" xmltv_id="TalkTV.uk" site_id="1078">TalkTV HD</channel>
+    <channel lang="en" xmltv_id="TalkingPicturesTV.uk" site_id="5252">Talking Pictures TV</channel>
+    <channel lang="en" xmltv_id="TelevisionX.uk" site_id="4192">Television X</channel>
+    <channel lang="en" xmltv_id="TheBoxUK.uk" site_id="1802">The Box UK</channel>
+    <channel lang="en" xmltv_id="TinyPop.uk" site_id="3780">Tiny Pop</channel>
+    <channel lang="en" xmltv_id="TinyPopPlus1.uk" site_id="4261">Tiny Pop+1</channel>
+    <channel lang="en" xmltv_id="TogetherTV.uk" site_id="1872">Together TV</channel>
+    <channel lang="en" xmltv_id="TraceVault.uk" site_id="3935">Trace Vault</channel>
+    <channel lang="en" xmltv_id="Travelxp.in" site_id="1226">Travelxp</channel>
+    <channel lang="en" xmltv_id="UTV.uk" site_id="6230">UTV</channel>
+    <channel lang="en" xmltv_id="W.uk" site_id="2617">W</channel>
+    <channel lang="en" xmltv_id="WPlus1.uk" site_id="2616">W+1</channel>
+    <channel lang="en" xmltv_id="XpandedTV.uk" site_id="4191">Xpanded TV</channel>
+    <channel lang="en" xmltv_id="Yesterday.uk" site_id="2305">Yesterday</channel>
+    <channel lang="en" xmltv_id="YesterdayPlus1.uk" site_id="2615">Yesterday +1</channel>
+  </channels>
+</site>
