@@ -272,3 +272,5 @@ cython_debug/
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/skyepgparser.iml
 /.idea/vcs.xml
+!/sky.com.channels_orig.xml
+!/sky.com.channels_orig.xml
