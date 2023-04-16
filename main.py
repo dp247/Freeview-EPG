@@ -37,13 +37,10 @@ for channel in channels_data:
         epg_data = result['listings'][f'{channel[2][1]}']
         for item in epg_data:
             title = item['t']
-            desc = item['d']
+            desc = item['d'] if hasattr(item, 'd') else None
             start = int(item['s'])
             end = int(item['s']) + int(item['m'][1])
-            if hasattr(item, "image"):
-                icon = f"http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/{item['image']}"
-            else:
-                icon = None
+            icon = f"http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/{item['image']}" if hasattr(item, 'image') else None
             ch_name = channel[1][1]
 
             programs.append({
