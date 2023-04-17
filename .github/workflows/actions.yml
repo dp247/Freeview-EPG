@@ -13,7 +13,7 @@ jobs:
         
       - name: pull changes
         run: |
-          git pull master
+          git pull
 
       - name: Set up Python
         uses: actions/setup-python@v3
