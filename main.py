@@ -4,15 +4,23 @@ import json
 import requests
 import pytz
 
-def get_days() -> list[int]:
+bt_dt_format = '%Y-%m-%dT%H:%M:%SZ'
+
+def get_days(src: str) -> list:
     """
 Generate epoch times for now, midnight tomorrow, and midnight the next day
-    :return: List of epoch times
+    :return: List of times, either in epoch (for Sky) or str (for BT)
     """
-    now = int(datetime.timestamp(datetime.now()))
-    day_1 = int(datetime.timestamp(datetime.combine(datetime.now(), time(0, 0)) + timedelta(1)))
-    day_2 = int(datetime.timestamp(datetime.combine(datetime.now(), time(0, 0)) + timedelta(2)))
-    return [now, day_1, day_2]
+    if src == "sky":
+        now = int(datetime.timestamp(datetime.now()))
+        day_1 = int(datetime.timestamp(datetime.combine(datetime.now(), time(0, 0)) + timedelta(1)))
+        day_2 = int(datetime.timestamp(datetime.combine(datetime.now(), time(0, 0)) + timedelta(2)))
+        return [now, day_1, day_2]
+
+    if src == "bt":
+        now = datetime.now()
+        day_1 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(1))
+        return [now, day_1]
 
 def get_channels_data() -> list:
     """
@@ -43,14 +51,14 @@ Make the channels and programmes into something readable by XMLTV
     tz = pytz.timezone('Europe/London')
 
     data = etree.Element("tv")
-    data.set("generator-info-name", "sky-epg-parser")
+    data.set("generator-info-name", "freeview-epg")
     data.set("generator-info-url", "https://github.com/dp247/Freeview-EPG")
     for ch in channels:
         channel = etree.SubElement(data, "channel")
-        channel.set("id", ch[1][1])
+        channel.set("id", ch[2][1])
         name = etree.SubElement(channel, "display-name")
         name.set("lang", "en")
-        name.text = ch[3][1]
+        name.text = ch[4][1]
 
     for pr in programmes:
         programme = etree.SubElement(data, 'programme')
@@ -81,32 +89,64 @@ channels_data = get_channels_data()
 
 programme_data = []
 for channel in channels_data:
-    print(channel[1][1])
-    # Get some epoch times - right now, 12am tomorrow and 12am the day after tomorrow (so 48h)
-    epoch_times = get_days()
-    for epoch in epoch_times:
-        url = f"https://epgservices.sky.com/5.2.2/api/2.0/channel/json/{channel[2][1]}/{epoch}/86400/4"
-        req = requests.get(url)
-        if req.status_code != 200:
-            continue
-        result = json.loads(req.text)
-        epg_data = result['listings'][f'{channel[2][1]}']
-        for item in epg_data:
-            title = item['t']
-            desc = item['d'] if 'd' in item else None
-            start = int(item['s'])
-            end = int(item['s']) + int(item['m'][1])
-            icon = f"http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/{item['img']}" if 'img' in item else None
-            ch_name = channel[1][1]
+    print(channel[2][1])
+    # If EPG is to be sourced from Sky:
+    if channel[0][1] == "sky":
+        # Get some epoch times - right now, 12am tomorrow and 12am the day after tomorrow (so 48h)
+        epoch_times = get_days(channel[0][1])
+        for epoch in epoch_times:
+            url = f"https://epgservices.sky.com/5.2.2/api/2.0/channel/json/{channel[3][1]}/{epoch}/86400/4"
+            req = requests.get(url)
+            if req.status_code != 200:
+                continue
+            result = json.loads(req.text)
+            epg_data = result['listings'][f'{channel[3][1]}']
+            for item in epg_data:
+                title = item['t']
+                desc = item['d'] if 'd' in item else None
+                start = int(item['s'])
+                end = int(item['s']) + int(item['m'][1])
+                icon = f"http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/{item['img']}" if 'img' in item else None
+                ch_name = channel[2][1]
 
-            programme_data.append({
-                "title": title,
-                "description": desc,
-                "start": start,
-                "stop": end,
-                "icon": icon,
-                "channel": ch_name
-            })
+                programme_data.append({
+                    "title": title,
+                    "description": desc,
+                    "start": start,
+                    "stop": end,
+                    "icon": icon,
+                    "channel": ch_name
+                })
+
+    # If EPG is from BT TV:
+    if channel[0][1] == "bt":
+        times = get_days(channel[0][1])
+        for t in times:
+            url = f'https://voila.metabroadcast.com/4/schedules/{channel[3][1]}.json?key=b4d2edb68da14dfb9e47b5465e99b1b1&from={t.strftime(bt_dt_format)}&to={(datetime.combine(t, time(0, 0)) + timedelta(1)).strftime(bt_dt_format)}&source=api.youview.tv&annotations=content.description'
+            req = requests.get(url)
+            if req.status_code != 200:
+                continue
+            result = json.loads(req.text)
+            epg_data = []
+            for x in result['schedule']['entries']:
+                broadcast_info = x.get('broadcast')
+                prog_info = x.get('item')
+
+                title = x.get('item').get('display_title').get('title').strip()
+                desc = x.get('item').get('description').strip()
+                start = int(datetime.strptime(x.get('broadcast').get('transmission_time'), "%Y-%m-%dT%H:%M:%S.000Z").timestamp())
+                end = int(datetime.strptime(x.get('broadcast').get('transmission_end_time'), "%Y-%m-%dT%H:%M:%S.000Z").timestamp())
+                icon = x.get('item').get('image')
+                ch_name = channel[2][1]
+
+                programme_data.append({
+                    "title": title,
+                    "description": desc,
+                    "start": start,
+                    "stop": end,
+                    "icon": icon,
+                    "channel": ch_name
+                })
 
 channel_xml = build_xmltv(channels_data, programme_data)
 
