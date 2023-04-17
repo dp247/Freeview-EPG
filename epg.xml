@@ -544,6 +544,10 @@
     <title lang="en">UK Music Video Chart Top 30</title>
     <desc lang="en">We've teamed up with YouTube to compile a chart of the 30 most watched videos!</desc>
   </programme>
+  <programme channel="4Music.uk" start="20230418120000" stop="20230418135500">
+    <title lang="en">Massive Chart Hits</title>
+    <desc lang="en">Get ready for this non-stop mix of massive chart hits!</desc>
+  </programme>
   <programme channel="4Music.uk" start="20230418000000" stop="20230418060000">
     <title lang="en">All The Hits, All Night</title>
     <desc lang="en">Non-stop hits to see you all the way through the night!</desc>
@@ -1672,10 +1676,6 @@
     <title lang="en">Walking Wartime Britain</title>
     <desc lang="en">Arthur's journey ends in South Wales, the industrial heartland of wartime Britain, where he learns about barrage balloons that protected the docks and the story of the Bevin Boys. (S1 Ep 6)</desc>
   </programme>
-  <programme channel="5Star.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Nightmare Tenants, Slum Landlords</title>
-    <desc lang="en">London landlord investigates after her property is mired in a series of sub-contracting agreements; letting agents in Wigan struggle with a destructive tenant. (S6 Ep 6)</desc>
-  </programme>
   <programme channel="5Star.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Traffic Cops</title>
     <desc lang="en">A surge in drink driving and a spate of van thefts means it's going to be a busy 24 hours on the roads for Derbyshire's Traffic Cops. (S9 Ep 13)</desc>
@@ -1779,6 +1779,10 @@
   <programme channel="5Star.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Nightmare Tenants, Slum Landlords</title>
     <desc lang="en">A single mother of three has been living with rats, bed bugs and damp. Her landlord believes the problem comes from upstairs, but the landlord upstairs is not allowing them access. (S6 Ep 7)</desc>
+  </programme>
+  <programme channel="5Star.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Traffic Cops</title>
+    <desc lang="en">Jamie Theakston follows the work of Derbyshire Constabulary. PC Chris chases a suspected cloned SUV and is led along bridal and cycle paths, reaching speeds of 90mph. (S7 Ep 15)</desc>
   </programme>
   <programme channel="5Star.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Skin A&amp;E</title>
@@ -1996,10 +2000,6 @@
     <title lang="en">Night Hunter</title>
     <desc lang="en">Action thriller with Henry Cavill. A lieutenant, his police force and a vigilante all get caught up in a dangerous scheme that involves a troubled man who recently got arrested. (2019)</desc>
   </programme>
-  <programme channel="5StarPlus1.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Shoplifters &amp; Scammers:..</title>
-    <desc lang="en">The chase is on for a man suspected of stealing vitamin pills from a store where he's already banned.</desc>
-  </programme>
   <programme channel="5StarPlus1.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Nightmare Tenants, Slum Landlords</title>
     <desc lang="en">London landlord investigates after her property is mired in a series of sub-contracting agreements; letting agents in Wigan struggle with a destructive tenant. (S6 Ep 6)</desc>
@@ -2103,6 +2103,10 @@
   <programme channel="5StarPlus1.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Shoplifters &amp; Scammers: At War with the Law</title>
     <desc lang="en">Lee is a master pickpocket, but he uses his skills on stage to entertain. Today, he's showing us why we should all take care when taking money from a cash machine.</desc>
+  </programme>
+  <programme channel="5StarPlus1.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Nightmare Tenants, Slum Landlords</title>
+    <desc lang="en">A single mother of three has been living with rats, bed bugs and damp. Her landlord believes the problem comes from upstairs, but the landlord upstairs is not allowing them access. (S6 Ep 7)</desc>
   </programme>
   <programme channel="5StarPlus1.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">A&amp;E After Dark</title>
@@ -2316,10 +2320,6 @@
     <title lang="en">Night Hunter</title>
     <desc lang="en">Action thriller with Henry Cavill. A lieutenant, his police force and a vigilante all get caught up in a dangerous scheme that involves a troubled man who recently got arrested. (2019)</desc>
   </programme>
-  <programme channel="5USA.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">NCIS</title>
-    <desc lang="en">Engaged, Part 1: US naval drama series. While investigating the crash of a military plane that was transporting caskets, the NCIS team discovers a discrepancy with the DNA remains. (S9 Ep 8)</desc>
-  </programme>
   <programme channel="5USA.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Law &amp; Order</title>
     <desc lang="en">Crime drama series. Ross sets about proving that a known bully is responsible for a girl's suicide. (S7 Ep 11)</desc>
@@ -2411,6 +2411,10 @@
   <programme channel="5USA.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">NCIS</title>
     <desc lang="en">Newborn King: US crime drama. After a Navy captain is murdered in his hotel room, the NCIS team has to find his pregnant companion and protect her from unknown assailants. (S9 Ep 11)</desc>
+  </programme>
+  <programme channel="5USA.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Law &amp; Order</title>
+    <desc lang="en">Drama series about law enforcement. A working mother is accused of prostitution and murder. (S7 Ep 14)</desc>
   </programme>
   <programme channel="5USA.uk" start="20230418005500" stop="20230418015000">
     <title lang="en">Law &amp; Order: Special Victims Unit</title>
@@ -2604,10 +2608,6 @@
     <title lang="en">Law &amp; Order: Special Victims Unit</title>
     <desc lang="en">Police drama series about an elite sex crime unit based in New York. A girl goes missing when an online game gets out of hand. (S9 Ep 2)</desc>
   </programme>
-  <programme channel="5USAPlus1.uk" start="20230417115500" stop="20230417120000">
-    <title lang="en">Entertainment News on 5</title>
-    <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
-  </programme>
   <programme channel="5USAPlus1.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">NCIS</title>
     <desc lang="en">Engaged, Part 1: US naval drama series. While investigating the crash of a military plane that was transporting caskets, the NCIS team discovers a discrepancy with the DNA remains. (S9 Ep 8)</desc>
@@ -2699,6 +2699,10 @@
   <programme channel="5USAPlus1.uk" start="20230418115500" stop="20230418120000">
     <title lang="en">Entertainment News on 5</title>
     <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
+  </programme>
+  <programme channel="5USAPlus1.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">NCIS</title>
+    <desc lang="en">Newborn King: US crime drama. After a Navy captain is murdered in his hotel room, the NCIS team has to find his pregnant companion and protect her from unknown assailants. (S9 Ep 11)</desc>
   </programme>
   <programme channel="5USAPlus1.uk" start="20230418005500" stop="20230418015500">
     <title lang="en">Law &amp; Order: Special Victims Unit</title>
@@ -2892,10 +2896,6 @@
     <title lang="en">Law &amp; Order: Special Victims Unit</title>
     <desc lang="en">Police drama series about a NYPD sex crime unit. A culture clash with an uncooperative orthodox Jewish order muddies the investigation of the rape of a schoolboy. (S9 Ep 13)</desc>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20230417110000" stop="20230417120000">
-    <title lang="en">Newshour</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-  </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20230417120000" stop="20230417123000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
@@ -3050,6 +3050,10 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20230418110000" stop="20230418120000">
     <title lang="en">Newshour</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  </programme>
+  <programme channel="AlJazeeraEnglish.qa" start="20230418120000" stop="20230418123000">
+    <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20230418010000" stop="20230418013000">
@@ -3372,10 +3376,6 @@
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
   </programme>
-  <programme channel="Alibi.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Person of Interest</title>
-    <desc lang="en">New. Pretenders: Reese meets his biggest fan when an unassuming office worker pretending to be a detective stumbles into a dangerous conspiracy. S4 Ep6</desc>
-  </programme>
   <programme channel="Alibi.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Miss Fisher's Murder Mysteries</title>
     <desc lang="en">Death Do Us Part: Essie Davis is the flapper detective in 1920s Melbourne. Phryne races to save her father from a vengeful killer. S3 Ep8</desc>
@@ -3467,6 +3467,10 @@
   <programme channel="Alibi.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Person of Interest</title>
     <desc lang="en">New. Honour Among Thieves: Shaw joins a gang of international thieves to keep tabs on the latest target, but is put in danger of being detected by Samaritan. S4 Ep7</desc>
+  </programme>
+  <programme channel="Alibi.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">The Coroner</title>
+    <desc lang="en">First Love: The gripping crime drama following a coroner at work in a seaside town. A teenager is found dead at the foot of a tower. Jane Kennedy suspects it was not suicide. S1 Ep1</desc>
   </programme>
   <programme channel="Alibi.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Miss Fisher's Murder Mysteries</title>
@@ -3660,10 +3664,6 @@
     <title lang="en">The Doctor Blake Mysteries</title>
     <desc lang="en">The Price of Love: A soldier is killed on a training exercise and during the investigation, Blake meets the new base commander, his old nemesis Major Derek Alderton. S4 Ep5</desc>
   </programme>
-  <programme channel="AlibiPlus1.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Rizzoli &amp; Isles</title>
-    <desc lang="en">Class Action Satisfaction: Angie Harmon and Sasha Alexander star in the hit US mystery series. Jane and Maura investigate when a man dies after eating food in their cafeteria. S3 Ep11</desc>
-  </programme>
   <programme channel="AlibiPlus1.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Person of Interest</title>
     <desc lang="en">New. Pretenders: Reese meets his biggest fan when an unassuming office worker pretending to be a detective stumbles into a dangerous conspiracy. S4 Ep6</desc>
@@ -3755,6 +3755,10 @@
   <programme channel="AlibiPlus1.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Rizzoli &amp; Isles</title>
     <desc lang="en">Love the Way You Lie: Angie Harmon and Sasha Alexander are the detective duo in the hit US crime drama. Jane and Maura investigate a suspicious suicide. S3 Ep12</desc>
+  </programme>
+  <programme channel="AlibiPlus1.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Person of Interest</title>
+    <desc lang="en">New. Honour Among Thieves: Shaw joins a gang of international thieves to keep tabs on the latest target, but is put in danger of being detected by Samaritan. S4 Ep7</desc>
   </programme>
   <programme channel="AlibiPlus1.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">The Doctor Blake Mysteries</title>
@@ -3948,10 +3952,6 @@
     <title lang="en">The Coroner</title>
     <desc lang="en">How to Catch a Lobster: Claire Goose stars in the gripping drama about a coroner at work in a seaside town. When a body washes up on the shore, Jane suspects a sea burial. S1 Ep2</desc>
   </programme>
-  <programme channel="AnimalPlanetUK.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Dr. Jeff: Rocky Mountain Vet</title>
-    <desc lang="en">Gator Tale. An adventurous puppy falls off a trampoline, can Dr. Jeff and Petra mend its broken leg? Meanwhile, Susan takes care of a litter of kittens and their mum. S6, Ep2</desc>
-  </programme>
   <programme channel="AnimalPlanetUK.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Extinct Or Alive</title>
     <desc lang="en">Southern Rocky Mountain Wolf. The Southern Rocky mountain wolf hasn't been seen since the '40s, but cattle attacks suggest it exists. Forrest treks into the Sierras to find out. S2, Ep8</desc>
@@ -4059,6 +4059,10 @@
   <programme channel="AnimalPlanetUK.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Dr. Jeff: Rocky Mountain Vet</title>
     <desc lang="en">Petra's Pigs. Tigger the cat is monitored closely for unusual eating habits. Plus, Dr. Jeff cautions an owner of the perils of buying online when she brings in her unwell puppy. S6, Ep3</desc>
+  </programme>
+  <programme channel="AnimalPlanetUK.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Extinct Or Alive</title>
+    <desc lang="en">The Dracula Monkey Of Borneo. In Indonesia, Forrest seeks the Millers Grizzled Langur, or Dracula monkey. When he hears of an illegal pet market, his search becomes a rescue mission. S2, Ep9</desc>
   </programme>
   <programme channel="AnimalPlanetUK.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Alaska: The Last Frontier</title>
@@ -4288,10 +4292,6 @@
     <title lang="en">Alaska: The Last Frontier</title>
     <desc lang="en">Earning Seven. Grammy award winner Jewel flies in with her son, to visit Atz Sr on the Yuletide to celebrate his birthday. Atz helps his grandson in three tasks as a rite of passage. S8, Ep9</desc>
   </programme>
-  <programme channel="AnimalPlanetUKPlus1.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Saved By The Barn</title>
-    <desc lang="en">Cockfight Club. Dan travels to Chicago to give cockfighting roosters a second chance. Meanwhile, the crew worry whether an unruly cow will be welcomed by the rest of the herd. S1, Ep4</desc>
-  </programme>
   <programme channel="AnimalPlanetUKPlus1.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Dr. Jeff: Rocky Mountain Vet</title>
     <desc lang="en">Gator Tale. An adventurous puppy falls off a trampoline, can Dr. Jeff and Petra mend its broken leg? Meanwhile, Susan takes care of a litter of kittens and their mum. S6, Ep2</desc>
@@ -4399,6 +4399,10 @@
   <programme channel="AnimalPlanetUKPlus1.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Saved By The Barn</title>
     <desc lang="en">Working At The Cow Wash. As summer arrives, the team host a car wash to raise money for cows and donkeys. Meanwhile, Dan goes on a covert mission to save an injured goat. S1, Ep5</desc>
+  </programme>
+  <programme channel="AnimalPlanetUKPlus1.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Dr. Jeff: Rocky Mountain Vet</title>
+    <desc lang="en">Petra's Pigs. Tigger the cat is monitored closely for unusual eating habits. Plus, Dr. Jeff cautions an owner of the perils of buying online when she brings in her unwell puppy. S6, Ep3</desc>
   </programme>
   <programme channel="AnimalPlanetUKPlus1.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Crikey! It's the Irwins</title>
@@ -4628,10 +4632,6 @@
     <title lang="en">The Aquarium</title>
     <desc lang="en">Maggie The Magnificent. Technology from California is brought to the aquarium to monitor beluga whale activity. And, a sea star undergoes a check-up after suspicious growths form. S2, Ep6</desc>
   </programme>
-  <programme channel="ArirangWorld.kr" start="20230417110000" stop="20230417120000">
-    <title lang="en">Gugak The Music Of Korea</title>
-    <desc lang="en">Professional traditional music companies perform high quality gugak performances, which are vividly captured and conveyed through this series.</desc>
-  </programme>
   <programme channel="ArirangWorld.kr" start="20230417120000" stop="20230417123000">
     <title lang="en">Diplomat Talks</title>
     <desc lang="en">Sharing never-before-told stories from ambassadors with viewers around the world.</desc>
@@ -4819,6 +4819,10 @@
   <programme channel="ArirangWorld.kr" start="20230418110000" stop="20230418120000">
     <title lang="en">After School Club</title>
     <desc lang="en">A live music request show for K-Pop fans all around the world.</desc>
+  </programme>
+  <programme channel="ArirangWorld.kr" start="20230418120000" stop="20230418123000">
+    <title lang="en">Peace &amp; Prosperity</title>
+    <desc lang="en">Following three inter-Korean summits and two North Korea-U.S. summits, a journey towards peace on the Korean Peninsula has become irreversible.</desc>
   </programme>
   <programme channel="ArirangWorld.kr" start="20230418010000" stop="20230418013000">
     <title lang="en">New Day at Arirang</title>
@@ -5638,10 +5642,6 @@
     <title lang="en">The Joy of Winning</title>
     <desc lang="en">Mathematician Dr Hannah Fry presents a guide to the science of success, featuring strategies to increase the probability of winning. Also in HD. [S]</desc>
   </programme>
-  <programme channel="BBCNews.uk" start="20230417114500" stop="20230417120000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC. [S]</desc>
-  </programme>
   <programme channel="BBCNews.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC. [S]</desc>
@@ -5823,6 +5823,10 @@
     <desc lang="en">The latest business news with informed analysis from the world's financial centres. [S]</desc>
   </programme>
   <programme channel="BBCNews.uk" start="20230418114500" stop="20230418120000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC. [S]</desc>
+  </programme>
+  <programme channel="BBCNews.uk" start="20230418120000" stop="20230418123000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC. [S]</desc>
   </programme>
@@ -6554,10 +6558,6 @@
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news. [S] [HD]</desc>
   </programme>
-  <programme channel="BBCParliament.uk" start="20230417114500" stop="20230417120000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-  </programme>
   <programme channel="BBCParliament.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
@@ -6914,10 +6914,6 @@
     <title lang="en">Super League Show 2023</title>
     <desc lang="en">Damian Johnson presents highlights, including Warrington v Wigan. Warrington have made a flying start to the season, but face a test of their title credentials against Wigan's talented squad.</desc>
   </programme>
-  <programme channel="BBCScotland.uk" start="20230417060000" stop="20230417120000">
-    <title lang="en">This is BBC Scotland</title>
-    <desc lang="en">Highlights from the BBC Scotland channel.</desc>
-  </programme>
   <programme channel="BBCScotland.uk" start="20230417120000" stop="20230417140000">
     <title lang="en">This is BBC Scotland</title>
     <desc lang="en">Highlights from the BBC Scotland channel.</desc>
@@ -6979,6 +6975,10 @@
     <desc lang="en">Highlights from the BBC Scotland channel.</desc>
   </programme>
   <programme channel="BBCScotland.uk" start="20230418060000" stop="20230418120000">
+    <title lang="en">This is BBC Scotland</title>
+    <desc lang="en">Highlights from the BBC Scotland channel.</desc>
+  </programme>
+  <programme channel="BBCScotland.uk" start="20230418120000" stop="20230418180000">
     <title lang="en">This is BBC Scotland</title>
     <desc lang="en">Highlights from the BBC Scotland channel.</desc>
   </programme>
@@ -8861,10 +8861,6 @@
   <programme channel="CBBC.uk" start="20230420005800" stop="20230420052959">
     <title lang="en">.programmes start at 7.00am</title>
   </programme>
-  <programme channel="CBSDramaUK.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Matlock</title>
-    <desc lang="en">Matlock relates the old story of an investigation into a widow who may have been a murderer. S6, Ep6</desc>
-  </programme>
   <programme channel="CBSDramaUK.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">The Fugitive</title>
     <desc lang="en">Kimble calls on Dr. McAllister, a former mentor, but does not realise that his friend is both physically and mentally ill. S3, Ep16</desc>
@@ -9012,6 +9008,10 @@
   <programme channel="CBSDramaUK.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Matlock</title>
     <desc lang="en">Matlock represents a rich widow who is charged with the murder of her husband. S6, Ep7</desc>
+  </programme>
+  <programme channel="CBSDramaUK.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">The Fugitive</title>
+    <desc lang="en">When a sharp-eyed reporter spots a one-armed man in a police roundup of suspicious characters, she suggests in print that he might be connected to the Kimble case. S3, Ep17</desc>
   </programme>
   <programme channel="CBSDramaUK.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Matlock</title>
@@ -9313,10 +9313,6 @@
     <title lang="en">Matlock</title>
     <desc lang="en">Matlock represents a rich widow who is charged with the murder of her husband. S6, Ep8</desc>
   </programme>
-  <programme channel="CBSRealityUK.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">Judge Judy</title>
-    <desc lang="en">A man claims the return to his wife caused his ex to sue for damages for emotional distress.</desc>
-  </programme>
   <programme channel="CBSRealityUK.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">Judge Judy</title>
     <desc lang="en">Child pornography and a scam to cheat a landlord out of rent come into play when disgruntled tenants sue for damages.</desc>
@@ -9484,6 +9480,10 @@
   <programme channel="CBSRealityUK.uk" start="20230418113000" stop="20230418120000">
     <title lang="en">Judge Judy</title>
     <desc lang="en">A slapped teenager, an allegedly 'marijuana-smoking' father and a mother upset over stolen property leave a dysfunctional family feuding over money.</desc>
+  </programme>
+  <programme channel="CBSRealityUK.uk" start="20230418120000" stop="20230418123000">
+    <title lang="en">Judge Judy</title>
+    <desc lang="en">A drunk driver denies stealing but admits to crashing a minivan belonging to the mother of his children.</desc>
   </programme>
   <programme channel="CBSRealityUK.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Murder By The Sea</title>
@@ -9841,10 +9841,6 @@
     <title lang="en">Murder By The Sea</title>
     <desc lang="en">The discovery of the body of a lighthouse keeper on the Scottish island of Little Ross in 1960 prompts a massive man hunt for his killer, assistant lighthouse keeper Robert Dickson.</desc>
   </programme>
-  <programme channel="CBSRealityUKPlus1.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">Judge Judy</title>
-    <desc lang="en">A ménage a trios with a married couple leads to an unexpected pregnancy, allegations of stalking, and harassment charges. S12, Ep94</desc>
-  </programme>
   <programme channel="CBSRealityUKPlus1.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">Judge Judy</title>
     <desc lang="en">An emotional pre-school teacher breaks down after being accused of stealing money from her cousin. S11, Ep155</desc>
@@ -10012,6 +10008,10 @@
   <programme channel="CBSRealityUKPlus1.uk" start="20230418113000" stop="20230418120000">
     <title lang="en">Judge Judy</title>
     <desc lang="en">Bigamy committed on Valentine's Day, unpaid wedding expenses, and the death of a pet come into play when divorcees fight over money. S12, Ep100</desc>
+  </programme>
+  <programme channel="CBSRealityUKPlus1.uk" start="20230418120000" stop="20230418123000">
+    <title lang="en">Judge Judy</title>
+    <desc lang="en">Welfare money used to bail a lover out of jail is allegedly stolen before reaching its final destination. S11, Ep159</desc>
   </programme>
   <programme channel="CBSRealityUKPlus1.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Murder She Solved</title>
@@ -10369,10 +10369,6 @@
     <title lang="en">Murder She Solved</title>
     <desc lang="en">A popular teenager is murdered on the grounds of an elementary school. Her ruthless killer gets away. S2, Ep2</desc>
   </programme>
-  <programme channel="CBeebies.uk" start="20230417114500" stop="20230417120000">
-    <title lang="en">Get Well Soon</title>
-    <desc lang="en">Head Over Heels. Programme for young children exploring medical conditions. Nurse Morag makes sure the Healthy Helpers wear helmets for their big egg race. Also in HD. [S]</desc>
-  </programme>
   <programme channel="CBeebies.uk" start="20230417120000" stop="20230417121000">
     <title lang="en">My World Kitchen</title>
     <desc lang="en">Izaac's Lancashire Chorley Cakes. Izaac is baking Chorley cakes, a fruity recipe that comes from Lancashire. Also in HD. [S]</desc>
@@ -10674,6 +10670,10 @@
   <programme channel="CBeebies.uk" start="20230418114500" stop="20230418120000">
     <title lang="en">Get Well Soon</title>
     <desc lang="en">The Gappy Smile. Programme for young children exploring medical conditions. Riz is happy when Dr Ranj tells him his missing tooth will soon be replaced by a grown-up one. Also in HD. [S]</desc>
+  </programme>
+  <programme channel="CBeebies.uk" start="20230418120000" stop="20230418121000">
+    <title lang="en">My World Kitchen</title>
+    <desc lang="en">Aniyah's Brazilian Feijoada. Aniyah serves feijoada - a Brazilian stew containing black beans. Also in HD. [S]</desc>
   </programme>
   <programme channel="CBeebies.uk" start="20230418005800" stop="20230418052959">
     <title lang="en">..programmes start at 6.00am</title>
@@ -11289,10 +11289,6 @@
   <programme channel="CBeebies.uk" start="20230420005800" stop="20230420052959">
     <title lang="en">..programmes start at 6.00am</title>
   </programme>
-  <programme channel="CITV.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">Thunderbirds Are Go</title>
-    <desc lang="en">Extraction: When a father and son are trapped underground in a collapsed mining operation, Gordon must attempt a rescue while Virgil tries to shut the rig down. S1 Ep19</desc>
-  </programme>
   <programme channel="CITV.uk" start="20230417120000" stop="20230417121500">
     <title lang="en">Detention Adventure</title>
     <desc lang="en">History Repeating: After an epic prank rocks Alexander Graham Bell Middle School, Raign, Brett, Joy and Hulk end up in detention where the true prankster comes clean. S2 Ep1</desc>
@@ -11494,6 +11490,10 @@
   <programme channel="CITV.uk" start="20230418113000" stop="20230418120000">
     <title lang="en">Thunderbirds Are Go</title>
     <desc lang="en">The Hexpert: A scientist accidentally locks herself inside a vault storing unstable matter. Parker has broken into one like this before and attempts to free her. S1 Ep20</desc>
+  </programme>
+  <programme channel="CITV.uk" start="20230418120000" stop="20230418121500">
+    <title lang="en">Detention Adventure</title>
+    <desc lang="en">Old Roads: The detention team follow their clue to a haunted church. S2 Ep3</desc>
   </programme>
   <programme channel="CITV.uk" start="20230417210000" stop="20230418030000">
     <title lang="en">..programmes start at 6.00am</title>
@@ -11897,10 +11897,6 @@
   <programme channel="CITV.uk" start="20230419210000" stop="20230420030000">
     <title lang="en">..programmes start at 6.00am</title>
   </programme>
-  <programme channel="CNBCEurope.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">US Squawk Box</title>
-    <desc lang="en">Anchored by Joe Kernen, Becky Quick and Andrew Ross Sorkin, the show brings Wall Street to Main Street.</desc>
-  </programme>
   <programme channel="CNBCEurope.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">US Squawk Box</title>
     <desc lang="en">Anchored by Joe Kernen, Becky Quick and Andrew Ross Sorkin, the show brings Wall Street to Main Street.</desc>
@@ -12062,6 +12058,10 @@
     <desc lang="en">Anchored by Joe Kernen, Becky Quick and Andrew Ross Sorkin, the show brings Wall Street to Main Street.</desc>
   </programme>
   <programme channel="CNBCEurope.uk" start="20230418113000" stop="20230418120000">
+    <title lang="en">US Squawk Box</title>
+    <desc lang="en">Anchored by Joe Kernen, Becky Quick and Andrew Ross Sorkin, the show brings Wall Street to Main Street.</desc>
+  </programme>
+  <programme channel="CNBCEurope.uk" start="20230418120000" stop="20230418123000">
     <title lang="en">US Squawk Box</title>
     <desc lang="en">Anchored by Joe Kernen, Becky Quick and Andrew Ross Sorkin, the show brings Wall Street to Main Street.</desc>
   </programme>
@@ -12401,10 +12401,6 @@
     <title lang="en">Asia Squawk Box</title>
     <desc lang="en">Squawk Box is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and opening of Asia's business trading day.</desc>
   </programme>
-  <programme channel="Challenge.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">Supermarket Sweep</title>
-    <desc lang="en">Dale Winton hosts this supermarket-based favourite. The next time you're at the checkout counter and you hear the beep...</desc>
-  </programme>
   <programme channel="Challenge.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">Wheel Of Fortune</title>
     <desc lang="en">Nicky Campbell hosts the word puzzle game show with glamorous assistant Angela Ekaette. Contestants spin the wheel to determine how many points are up for grabs.</desc>
@@ -12528,6 +12524,10 @@
   <programme channel="Challenge.uk" start="20230418113000" stop="20230418120000">
     <title lang="en">Supermarket Sweep</title>
     <desc lang="en">Dale Winton hosts this supermarket-based favourite. The next time you're at the checkout counter and you hear the beep...</desc>
+  </programme>
+  <programme channel="Challenge.uk" start="20230418120000" stop="20230418123000">
+    <title lang="en">Wheel Of Fortune</title>
+    <desc lang="en">Nicky Campbell hosts the word puzzle game show with glamorous assistant Angela Ekaette. Contestants spin the wheel to determine how many points are up for grabs.</desc>
   </programme>
   <programme channel="Challenge.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">The Chase</title>
@@ -12785,10 +12785,6 @@
     <title lang="en">The Chase</title>
     <desc lang="en">Bradley Walsh hosts the game show that asks contestants to complete a series of general knowledge questions faster than The Chaser, a brainbox of the highest order. (S8, ep 122)</desc>
   </programme>
-  <programme channel="Channel4.uk" start="20230417115500" stop="20230417120000">
-    <title lang="en">Channel 4 News Summary</title>
-    <desc lang="en">Channel 4's midday news summary.</desc>
-  </programme>
   <programme channel="Channel4.uk" start="20230417120000" stop="20230417141000">
     <title lang="en">Live: Steph's Packed Lunch</title>
     <desc lang="en">Steph's joined by bestselling author Cecelia Ahern and Max George, who tells us about taking part in the new reality show, Scared of the Dark. Plus: the latest consumer news and advice.</desc>
@@ -12912,6 +12908,10 @@
   <programme channel="Channel4.uk" start="20230418115500" stop="20230418120000">
     <title lang="en">Channel 4 News Summary</title>
     <desc lang="en">Channel 4's midday news summary.</desc>
+  </programme>
+  <programme channel="Channel4.uk" start="20230418120000" stop="20230418141000">
+    <title lang="en">Live: Steph's Packed Lunch</title>
+    <desc lang="en">Steph McGovern presents her live lunchtime show featuring celebrity guests, fantastic food and the best entertainment, lifestyle and consumer stories making the headlines.</desc>
   </programme>
   <programme channel="Channel4.uk" start="20230418010000" stop="20230418015000">
     <title lang="en">Ramsay's Kitchen Nightmares USA</title>
@@ -14801,10 +14801,6 @@
     <title lang="en">Crave The Rave!</title>
     <desc lang="en">Taking you back to the old skool. The early 90s is where it's at. Rave anthems and warehouse bangers! Crave the rave.</desc>
   </programme>
-  <programme channel="CraftExtra.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">LIVE! Stamps By Me Oxford Blue</title>
-    <desc lang="en">Spring World Launch Pick Of The Week. Tune in for a Birthday Special with Stamps By Me, and the new Oxford Blue Collection - including paper pads, stamps and stencils!</desc>
-  </programme>
   <programme channel="CraftExtra.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Celebrate with John Next Door</title>
     <desc lang="en">One Day Special: Join John Lockwood for an amazing show! Celebrate Create &amp; Craft's 20th Birthday with new products from John Next Door, such as the Magazine Box Kit 8 Spring Edition and Die Sets.</desc>
@@ -14900,6 +14896,10 @@
   <programme channel="CraftExtra.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">LIVE! IMALA Birthday Takeover</title>
     <desc lang="en">Join Carly Duff with all things IMALA in our Birthday Event, with their stamps all at amazing prices, don't miss out on grabbing a great bargain!</desc>
+  </programme>
+  <programme channel="CraftExtra.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Celebrate with LaBlanche</title>
+    <desc lang="en">One Day Special: Join Blanche for our 20th Birthday celebration! Don't miss out as Blanche shows you a huge array of creative projects!</desc>
   </programme>
   <programme channel="CraftExtra.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Celebrate with LaBlanche</title>
@@ -15101,10 +15101,6 @@
     <title lang="en">Celebrate with Stamperia's New</title>
     <desc lang="en">Collection One Day Special! Leonie Pujol is here with Stamperia's brand new collection, be sure to tune in to our 20th Birthday celebrations and get your hands on this exciting new collection!</desc>
   </programme>
-  <programme channel="CreateandCraft.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Spellbinders Floral Friendship</title>
-    <desc lang="en">Birthday Launch: Dawn Bibby is here for a special show with Spellbinders and the new Floral Friendship Collection! Tune in to see gorgeous die cuts, chipboard, gemstones and much more!</desc>
-  </programme>
   <programme channel="CreateandCraft.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Celebrate with Katy Sue &amp; Kanban</title>
     <desc lang="en">Flower Patch Card Making: Join Dawn for a fantastic show by Katy Sue and Kanban! Expect a fabulous range of card making kits, die cuts, frames and so many other wonderful products! Be sure to tune in!</desc>
@@ -15200,6 +15196,10 @@
   <programme channel="CreateandCraft.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Lisa Horton Crafts Birthday Bonanza</title>
     <desc lang="en">Peacocks, Butterfly Rose Frame &amp; Hummingbirds! Lisa Horton will be showcasing her new layering sets along with new essential dies for our 20th Birthday!</desc>
+  </programme>
+  <programme channel="CreateandCraft.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Join Us for an Hour</title>
+    <desc lang="en">Join us for an hour of crafts, hobbies and arts. Call us on 01733 60 2000.</desc>
   </programme>
   <programme channel="CreateandCraft.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Pink Frog Tips &amp; Techniques</title>
@@ -15401,10 +15401,6 @@
     <title lang="en">Join Us for an Hour</title>
     <desc lang="en">Join us for an hour of crafts, hobbies and arts. Call us on 01733 60 2000.</desc>
   </programme>
-  <programme channel="DMAXUK.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Alaska: The Last Frontier</title>
-    <desc lang="en">The Day Santa Came To The Homestead. It's Christmas time and the Kilchers celebrate by playing Secret Santa! After a strenuous summer the family kick back and enjoy the festivities. S7, Ep12</desc>
-  </programme>
   <programme channel="DMAXUK.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Alaska: Homestead Rescue</title>
     <desc lang="en">Under Siege. Josh and Kim raise pigs in Virginia. But with pigs destroying their homestead and predators killing livestock, is it time to let go of their free-range dream? S1, Ep4</desc>
@@ -15504,6 +15500,10 @@
   <programme channel="DMAXUK.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Alaska: The Last Frontier</title>
     <desc lang="en">Chasing Black Bear. Otto buries a giant water tank to solve water shortage issues. Atz Lee and Atz Sr seek out black bear, and Eivin builds a survival motorbike fitted with weapons. S7, Ep13</desc>
+  </programme>
+  <programme channel="DMAXUK.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Alaska: Homestead Rescue</title>
+    <desc lang="en">Nevada Thirst. The Kondors' homestead turns to dust and Marty gambles everything to save it. The Raney's discover infested trailers, searing heat and sand storms. S1, Ep5</desc>
   </programme>
   <programme channel="DMAXUK.uk" start="20230418000000" stop="20230418020000">
     <title lang="en">Alaska: Homestead Rescue</title>
@@ -15717,10 +15717,6 @@
     <title lang="en">Alaska: Homestead Rescue</title>
     <desc lang="en">Marsh Madness. The Raneys face a swamp nightmare in Georgia. They must find an ingenious way to reclaim the Buchannans' land from a snake and gator-infested swamp. S4, Ep9</desc>
   </programme>
-  <programme channel="DMAXUKPlus1.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">The Last Alaskans</title>
-    <desc lang="en">Hit The Ground Hunting. The families prepare for the trapping season. Charlie assesses the damage caused by summer's wildfires. Heimo and Edna struggle to find game birds for dinner. S4, Ep1</desc>
-  </programme>
   <programme channel="DMAXUKPlus1.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Alaska: The Last Frontier</title>
     <desc lang="en">The Day Santa Came To The Homestead. It's Christmas time and the Kilchers celebrate by playing Secret Santa! After a strenuous summer the family kick back and enjoy the festivities. S7, Ep12</desc>
@@ -15820,6 +15816,10 @@
   <programme channel="DMAXUKPlus1.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">The Last Alaskans</title>
     <desc lang="en">The Price Of Freedom. Winter is one month away so it's prep time. Charlie's fire-damaged trap line means a tough season ahead, so he preps hard and hunts for his winter meat. S4, Ep2</desc>
+  </programme>
+  <programme channel="DMAXUKPlus1.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Alaska: The Last Frontier</title>
+    <desc lang="en">Chasing Black Bear. Otto buries a giant water tank to solve water shortage issues. Atz Lee and Atz Sr seek out black bear, and Eivin builds a survival motorbike fitted with weapons. S7, Ep13</desc>
   </programme>
   <programme channel="DMAXUKPlus1.uk" start="20230418010000" stop="20230418030000">
     <title lang="en">Alaska: Homestead Rescue</title>
@@ -16033,10 +16033,6 @@
     <title lang="en">Alaska: Homestead Rescue</title>
     <desc lang="en">Marsh Madness. The Raneys face a swamp nightmare in Georgia. They must find an ingenious way to reclaim the Buchannans' land from a snake and gator-infested swamp. S4, Ep9</desc>
   </programme>
-  <programme channel="Dave.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">Rick Stein's French Odyssey</title>
-    <desc lang="en">Rick arrives in the city of Agen and continues his barge excursion through southwest France, tasting the first melon of the season in Quercy and cooking a famous Gascon dish. S1 Ep4</desc>
-  </programme>
   <programme channel="Dave.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">The Force: Behind the Line</title>
     <desc lang="en">Fly-on-the-wall documentary series. New South Wales police conduct a search warrant on a premises, only to find some illegal surprises there that they weren't expecting at all. S12 Ep5</desc>
@@ -16156,6 +16152,10 @@
   <programme channel="Dave.uk" start="20230418113000" stop="20230418120000">
     <title lang="en">Rick Stein's French Odyssey</title>
     <desc lang="en">Rick continues his barge journey through southwest France on his way to the Mediterranean, sampling the famous sausages in Toulouse and creating France's most popular ready meal. S1 Ep6</desc>
+  </programme>
+  <programme channel="Dave.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Cops On The Rock</title>
+    <desc lang="en">You Don't Get That In The Met: The drug squad arrest three men for dealing coke - one runs and is tackled. The squad also find hash in a bush at a beauty spot, and a man runs from a road check. S1 Ep1</desc>
   </programme>
   <programme channel="Dave.uk" start="20230418004000" stop="20230418012000">
     <title lang="en">QI</title>
@@ -16397,10 +16397,6 @@
     <title lang="en">QI</title>
     <desc lang="en">M-Places: Stephen Fry meanders about some places which start with an 'm' with Sue Perkins, Sami Shah, David Mitchell and Alan Davies. S13 Ep3</desc>
   </programme>
-  <programme channel="Davejavu.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Abandoned Engineering</title>
-    <desc lang="en">Mission: Space: The eerie world of abandoned Space Age projects. What became of the HARP gun in Barbados and the mountainside Barcroft Observatory in California? Find out today. S1 Ep2</desc>
-  </programme>
   <programme channel="Davejavu.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">Rick Stein's French Odyssey</title>
     <desc lang="en">Rick journeys along the Canal Lateral a la Garonne, is invited to a BBQ lunch after a morning on the river fishing for shad, and joins the villagers of Bruch for an escargolade. S1 Ep3</desc>
@@ -16520,6 +16516,10 @@
   <programme channel="Davejavu.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Abandoned Engineering</title>
     <desc lang="en">Lost Bridges: Hear about some magnificent bridges that time forgot. A hurricane put paid to Goat Canyon Trestle in California, while Kinzua Viaduct was destroyed by a tornado. S1 Ep3</desc>
+  </programme>
+  <programme channel="Davejavu.uk" start="20230418120000" stop="20230418123000">
+    <title lang="en">Rick Stein's French Odyssey</title>
+    <desc lang="en">Rick joins a local fisherman to go pike fishing on the River Tarn, cooks confit of duck with braised red cabbage, and meets a chef in Moissac whose dishes celebrate seasonality. S1 Ep5</desc>
   </programme>
   <programme channel="Davejavu.uk" start="20230418004000" stop="20230418014000">
     <title lang="en">Have I Got a Bit More News for You</title>
@@ -17337,10 +17337,6 @@
     <title lang="en">Mistresses</title>
     <desc lang="en">New. After their passion-filled night together, Alex reveals she may cancel the wedding, but Jessica's reaction forces her to think again. S1 Ep3</desc>
   </programme>
-  <programme channel="E4.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">Modern Family</title>
-    <desc lang="en">Truth Be Told: After reconnecting on Facebook, Phil invites his old high school girlfriend to drop by the house, but this friendly visit quickly turns into trouble. (S1 Ep17)</desc>
-  </programme>
   <programme channel="E4.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">Brooklyn Nine-Nine</title>
     <desc lang="en">Adrian Pimento: The precinct gets a new detective who's coming away from a 12-year undercover assignment with the Mob. Gina directs a video for Captain Holt. (S3 Ep17/23)</desc>
@@ -17476,6 +17472,10 @@
   <programme channel="E4.uk" start="20230418113000" stop="20230418120000">
     <title lang="en">Modern Family</title>
     <desc lang="en">Game Changer: Mitchell decides to toughen up, Cameron gets involved in a neighbour's marital problems, and it's Jay against Gloria and Manny in chess. (S1 Ep19)</desc>
+  </programme>
+  <programme channel="E4.uk" start="20230418120000" stop="20230418123000">
+    <title lang="en">Brooklyn Nine-Nine</title>
+    <desc lang="en">Terry Kitties: Jeffords enlists Peralta's help to solve a case from his past. Santiago invites herself to a competitive training exercise with Holt and Diaz. (S3 Ep19/23)</desc>
   </programme>
   <programme channel="E4.uk" start="20230418002000" stop="20230418012500">
     <title lang="en">First Dates</title>
@@ -17761,10 +17761,6 @@
     <title lang="en">Naked Attraction</title>
     <desc lang="en">A celebration of Naked Attraction's very best naughty bits, revisiting times when the show broke new dating ground, including when trans woman and celebrity Lauren Harries entered a pod.</desc>
   </programme>
-  <programme channel="E4Extra.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">Ninja Warrior: Japan</title>
-    <desc lang="en">Contestants from Japan compete in one of the most physically demanding challenges ever created as they take on the menacing and daunting Ninja Warrior assault course. (S26 Ep34)</desc>
-  </programme>
   <programme channel="E4Extra.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Wipeout USA</title>
     <desc lang="en">US gameshow in which people from all walks of life compete with each other to overcome several extreme obstacle courses to become the champion and win a cash prize. (S4 Ep11)</desc>
@@ -17884,6 +17880,10 @@
   <programme channel="E4Extra.uk" start="20230418113000" stop="20230418120000">
     <title lang="en">Ninja Warrior: Japan</title>
     <desc lang="en">Contestants from Japan compete in one of the most physically demanding challenges ever created as they take on the menacing and daunting Ninja Warrior assault course. (S26 Ep36)</desc>
+  </programme>
+  <programme channel="E4Extra.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Wipeout USA</title>
+    <desc lang="en">US gameshow in which people from all walks of life compete with each other to overcome several extreme obstacle courses to become the champion and win a cash prize. (S4 Ep12)</desc>
   </programme>
   <programme channel="E4Extra.uk" start="20230418005000" stop="20230418012000">
     <title lang="en">How I Met Your Mother</title>
@@ -18137,10 +18137,6 @@
     <title lang="en">How I Met Your Mother</title>
     <desc lang="en">Okay Awesome: Ted investigates the club scene with Barney and Robin, while Marshall and Lily try to be more 'grown up' as their wedding day approaches.</desc>
   </programme>
-  <programme channel="E4Plus1.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">The Big Bang Theory</title>
-    <desc lang="en">The Celebration Reverberation: Sheldon and Howard plan birthday celebrations for Amy and Halley. Leonard is stressed by a Christmas letter from his brother. (S11 Ep11/24)</desc>
-  </programme>
   <programme channel="E4Plus1.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">Modern Family</title>
     <desc lang="en">Fears: When Phil and Luke embark on a discovery expedition underneath the house, Phil tries not to let his fear of the dark and of creepy crawlies get the best of him. (S1 Ep16)</desc>
@@ -18276,6 +18272,10 @@
   <programme channel="E4Plus1.uk" start="20230418113000" stop="20230418120000">
     <title lang="en">The Big Bang Theory</title>
     <desc lang="en">The Solo Oscillation: Amy and Leonard bond over some experiments. Bert replaces Howard in his band. Penny gives Sheldon unexpected scientific inspiration. (S11 Ep13/24)</desc>
+  </programme>
+  <programme channel="E4Plus1.uk" start="20230418120000" stop="20230418123000">
+    <title lang="en">Modern Family</title>
+    <desc lang="en">Starry Night: Jay and Mitchell set out on their traditional father-son outing to see the meteor showers, but Mitchell is surprised to see that Manny will be joining them. (S1 Ep18)</desc>
   </programme>
   <programme channel="E4Plus1.uk" start="20230418001500" stop="20230418012000">
     <title lang="en">Naked Attraction: All Out &amp; Proud</title>
@@ -18565,10 +18565,6 @@
     <title lang="en">Gogglebox</title>
     <desc lang="en">On the box this time: Britain's Got Talent, Bridgerton, Romeo and Duet, The 1% Club, Inside the Force: 24/7, Piers Morgan Uncensored, Formula 1: Drive to Survive, and BBC News. (S19 Ep11)</desc>
   </programme>
-  <programme channel="EarthxTV.us" start="20230417113000" stop="20230417120000">
-    <title lang="en">Switch On: The Series</title>
-    <desc lang="en">Nearly every country developed on coal, but with steep environmental costs. Dr. Tinker travels to Vietnam to see these benefits and challenges up close.</desc>
-  </programme>
   <programme channel="EarthxTV.us" start="20230417120000" stop="20230417123000">
     <title lang="en">Wild Wonders with Brooke</title>
     <desc lang="en">Large game are one thing, but now it's time for Brooke to learn different techniques used in transporting smaller species. She travels to help capture and relocate two small species.</desc>
@@ -18712,6 +18708,10 @@
   <programme channel="EarthxTV.us" start="20230418114500" stop="20230418120000">
     <title lang="en">The Ocean Solution</title>
     <desc lang="en">Meet Bren Smith, an ocean farmer whose kelp &amp; shellfish farms transform the way food is produced. Can we produce food that fights the climate crisis, creates habitats, &amp; sustains our way of life?</desc>
+  </programme>
+  <programme channel="EarthxTV.us" start="20230418120000" stop="20230418123000">
+    <title lang="en">Wild Wonders with Brooke</title>
+    <desc lang="en">Rhinos are critically endangered (poached for their horns), which often leaves babies orphaned. Brooke visits a sanctuary dedicated to rehabilitating, protecting, and caring for these dinosaurs.</desc>
   </programme>
   <programme channel="EarthxTV.us" start="20230418010000" stop="20230418013000">
     <title lang="en">Aussie Snake Wranglers</title>
@@ -19033,10 +19033,6 @@
     <title lang="en">Aussie Snake Wranglers</title>
     <desc lang="en">Join Jess and Stuart as they tangle with a large Eastern Brown Snake that's taken over a chicken coop!</desc>
   </programme>
-  <programme channel="EuronewsEnglish.fr" start="20230417113000" stop="20230417120000">
-    <title lang="en">Wake Up Europe</title>
-    <desc lang="en">Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
-  </programme>
   <programme channel="EuronewsEnglish.fr" start="20230417120000" stop="20230417121500">
     <title lang="en">Wake Up Europe</title>
     <desc lang="en">Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
@@ -19322,6 +19318,10 @@
     <desc lang="en">Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
   </programme>
   <programme channel="EuronewsEnglish.fr" start="20230418113000" stop="20230418120000">
+    <title lang="en">Wake Up Europe</title>
+    <desc lang="en">Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
+  </programme>
+  <programme channel="EuronewsEnglish.fr" start="20230418120000" stop="20230418121500">
     <title lang="en">Wake Up Europe</title>
     <desc lang="en">Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
   </programme>
@@ -20037,10 +20037,6 @@
     <title lang="en">Misery</title>
     <desc lang="en">(1990) Thriller with Kathy Bates and James Caan. An obsessed fan rescues her favourite writer from a car crash, but then imprisons him... Strong violence &amp; language, some that may offend.</desc>
   </programme>
-  <programme channel="Film4Plus1.uk" start="20230417093000" stop="20230417120000">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Teleshopping.</desc>
-  </programme>
   <programme channel="Film4Plus1.uk" start="20230417120000" stop="20230417135500">
     <title lang="en">Dark Command</title>
     <desc lang="en">(1940) Western. John Wayne stars as a small-town sheriff during the American Civil War, who stands up to raids by the South's marauders, led by the local schoolteacher. With Walter Pidgeon.</desc>
@@ -20080,6 +20076,10 @@
   <programme channel="Film4Plus1.uk" start="20230418070000" stop="20230418120000">
     <title lang="en">Teleshopping</title>
     <desc lang="en">Teleshopping.</desc>
+  </programme>
+  <programme channel="Film4Plus1.uk" start="20230418120000" stop="20230418135000">
+    <title lang="en">Went the Day Well?</title>
+    <desc lang="en">(1942) Wartime propaganda thriller. A group of disguised Nazi paratroopers take over a small British village as a bridgehead for an invasion. But will they be able to fool the villagers?</desc>
   </programme>
   <programme channel="Film4Plus1.uk" start="20230418004000" stop="20230418025500">
     <title lang="en">The Ring</title>
@@ -20164,10 +20164,6 @@
   <programme channel="Film4Plus1.uk" start="20230420001000" stop="20230420022500">
     <title lang="en">Misery</title>
     <desc lang="en">(1990) Thriller with Kathy Bates and James Caan. An obsessed fan rescues her favourite writer from a car crash, but then imprisons him... Strong violence &amp; language, some that may offend.</desc>
-  </programme>
-  <programme channel="FoodNetworkUK.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">Rachel Allen: Bake!</title>
-    <desc lang="en">Macaroons, Pastries And Soda Bread. Rachel shows how to make a coconut macaroon tart and teaches her cookery school students a quick recipe for a classic white soda bread. S1, Ep6</desc>
   </programme>
   <programme channel="FoodNetworkUK.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">The Great Comic Relief Bake-Off</title>
@@ -20308,6 +20304,10 @@
   <programme channel="FoodNetworkUK.uk" start="20230418113000" stop="20230418120000">
     <title lang="en">Rachel Allen: Bake!</title>
     <desc lang="en">Iced Orange Cake And Goat Cheese Tart. Rachel prepares an iced orange cake and learns how to make apple pie with a twist. The students make a spinach, potato and goat's cheese tart. S1, Ep8</desc>
+  </programme>
+  <programme channel="FoodNetworkUK.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">The Great Comic Relief Bake-Off</title>
+    <desc lang="en">Comic Relief takes over the Great British Bake Off tent. Different celebrity faces battle it out with their baking skills to claim one of the Comic Relief Star Baker titles. S2, Ep1</desc>
   </programme>
   <programme channel="FoodNetworkUK.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Restaurant: Impossible</title>
@@ -20609,10 +20609,6 @@
     <title lang="en">Restaurant: Impossible</title>
     <desc lang="en">Valley View. Chef Robert Irvine heads to the aid of failing restaurants, attempting to turn things around in only two days and with a spending limit of $10,000. S3, Ep6</desc>
   </programme>
-  <programme channel="FoodNetworkUKPlus1.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">Gok Wan's Easy Asian</title>
-    <desc lang="en">Simple Snacks. Gok explores what to cook when you don't want a big meal. He prepares a delicious chicken wing recipe popular in the Philippines, and dumplings. S1, Ep4</desc>
-  </programme>
   <programme channel="FoodNetworkUKPlus1.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">Rachel Allen: Bake!</title>
     <desc lang="en">Tart Tartin And Chocolate Cake. Rachel shares her recipe for the French classic tarte Tatin with sweet, caramelised apples. Plus, chef Tom Lewis spills the beans on baking bread. S1, Ep5</desc>
@@ -20752,6 +20748,10 @@
   <programme channel="FoodNetworkUKPlus1.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Simply Raymond Blanc</title>
     <desc lang="en">Raymond whips up meringue with blackcurrants and marshmallows. Plus, Michelin star chef Angela Hartnett visits the kitchen to make cep tagliatelle. S1, Ep1</desc>
+  </programme>
+  <programme channel="FoodNetworkUKPlus1.uk" start="20230418120000" stop="20230418123000">
+    <title lang="en">Rachel Allen: Bake!</title>
+    <desc lang="en">Provencal Tarts And Dutch Apple Cake. Rachel shares her recipe for Provencal tart with caramelised onions, anchovies and olives. And, the cookery students make Dutch apple cake. S1, Ep7</desc>
   </programme>
   <programme channel="FoodNetworkUKPlus1.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">New: Guy's Grocery Games</title>
@@ -21053,10 +21053,6 @@
     <title lang="en">New: Guy's Grocery Games</title>
     <desc lang="en">All Star Academy Face-Off. Four home cooks from All-Star Academy are ready for Grocery Games grad school. They start by making a fine dinner with wacky items from Guy Fieri's list. S8, Ep7</desc>
   </programme>
-  <programme channel="Foodxp.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">Strictly Street_Season 2</title>
-    <desc lang="en">Visiting the oldest surviving tea room in the country to visiting the most prestegious sports club of India - Mohan Bagan Sports Club. Rohan again takes you to the lanes of Kolkata, once again.</desc>
-  </programme>
   <programme channel="Foodxp.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">Food Fiesta</title>
     <desc lang="en">Explore some of India's regional culinary gems like Bheja Fry with Roomali Roti, Dhokar Dalna with Kachori and more of such dishes in today's episode.</desc>
@@ -21248,6 +21244,10 @@
   <programme channel="Foodxp.uk" start="20230418113000" stop="20230418120000">
     <title lang="en">Strictly Street_Season 2</title>
     <desc lang="en">Today, Rohan takes you to Chandannagar and then to the beautiful seaside town of Digha. From "Jol Bhora Sandesh" to the fascinating seafood of Bengal, everything in this episode.</desc>
+  </programme>
+  <programme channel="Foodxp.uk" start="20230418120000" stop="20230418123000">
+    <title lang="en">Food Fiesta</title>
+    <desc lang="en">Follow up your epic savory feast with tempting desserts like Danish Apricot Jam Aableskiver, Vietnamese Bread and Banana &amp; Coconut Pudding and more!</desc>
   </programme>
   <programme channel="Foodxp.uk" start="20230418010000" stop="20230418013000">
     <title lang="en">Ek Star ... Ingredient</title>
@@ -21640,10 +21640,6 @@
   <programme channel="Foodxp.uk" start="20230420010000" stop="20230420013000">
     <title lang="en">Ek Star ... Ingredient</title>
     <desc lang="en">Cream: a fat that elevates a dish to a next level. Whether it's for a date-night dinner, a small dinner party, or just any weekend dinner with friends.</desc>
-  </programme>
-  <programme channel="France24English.fr" start="20230417114500" stop="20230417120000">
-    <title lang="en">Access Asia</title>
-    <desc lang="en">Access Asia explores the continent bringing you the latest news updates. Join us for a thorough analysis of current affairs across India, China, Indonesia, Australia and other countries.</desc>
   </programme>
   <programme channel="France24English.fr" start="20230417120000" stop="20230417121500">
     <title lang="en">The News</title>
@@ -22112,6 +22108,10 @@
   <programme channel="France24English.fr" start="20230418115100" stop="20230418120000">
     <title lang="en">Fashion</title>
     <desc lang="en">Young creative minds and experienced gurus of fashion present their collections to the audience as we bring you the latest haute couture news, videos, reports and analyses.</desc>
+  </programme>
+  <programme channel="France24English.fr" start="20230418120000" stop="20230418121600">
+    <title lang="en">The News</title>
+    <desc lang="en">Watch the latest international top stories, with an emphasis on debate, dialogue, cultural differences, analyses of key world events, hot topics of the day, and global news reports.</desc>
   </programme>
   <programme channel="France24English.fr" start="20230418010000" stop="20230418011500">
     <title lang="en">The News</title>
@@ -23089,10 +23089,6 @@
     <title lang="en">The News</title>
     <desc lang="en">Watch the latest international top stories, with an emphasis on debate, dialogue, cultural differences, analyses of key world events, hot topics of the day, and global news reports.</desc>
   </programme>
-  <programme channel="GBNews.uk" start="20230417093000" stop="20230417120000">
-    <title lang="en">To The Point</title>
-    <desc lang="en">Andrew Pierce and Bev Turner present To The Point. Covering the day's headlines and the big topics that get you talking.</desc>
-  </programme>
   <programme channel="GBNews.uk" start="20230417120000" stop="20230417150000">
     <title lang="en">GB News Live with Mark Longhurst</title>
     <desc lang="en">A pacey look at all the latest live and breaking news from around the UK with our network of GB News reporters, plus views and debate from a wide range of perspectives. Hosted by Mark Longhurst.</desc>
@@ -23148,6 +23144,10 @@
   <programme channel="GBNews.uk" start="20230418093000" stop="20230418120000">
     <title lang="en">To The Point</title>
     <desc lang="en">Andrew Pierce and Bev Turner present To The Point. Covering the day's headlines and the big topics that get you talking.</desc>
+  </programme>
+  <programme channel="GBNews.uk" start="20230418120000" stop="20230418150000">
+    <title lang="en">GB News Live with Mark Longhurst</title>
+    <desc lang="en">A pacey look at all the latest live and breaking news from around the UK with our network of GB News reporters, plus views and debate from a wide range of perspectives. Hosted by Mark Longhurst.</desc>
   </programme>
   <programme channel="GBNews.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Headliners Replay</title>
@@ -23709,10 +23709,6 @@
     <title lang="en">Rocket League</title>
     <desc lang="en">This week the team will be jumping into their rocket-powered vehicles as they take on Rocket League. (S6 Ep22)</desc>
   </programme>
-  <programme channel="GemsTV.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Great Value Jewellery</title>
-    <desc lang="en">Shop and save with live falling auctions from Gemporia, your family jeweller.</desc>
-  </programme>
   <programme channel="GemsTV.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Gemporia Jewellery</title>
     <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
@@ -23808,6 +23804,10 @@
   <programme channel="GemsTV.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Beauty Week with Kati Elliott</title>
     <desc lang="en">Join Kati this Week for Visage, a range created for everyone. Plus Kati shares expert tips and tricks.</desc>
+  </programme>
+  <programme channel="GemsTV.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Gemporia Jewellery</title>
+    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
   </programme>
   <programme channel="GemsTV.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Huge Jewellery Savings</title>
@@ -24009,10 +24009,6 @@
     <title lang="en">Huge Jewellery Savings</title>
     <desc lang="en">Join us for huge savings on our genuine gemstone jewellery at Gemporia, your family jeweller.</desc>
   </programme>
-  <programme channel="GreatMovies.uk" start="20230417115300" stop="20230417115900">
-    <title lang="en">Great! Movie News</title>
-    <desc lang="en">Get the latest movie news, information on your favourite stars, celebrity gossip and Hollywood rumours in our daily news bulletin.</desc>
-  </programme>
   <programme channel="GreatMovies.uk" start="20230417115900" stop="20230417125000">
     <title lang="en">Deadly Paradise</title>
     <desc lang="en">A woman finds herself in too deep with an enigmatic bad boy she encounters while holidaying in Hawaii. Stars Boti Bliss and Antonio Sabato Jr. (2016)</desc>
@@ -24180,6 +24176,10 @@
   <programme channel="GreatMovies.uk" start="20230418115500" stop="20230418120100">
     <title lang="en">Great! Movie News</title>
     <desc lang="en">Get the latest movie news, information on your favourite stars, celebrity gossip and Hollywood rumours in our daily news bulletin.</desc>
+  </programme>
+  <programme channel="GreatMovies.uk" start="20230418120100" stop="20230418125000">
+    <title lang="en">Deadly Exchange</title>
+    <desc lang="en">A mother and daughter invite a foreign exchange student into their home, but soon start to question whether their new lodger has sinister intentions. Stars Lindsay Hartley and Cynthia Watros. (2017)</desc>
   </programme>
   <programme channel="GreatMovies.uk" start="20230418001100" stop="20230418011500">
     <title lang="en">Human Traffic</title>
@@ -24537,10 +24537,6 @@
     <title lang="en">Vendetta</title>
     <desc lang="en">A former special forces soldier has to hunt down the gang that killed his parents. Starring Danny Dyer. (2013)</desc>
   </programme>
-  <programme channel="GreatMoviesAction.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">M*A*S*H</title>
-    <desc lang="en">L.I.P.: Corporal Walker is being sent home, and he wants to marry his Korean girlfriend so she and their baby can return with him. Hawkeye promises to start the paperwork rolling. (S2 Ep7)</desc>
-  </programme>
   <programme channel="GreatMoviesAction.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">M*A*S*H</title>
     <desc lang="en">The Trial of Henry Blake: Henry's on trial, and Hawkeye and Trapper are put under house arrest to prevent them from showing up with evidence exonerating him. (S2 Ep8)</desc>
@@ -24676,6 +24672,10 @@
   <programme channel="GreatMoviesAction.uk" start="20230418113000" stop="20230418120000">
     <title lang="en">M*A*S*H</title>
     <desc lang="en">Dear Dad... Three: Once more Hawkeye writes home to his father about life in the 4077th. Hawkeye and Trapper teach a racist patient who asks for the 'right type' of blood a lesson. (S2 Ep9)</desc>
+  </programme>
+  <programme channel="GreatMoviesAction.uk" start="20230418120000" stop="20230418123000">
+    <title lang="en">M*A*S*H</title>
+    <desc lang="en">The Sniper: Hawkeye is shot at while on a picnic with a new nurse. He blames Frank and Hot Lips for shooting wildly, but they soon realise a sniper is on the loose. (S2 Ep10)</desc>
   </programme>
   <programme channel="GreatMoviesAction.uk" start="20230417230500" stop="20230418011000">
     <title lang="en">The Devil's Double</title>
@@ -25385,10 +25385,6 @@
     <title lang="en">Saints And Soldiers: Airborne...</title>
     <desc lang="en">...Creed: Three American paratroopers team up with resistance fighters in France to take on the invading German army. Starring Corbin Allred and Jasen Wade. (2012)</desc>
   </programme>
-  <programme channel="GreatMoviesClassic.uk" start="20230417115000" stop="20230417120000">
-    <title lang="en">Great! Movie News Extra 2023</title>
-    <desc lang="en">From red carpet glamour to Hollywood gossip, interviews and new movies, get a round-up of our weekly showbiz news in Great! Movie News Extra.</desc>
-  </programme>
   <programme channel="GreatMoviesClassic.uk" start="20230417120000" stop="20230417135000">
     <title lang="en">Under The Autumn Moon</title>
     <desc lang="en">Siblings Taylor and Josh must sell the family ranch as they are low on funds. Will city girl Alex be able to turn things around? (2018)</desc>
@@ -25472,6 +25468,10 @@
   <programme channel="GreatMoviesClassic.uk" start="20230418115000" stop="20230418120000">
     <title lang="en">Great! Movie News Extra 2023</title>
     <desc lang="en">From red carpet glamour to Hollywood gossip, interviews and new movies, get a round-up of our weekly showbiz news in Great! Movie News Extra.</desc>
+  </programme>
+  <programme channel="GreatMoviesClassic.uk" start="20230418120000" stop="20230418135000">
+    <title lang="en">A Snapshot of Forever</title>
+    <desc lang="en">Successful wedding photographer Jessie Brookes has never been happier. But will she finally be happy in love when she meets her client's famous film-star brother? Starring Natalie Dreyfuss. (2021)</desc>
   </programme>
   <programme channel="GreatMoviesClassic.uk" start="20230417235000" stop="20230418013000">
     <title lang="en">Recipe For Love</title>
@@ -25649,10 +25649,6 @@
     <title lang="en">Like Cats and Dogs</title>
     <desc lang="en">Laura and Spencer are strangers who are forced to share a beachside holiday home after a mix-up with their reservations. Will they ultimately prove that opposites really do attract? (2017)</desc>
   </programme>
-  <programme channel="GreatMoviesPlus1.uk" start="20230417115000" stop="20230417120000">
-    <title lang="en">Great! Movie News Extra</title>
-    <desc lang="en">From red carpet glamour to Hollywood gossip, interviews and new movies, get a round-up of our weekly showbiz news in Great! Movie News Extra.</desc>
-  </programme>
   <programme channel="GreatMoviesPlus1.uk" start="20230417120000" stop="20230417125300">
     <title lang="en">Deadly Paradise</title>
     <desc lang="en">A woman finds herself in too deep with an enigmatic bad boy she encounters while holidaying in Hawaii. Stars Boti Bliss and Antonio Sabato Jr. (2016)</desc>
@@ -25820,6 +25816,10 @@
   <programme channel="GreatMoviesPlus1.uk" start="20230418115000" stop="20230418120000">
     <title lang="en">Great! Movie News Extra</title>
     <desc lang="en">From red carpet glamour to Hollywood gossip, interviews and new movies, get a round-up of our weekly showbiz news in Great! Movie News Extra.</desc>
+  </programme>
+  <programme channel="GreatMoviesPlus1.uk" start="20230418120000" stop="20230418125500">
+    <title lang="en">Deadly Exchange</title>
+    <desc lang="en">A mother and daughter invite a foreign exchange student into their home, but soon start to question whether their new lodger has sinister intentions. Stars Lindsay Hartley and Cynthia Watros. (2017)</desc>
   </programme>
   <programme channel="GreatMoviesPlus1.uk" start="20230418001000" stop="20230418010500">
     <title lang="en">Human Traffic</title>
@@ -26181,10 +26181,6 @@
     <title lang="en">Great! Movie News</title>
     <desc lang="en">Get the latest movie news, information on your favourite stars, celebrity gossip and Hollywood rumours in our daily news bulletin.</desc>
   </programme>
-  <programme channel="GreatTV.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Castle</title>
-    <desc lang="en">Reckoning: In the thrilling conclusion to this two-part story, the stakes are at an all-time high as Castle and the precinct race to stop Beckett becoming serial killer 3XK's next victim. (S7 Ep15)</desc>
-  </programme>
   <programme channel="GreatTV.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Body Of Proof</title>
     <desc lang="en">Occupational Hazards: Megan's plans for a girl's weekend with Lacey and her mum are postponed when the body of a man is found in the boot of a car. (S2 Ep11)</desc>
@@ -26300,6 +26296,10 @@
   <programme channel="GreatTV.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Castle</title>
     <desc lang="en">The Wrong Stuff: When an astronaut is killed during a simulated mission to Mars, the duo spacesuit-up and investigate. But with no motives, the case takes an out-of-this-world turn. (S7 Ep16)</desc>
+  </programme>
+  <programme channel="GreatTV.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Body Of Proof</title>
+    <desc lang="en">Home Invasion: In their latest case the team investigate the murder of a married couple in their home. Can they determine whether the seemingly perfect family were victims of a home robbery? (S2 Ep12)</desc>
   </programme>
   <programme channel="GreatTV.uk" start="20230418010000" stop="20230418013000">
     <title lang="en">M*A*S*H</title>
@@ -26541,10 +26541,6 @@
     <title lang="en">M*A*S*H</title>
     <desc lang="en">A Smattering of Intelligence: Colonel Flagg starts snooping around the 4077th drawing in the interest of another intelligence agent named Pratt. (S2 Ep24)</desc>
   </programme>
-  <programme channel="GreatTVPlus1.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Crazy Like A Fox</title>
-    <desc lang="en">Hyde-and-Seek: Harry and Harrison help a reporter after a threatening message is left on her answer phone. Is it linked to her news story about buried gold beneath a San Francisco street? (S2 Ep2)</desc>
-  </programme>
   <programme channel="GreatTVPlus1.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Castle</title>
     <desc lang="en">Reckoning: In the thrilling conclusion to this two-part story, the stakes are at an all-time high as Castle and the precinct race to stop Beckett becoming serial killer 3XK's next victim. (S7 Ep15)</desc>
@@ -26660,6 +26656,10 @@
   <programme channel="GreatTVPlus1.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Crazy Like A Fox</title>
     <desc lang="en">The Road to Tobago: Harry and Harrison attempt to clear their client's name after her long-lost husband is murdered. The case leads them to a Caribbean island. (S2 Ep3)</desc>
+  </programme>
+  <programme channel="GreatTVPlus1.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Castle</title>
+    <desc lang="en">The Wrong Stuff: When an astronaut is killed during a simulated mission to Mars, the duo spacesuit-up and investigate. But with no motives, the case takes an out-of-this-world turn. (S7 Ep16)</desc>
   </programme>
   <programme channel="GreatTVPlus1.uk" start="20230418010000" stop="20230418013000">
     <title lang="en">M*A*S*H</title>
@@ -26901,10 +26901,6 @@
     <title lang="en">M*A*S*H</title>
     <desc lang="en">George: A decorated soldier confides to Hawkeye that he was beaten by his own unit for being gay. Frank finds out from another source and tries to have the soldier dishonourably discharged. (S2 Ep22)</desc>
   </programme>
-  <programme channel="HGTVUK.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Fantasy Homes By The Sea</title>
-    <desc lang="en">Puglia. A Sussex couple are searching for their ideal seaside retreat in the scenic retreat of Puglia. They have £300,000 to spend on a holiday home big enough for their large family. S5, Ep9</desc>
-  </programme>
   <programme channel="HGTVUK.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">My Lottery Dream Home International</title>
     <desc lang="en">Mom's Dream Home. A woman wants to use her lottery winnings to buy a home for her mother. Laurence helps them search for a traditional property with a contained garden. S1, Ep13</desc>
@@ -27012,6 +27008,10 @@
   <programme channel="HGTVUK.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Fantasy Homes By The Sea</title>
     <desc lang="en">French Rivera. A Suffolk couple are looking to purchase a holiday home in a secluded area of the French Riviera. They have a budget of £600,000 for the right hideaway with the perfect pool. S5, Ep10</desc>
+  </programme>
+  <programme channel="HGTVUK.uk" start="20230418120000" stop="20230418123000">
+    <title lang="en">My Lottery Dream Home</title>
+    <desc lang="en">A Big Home For A Big Prize. Rick and Lorie won the Lottery's Mega Millions jackpot of $180 million dollars and are looking for their dream home in Riverside County, California. S1, Ep1</desc>
   </programme>
   <programme channel="HGTVUK.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Barnwood Builders</title>
@@ -27245,10 +27245,6 @@
     <title lang="en">Barnwood Builders</title>
     <desc lang="en">Mark Finds His Dream Home Barn. After years of searching, Mark has found the barn home he wants for himself. Mark also visits a barn that has been transformed into a wedding venue. S5, Ep11</desc>
   </programme>
-  <programme channel="HGTVUKPlus1.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Escape To The Country</title>
-    <desc lang="en">After selling their property in France, a couple want to discover a slower pace of life in Lincolnshire. Jonnie Irwin helps them hunt for a dream home. S16, Ep5</desc>
-  </programme>
   <programme channel="HGTVUKPlus1.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Fantasy Homes By The Sea</title>
     <desc lang="en">Puglia. A Sussex couple are searching for their ideal seaside retreat in the scenic retreat of Puglia. They have £300,000 to spend on a holiday home big enough for their large family. S5, Ep9</desc>
@@ -27356,6 +27352,10 @@
   <programme channel="HGTVUKPlus1.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Escape To The Country</title>
     <desc lang="en">A woman from Edinburgh has £475,000 to spend on a house in Oxfordshire. Nicki Chapman helps her search for a three-bedroom home with a village location. S16, Ep6</desc>
+  </programme>
+  <programme channel="HGTVUKPlus1.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Fantasy Homes By The Sea</title>
+    <desc lang="en">French Rivera. A Suffolk couple are looking to purchase a holiday home in a secluded area of the French Riviera. They have a budget of £600,000 for the right hideaway with the perfect pool. S5, Ep10</desc>
   </programme>
   <programme channel="HGTVUKPlus1.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Fantasy Homes By The Sea</title>
@@ -27738,9 +27738,6 @@
     <title lang="en">Mutant X</title>
     <desc lang="en">Action adventure series from superhero specialists Marvel. Brennan falls under the control of the nefarious Eckhart, who uses him to work against the 'New Mutants'. S1, Ep2/22</desc>
   </programme>
-  <programme channel="HorrorXtraPlus1.uk" start="20230417070000" stop="20230417120000">
-    <title lang="en">..programmes start at 5.00pm</title>
-  </programme>
   <programme channel="HorrorXtraPlus1.uk" start="20230417120000" stop="20230417180000">
     <title lang="en">..programmes start at 5.00pm</title>
   </programme>
@@ -27785,6 +27782,9 @@
     <desc lang="en">Put the pleasure back into shopping from the comfort of your home and choose from a selection of innovative products.</desc>
   </programme>
   <programme channel="HorrorXtraPlus1.uk" start="20230418070000" stop="20230418120000">
+    <title lang="en">..programmes start at 5.00pm</title>
+  </programme>
+  <programme channel="HorrorXtraPlus1.uk" start="20230418120000" stop="20230418180000">
     <title lang="en">..programmes start at 5.00pm</title>
   </programme>
   <programme channel="HorrorXtraPlus1.uk" start="20230417235000" stop="20230418015000">
@@ -28475,10 +28475,6 @@
     <title lang="en">Heathrow: Britain's Busiest Airport</title>
     <desc lang="en">Buckle up as Heathrow's Heroes are dealing with the UK's worst winter storms while inside the terminal, there's a bad smell in immigration and an emergency fire. S6 Ep4</desc>
   </programme>
-  <programme channel="ITV2.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">The O.C.</title>
-    <desc lang="en">The Dawn Patrol: US teen drama series. Ryan leaves Newport to visit his mother and ends up having a steamy encounter, and Summer works with Taylor to find out what Seth is hiding. S3 Ep21</desc>
-  </programme>
   <programme channel="ITV2.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Secret Crush</title>
     <desc lang="en">Danielle hopes to prove she's more than just a side-dish to ladies' man Alexi, while Brooke hopes that sparks will fly with Shaun. S1 Ep11</desc>
@@ -28598,6 +28594,10 @@
   <programme channel="ITV2.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">The O.C.</title>
     <desc lang="en">The College Try: US teen drama series. As graduation approaches, the friends leave Newport to attend their respective college open days at Berkeley and Brown. S3 Ep22</desc>
+  </programme>
+  <programme channel="ITV2.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Secret Crush</title>
+    <desc lang="en">DJ Noah hopes music is the food of love for crush Meryn. Plus, bar manager Antonio looks to woo single mum Lara. Comedian Verona Rose plays Cupid. S1 Ep12</desc>
   </programme>
   <programme channel="ITV2.uk" start="20230418005000" stop="20230418012000">
     <title lang="en">Bob's Burgers</title>
@@ -28839,10 +28839,6 @@
     <title lang="en">Bob's Burgers</title>
     <desc lang="en">Yurty Rotten Scoundrels: Linda feels compelled to support her sister at an artists' workshop in a yurt. Plus, Louise and Gene hunt a missing cat. S10 Ep15</desc>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">One Tree Hill</title>
-    <desc lang="en">I Love You But I've Chosen Darkness: US teen drama series. Lucas discovers that Derek's interest in Peyton is more than brotherly, and Haley feels that Nathan is slipping away. S4 Ep5</desc>
-  </programme>
   <programme channel="ITV2Plus1.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">The O.C.</title>
     <desc lang="en">The Dawn Patrol: US teen drama series. Ryan leaves Newport to visit his mother and ends up having a steamy encounter, and Summer works with Taylor to find out what Seth is hiding. S3 Ep21</desc>
@@ -28962,6 +28958,10 @@
   <programme channel="ITV2Plus1.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">One Tree Hill</title>
     <desc lang="en">Where Did You Sleep Last Night?: US teen drama series. Nathan approaches Dan for help with his and Haley's finances, Lucas rejoins the Ravens, and Peyton receives unlikely comfort. S4 Ep6</desc>
+  </programme>
+  <programme channel="ITV2Plus1.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">The O.C.</title>
+    <desc lang="en">The College Try: US teen drama series. As graduation approaches, the friends leave Newport to attend their respective college open days at Berkeley and Brown. S3 Ep22</desc>
   </programme>
   <programme channel="ITV2Plus1.uk" start="20230418005500" stop="20230418012500">
     <title lang="en">American Dad!</title>
@@ -30347,10 +30347,6 @@
     <title lang="en">Driving Force</title>
     <desc lang="en">Natasha Jonas: We talk to boxing star Natasha Jonas about the mindset needed for success in the ring, and how respect and support can elevate you to the top of the sporting world. S1 Ep5</desc>
   </programme>
-  <programme channel="ITVBe.uk" start="20230417114500" stop="20230417120000">
-    <title lang="en">littleBe: Pip Ahoy!</title>
-    <desc lang="en">Snooze Cruise: Skipper and Pasty first mend then blow up a bouncy castle. S1 Ep3</desc>
-  </programme>
   <programme channel="ITVBe.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">Unboxed</title>
     <desc lang="en">Afro Pop vs Modern Farmhouse: Shaun bought a house with a great pool but an ugly backyard. Can Nikki help him feel confident enough to invite his friends around? S1 Ep7</desc>
@@ -30486,6 +30482,10 @@
   <programme channel="ITVBe.uk" start="20230418114500" stop="20230418120000">
     <title lang="en">littleBe: Pip Ahoy!</title>
     <desc lang="en">The Mermaid: After reading Skipper's book on Mermaids, Pip and Alba use Pip's Scopey-eye to search the sea for Mermaids. S1 Ep4</desc>
+  </programme>
+  <programme channel="ITVBe.uk" start="20230418120000" stop="20230418123000">
+    <title lang="en">Unboxed</title>
+    <desc lang="en">Creative Freestyle vs Exotic Jungle: Michelle and Jeremy need Nikki's help to finish off their living room project that fell by the wayside when a baby arrived. S1 Ep8</desc>
   </programme>
   <programme channel="ITVBe.uk" start="20230418010000" stop="20230418070000">
     <title lang="en">Teleshopping</title>
@@ -30771,10 +30771,6 @@
     <title lang="en">Teleshopping</title>
     <desc lang="en">Shopping from home.</desc>
   </programme>
-  <programme channel="IdealWorldTV.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Radley Footwear and Accessories</title>
-    <desc lang="en">Tune in for this range of Footwear and Accessories from Radley</desc>
-  </programme>
   <programme channel="IdealWorldTV.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Natural Image Wigs Collection</title>
     <desc lang="en">Whatever the occassion, whatever the style Natural Image can help you achieve that look. Feel confident &amp; look great with Natural Image Wigs.</desc>
@@ -30870,6 +30866,10 @@
   <programme channel="IdealWorldTV.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Samantha Faiers Up to 60% Off</title>
     <desc lang="en">Great Homeware items from Samantha Faiers at up to 60% off</desc>
+  </programme>
+  <programme channel="IdealWorldTV.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Radley Footwear and Accessories</title>
+    <desc lang="en">Tune in for this range of Footwear and Accessories from Radley</desc>
   </programme>
   <programme channel="IdealWorldTV.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Ideal World Air Purification</title>
@@ -31071,10 +31071,6 @@
     <title lang="en">Ideal World MIE Skincare</title>
     <desc lang="en">Join Ideal World on ITV for some of the best offers and products on TV. To see more go to www.idealworld.tv</desc>
   </programme>
-  <programme channel="JewelleryMaker.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Silver Selection</title>
-    <desc lang="en">Stock up on genuine 925 Sterling Silver!</desc>
-  </programme>
   <programme channel="JewelleryMaker.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Metallic Thread Launch</title>
     <desc lang="en">Join guest designer Mark Smith for incredible jewellery making demonstrations!</desc>
@@ -31162,6 +31158,10 @@
   <programme channel="JewelleryMaker.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Hackmanite</title>
     <desc lang="en">Have your collection mingle with sun in amazing reactive displays, with Hackmanite!</desc>
+  </programme>
+  <programme channel="JewelleryMaker.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Jadeite Loop Bracelet</title>
+    <desc lang="en">Join guest designer Claire Macdonald for incredible jewellery making demonstrations!</desc>
   </programme>
   <programme channel="JewelleryMaker.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Jewellery Maker Repeats</title>
@@ -31515,10 +31515,6 @@
     <title lang="en">The Anthems</title>
     <desc lang="en">Turn up the volume for these massive rock anthems right here on Kerrang!</desc>
   </programme>
-  <programme channel="KissTVUK.uk" start="20230417105500" stop="20230417120000">
-    <title lang="en">KISSTORY: Old Skool &amp; Anthems</title>
-    <desc lang="en">Let us take you back in time with KISSTORY! Check out this mix of old skool anthems from some of the biggest artists in the world of Kiss.</desc>
-  </programme>
   <programme channel="KissTVUK.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Big Up: Nicki Minaj</title>
     <desc lang="en">Rapper, actress and the ultimate collaborator - is there anything Nicki Minaj can't do? We're giving her a massive big up by playing some of her hottest hits!</desc>
@@ -31582,6 +31578,10 @@
   <programme channel="KissTVUK.uk" start="20230418115500" stop="20230418120000">
     <title lang="en">Kiss Hot One: Chloe ft. Future</title>
     <desc lang="en">Check out the hottest new video on Kiss this week! This is Cheatback by Chloe, featuring Future!</desc>
+  </programme>
+  <programme channel="KissTVUK.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Big Up: DJ Khaled</title>
+    <desc lang="en">DJ, record producer andultimate collaborator - is there anything DJ Khaled can't do? We're giving him a massive big up by playing some of his hottest hits!</desc>
   </programme>
   <programme channel="KissTVUK.uk" start="20230417230000" stop="20230418060000">
     <title lang="en">Late Night Kiss</title>
@@ -31947,10 +31947,6 @@
     <title lang="en">The Brood</title>
     <desc lang="en">Classic Cronenberg body horror. A man suspects that there's a connection between a series of brutal attacks by mysterious children and his troubled wife's unconventional new treatment. (1979)</desc>
   </programme>
-  <programme channel="LondonLive.uk" start="20230417114500" stop="20230417120000">
-    <title lang="en">Secrets of London with Mark Monroe</title>
-    <desc lang="en">London cabbie Mark Monroe takes you to the hidden and more quirky parts of this amazing city that normally lie undiscovered.</desc>
-  </programme>
   <programme channel="LondonLive.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Monkey</title>
     <desc lang="en">The immature King of Youth decides to kidnap Tripitaka to gain the attention of Heaven and Earth.</desc>
@@ -32066,6 +32062,10 @@
   <programme channel="LondonLive.uk" start="20230418114500" stop="20230418120000">
     <title lang="en">Big City Life</title>
     <desc lang="en">Adjustments is a the glimpse at how a Londoner is helped in their grief process by an opera singer.</desc>
+  </programme>
+  <programme channel="LondonLive.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Most Extraordinary Families</title>
+    <desc lang="en">What exactly makes a family in today's often complex world? Each episode features three unique families from around the world who live their lives in a less than conventional way!</desc>
   </programme>
   <programme channel="LondonLive.uk" start="20230418005000" stop="20230418024000">
     <title lang="en">The Ashram</title>
@@ -33199,10 +33199,6 @@
     <title lang="en">Made For You With Love</title>
     <desc lang="en">Amanda runs a used wedding gown business, making dreams come true for impoverished brides. But a failed engagement has left her wary of romance. (2020)</desc>
   </programme>
-  <programme channel="Movies24Plus.uk" start="20230417100000" stop="20230417120000">
-    <title lang="en">Love Is A Piece Of Cake</title>
-    <desc lang="en">Jessie Dale loves her bakery more than anything in the world. When developers threaten to force her out, she has to save it - and juggle a romance. (2020)</desc>
-  </programme>
   <programme channel="Movies24Plus.uk" start="20230417120000" stop="20230417140000">
     <title lang="en">Sweet Autumn</title>
     <desc lang="en">Maggie inherits one half of her aunt's candy business - and sets out to find out why a handsome young guy called Dex has been left the other half. (2020)</desc>
@@ -33262,6 +33258,10 @@
   <programme channel="Movies24Plus.uk" start="20230418100000" stop="20230418120000">
     <title lang="en">New Year's Kiss</title>
     <desc lang="en">Hard-working Kelly quits dating after receiving an award and suffering a devastating break-up on the same night. But then a mysterious man appears... (2019)</desc>
+  </programme>
+  <programme channel="Movies24Plus.uk" start="20230418120000" stop="20230418140000">
+    <title lang="en">Radio Christmas (2019)</title>
+    <desc lang="en">When her radio station is closed for repairs, DJ Kara Porter has to broadcast from the town of Bethlehem, where she learns some seasonal life lessons. (2019)</desc>
   </programme>
   <programme channel="Movies24Plus.uk" start="20230418000000" stop="20230418020000">
     <title lang="en">A Paris Proposal (2023)</title>
@@ -33391,10 +33391,6 @@
     <title lang="en">Right In Front Of Me (2021)</title>
     <desc lang="en">Getting a second chance at romance with her college crush, Carly isn't sure how to impress him - until her new friend Nick helps out with advice. (2021)</desc>
   </programme>
-  <programme channel="NBCNewsNOW.us" start="20230417113000" stop="20230417120000">
-    <title lang="en">Early Today</title>
-    <desc lang="en">Everything you need to know to start your day with news updates from Frances Rivera and Phillip Mena.</desc>
-  </programme>
   <programme channel="NBCNewsNOW.us" start="20230417120000" stop="20230417130000">
     <title lang="en">Morning News NOW</title>
     <desc lang="en">The latest news and headlines with the smart, engaging and trustworthy context you need to succeed in your day.</desc>
@@ -33490,6 +33486,10 @@
   <programme channel="NBCNewsNOW.us" start="20230418113000" stop="20230418120000">
     <title lang="en">Early Today</title>
     <desc lang="en">Everything you need to know to start your day with news updates from Frances Rivera and Phillip Mena.</desc>
+  </programme>
+  <programme channel="NBCNewsNOW.us" start="20230418120000" stop="20230418130000">
+    <title lang="en">Morning News NOW</title>
+    <desc lang="en">The latest news and headlines with the smart, engaging and trustworthy context you need to succeed in your day.</desc>
   </programme>
   <programme channel="NBCNewsNOW.us" start="20230418010000" stop="20230418020000">
     <title lang="en">Stay Tuned Now with Gadi Schwartz</title>
@@ -33690,10 +33690,6 @@
   <programme channel="NBCNewsNOW.us" start="20230420010000" stop="20230420020000">
     <title lang="en">Stay Tuned Now with Gadi Schwartz</title>
     <desc lang="en">A fresh look at the day's news, from the latest breaking news to what's on the horizon.</desc>
-  </programme>
-  <programme channel="NHKWorldJapan.jp" start="20230417113000" stop="20230417120000">
-    <title lang="en">Where We Call Home</title>
-    <desc lang="en">We meet Richard Halberstadt from the UK, who relates his experience of the 2011 earthquake and tsunami in Ishinomaki, and Chinese-born Zhang Hecong, who works for a Japanese children's clothes brand.</desc>
   </programme>
   <programme channel="NHKWorldJapan.jp" start="20230417120000" stop="20230417122700">
     <title lang="en">Newsroom Tokyo</title>
@@ -34042,6 +34038,10 @@
   <programme channel="NHKWorldJapan.jp" start="20230418113000" stop="20230418120000">
     <title lang="en">Journeys in Japan</title>
     <desc lang="en">We explore the dynamic mountains of Japan's Northern Alps in Nagano, Gifu and Toyama. Against the dramatic backdrop of the four seasons, we hike, rock climb, snow trek, stream climb, summit and more.</desc>
+  </programme>
+  <programme channel="NHKWorldJapan.jp" start="20230418120000" stop="20230418122700">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.</desc>
   </programme>
   <programme channel="NHKWorldJapan.jp" start="20230418010000" stop="20230418011500">
     <title lang="en">NHK Newsline</title>
@@ -34771,6 +34771,10 @@
     <title lang="en">One Hit Wonders! 1970-1979</title>
     <desc lang="en">They all had 1 massive song, then never skirted the UK Top 20 singles chart again! Here are 70 acts from every year of the 70s, in order, who all achieved their 15 minutes of fame.</desc>
   </programme>
+  <programme channel="Now70s.uk" start="20230418120000" stop="20230418134000">
+    <title lang="en">Country Crossovers! 1970-1979</title>
+    <desc lang="en">Through the 70s country music threw up regular UK chart smashes - from Anne Murray and Johnny Cash in 1970 to Dr Hook and Kenny Rogers at the end of the decade. And yes, there's Dolly!</desc>
+  </programme>
   <programme channel="Now70s.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Simon Bates Golden Hour: 1979</title>
     <desc lang="en">60 minutes of hits and headlines from the year of 'Moonraker', 'Alien' and 'The Muppet Movie', and when 24 million people saw Penelope Keith in 'To The Manor Born' on TV.</desc>
@@ -35267,10 +35271,6 @@
     <title lang="en">I Loved To Rock In The 80s</title>
     <desc lang="en">Classic 80s rock songs! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Bonnie Tyler &amp; Fleetwood Mac.</desc>
   </programme>
-  <programme channel="PBSAmerica.uk" start="20230417105000" stop="20230417120000">
-    <title lang="en">Billy the Kid</title>
-    <desc lang="en">AMERICAN EXPERIENCE: The story of Henry McCarty, alias Billy the Kid, killed by an ambitious sheriff just weeks after avoiding the hangman's noose in a daring escape from prison.</desc>
-  </programme>
   <programme channel="PBSAmerica.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Alcatraz: The Greatest...</title>
     <desc lang="en">...Escapes: Taking a fresh look at the facts about the world's fiercest maximum security prison, home to legendary names like Al Capone, Machine Gun Kelly and the Birdman, Robert Stroud. (Part 1 of 2)</desc>
@@ -35346,6 +35346,10 @@
   <programme channel="PBSAmerica.uk" start="20230418105000" stop="20230418120000">
     <title lang="en">Wyatt Earp</title>
     <desc lang="en">AMERICAN EXPERIENCE: The life of Wyatt Earp brings into focus the politics, justice and economic opportunity presented by life on the American frontier.</desc>
+  </programme>
+  <programme channel="PBSAmerica.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Alcatraz: The Greatest...</title>
+    <desc lang="en">...Escapes: Taking a fresh look at the facts about the world's fiercest maximum security prison, home to legendary names like Al Capone, Machine Gun Kelly and the Birdman, Robert Stroud. (Part 2 of 2)</desc>
   </programme>
   <programme channel="PBSAmerica.uk" start="20230418000000" stop="20230418011500">
     <title lang="en">Billy the Kid</title>
@@ -35507,10 +35511,6 @@
     <title lang="en">Butch Cassidy &amp; The Sundance Kid</title>
     <desc lang="en">AMERICAN EXPERIENCE: Long before Paul Newman and Robert Redford immortalised them on screen, Butch Cassidy and the Sundance Kid captivated Americans from coast to coast.</desc>
   </programme>
-  <programme channel="Pick.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">Highway Patrol Australia</title>
-    <desc lang="en">Documentary series following Australia's traffic enforcers. Officers face high-speed chases, defiant hooligans, explosive crashes and out-of-control drunk drivers. (S6, ep 10)</desc>
-  </programme>
   <programme channel="Pick.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Road Wars</title>
     <desc lang="en">Dog handler Darryl attempts to defuse a pub fight, the Tactical Aid Group execute two flat raids and the Road Crime Unit are in hot pursuit of a dangerous driver. (S7, ep 3)</desc>
@@ -35650,6 +35650,10 @@
   <programme channel="Pick.uk" start="20230418113000" stop="20230418120000">
     <title lang="en">Highway Patrol Australia</title>
     <desc lang="en">Documentary series following Australia's traffic enforcers. Officers face high-speed chases, defiant hooligans, explosive crashes and out-of-control drunk drivers. (S7, ep 2)</desc>
+  </programme>
+  <programme channel="Pick.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Road Wars</title>
+    <desc lang="en">A car thief causes chaos in Torquay, the Road Crime Unit track a Mercedes Benz loaded with cocaine in Plymouth, and it's training day for the Tactical Aid Group. (S7, ep 4)</desc>
   </programme>
   <programme channel="Pick.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Brit Cops: Rapid Response</title>
@@ -35939,10 +35943,6 @@
     <title lang="en">Brit Cops: Rapid Response</title>
     <desc lang="en">Action-packed documentary following rapid response officers, the fastest cops in Britain, as they crack down on crime. Time is of the essence! (S3, ep 7)</desc>
   </programme>
-  <programme channel="Pop.uk" start="20230417113200" stop="20230417120300">
-    <title lang="en">Pokémon Ultimate Journeys:</title>
-    <desc lang="en">The Series: Bewitch, Battle, and Bewilder!: The second match of the Masters Eight Tournament semi-finals is here, and it's Ash versus Cynthia! (S25 Ep31)</desc>
-  </programme>
   <programme channel="Pop.uk" start="20230417120300" stop="20230417121300">
     <title lang="en">Grizzy And The Lemmings</title>
     <desc lang="en">Camping In The Wild: With their endless battles over the ranger's cabin, which they do not want to share, Grizzy and the Lemmings end up blowing the cabin up. (S2 Ep1)</desc>
@@ -36174,6 +36174,10 @@
   <programme channel="Pop.uk" start="20230418113200" stop="20230418120300">
     <title lang="en">Pokémon Ultimate Journeys:...</title>
     <desc lang="en">...The Series: Valor: A Strategic Part of Battling!: The Masters Eight Tournament battle between Ash and Cynthia is underway. Ash has three Pokémon left, while Cynthia has four. (S25 Ep32)</desc>
+  </programme>
+  <programme channel="Pop.uk" start="20230418120300" stop="20230418121300">
+    <title lang="en">Grizzy And The Lemmings</title>
+    <desc lang="en">Fountain Of Bear Youth: The Lemmings discover a strange pond in a Native American grotto that has the power to rejuvenate anyone who dips in it. (S2 Ep4)</desc>
   </programme>
   <programme channel="Pop.uk" start="20230418000000" stop="20230418060000">
     <title lang="en">POP Through The Night</title>
@@ -36647,10 +36651,6 @@
     <title lang="en">POP Through The Night</title>
     <desc lang="en">POP through the night.</desc>
   </programme>
-  <programme channel="PopMax.uk" start="20230417113000" stop="20230417120100">
-    <title lang="en">Skylanders Academy</title>
-    <desc lang="en">Sheep(ball) Dreams: Dreamcatcher gets amnesia, giving the Skylanders a chance to bring her back to the Academy and prevent her from returning to her evil ways. (S2 Ep11)</desc>
-  </programme>
   <programme channel="PopMax.uk" start="20230417120100" stop="20230417123200">
     <title lang="en">Skylanders Academy</title>
     <desc lang="en">It Techs Two: Jet-Vac feels insecure about his role with the Skylanders when Sprocket is brought in and starts taking care of tech-related problems. (S2 Ep12)</desc>
@@ -36926,6 +36926,10 @@
   <programme channel="PopMax.uk" start="20230418113000" stop="20230418120100">
     <title lang="en">Skylanders Academy</title>
     <desc lang="en">Touch of Evil: As he tries to learn more about his ancestors, Spyro searches for a dragon king. Kaos attempts to free an evil being that can rule the Skylands. (S2 Ep13)</desc>
+  </programme>
+  <programme channel="PopMax.uk" start="20230418120100" stop="20230418123200">
+    <title lang="en">Skylanders Academy</title>
+    <desc lang="en">Skylanders Unite! - Part 1: The cadets gather for graduation day, but Spyro must overcome his big ego and bad attitude in order to join his friends as a Skylander. (S1 Ep1)</desc>
   </programme>
   <programme channel="PopMax.uk" start="20230418000000" stop="20230418060000">
     <title lang="en">POP Max Through the Night</title>
@@ -37487,10 +37491,6 @@
     <title lang="en">POP Max Through the Night</title>
     <desc lang="en">POP Max Through the Night.</desc>
   </programme>
-  <programme channel="PopMaxPlus1.uk" start="20230417114500" stop="20230417120000">
-    <title lang="en">Total Dramarama</title>
-    <desc lang="en">Lie-ranosaurus Wrecked: Owen pretends to be Izzy's pet dinosaur after leading her to believe she dug him up in the school playground. (S2 Ep4)</desc>
-  </programme>
   <programme channel="PopMaxPlus1.uk" start="20230417120000" stop="20230417121500">
     <title lang="en">Total Dramarama</title>
     <desc lang="en">An Egg-stremely Bad Idea: Hoping to 'brighten her day,' Izzy and Owen revamp Gwen's egg chair. (S2 Ep5)</desc>
@@ -37766,6 +37766,10 @@
   <programme channel="PopMaxPlus1.uk" start="20230418114500" stop="20230418120000">
     <title lang="en">Total Dramarama</title>
     <desc lang="en">Student Becomes The Teacher: Chef is knocked unconscious right before a school board evaluator shows up for a big review. Now Owen has to fill in so Chef doesn't lose his teaching licence. (S2 Ep10)</desc>
+  </programme>
+  <programme channel="PopMaxPlus1.uk" start="20230418120000" stop="20230418121500">
+    <title lang="en">Total Dramarama</title>
+    <desc lang="en">Beth And The Beanstalk: After having a chocolate bar confiscated by Chef, Beth finds herself in a parallel giant world and aims to get back her now giant chocolate bar. (S2 Ep11)</desc>
   </programme>
   <programme channel="PopMaxPlus1.uk" start="20230418010000" stop="20230418070000">
     <title lang="en">POP Max Through the Night</title>
@@ -38327,10 +38331,6 @@
     <title lang="en">POP Max Through the Night</title>
     <desc lang="en">POP Max Through the Night.</desc>
   </programme>
-  <programme channel="PopPlus1.uk" start="20230417113000" stop="20230417120100">
-    <title lang="en">Miraculous: Tales of Ladybug...</title>
-    <desc lang="en">...and Cat Noir: Truth: A friend of Marinette's is akumatized into Truth. Using his power to force people to tell the truth, he wants to know Marinette's secret - and Ladybug and Cat Noir's! (S4 Ep1)</desc>
-  </programme>
   <programme channel="PopPlus1.uk" start="20230417120100" stop="20230417123200">
     <title lang="en">Miraculous: Tales of Ladybug...</title>
     <desc lang="en">...and Cat Noir: Lies: A friend of Adrien's is akumatized into Lies. Able to make liars disappear, she is determined to rid the world of lies and those who tell them - including superheroes! (S4 Ep2)</desc>
@@ -38562,6 +38562,10 @@
   <programme channel="PopPlus1.uk" start="20230418113000" stop="20230418120100">
     <title lang="en">Miraculous: Tales of Ladybug</title>
     <desc lang="en">and Cat Noir: Gang of Secrets: Marinette's friends get akumatized into the Gang of Secrets, a team of supervillains determined to save her, whether she wants it or not! (S4 Ep3)</desc>
+  </programme>
+  <programme channel="PopPlus1.uk" start="20230418120100" stop="20230418123200">
+    <title lang="en">Miraculous: Tales of Ladybug...</title>
+    <desc lang="en">...and Cat Noir: Pigeon 72: Mr Ramier is akumatized into Mr Pigeon for the 72nd time, and now he can turn people into evil pigeons! To stop him, Ladybug must ruffle his feathers once more. (S4 Ep4)</desc>
   </programme>
   <programme channel="PopPlus1.uk" start="20230418010000" stop="20230418070000">
     <title lang="en">POP Through The Night</title>
@@ -39035,10 +39039,6 @@
     <title lang="en">POP Through The Night</title>
     <desc lang="en">POP through the night.</desc>
   </programme>
-  <programme channel="QVCBeautyUK.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Beauty on 4 Easy Pay</title>
-    <desc lang="en">Discover a huge range of fabulous beauty and skincare products from top brands and spread the cost with four easy interest-free instalments, helping you enjoy your favourite beauty on a budget.</desc>
-  </programme>
   <programme channel="QVCBeautyUK.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">L'Occitane On 4 Easy Pay</title>
     <desc lang="en">Discover a range of bath, body and home products from Provence, formulated with natural ingredients.</desc>
@@ -39132,6 +39132,10 @@
     <desc lang="en">All the highlights and star products.</desc>
   </programme>
   <programme channel="QVCBeautyUK.uk" start="20230418110000" stop="20230418120000">
+    <title lang="en">Best Of QVC Beauty</title>
+    <desc lang="en">All the highlights and star products.</desc>
+  </programme>
+  <programme channel="QVCBeautyUK.uk" start="20230418120000" stop="20230418130000">
     <title lang="en">Best Of QVC Beauty</title>
     <desc lang="en">All the highlights and star products.</desc>
   </programme>
@@ -39335,10 +39339,6 @@
     <title lang="en">Beauty Loves...</title>
     <desc lang="en">Love beauty? Tune in to see our exciting array of popular and iconic brands plus cult products you're sure to love.</desc>
   </programme>
-  <programme channel="QVCExtraUK.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">New Term Technology</title>
-    <desc lang="en">Teleshopping.</desc>
-  </programme>
   <programme channel="QVCExtraUK.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">QVC Extra Highlights</title>
     <desc lang="en">It's your second chance to see the fabulous products that have recently aired in our highlights show! With a range of cult products form iconic brands on offer, this is truly the best bits.</desc>
@@ -39432,6 +39432,10 @@
     <desc lang="en">All the highlights and star products.</desc>
   </programme>
   <programme channel="QVCExtraUK.uk" start="20230418110000" stop="20230418120000">
+    <title lang="en">Best of QVC Extra</title>
+    <desc lang="en">All the highlights and star products.</desc>
+  </programme>
+  <programme channel="QVCExtraUK.uk" start="20230418120000" stop="20230418130000">
     <title lang="en">Best of QVC Extra</title>
     <desc lang="en">All the highlights and star products.</desc>
   </programme>
@@ -39635,10 +39639,6 @@
     <title lang="en">QVC Extra Highlights</title>
     <desc lang="en">It's your second chance to see the fabulous products that have recently aired in our highlights show! With a range of cult products form iconic brands on offer, this is truly the best bits.</desc>
   </programme>
-  <programme channel="QuestRedUK.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Forensic Detectives</title>
-    <desc lang="en">Soldier Soldier. Forensic experts uncover the stories behind the deaths of the young men who went to war and never came back. S1, Ep1</desc>
-  </programme>
   <programme channel="QuestRedUK.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Forensic Detectives</title>
     <desc lang="en">Deadly Chemistry. Poisons can be deadly and are often impossible to detect. Forensic experts show how they can solve these mysterious deaths. S1, Ep2</desc>
@@ -39762,6 +39762,10 @@
   <programme channel="QuestRedUK.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Forensic Detectives</title>
     <desc lang="en">Camera Clues. Forensic photographers are often first at the scene of a crime, capturing vital clues on film; but what can these pictures reveal? S1, Ep5</desc>
+  </programme>
+  <programme channel="QuestRedUK.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Forensic Detectives</title>
+    <desc lang="en">Double Helix. Just a few microscopic cells, from even a single hair or drop of blood, can place a murderer behind bars. What does DNA mean for crime solving today? S1, Ep6</desc>
   </programme>
   <programme channel="QuestRedUK.uk" start="20230418000000" stop="20230418013000">
     <title lang="en">Michael Sams: Kidnapper Killer</title>
@@ -40023,10 +40027,6 @@
     <title lang="en">Forensic Detectives</title>
     <desc lang="en">Deadly Intentions. When murder victims are killed by people they know, forensic examiners must expose the deception and reveal a killer's deadly intentions. S6, Ep6</desc>
   </programme>
-  <programme channel="QuestRedUKPlus1.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">FBI Files</title>
-    <desc lang="en">Predator. When a little girl is abducted the FBI race to locate their prime suspect - a drifter on parole for kidnapping children - but will they find him before it's too late? S3, Ep6</desc>
-  </programme>
   <programme channel="QuestRedUKPlus1.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Forensic Detectives</title>
     <desc lang="en">Soldier Soldier. Forensic experts uncover the stories behind the deaths of the young men who went to war and never came back. S1, Ep1</desc>
@@ -40150,6 +40150,10 @@
   <programme channel="QuestRedUKPlus1.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">FBI Files</title>
     <desc lang="en">Backstage Murder. Years after a successful TV producer is gunned down in his New York office, a tip leads the FBI to a murderous entertainment industry giant. S3, Ep13</desc>
+  </programme>
+  <programme channel="QuestRedUKPlus1.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Forensic Detectives</title>
+    <desc lang="en">Camera Clues. Forensic photographers are often first at the scene of a crime, capturing vital clues on film; but what can these pictures reveal? S1, Ep5</desc>
   </programme>
   <programme channel="QuestRedUKPlus1.uk" start="20230418010000" stop="20230418023000">
     <title lang="en">Michael Sams: Kidnapper Killer</title>
@@ -40407,10 +40411,6 @@
     <title lang="en">Forensic Detectives</title>
     <desc lang="en">Silent Witness. A missing daughter has been on a date, a decapitated woman's body is discovered by a fisherman and a reported suicide involves toxic liquid S6, Ep5</desc>
   </programme>
-  <programme channel="QuestUK.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Vintage Voltage</title>
-    <desc lang="en">Businessman Leighton wants his underpowered DeLorean to run on electric. Can Moggy transform this iconic car and get it ready for a daily commute?</desc>
-  </programme>
   <programme channel="QuestUK.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Wheeler Dealers</title>
     <desc lang="en">Frogeye Sprite. Mike attempts to double his money by turning an old Frogeye Sprite into a premiership quality classic car to be test driven around the Brooklands Motor Museum.</desc>
@@ -40534,6 +40534,10 @@
   <programme channel="QuestUK.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Vintage Voltage</title>
     <desc lang="en">Moggy and the team plan to create an Austin Mini with ten times more power than the old petrol version. But electrical issues threaten the entire project.</desc>
+  </programme>
+  <programme channel="QuestUK.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Wheeler Dealers</title>
+    <desc lang="en">Saab 9-3. Mike wants a high performance car with an historic badge, but it's hard to find a Saab 9-3 Turbo at a good price. With tight margins will Edd have any room for manoeuvre?</desc>
   </programme>
   <programme channel="QuestUK.uk" start="20230418010000" stop="20230418013000">
     <title lang="en">Border Control: Spain</title>
@@ -40783,10 +40787,6 @@
     <title lang="en">Border Control: Spain</title>
     <desc lang="en">A shipment of animal feed from South America delivers a collection of questionable bags. A tragedy lands at Barcelona Airport which shocks and repels officers.</desc>
   </programme>
-  <programme channel="QuestUKPlus1.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">Chasing Classic Cars</title>
-    <desc lang="en">Bigger In Texas. Wayne discovers 2 Ferraris and a 1977 Maserati Coupe in a storage shed. Original and untouched these cars quickly catch the attention of the collector car world. S4, Ep13</desc>
-  </programme>
   <programme channel="QuestUKPlus1.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Vintage Voltage</title>
     <desc lang="en">Businessman Leighton wants his underpowered DeLorean to run on electric. Can Moggy transform this iconic car and get it ready for a daily commute? S2, Ep2</desc>
@@ -40910,6 +40910,10 @@
   <programme channel="QuestUKPlus1.uk" start="20230418113000" stop="20230418120000">
     <title lang="en">Chasing Classic Cars</title>
     <desc lang="en">Hershey. Wayne has a 1931 Cadillac, and he plans to take it to the RM Auction in Pennsylvania, whilst a recreation of a 1937 Bugatti Atlantique has some braking issues. S5, Ep2</desc>
+  </programme>
+  <programme channel="QuestUKPlus1.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Vintage Voltage</title>
+    <desc lang="en">Moggy and the team plan to create an Austin Mini with ten times more power than the old petrol version. But electrical issues threaten the entire project. S2, Ep3</desc>
   </programme>
   <programme channel="QuestUKPlus1.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Wheeler Dealers</title>
@@ -41159,10 +41163,6 @@
     <title lang="en">Wheeler Dealers</title>
     <desc lang="en">Try, Try, Triumph. To Ant's dismay, Mike buys a 1979 Triumph TR7. Underneath its disco-era styling are some quirks, like a homemade air cleaner, bad wiring and soft shocks. S16, Ep2</desc>
   </programme>
-  <programme channel="RTE2.ie" start="20230417115000" stop="20230417120000">
-    <title lang="en">Fluffy Gardens</title>
-    <desc lang="en">Pre-school series featuring an assortment of animal characters and focusing iin this episode on Polly the tiger. S1 Ep32</desc>
-  </programme>
   <programme channel="RTE2.ie" start="20230417120000" stop="20230417121000">
     <title lang="en">Boy Girl Dog Cat Mouse Cheese</title>
     <desc lang="en">Driven to distraction by boisterous behaviour, Girl decides to move into the Grampavan. S2 Ep9</desc>
@@ -41390,6 +41390,10 @@
   <programme channel="RTE2.ie" start="20230418115000" stop="20230418120000">
     <title lang="en">Fluffy Gardens</title>
     <desc lang="en">Pre-school series featuring an assortment of animal characters. S1 Ep34</desc>
+  </programme>
+  <programme channel="RTE2.ie" start="20230418120000" stop="20230418121000">
+    <title lang="en">Boy Girl Dog Cat Mouse Cheese</title>
+    <desc lang="en">The kids find a treasure map, causing treasure-hunting fever to descend on the family. S2 Ep11</desc>
   </programme>
   <programme channel="RTE2.ie" start="20230418003000" stop="20230418013000">
     <title lang="en">Love/Hate</title>
@@ -41991,10 +41995,6 @@
     <title lang="en">Special Forces - Ultimate Hell Week</title>
     <desc lang="en">Army training challenge in which civilian recruits are put through a gruelling special forces selection course. S3 Ep5</desc>
   </programme>
-  <programme channel="RTENews.ie" start="20230417110000" stop="20230417120000">
-    <title lang="en">Today with Claire Byrne</title>
-    <desc lang="en">The Today show live from RTÉ Radio 1</desc>
-  </programme>
   <programme channel="RTENews.ie" start="20230417120000" stop="20230417130000">
     <title lang="en">Latest News and Weather</title>
     <desc lang="en">The latest news from RTÉ. Followed by Weather.</desc>
@@ -42098,6 +42098,10 @@
   <programme channel="RTENews.ie" start="20230418110000" stop="20230418120000">
     <title lang="en">Today with Claire Byrne</title>
     <desc lang="en">The Today show live from RTÉ Radio 1</desc>
+  </programme>
+  <programme channel="RTENews.ie" start="20230418120000" stop="20230418130000">
+    <title lang="en">Latest News and Weather</title>
+    <desc lang="en">The latest news from RTÉ. Followed by Weather.</desc>
   </programme>
   <programme channel="RTENews.ie" start="20230417235500" stop="20230418070000">
     <title lang="en">EuroNews</title>
@@ -42222,10 +42226,6 @@
   <programme channel="RTENews.ie" start="20230419002500" stop="20230419070000">
     <title lang="en">EuroNews</title>
     <desc lang="en">The latest International and European news.</desc>
-  </programme>
-  <programme channel="RTEOne.ie" start="20230417110500" stop="20230417120000">
-    <title lang="en">Dr Phil</title>
-    <desc lang="en">Carry the Bury: The Abortion Debate: Talk show in which Dr Phil McGraw invites guests to confront their problems. S21 Ep1</desc>
   </programme>
   <programme channel="RTEOne.ie" start="20230417120000" stop="20230417130000">
     <title lang="en">How To Live Better For Longer</title>
@@ -42919,10 +42919,6 @@
     <title lang="en">Sherwood</title>
     <desc lang="en">As Ian and Kevin are called to the scene of a second murder, news breaks of a former spy in the community at Gary's memorial service. Meanwhile, Scott remains at large.</desc>
   </programme>
-  <programme channel="RTEjr.ie" start="20230417115000" stop="20230417120000">
-    <title lang="en">Ricky Zoom</title>
-    <desc lang="en">The Mega-Whirly-Leap: Ricky is chosen to perform a big school ramp stunt in front of Steel Awesome.</desc>
-  </programme>
   <programme channel="RTEjr.ie" start="20230417120000" stop="20230417121000">
     <title lang="en">Bright Sparks</title>
     <desc lang="en">Clara encourages Dr. Tunes to do what makes her happy and make songs for her own entertainment rather than worry about how it is received by others.</desc>
@@ -43262,6 +43258,10 @@
   <programme channel="RTEjr.ie" start="20230418115000" stop="20230418120000">
     <title lang="en">Ricky Zoom</title>
     <desc lang="en">Trike Trials: DJ cannot play on the new climbing structure because of his extra wheel, so his friends do their best to help out.</desc>
+  </programme>
+  <programme channel="RTEjr.ie" start="20230418120000" stop="20230418121000">
+    <title lang="en">Bright Sparks</title>
+    <desc lang="en">Celebrating the achievements of children all over Britain.</desc>
   </programme>
   <programme channel="RTEjr.ie" start="20230417190000" stop="20230418070000">
     <title lang="en">Programmes Start at 07:00</title>
@@ -43947,10 +43947,6 @@
     <title lang="en">Programmes Start at 07:00</title>
     <desc lang="en">Programmes Start at 07:00</desc>
   </programme>
-  <programme channel="RealityXtra.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Matlock</title>
-    <desc lang="en">Matlock relates the old story of an investigation into a widow who may have been a murderer.</desc>
-  </programme>
   <programme channel="RealityXtra.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">The Fugitive</title>
     <desc lang="en">Kimble calls on Dr. McAllister, a former mentor, but does not realise that his friend is both physically and mentally ill.</desc>
@@ -44098,6 +44094,10 @@
   <programme channel="RealityXtra.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Matlock</title>
     <desc lang="en">Matlock represents a rich widow who is charged with the murder of her husband.</desc>
+  </programme>
+  <programme channel="RealityXtra.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">The Fugitive</title>
+    <desc lang="en">When a sharp-eyed reporter spots a one-armed man in a police roundup of suspicious characters, she suggests in print that he might be connected to the Kimble case.</desc>
   </programme>
   <programme channel="RealityXtra.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Matlock</title>
@@ -44399,10 +44399,6 @@
     <title lang="en">Matlock</title>
     <desc lang="en">Matlock represents a rich widow who is charged with the murder of her husband.</desc>
   </programme>
-  <programme channel="Really.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Celebrity Antiques Road Trip</title>
-    <desc lang="en">Comedians Al Murray and Paul Chowdhry look for bargains in London. Which of these jokesters will have the last laugh at the auction in Buckinghamshire? S8, Ep4</desc>
-  </programme>
   <programme channel="Really.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">The Yorkshire Auction House</title>
     <desc lang="en">Angus is in Fife to dig through three generations of family clutter. They uncover a rocking horse and a collection of rare Beatrix Potter figurines. S1, Ep9</desc>
@@ -44494,6 +44490,10 @@
   <programme channel="Really.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Antiques Road Trip</title>
     <desc lang="en">Catherine Southon and James Braxton hunt for interesting antiques in Evesham. Plus, James uncovers a fascinating tale at the Royal Shakespeare Company. S20, Ep2</desc>
+  </programme>
+  <programme channel="Really.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">The Yorkshire Auction House</title>
+    <desc lang="en">Angus and the team search for interesting items at a historic home in Coventry. Later, they travel to Aberdeenshire to collect some unusual Asian furniture. S1, Ep10</desc>
   </programme>
   <programme channel="Really.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Ghost Adventures</title>
@@ -44851,10 +44851,6 @@
     <title lang="en">Made In Heaven</title>
     <desc lang="en">Once dead, a decent romantic was given a second chance to find love, but his time is short.</desc>
   </programme>
-  <programme channel="S4C.uk" start="20230417114000" stop="20230417120000">
-    <title lang="en">Fferm Fach</title>
-    <desc lang="en">Mae Nel eisiau gwybod o ble mae blawd yn dod. Felly, mae Hywel y ffermwr hud yn mynd â hi i Fferm Fach i ddangos hud ffermio go iawn iddi. Nel wants to know where Flour comes from.</desc>
-  </programme>
   <programme channel="S4C.uk" start="20230417120000" stop="20230417120500">
     <title lang="en">Newyddion S4C</title>
     <desc lang="en">Newyddion S4C a'r Tywydd. S4C News and Weather.</desc>
@@ -45102,6 +45098,10 @@
   <programme channel="S4C.uk" start="20230418114000" stop="20230418120000">
     <title lang="en">Kim a Cêt a Twrch</title>
     <desc lang="en">Ymunwch â Kim a Cêt ar antur hudolus a chwareus sy'n llawn dawns a cherddoriaeth wrth iddyn nhw chwilio am Twrch yn y goedwig. Join Kim and Cêt on a magical and playful adventure.</desc>
+  </programme>
+  <programme channel="S4C.uk" start="20230418120000" stop="20230418120500">
+    <title lang="en">Newyddion S4C</title>
+    <desc lang="en">Newyddion S4C a'r Tywydd. S4C News and Weather.</desc>
   </programme>
   <programme channel="S4C.uk" start="20230418000000" stop="20230418013000">
     <title lang="en">Teleshopping</title>
@@ -45607,10 +45607,6 @@
     <title lang="en">Teleshopping</title>
     <desc lang="en">Home Shopping.</desc>
   </programme>
-  <programme channel="SkyNews.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">Sky News Today</title>
-    <desc lang="en">The latest breaking news stories with reports and analysis from Sky News correspondents in the UK and around the world.</desc>
-  </programme>
   <programme channel="SkyNews.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">Sky News Today</title>
     <desc lang="en">Jayne Secker with a round-up of all the main lunchtime news, with analysis from Sky News correspondents in the UK and around the world.</desc>
@@ -45802,6 +45798,10 @@
   <programme channel="SkyNews.uk" start="20230418113000" stop="20230418120000">
     <title lang="en">Sky News Today</title>
     <desc lang="en">The latest breaking news stories with reports and analysis from Sky News correspondents in the UK and around the world.</desc>
+  </programme>
+  <programme channel="SkyNews.uk" start="20230418120000" stop="20230418123000">
+    <title lang="en">Sky News Today</title>
+    <desc lang="en">Jayne Secker with a round-up of all the main lunchtime news, with analysis from Sky News correspondents in the UK and around the world.</desc>
   </programme>
   <programme channel="SkyNews.uk" start="20230418010000" stop="20230418013000">
     <title lang="en">Sky News</title>
@@ -46519,6 +46519,10 @@
     <title lang="en">Life Today</title>
     <desc lang="en">Hosted by James and Betty Robison. The daily program features guests who have emerged victorious from difficulties in their lives.</desc>
   </programme>
+  <programme channel="TBNUK.uk" start="20230418120000" stop="20230418123000">
+    <title lang="en">Joseph Prince</title>
+    <desc lang="en">Joseph Prince pastors New Creation Church in Singapore, join him as he teaches about pure unadulterated grace, desiring to see people blessed by the Lord.</desc>
+  </programme>
   <programme channel="TBNUK.uk" start="20230418060000" stop="20230418063000">
     <title lang="en">The Potters Touch</title>
     <desc lang="en">Featuring the ministry of Bishop T.D. Jakes as he tackles todays topics and issues by offering practical and spiritual solutions to life's toughest questions.</desc>
@@ -46839,10 +46843,6 @@
     <title lang="en">TBN UK Music</title>
     <desc lang="en">Enjoy Praise and Worship songs from around the world.</desc>
   </programme>
-  <programme channel="TJC.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">One to Own with Lindsey</title>
-    <desc lang="en">If you're looking for that 'special certain something', then look no further. TJC have just the thing for you as she presents today's must-have items.</desc>
-  </programme>
   <programme channel="TJC.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Under £20 Deals with Lindsey</title>
     <desc lang="en">Upgrade your style without breaking the bank! Discover our under £20 collection of jewellery, fashion, beauty and home accessories today.</desc>
@@ -46938,6 +46938,10 @@
   <programme channel="TJC.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">One to Own with Mark</title>
     <desc lang="en">If you're looking for that 'special certain something', then look no further. TJC have just the thing for you as she presents today's must-have items.</desc>
+  </programme>
+  <programme channel="TJC.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Lifestyle Day with Mark</title>
+    <desc lang="en">The perfect collection for you and your home. Whether you're looking to spruce up your living space, feel and look great with our beauty essentials or step out in style with new fashion finds.</desc>
   </programme>
   <programme channel="TJC.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Lifestyle Deals with Derek</title>
@@ -47795,10 +47799,6 @@
     <title lang="en">Chart Hits &amp; New Vids</title>
     <desc lang="en">Check out this huge mix of non-stop chart hits and the biggest music videos around!</desc>
   </programme>
-  <programme channel="TinyPop.uk" start="20230417113100" stop="20230417120200">
-    <title lang="en">Gabby's Dollhouse</title>
-    <desc lang="en">Kitty Rangers: Kitty Ranger Team Leader Mama Box helps Kitty Ranger Gabby and Pandy get a lost Baby Me-Owl back home to its Mama in the Fairy Tale Garden. They embark on a hiking adventure! (S1 Ep16)</desc>
-  </programme>
   <programme channel="TinyPop.uk" start="20230417120200" stop="20230417123300">
     <title lang="en">Gabby's Dollhouse</title>
     <desc lang="en">The Meow-Mazing Games: In the annual Meow-Mazing Games, Gabby, Pandy, and Carlita encounter stiff competition from the Doodads and must work together to bring home the dollhouse trophy. (S1 Ep17)</desc>
@@ -48170,6 +48170,10 @@
   <programme channel="TinyPop.uk" start="20230418113100" stop="20230418120200">
     <title lang="en">Gabby's Dollhouse</title>
     <desc lang="en">The Dollhouse Hotel: Hotel guests Gabby and Pandy check in with the Hotel Manager DJ Catnip then go to Mercat's Spa and even order room service from Pillow Cat! (S1 Ep19)</desc>
+  </programme>
+  <programme channel="TinyPop.uk" start="20230418120200" stop="20230418123300">
+    <title lang="en">Gabby's Dollhouse</title>
+    <desc lang="en">A Knight's Tail: Gabby the Bold and Pandy the Purr-owd are Knights in Training, and they head into the dollhouse for the Royal Knighting Ceremony. But someone's locked King Catnip! (S1 Ep20)</desc>
   </programme>
   <programme channel="TinyPop.uk" start="20230418000000" stop="20230418060000">
     <title lang="en">Tiny POP Through the Night</title>
@@ -48923,10 +48927,6 @@
     <title lang="en">Tiny POP Through the Night</title>
     <desc lang="en">Tiny POP Through the Night</desc>
   </programme>
-  <programme channel="TinyPopPlus1.uk" start="20230417115000" stop="20230417120000">
-    <title lang="en">Elmo's World</title>
-    <desc lang="en">Maps: Elmo explores and discovers more about maps. (S4 Ep5)</desc>
-  </programme>
   <programme channel="TinyPopPlus1.uk" start="20230417120000" stop="20230417123100">
     <title lang="en">Gabby's Dollhouse</title>
     <desc lang="en">Pete the Polar Bear: Pete the Polar Bear shows up for a vacation on MerCat's sunny beach. Gabby, Pandy, and the Gabby Cats show Pete he can have a great vacation. (S1 Ep15)</desc>
@@ -49298,6 +49298,10 @@
   <programme channel="TinyPopPlus1.uk" start="20230418115000" stop="20230418120000">
     <title lang="en">Elmo's World</title>
     <desc lang="en">Getting Dressed: Elmo explores and discovers more about getting dressed. (S4 Ep6)</desc>
+  </programme>
+  <programme channel="TinyPopPlus1.uk" start="20230418120000" stop="20230418123100">
+    <title lang="en">Gabby's Dollhouse</title>
+    <desc lang="en">Pandy's Birthday: It's Pandy's birthday!! The dollhouse is throwing a surprise party for him! But when the big moment comes, Pandy drops his cake! They now have smash cake! (S1 Ep18)</desc>
   </programme>
   <programme channel="TinyPopPlus1.uk" start="20230418010000" stop="20230418070000">
     <title lang="en">Tiny POP Through the Night</title>
@@ -50051,10 +50055,6 @@
     <title lang="en">Tiny POP Through the Night</title>
     <desc lang="en">Tiny POP Through the Night</desc>
   </programme>
-  <programme channel="TogetherTV.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Garden Rescue</title>
-    <desc lang="en">Steve and Alice are after an Ibiza-inspired space that also works as a family garden. S3 22/30</desc>
-  </programme>
   <programme channel="TogetherTV.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Garden Rescue</title>
     <desc lang="en">Philip and Lorraine in Stockport want to transform a forgotten plot into a stately garden. With a budget of £4,750, Charlie and the Rich brothers compete to win the pitch.</desc>
@@ -50182,6 +50182,10 @@
   <programme channel="TogetherTV.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Garden Rescue</title>
     <desc lang="en">Charlie and the Rich brothers have to turn a concrete wasteland into a family garden. S3 23/30</desc>
+  </programme>
+  <programme channel="TogetherTV.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Garden Rescue</title>
+    <desc lang="en">Gillian and Mark have moved to their Victorian forever home in Oxford, and they dream of a Victorian cottage garden to match. Charlie and the Rich brothers have £3,500 to do it.</desc>
   </programme>
   <programme channel="TogetherTV.uk" start="20230418001500" stop="20230418011500">
     <title lang="en">Extraordinary Escapes...</title>
@@ -50423,10 +50427,6 @@
     <title lang="en">Extraordinary Escapes...</title>
     <desc lang="en">Sandi's joined by Sindhu Vee for some extraordinary Scottish escapes, from a lighthouse keeper's cottage and a luxury shooting lodge to an elliptical-shaped bolthole. 3/4</desc>
   </programme>
-  <programme channel="TraceVault.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">Who Remembers Nelly Furtado?</title>
-    <desc lang="en">Who remembers the man eater Nelly Furtado? Well let's reflect on the biggest hits from her.</desc>
-  </programme>
   <programme channel="TraceVault.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">Trace Talks: Steve Cardenas</title>
     <desc lang="en">Steve Cardenas, who played Rocky the Red Ranger in Mighty Morphin Power Rangers, sits down with Trace Vault to discuss all things Power Rangers, with all the highs and lows, and what he is up to now.</desc>
@@ -50546,6 +50546,10 @@
   <programme channel="TraceVault.uk" start="20230418113000" stop="20230418120000">
     <title lang="en">Nathan Sykes' Birthday Beats</title>
     <desc lang="en">We wish Nathan Sykes from The Wanted a very happy birthday with back to back hits.</desc>
+  </programme>
+  <programme channel="TraceVault.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">Trace Vault's Songs You Didn't...</title>
+    <desc lang="en">...Know Were Sampled: Have you got a favourite song and didn't know it sampled another song? At Trace Vault we are all about educating as we bring you the greatest hits you didn't know were sampled.</desc>
   </programme>
   <programme channel="TraceVault.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">The Year Is 2008!</title>
@@ -50779,10 +50783,6 @@
     <title lang="en">The Year Is 2003!</title>
     <desc lang="en">Let's rewind to 2003 and see what was poppin' with the music videos at this time.</desc>
   </programme>
-  <programme channel="Travelxp.in" start="20230417113000" stop="20230417120000">
-    <title lang="en">Quest</title>
-    <desc lang="en">Alex Outhwaite meets a Nawab in Lucknow, who shows her how to make Gosht Mawazad, a decadent Awadhi dish with mutton and dry fruits.</desc>
-  </programme>
   <programme channel="Travelxp.in" start="20230417120000" stop="20230417123000">
     <title lang="en">World Heritage</title>
     <desc lang="en">Travel back in time, explore the monuments and learn about the architecture built by the Mughals in Agra and Fatehpur Sikri.</desc>
@@ -50962,6 +50962,10 @@
   <programme channel="Travelxp.in" start="20230418113000" stop="20230418120000">
     <title lang="en">Viajar Mexico</title>
     <desc lang="en">Charlie introduces the indigenous handicrafts of Oaxaca, including the whimsical creatures with a unique story.</desc>
+  </programme>
+  <programme channel="Travelxp.in" start="20230418120000" stop="20230418123000">
+    <title lang="en">Xplore Ireland</title>
+    <desc lang="en">Which is the UNESCO City of Literature? Here's a clue - it's also the treasure trove of Guinness! Taste the merriment in Dublin, the capital city of Ireland.</desc>
   </programme>
   <programme channel="Travelxp.in" start="20230418010000" stop="20230418013000">
     <title lang="en">XP Guide</title>
@@ -51639,10 +51643,6 @@
     <title lang="en">English Football League Highlights</title>
     <desc lang="en">Hugh Woozencroft rounds up the day's action in the EFL alongside Clinton Morrison. S1 Ep49</desc>
   </programme>
-  <programme channel="W.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">DIY SOS</title>
-    <desc lang="en">Huntingdon: Home renovations with a heart. Nick helps out Julie from Huntingdon who selflessly took in her dying friend's five children, and is now a tad short on space. S23 Ep7</desc>
-  </programme>
   <programme channel="W.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">Rachel Khoo's Kitchen Notebook</title>
     <desc lang="en">Costa Brava: Rachel visits the romantic Catalonian coastline and uncovers some local foodie secrets. Back home, she makes leek parcels with a Romesco sauce. S1 Ep3</desc>
@@ -51734,6 +51734,10 @@
   <programme channel="W.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">DIY SOS</title>
     <desc lang="en">Fareham: Inspirational home renovations. Nick Knowles and the dream team renovate a tiny, cramped house for a couple and their growing twin boys. S23 Ep9</desc>
+  </programme>
+  <programme channel="W.uk" start="20230418120000" stop="20230418123000">
+    <title lang="en">Rachel Khoo's Kitchen Notebook</title>
+    <desc lang="en">Stockholm: Rachel explores Sweden's capital to discover why Scandinavian food is so fashionable. She is also inspired by some traditional Swedish baking. S1 Ep5</desc>
   </programme>
   <programme channel="W.uk" start="20230418000000" stop="20230418012000">
     <title lang="en">Louis Theroux: Life on the Edge</title>
@@ -51931,10 +51935,6 @@
     <title lang="en">Louis Theroux: Life on the Edge</title>
     <desc lang="en">Law and Disorder: Louis reflects on his documentaries about the American criminal justice system. S1 Ep3</desc>
   </programme>
-  <programme channel="WPlus1.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">DIY SOS</title>
-    <desc lang="en">Duxford: Home renovation series. Nick Knowles and the team travel to Duxford, where they help a couple whose son has a rare form of liver cancer. S23 Ep6</desc>
-  </programme>
   <programme channel="WPlus1.uk" start="20230417120000" stop="20230417130000">
     <title lang="en">DIY SOS</title>
     <desc lang="en">Huntingdon: Home renovations with a heart. Nick helps out Julie from Huntingdon who selflessly took in her dying friend's five children, and is now a tad short on space. S23 Ep7</desc>
@@ -52026,6 +52026,10 @@
   <programme channel="WPlus1.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">DIY SOS</title>
     <desc lang="en">Worksop: Inspirational home renovation series. Nick Knowles and the team head to Worksop to bring some joy to a man who has just been made redundant and his family. S23 Ep8</desc>
+  </programme>
+  <programme channel="WPlus1.uk" start="20230418120000" stop="20230418130000">
+    <title lang="en">DIY SOS</title>
+    <desc lang="en">Fareham: Inspirational home renovations. Nick Knowles and the dream team renovate a tiny, cramped house for a couple and their growing twin boys. S23 Ep9</desc>
   </programme>
   <programme channel="WPlus1.uk" start="20230418010000" stop="20230418022000">
     <title lang="en">Louis Theroux: Life on the Edge</title>
@@ -52223,10 +52227,6 @@
     <title lang="en">Louis Theroux: Life on the Edge</title>
     <desc lang="en">Law and Disorder: Louis reflects on his documentaries about the American criminal justice system. S1 Ep3</desc>
   </programme>
-  <programme channel="Yesterday.uk" start="20230417113000" stop="20230417120000">
-    <title lang="en">Fred Dibnah's Made in Britain</title>
-    <desc lang="en">Castings: Fred Dibnah and his steersman Alf travel up to Scotland, where they marvel at the ingenuity of the Falkirk wheel and visit one of the few surviving traditional iron works. Ep4</desc>
-  </programme>
   <programme channel="Yesterday.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">Great British Railway Journeys</title>
     <desc lang="en">London's West End: Michael Portillo heads to the West End as he explores 19th-century engineering used in theatres and learns how diseases were rife in Victorian London on a visit to Soho. S6 Ep9</desc>
@@ -52334,6 +52334,10 @@
   <programme channel="Yesterday.uk" start="20230418113000" stop="20230418120000">
     <title lang="en">Fred Dibnah's Made in Britain</title>
     <desc lang="en">The Road to Steel City: Lancashire's greatest engineering enthusiast travels the country by traction engine. Fred fulfils an ambition by driving across Scammonden Bridge over the M62. Ep6</desc>
+  </programme>
+  <programme channel="Yesterday.uk" start="20230418120000" stop="20230418123000">
+    <title lang="en">Great British Railway Journeys</title>
+    <desc lang="en">Derby to Grantham: Michael Portillo begins a journey from Derby to Lindisfarne, learning about a high-street chemist's origins and visiting a former grocer's shop in Grantham. S6 Ep11</desc>
   </programme>
   <programme channel="Yesterday.uk" start="20230418010000" stop="20230418020000">
     <title lang="en">Underground Worlds</title>
@@ -52559,10 +52563,6 @@
     <title lang="en">Underground Worlds</title>
     <desc lang="en">City of Naours: An underground city beneath a forest in Northern France built to house 3,000 people, an ice cave under Iceland's biggest glacier, and a subterranean power station in London. S1 Ep6</desc>
   </programme>
-  <programme channel="YesterdayPlus1.uk" start="20230417110000" stop="20230417120000">
-    <title lang="en">Secret Nazi Bases</title>
-    <desc lang="en">Kraftwerk Nord West: One of the largest Nazi bunkers ever constructed, outside the French town of Watten, a missile facility with storage for 108 missiles and two launch pads. S1 Ep4</desc>
-  </programme>
   <programme channel="YesterdayPlus1.uk" start="20230417120000" stop="20230417123000">
     <title lang="en">Fred Dibnah's Made in Britain</title>
     <desc lang="en">The Source of Iron: Fred Dibnah travels around Britain in style, bringing the great engineers of the past to life. Fred reaches Cumbria where iron ore was once mined on a large scale. Ep3</desc>
@@ -52670,6 +52670,10 @@
   <programme channel="YesterdayPlus1.uk" start="20230418110000" stop="20230418120000">
     <title lang="en">Secret Nazi Bases</title>
     <desc lang="en">Dag Bromberg: A City in the Forest: As the Red Army approached a forest in Poland toward the end of the war, they stumbled upon a complex containing more than 1,000 structures across 25sqkm. S1 Ep5</desc>
+  </programme>
+  <programme channel="YesterdayPlus1.uk" start="20230418120000" stop="20230418123000">
+    <title lang="en">Fred Dibnah's Made in Britain</title>
+    <desc lang="en">Water and Boilers: The great man tours the country, looking at some of our staggering feats of engineering. Fred visits Ryhope pumping station and the Israel Newton boiler works. Ep5</desc>
   </programme>
   <programme channel="YesterdayPlus1.uk" start="20230418010000" stop="20230418013000">
     <title lang="en">Great British Railway Journeys</title>
