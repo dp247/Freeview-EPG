@@ -54,8 +54,8 @@ Make the channels and programmes into something readable by XMLTV
 
     for pr in programmes:
         programme = etree.SubElement(data, 'programme')
-        start_time = tz.localize(datetime.fromtimestamp(pr.get('start'))).strftime(dt_format)
-        end_time = tz.localize(datetime.fromtimestamp(pr.get('stop'))).strftime(dt_format)
+        start_time = datetime.fromtimestamp(pr.get('start'), tz).strftime(dt_format)
+        end_time = datetime.fromtimestamp(pr.get('stop'), tz).strftime(dt_format)
 
         programme.set("channel", pr.get('channel'))
         programme.set("start", start_time)
