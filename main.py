@@ -96,7 +96,7 @@ for channel in channels_data:
             desc = item['d'] if 'd' in item else None
             start = int(item['s'])
             end = int(item['s']) + int(item['m'][1])
-            icon = f"http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/{item['image']}" if 'image' in item else None
+            icon = f"http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/{item['img']}" if 'img' in item else None
             ch_name = channel[1][1]
 
             programme_data.append({
