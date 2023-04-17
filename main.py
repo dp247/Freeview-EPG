@@ -13,13 +13,13 @@ Generate epoch times for now, midnight tomorrow, and midnight the next day
     :return: List of times, either in epoch (for Sky) or str (for BT)
     """
     if src == "sky":
-        now = int(datetime.timestamp(datetime.now()))
+        now = int(datetime.timestamp(datetime.now() - timedelta(hours=1)))
         day_1 = int(datetime.timestamp(datetime.combine(datetime.now(), time(0, 0)) + timedelta(1)))
         day_2 = int(datetime.timestamp(datetime.combine(datetime.now(), time(0, 0)) + timedelta(2)))
         return [now, day_1, day_2]
 
     if src == "bt":
-        now = datetime.now()
+        now = datetime.now() - timedelta(hours=1)
         day_1 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(1))
         day_2 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(2))
         return [now, day_1, day_2]
