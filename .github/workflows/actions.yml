@@ -10,6 +10,10 @@ jobs:
     steps:
       - name: checkout repo content
         uses: actions/checkout@v3
+        
+      - name: pull changes
+        run: |
+          git pull master
 
       - name: Set up Python
         uses: actions/setup-python@v3
@@ -26,11 +30,11 @@ jobs:
 
       - name: commit files
         run: |
-          git pull
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "updated files" --allow-empty)
+
 
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
