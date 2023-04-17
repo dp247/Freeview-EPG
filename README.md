@@ -5,6 +5,9 @@ Freeview-EPG is a project designed to provide a reliable source of XMLTV data fo
 
 It currently uses Sky's EPG Services to parse channel and programme data and then build the resulting dataset into an XMLTV file. The file provides a 48h EPG and is automatically updated every 24 hours.
 
+![image](https://user-images.githubusercontent.com/9065463/232452478-b4cbc957-a548-4328-b421-073c5611b2b0.png)
+
+
 ## Usage
 Grab the XMLTV file from this link and paste it into your favourite IPTV client:
 ```
