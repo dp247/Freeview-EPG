@@ -110,6 +110,7 @@ for channel in channels_data:
 
 channel_xml = build_xmltv(channels_data, programme_data)
 
+# Write some XML
 with open('epg.xml', 'wb') as f:
     f.write(channel_xml)
     f.close()
