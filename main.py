@@ -5,6 +5,7 @@ import requests
 import pytz
 
 bt_dt_format = '%Y-%m-%dT%H:%M:%SZ'
+tz = pytz.timezone('Europe/London')
 
 def get_days(src: str) -> list:
     """
@@ -20,7 +21,8 @@ Generate epoch times for now, midnight tomorrow, and midnight the next day
     if src == "bt":
         now = datetime.now()
         day_1 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(1))
-        return [now, day_1]
+        day_2 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(2))
+        return [now, day_1, day_2]
 
 def get_channels_data() -> list:
     """
@@ -48,7 +50,6 @@ Make the channels and programmes into something readable by XMLTV
     """
     # Timezones since UK has daylight savings
     dt_format = '%Y%m%d%H%M%S %z'
-    tz = pytz.timezone('Europe/London')
 
     data = etree.Element("tv")
     data.set("generator-info-name", "freeview-epg")
@@ -129,13 +130,10 @@ for channel in channels_data:
             result = json.loads(req.text)
             epg_data = []
             for x in result['schedule']['entries']:
-                broadcast_info = x.get('broadcast')
-                prog_info = x.get('item')
-
                 title = x.get('item').get('display_title').get('title').strip()
                 desc = x.get('item').get('description').strip()
-                start = int(datetime.strptime(x.get('broadcast').get('transmission_time'), "%Y-%m-%dT%H:%M:%S.000Z").timestamp())
-                end = int(datetime.strptime(x.get('broadcast').get('transmission_end_time'), "%Y-%m-%dT%H:%M:%S.000Z").timestamp())
+                start = int(tz.fromutc(datetime.strptime(x.get('broadcast').get('transmission_time'), "%Y-%m-%dT%H:%M:%S.000Z")).timestamp())
+                end = int(tz.fromutc(datetime.strptime(x.get('broadcast').get('transmission_end_time'), "%Y-%m-%dT%H:%M:%S.000Z")).timestamp())
                 icon = x.get('item').get('image')
                 ch_name = channel[2][1]
 
