@@ -39,7 +39,7 @@ Make the channels and programmes into something readable by XMLTV
     :return: A sequence of bytes for XML
     """
     # Timezones since UK has daylight savings
-    dt_format = '%Y%m%d%H%M%S'
+    dt_format = '%Y%m%d%H%M%S %z'
     tz = pytz.timezone('Europe/London')
 
     data = etree.Element("tv")
