@@ -7,6 +7,7 @@ import pytz
 bt_dt_format = '%Y-%m-%dT%H:%M:%SZ'
 tz = pytz.timezone('Europe/London')
 
+
 def get_days(src: str) -> list:
     """
 Generate epoch times for now, midnight tomorrow, and midnight the next day
@@ -24,6 +25,7 @@ Generate epoch times for now, midnight tomorrow, and midnight the next day
         day_2 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(2))
         return [now, day_1, day_2]
 
+
 def get_channels_data() -> list:
     """
 Load XML file of channel information
@@ -40,6 +42,7 @@ Load XML file of channel information
             data_list.append(items)
 
     return data_list
+
 
 def build_xmltv(channels: list, programmes: list) -> bytes:
     """
@@ -84,6 +87,7 @@ Make the channels and programmes into something readable by XMLTV
             icon.set('src', pr.get("icon"))
 
     return etree.tostring(data, pretty_print=True, encoding='utf-8')
+
 
 # Load the channels data
 channels_data = get_channels_data()
@@ -132,8 +136,10 @@ for channel in channels_data:
             for x in result['schedule']['entries']:
                 title = x.get('item').get('display_title').get('title').strip()
                 desc = x.get('item').get('description').strip()
-                start = int(tz.fromutc(datetime.strptime(x.get('broadcast').get('transmission_time'), "%Y-%m-%dT%H:%M:%S.000Z")).timestamp())
-                end = int(tz.fromutc(datetime.strptime(x.get('broadcast').get('transmission_end_time'), "%Y-%m-%dT%H:%M:%S.000Z")).timestamp())
+                start = int(tz.fromutc(datetime.strptime(x.get('broadcast').get('transmission_time'),
+                                                         "%Y-%m-%dT%H:%M:%S.000Z")).timestamp())
+                end = int(tz.fromutc(datetime.strptime(x.get('broadcast').get('transmission_end_time'),
+                                                       "%Y-%m-%dT%H:%M:%S.000Z")).timestamp())
                 icon = x.get('item').get('image')
                 ch_name = channel[2][1]
 
@@ -152,4 +158,3 @@ channel_xml = build_xmltv(channels_data, programme_data)
 with open('epg.xml', 'wb') as f:
     f.write(channel_xml)
     f.close()
-
