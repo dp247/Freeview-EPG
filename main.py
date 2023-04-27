@@ -3,6 +3,8 @@ from datetime import datetime, timedelta, time, timezone
 import json
 import requests
 import pytz
+from bs4 import BeautifulSoup
+
 
 bt_dt_format = '%Y-%m-%dT%H:%M:%SZ'
 tz = pytz.timezone('Europe/London')
@@ -19,7 +21,7 @@ Generate epoch times for now, midnight tomorrow, and midnight the next day
         day_2 = int(datetime.timestamp(datetime.combine(datetime.now(), time(0, 0)) + timedelta(2)))
         return [now, day_1, day_2]
 
-    if src == "bt":
+    else:
         now = datetime.now() - timedelta(hours=1)
         day_1 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(1))
         day_2 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(2))
@@ -151,6 +153,59 @@ for channel in channels_data:
                     "icon": icon,
                     "channel": ch_name
                 })
+
+    # If EPG is a BBC radio station
+    if channel[0][1] == "bbc_radio":
+        url_list = [f'https://www.bbc.co.uk/sounds/schedules/bbc_radio_one/{d.date()}' for d in get_days("bt")]
+        for url in url_list:
+            current_date = datetime.strptime(url.split('/')[-1], "%Y-%m-%d").date()
+            response = requests.get(url)
+            if response.status_code != 200:
+                continue
+            soup = BeautifulSoup(response.content, features="html.parser")
+            soup.prettify()
+
+            # Get the schedule sections (early, morning, afternoon, evening, late)
+            sections = soup.find_all("section", {"class": "sc-c-schedule-segment"})
+            for s_idx, section in enumerate(sections):
+                # Find each programme item as a block on the schedule
+                programme_items = section.find_all("div", {
+                    "class": "sc-c-schedule-item gs-u-display-block gs-u-mb gs-u-mb+@m gs-u-pv+"})
+                for p_idx, item in enumerate(programme_items):
+                    # Get the air time from the block. We only want shows from 00:00:00 to 23:59:59 for each page, so get rid
+                    # of shows that start on the day before or day after
+                    air_time = datetime.strptime(
+                        item.find("p", {"class": "sc-c-schedule-item__on-air-time gel-great-primer"}).text,
+                        "%H:%M").time()
+                    if section.attrs.get("aria-labelledby") == "early":
+                        if air_time >= time(6, 0, 0):
+                            continue
+                    if section.attrs.get("aria-labelledby") == "late":
+                        if air_time >= time(0, 0, 0):
+                            continue
+                    # Dive further into each item to extract info correctly
+                    programme_thumbnail = item.find("img")['src']
+                    info = item.find("div", {"class": "gs-u-display-flex sc-u-flex-column"}).contents[0]
+                    programme_name = info.contents[0].text
+                    programme_desc = info.contents[2].text
+                    programme_start = datetime.combine(current_date, air_time)
+                    if p_idx + 1 < len(programme_items):
+                        next_idx = p_idx + 1
+                        next_start = datetime.strptime(programme_items[next_idx].find("p", {
+                            "class": "sc-c-schedule-item__on-air-time gel-great-primer"}).text, "%H:%M").time()
+                    elif s_idx + 1 < len(sections):
+                        next_idx = s_idx + 1
+                        next_start = datetime.strptime(sections[next_idx].find("div", {
+                            "class": "sc-c-schedule-item gs-u-display-block gs-u-mb gs-u-mb+@m gs-u-pv+"}).find("p", {
+                            "class": "sc-c-schedule-item__on-air-time gel-great-primer"}).text, "%H:%M").time()
+                    programme_list.append({
+                        "title": programme_name,
+                        "description": programme_desc,
+                        "start": programme_start,
+                        "stop": next_start,
+                        "icon": programme_thumbnail,
+                        "channel": ""
+                    })
 
 channel_xml = build_xmltv(channels_data, programme_data)
 
