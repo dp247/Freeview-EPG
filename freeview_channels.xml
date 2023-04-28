@@ -3,5 +3,18 @@
   <channels>
     <channel src="sky" lang="en" xmltv_id="YesterdayPlus1.uk" site_id="2615">Yesterday +1</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadio1.uk" site_id="bbc_radio_one">BBC Radio 1</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadio1D.uk" site_id="bbc_radio_one_dance">BBC Radio 1 Dance</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadio1R.uk" site_id="bbc_radio_one_relax">BBC Radio 1 Relax</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadio1X.uk" site_id="bbc_1xtra">BBC Radio 1Xtra</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadio2.uk" site_id="bbc_radio_two">BBC Radio 2</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadio3.uk" site_id="bbc_radio_three">BBC Radio 3</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadio4FM.uk" site_id="bbc_radio_fourfm">BBC Radio 4</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadio4LW.uk" site_id="bbc_radio_fourlw">BBC Radio 4 LW</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadio4Extra.uk" site_id="bbc_radio_four_extra">BBC Radio 4 Extra</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadio5Live.uk" site_id="bbc_radio_five_live">BBC Radio 5 Live</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadio5SportsExtra.uk" site_id="bbc_radio_five_live_sports_extra">BBC Radio 5 Sports Extra</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadio6Music.uk" site_id="bbc_6music">BBC Radio 6 Music</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioAsianNetwork.uk" site_id="bbc_asian_network">BBC Radio Asian Network</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioWorldService.uk" site_id="bbc_world_service">BBC Radio World Service</channel>
   </channels>
 </site>
