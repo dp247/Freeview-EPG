@@ -187,7 +187,7 @@ for channel in channels_data:
                         if air_time >= time(6, 0, 0):
                             continue
                     if section.attrs.get("aria-labelledby") == "late":
-                        if air_time >= time(0, 0, 0):
+                        if air_time >= time(0, 1, 0):
                             continue
 
                     # Dive further into each item to extract info correctly
@@ -196,8 +196,12 @@ for channel in channels_data:
                     programme_name = info.contents[0].text
                     programme_desc = info.contents[2].text
                     programme_start = datetime.combine(current_date, air_time)
+                    if section.attrs.get("aria-labelledby") == "late":
+                        if programme_start.time() >= time(0, 0, 0):
+                            continue
                     ch_name = channel[2][1]
                     print(programme_name)
+                    q = len(programme_items)
                     # If we're still within the same section (as in, we haven't run out of programmes in the list), get
                     # the next programme's start time from the next item in the list
                     if p_idx + 1 < len(programme_items):
