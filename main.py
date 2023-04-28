@@ -5,7 +5,6 @@ import requests
 import pytz
 from bs4 import BeautifulSoup
 
-
 bt_dt_format = '%Y-%m-%dT%H:%M:%SZ'
 tz = pytz.timezone('Europe/London')
 
@@ -174,9 +173,13 @@ for channel in channels_data:
             # Get the schedule sections (early, morning, afternoon, evening, late)
             sections = soup.find_all("section", {"class": "sc-c-schedule-segment"})
             for s_idx, section in enumerate(sections):
+                # Don't get the late sections, as this is after midnight and for the next day
+                if s_idx == 4:
+                    continue
                 # Find each programme item as a block on the schedule
                 programme_items = section.find_all("div", {
                     "class": "sc-c-schedule-item gs-u-display-block gs-u-mb gs-u-mb+@m gs-u-pv+"})
+                print(f"Total items in section {s_idx}: {len(programme_items)}")
                 for p_idx, item in enumerate(programme_items):
                     # Get the air time from the block. We only want shows from 00:00:00 to 23:59:59 for each page,
                     # so get rid of shows that start on the day before or day after
@@ -184,10 +187,10 @@ for channel in channels_data:
                         item.find("p", {"class": "sc-c-schedule-item__on-air-time gel-great-primer"}).text,
                         "%H:%M").time()
                     if section.attrs.get("aria-labelledby") == "early":
-                        if air_time >= time(6, 0, 0):
+                        if air_time >= time(7, 0, 0):
                             continue
                     if section.attrs.get("aria-labelledby") == "late":
-                        if air_time >= time(0, 1, 0):
+                        if air_time > time(0, 30, 0):
                             continue
 
                     # Dive further into each item to extract info correctly
@@ -197,26 +200,34 @@ for channel in channels_data:
                     programme_desc = info.contents[2].text
                     programme_start = datetime.combine(current_date, air_time)
                     if section.attrs.get("aria-labelledby") == "late":
-                        if programme_start.time() >= time(0, 0, 0):
+                        if programme_start.time() >= time(0, 30, 0):
                             continue
                     ch_name = channel[2][1]
-                    print(programme_name)
                     q = len(programme_items)
                     # If we're still within the same section (as in, we haven't run out of programmes in the list), get
                     # the next programme's start time from the next item in the list
-                    if p_idx + 1 < len(programme_items):
-                        next_idx = p_idx + 1
-                        next_start = datetime.strptime(programme_items[next_idx].find("p", {
-                            "class": "sc-c-schedule-item__on-air-time gel-great-primer"}).text, "%H:%M").time()
+                    try:
+                        if p_idx <= len(programme_items):
+                            next_idx = p_idx + 1
+                            next_start = datetime.strptime(programme_items[next_idx].find("p", {
+                                "class": "sc-c-schedule-item__on-air-time gel-great-primer"}).text, "%H:%M").time()
+                    except IndexError as ex:
+                        # However, if we have run out of programmes, but not run out of sections, then find the next
+                        # start time from first programme block in the next section
+                        if s_idx + 1 < len(sections):
+                            next_idx = s_idx + 1
+                            next_start = datetime.strptime(sections[next_idx].find("div", {
+                                "class": "sc-c-schedule-item gs-u-display-block gs-u-mb gs-u-mb+@m gs-u-pv+"}).find("p", {
+                                "class": "sc-c-schedule-item__on-air-time gel-great-primer"}).text, "%H:%M").time()
 
-                    # However, if we have run out of programmes, but not run out of sections, then find the next start
-                    # time from first programme block in the next section
-                    elif s_idx + 1 < len(sections):
-                        next_idx = s_idx + 1
-                        next_start = datetime.strptime(sections[next_idx].find("div", {
-                            "class": "sc-c-schedule-item gs-u-display-block gs-u-mb gs-u-mb+@m gs-u-pv+"}).find("p", {"class": "sc-c-schedule-item__on-air-time gel-great-primer"}).text, "%H:%M").time()
+                    print(f"\nName: {programme_name}, Loc: S{s_idx}P{p_idx}")
+                    if s_idx == 3 and p_idx == len(programme_items) - 1:
+                        programme_stop = datetime.combine(programme_stop.date() +
+                                                          timedelta(days=1), next_start)
+                    else:
+                        programme_stop = datetime.combine(current_date, next_start)
+                    print(f"On: {programme_start} - {programme_stop}\n")
 
-                    programme_stop = datetime.combine(current_date, next_start)
                     programme_data.append({
                         "title": programme_name,
                         "description": programme_desc,
