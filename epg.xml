@@ -44,11 +44,6 @@
   <channel id="BBCRadioWorldService.uk">
     <display-name lang="en">BBC Radio World Service</display-name>
   </channel>
-  <programme channel="YesterdayPlus1.uk" start="20230428133000 +0100" stop="20230428140000 +0100">
-    <title lang="en">Great British Railway Journeys</title>
-    <desc lang="en">Littlehampton to Beaulieu: Michael Portillo journeys from Littlehampton to the New Forest, finishing at Beaulieu, where he seizes the opportunity to drive the first motor car. S7 Ep8</desc>
-    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/03ccb931-98f5-4d93-ab69-871543f5cd55/2615"/>
-  </programme>
   <programme channel="YesterdayPlus1.uk" start="20230428140000 +0100" stop="20230428143000 +0100">
     <title lang="en">Great British Railway Journeys</title>
     <desc lang="en">Leicester to Loughborough: Michael Portillo travels from Leicester to Loughborough, learning about the hunt for Richard III's remains and working his passage on the Great Central Railway. S5 Ep9</desc>
@@ -177,6 +172,11 @@
     <title lang="en">Bangers &amp; Cash</title>
     <desc lang="en">Four VW camper vans pitch up at the auction house looking for a new home and Derek picks up an Austin 16 that 'goes like stink and has some unusual modern modifications'. S2 Ep10</desc>
     <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/c6b6b6b1-a303-4d32-9652-6223304e60e0/2615"/>
+  </programme>
+  <programme channel="YesterdayPlus1.uk" start="20230429140000 +0100" stop="20230429150000 +0100">
+    <title lang="en">Abandoned Engineering</title>
+    <desc lang="en">The Rock: Exploring the Tunnels of Gibraltar, a Second World War espionage base, hidden in the Rock of Gibraltar. S10 Ep2</desc>
+    <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/1e905fb9-06b8-4d2a-be79-2f6f46a0f7d9/2615"/>
   </programme>
   <programme channel="YesterdayPlus1.uk" start="20230429000000 +0100" stop="20230429010000 +0100">
     <title lang="en">Abandoned Engineering</title>
@@ -486,15 +486,15 @@
     <desc lang="en">Take control of Radio 1 and choose your road trip anthem!</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0d2z07h.jpg"/>
   </programme>
-  <programme channel="BBCRadio1.uk" start="20230428124500 +0100" stop="20230428150000 +0100">
+  <programme channel="BBCRadio1.uk" start="20230428124500 +0100" stop="20230428130000 +0100">
     <title lang="en">Newsbeat</title>
     <desc lang="en">As James Corden's Late Late Show wraps, we talk to its head writer about Carpool Karaoke.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0d6cbyn.jpg"/>
   </programme>
-  <programme channel="BBCRadio1.uk" start="20230428150000 +0100" stop="20230428160000 +0100">
-    <title lang="en">Radio 1's Party Anthems</title>
-    <desc lang="en">The UK's biggest party anthems!</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0bvqq5c.jpg"/>
+  <programme channel="BBCRadio1.uk" start="20230428130000 +0100" stop="20230428160000 +0100">
+    <title lang="en">Matt and Mollie</title>
+    <desc lang="en">Vicky Hawkesworth and Emil Franchi with fun and games on Friday afternoon.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0f8qxcv.jpg"/>
   </programme>
   <programme channel="BBCRadio1.uk" start="20230428160000 +0100" stop="20230428174500 +0100">
     <title lang="en">The Official Chart on Radio 1 with Jack Saunders</title>
@@ -610,6 +610,11 @@
     <title lang="en">Radio 1's Drum &amp; Bass Mix</title>
     <desc lang="en">One of the most explosive and iconic pairings in drum &amp; bass. A hour hour of pure energy!</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0c4mml9.jpg"/>
+  </programme>
+  <programme channel="BBCRadio1.uk" start="20230430000000 +0100" stop="20230430003000 +0100">
+    <title lang="en">Radio 1's Drum &amp; Bass Mix</title>
+    <desc lang="en">Join the young star of dancefloor drum &amp; bass, K Motionz, for half an hour of heaters!</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0bvndc7.jpg"/>
   </programme>
   <programme channel="BBCRadio1.uk" start="20230430003000 +0100" stop="20230430010000 +0100">
     <title lang="en">Radio 1's Drum &amp; Bass Mix</title>
@@ -761,12 +766,12 @@
     <desc lang="en">Classic hits and the best new dance tracks.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0bvn7kb.jpg"/>
   </programme>
-  <programme channel="BBCRadio1D.uk" start="20230428130000 +0100" stop="20230428150000 +0100">
+  <programme channel="BBCRadio1D.uk" start="20230428130000 +0100" stop="20230428140000 +0100">
     <title lang="en">Radio 1 Dance</title>
     <desc lang="en">Classic hits and the best new dance tracks.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0bvn7kb.jpg"/>
   </programme>
-  <programme channel="BBCRadio1D.uk" start="20230428150000 +0100" stop="20230428160000 +0100">
+  <programme channel="BBCRadio1D.uk" start="20230428140000 +0100" stop="20230428160000 +0100">
     <title lang="en">Radio 1 Dance</title>
     <desc lang="en">Classic hits and the best new dance tracks.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0bvn7kb.jpg"/>
@@ -1076,15 +1081,15 @@
     <desc lang="en">Relax and unwind with this hour of chilled tunes from Coldplay, Frank Ocean &amp; more.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0bvn6bs.jpg"/>
   </programme>
-  <programme channel="BBCRadio1R.uk" start="20230428130000 +0100" stop="20230428150000 +0100">
+  <programme channel="BBCRadio1R.uk" start="20230428130000 +0100" stop="20230428140000 +0100">
     <title lang="en">Radio 1 Relax</title>
     <desc lang="en">Chilled out vibes to get you in the right headspace.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0bvqm8m.jpg"/>
   </programme>
-  <programme channel="BBCRadio1R.uk" start="20230428150000 +0100" stop="20230428160000 +0100">
-    <title lang="en">Radio 1's Chillout Anthems</title>
-    <desc lang="en">Music designed to unwind the mind featuring tracks from Disclosure and Beyoncé.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0bvn6bs.jpg"/>
+  <programme channel="BBCRadio1R.uk" start="20230428140000 +0100" stop="20230428160000 +0100">
+    <title lang="en">Radio 1 Relax</title>
+    <desc lang="en">Chilled out vibes to get you in the right headspace.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0bvqm8m.jpg"/>
   </programme>
   <programme channel="BBCRadio1R.uk" start="20230428160000 +0100" stop="20230428170000 +0100">
     <title lang="en">Radio 1's Chillout Anthems</title>
@@ -1409,7 +1414,7 @@
   <programme channel="BBCRadio1X.uk" start="20230428180000 +0100" stop="20230428190000 +0100">
     <title lang="en">1Xtra's Homegrown Weekender</title>
     <desc lang="en">1Xtra's Homegrown Weekender for 2023. @1Xtra on social</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fgqrnq.jpg"/>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fkd376.jpg"/>
   </programme>
   <programme channel="BBCRadio1X.uk" start="20230428190000 +0100" stop="20230428203000 +0100">
     <title lang="en">1Xtra's Rave Show with Jeremiah Asiamah</title>
@@ -2001,6 +2006,11 @@
     <desc lang="en">The sounds of energy generation across the industrial heart of Northumberland.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0cp3hbl.jpg"/>
   </programme>
+  <programme channel="BBCRadio3.uk" start="20230501000000 +0100" stop="20230501003000 +0100">
+    <title lang="en">Sounds Connected</title>
+    <desc lang="en">Quirky, peculiar and sometimes surprising connections that link music</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p08r1yf8.jpg"/>
+  </programme>
   <programme channel="BBCRadio4FM.uk" start="20230428004800 +0100" stop="20230428010000 +0100">
     <title lang="en">Shipping Forecast</title>
     <desc lang="en">The latest shipping forecast</desc>
@@ -2091,20 +2101,20 @@
     <desc lang="en">An extraordinary archive of life in the Warsaw Ghetto.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fk5g3s.jpg"/>
   </programme>
-  <programme channel="BBCRadio4FM.uk" start="20230428140000 +0100" stop="20230428144500 +0100">
+  <programme channel="BBCRadio4FM.uk" start="20230428140000 +0100" stop="20230428141500 +0100">
     <title lang="en">The Archers</title>
     <desc lang="en">Kenton hatches a plan.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0bzj12m.jpg"/>
   </programme>
-  <programme channel="BBCRadio4FM.uk" start="20230428144500 +0100" stop="20230428150000 +0100">
+  <programme channel="BBCRadio4FM.uk" start="20230428141500 +0100" stop="20230428144500 +0100">
+    <title lang="en">Limelight</title>
+    <desc lang="en">Christmas Eve,1828: William Burke is on trial for murder at the High Court in Edinburgh.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fhjrqr.jpg"/>
+  </programme>
+  <programme channel="BBCRadio4FM.uk" start="20230428144500 +0100" stop="20230428154500 +0100">
     <title lang="en">Understand: The Economy</title>
     <desc lang="en">Our energy bills explained.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0dz9733.jpg"/>
-  </programme>
-  <programme channel="BBCRadio4FM.uk" start="20230428150000 +0100" stop="20230428154500 +0100">
-    <title lang="en">Gardeners' Question Time</title>
-    <desc lang="en">Kathy Clugston and her green fingered gardening experts are in Crowle.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fk4f8c.jpg"/>
   </programme>
   <programme channel="BBCRadio4FM.uk" start="20230428154500 +0100" stop="20230428160000 +0100">
     <title lang="en">From Fact to Fiction</title>
@@ -2180,6 +2190,16 @@
     <title lang="en">Today in Parliament</title>
     <desc lang="en">News, views and features on today's stories in Parliament</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0bzj6wm.jpg"/>
+  </programme>
+  <programme channel="BBCRadio4FM.uk" start="20230429000000 +0100" stop="20230429003000 +0100">
+    <title lang="en">Midnight News</title>
+    <desc lang="en">The latest news and weather forecast from BBC Radio 4.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0byxbvh.jpg"/>
+  </programme>
+  <programme channel="BBCRadio4FM.uk" start="20230429003000 +0100" stop="20230429004800 +0100">
+    <title lang="en">The Earth Transformed by Peter Frankopan</title>
+    <desc lang="en">In the 20th century, conflict and environmental degradation redefine global concerns.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fhsmpd.jpg"/>
   </programme>
   <programme channel="BBCRadio4FM.uk" start="20230429004800 +0100" stop="20230429010000 +0100">
     <title lang="en">Shipping Forecast</title>
@@ -2381,6 +2401,16 @@
     <desc lang="en">Danny returns once more to Belfast Queens University, and the shocking events in Room 611.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fclgpc.jpg"/>
   </programme>
+  <programme channel="BBCRadio4FM.uk" start="20230430000000 +0100" stop="20230430001500 +0100">
+    <title lang="en">Midnight News</title>
+    <desc lang="en">The latest news and weather forecast from BBC Radio 4.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0byxbvh.jpg"/>
+  </programme>
+  <programme channel="BBCRadio4FM.uk" start="20230430001500 +0100" stop="20230430004800 +0100">
+    <title lang="en">A Soft Day</title>
+    <desc lang="en">Author Carlo Gebler shows how rain has saturated Ireland's poetry and shaped his identity.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fh3wl8.jpg"/>
+  </programme>
   <programme channel="BBCRadio4FM.uk" start="20230430004800 +0100" stop="20230430010000 +0100">
     <title lang="en">Shipping Forecast</title>
     <desc lang="en">The latest shipping forecast</desc>
@@ -2529,7 +2559,7 @@
   <programme channel="BBCRadio4FM.uk" start="20230430150000 +0100" stop="20230430160000 +0100">
     <title lang="en">Love Stories</title>
     <desc lang="en">A powerful tale of love, desire, and transgression.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fbghmf.jpg"/>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fkd3yx.jpg"/>
   </programme>
   <programme channel="BBCRadio4FM.uk" start="20230430160000 +0100" stop="20230430163000 +0100">
     <title lang="en">Open Book</title>
@@ -2626,6 +2656,16 @@
     <desc lang="en">A special edition from Westminster Abbey, with the Very Reverend Dr John Hall.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p01gq91d.jpg"/>
   </programme>
+  <programme channel="BBCRadio4FM.uk" start="20230501000000 +0100" stop="20230501001500 +0100">
+    <title lang="en">Midnight News</title>
+    <desc lang="en">The latest news and weather forecast from BBC Radio 4.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0byxbvh.jpg"/>
+  </programme>
+  <programme channel="BBCRadio4FM.uk" start="20230501001500 +0100" stop="20230501004500 +0100">
+    <title lang="en">Thinking Allowed</title>
+    <desc lang="en">Democracy - what threatens or promotes it?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0c4lpkf.jpg"/>
+  </programme>
   <programme channel="BBCRadio4LW.uk" start="20230428004800 +0100" stop="20230428010000 +0100">
     <title lang="en">Shipping Forecast</title>
     <desc lang="en">The latest shipping forecast</desc>
@@ -2721,20 +2761,20 @@
     <desc lang="en">An extraordinary archive of life in the Warsaw Ghetto.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fk5g3s.jpg"/>
   </programme>
-  <programme channel="BBCRadio4LW.uk" start="20230428140000 +0100" stop="20230428144500 +0100">
+  <programme channel="BBCRadio4LW.uk" start="20230428140000 +0100" stop="20230428141500 +0100">
     <title lang="en">The Archers</title>
     <desc lang="en">Kenton hatches a plan.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0bzj12m.jpg"/>
   </programme>
-  <programme channel="BBCRadio4LW.uk" start="20230428144500 +0100" stop="20230428150000 +0100">
+  <programme channel="BBCRadio4LW.uk" start="20230428141500 +0100" stop="20230428144500 +0100">
+    <title lang="en">Limelight</title>
+    <desc lang="en">Christmas Eve,1828: William Burke is on trial for murder at the High Court in Edinburgh.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fhjrqr.jpg"/>
+  </programme>
+  <programme channel="BBCRadio4LW.uk" start="20230428144500 +0100" stop="20230428154500 +0100">
     <title lang="en">Understand: The Economy</title>
     <desc lang="en">Our energy bills explained.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0dz9733.jpg"/>
-  </programme>
-  <programme channel="BBCRadio4LW.uk" start="20230428150000 +0100" stop="20230428154500 +0100">
-    <title lang="en">Gardeners' Question Time</title>
-    <desc lang="en">Kathy Clugston and her green fingered gardening experts are in Crowle.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fk4f8c.jpg"/>
   </programme>
   <programme channel="BBCRadio4LW.uk" start="20230428154500 +0100" stop="20230428160000 +0100">
     <title lang="en">From Fact to Fiction</title>
@@ -2815,6 +2855,16 @@
     <title lang="en">Today in Parliament</title>
     <desc lang="en">News, views and features on today's stories in Parliament</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0bzj6wm.jpg"/>
+  </programme>
+  <programme channel="BBCRadio4LW.uk" start="20230429000000 +0100" stop="20230429003000 +0100">
+    <title lang="en">Midnight News</title>
+    <desc lang="en">The latest news and weather forecast from BBC Radio 4.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0byxbvh.jpg"/>
+  </programme>
+  <programme channel="BBCRadio4LW.uk" start="20230429003000 +0100" stop="20230429004800 +0100">
+    <title lang="en">The Earth Transformed by Peter Frankopan</title>
+    <desc lang="en">In the 20th century, conflict and environmental degradation redefine global concerns.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fhsmpd.jpg"/>
   </programme>
   <programme channel="BBCRadio4LW.uk" start="20230429004800 +0100" stop="20230429010000 +0100">
     <title lang="en">Shipping Forecast</title>
@@ -3015,6 +3065,16 @@
     <title lang="en">Uncanny</title>
     <desc lang="en">Danny returns once more to Belfast Queens University, and the shocking events in Room 611.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fclgpc.jpg"/>
+  </programme>
+  <programme channel="BBCRadio4LW.uk" start="20230430000000 +0100" stop="20230430001500 +0100">
+    <title lang="en">Midnight News</title>
+    <desc lang="en">The latest news and weather forecast from BBC Radio 4.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0byxbvh.jpg"/>
+  </programme>
+  <programme channel="BBCRadio4LW.uk" start="20230430001500 +0100" stop="20230430004800 +0100">
+    <title lang="en">A Soft Day</title>
+    <desc lang="en">Author Carlo Gebler shows how rain has saturated Ireland's poetry and shaped his identity.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fh3wl8.jpg"/>
   </programme>
   <programme channel="BBCRadio4LW.uk" start="20230430004800 +0100" stop="20230430010000 +0100">
     <title lang="en">Shipping Forecast</title>
@@ -3261,6 +3321,16 @@
     <desc lang="en">A special edition from Westminster Abbey, with the Very Reverend Dr John Hall.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p01gq91d.jpg"/>
   </programme>
+  <programme channel="BBCRadio4LW.uk" start="20230501000000 +0100" stop="20230501001500 +0100">
+    <title lang="en">Midnight News</title>
+    <desc lang="en">The latest news and weather forecast from BBC Radio 4.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0byxbvh.jpg"/>
+  </programme>
+  <programme channel="BBCRadio4LW.uk" start="20230501001500 +0100" stop="20230501004500 +0100">
+    <title lang="en">Thinking Allowed</title>
+    <desc lang="en">Democracy - what threatens or promotes it?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0c4lpkf.jpg"/>
+  </programme>
   <programme channel="BBCRadio4Extra.uk" start="20230428000000 +0100" stop="20230428010000 +0100">
     <title lang="en">Emily Bronte - Wuthering Heights</title>
     <desc lang="en">Sixteen years after Cathy's death, her daughter Catherine visits the vengeful Heathcliff.</desc>
@@ -3401,15 +3471,15 @@
     <desc lang="en">Ambassador Mackenzie must tackle the delicate issue of a Briton being held hostage.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0dxc8s3.jpg"/>
   </programme>
-  <programme channel="BBCRadio4Extra.uk" start="20230428140000 +0100" stop="20230428150000 +0100">
+  <programme channel="BBCRadio4Extra.uk" start="20230428140000 +0100" stop="20230428143000 +0100">
     <title lang="en">The Museum of Curiosity</title>
     <desc lang="en">John Lloyd and Holly Walsh with Griff Rhys Jones, Mary Roach and Lemn Sissay.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0dlch1y.jpg"/>
   </programme>
-  <programme channel="BBCRadio4Extra.uk" start="20230428150000 +0100" stop="20230428160000 +0100">
-    <title lang="en">Emily Bronte - Wuthering Heights</title>
-    <desc lang="en">Vengeful Heathcliff has forced Cathy's daughter Catherine to marry his ailing son Linton.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p01l24fj.jpg"/>
+  <programme channel="BBCRadio4Extra.uk" start="20230428143000 +0100" stop="20230428160000 +0100">
+    <title lang="en">Trevor's World of Sport</title>
+    <desc lang="en">A new relationship encourages the middle-aged sports agent to contemplate a gap year.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0dvc463.jpg"/>
   </programme>
   <programme channel="BBCRadio4Extra.uk" start="20230428160000 +0100" stop="20230428163000 +0100">
     <title lang="en">The Quarry</title>
@@ -3495,6 +3565,11 @@
     <title lang="en">Arthur Smith's Balham Bash</title>
     <desc lang="en">Arthur Smith presents music and comedy from Billy Jenkins, Kevin Eldon and Imran Yusuf.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0dw4w59.jpg"/>
+  </programme>
+  <programme channel="BBCRadio4Extra.uk" start="20230429000000 +0100" stop="20230429004500 +0100">
+    <title lang="en">All the Dark Corners</title>
+    <desc lang="en">Fran and Abe agree to perform an ancient ritual for a lonely old woman.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p01h72xy.jpg"/>
   </programme>
   <programme channel="BBCRadio4Extra.uk" start="20230429004500 +0100" stop="20230429010000 +0100">
     <title lang="en">Algernon Blackwood's Ghost Stories</title>
@@ -3675,6 +3750,11 @@
     <title lang="en">4 Stands Up</title>
     <desc lang="en">Rhod Gilbert introduces - Danielle Ward, Doc Brown and Robin Ince.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0ffzl3m.jpg"/>
+  </programme>
+  <programme channel="BBCRadio4Extra.uk" start="20230430000000 +0100" stop="20230430003000 +0100">
+    <title lang="en">Terry Pratchett</title>
+    <desc lang="en">Commander Sam Vimes is stuck in the past. Unfortunately, so is an old arch enemy.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0664lpd.jpg"/>
   </programme>
   <programme channel="BBCRadio4Extra.uk" start="20230430003000 +0100" stop="20230430010000 +0100">
     <title lang="en">Simon Bovey - Cold Blood</title>
@@ -3865,6 +3945,11 @@
     <title lang="en">Safety Catch</title>
     <desc lang="en">Simon and his arms-selling colleagues go paintballing to better understand the art of war.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0f1jtd3.jpg"/>
+  </programme>
+  <programme channel="BBCRadio4Extra.uk" start="20230501000000 +0100" stop="20230501003000 +0100">
+    <title lang="en">Poetry Extra</title>
+    <desc lang="en">Daljit Nagra selects another programme highlight from the BBC's poetry archive.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0dy9fp6.jpg"/>
   </programme>
   <programme channel="BBCRadio5Live.uk" start="20230428010000 +0100" stop="20230428050000 +0100">
     <title lang="en">Dotun Adebayo</title>
@@ -4076,12 +4161,12 @@
     <desc lang="en">Live F1 commentary of Practice 1 at the Baku City Circuit in Azerbaijan.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0c6m5d3.jpg"/>
   </programme>
-  <programme channel="BBCRadio5SportsExtra.uk" start="20230428113500 +0100" stop="20230428150500 +0100">
+  <programme channel="BBCRadio5SportsExtra.uk" start="20230428113500 +0100" stop="20230428153000 +0100">
     <title lang="en">Cricket</title>
     <desc lang="en">Kevin Howells presents commentary of Warwickshire v Surrey in the County Championship.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0c7v5qw.jpg"/>
   </programme>
-  <programme channel="BBCRadio5SportsExtra.uk" start="20230428150500 +0100" stop="20230428190000 +0100">
+  <programme channel="BBCRadio5SportsExtra.uk" start="20230428153000 +0100" stop="20230428190000 +0100">
     <title lang="en">Cricket</title>
     <desc lang="en">Live ball-by-ball commentary of Punjab Kings v Lucknow Super Giants in the IPL.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fhkj65.jpg"/>
@@ -4446,15 +4531,15 @@
     <desc lang="en">As James Corden's Late Late Show wraps, we talk to its head writer about Carpool Karaoke.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0d6cbyn.jpg"/>
   </programme>
-  <programme channel="BBCRadioAsianNetwork.uk" start="20230428130000 +0100" stop="20230428150000 +0100">
+  <programme channel="BBCRadioAsianNetwork.uk" start="20230428130000 +0100" stop="20230428140000 +0100">
     <title lang="en">Haroon Rashid</title>
     <desc lang="en">What will inspire this week's Greatest Hits?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fjw0vd.jpg"/>
   </programme>
-  <programme channel="BBCRadioAsianNetwork.uk" start="20230428150000 +0100" stop="20230428170000 +0100">
-    <title lang="en">The Official Asian Music Chart</title>
-    <desc lang="en">Will Mera Na make it another week at number one?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0dyfb2n.jpg"/>
+  <programme channel="BBCRadioAsianNetwork.uk" start="20230428140000 +0100" stop="20230428170000 +0100">
+    <title lang="en">Asian Network Certified</title>
+    <desc lang="en">Asian Network Certified Throwback bangers! Big anthems you haven't heard in ages!</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0dcnqn9.jpg"/>
   </programme>
   <programme channel="BBCRadioAsianNetwork.uk" start="20230428170000 +0100" stop="20230428174500 +0100">
     <title lang="en">Asian Network Certified</title>
@@ -4475,6 +4560,11 @@
     <title lang="en">DJ Limelight</title>
     <desc lang="en">DJ Limelight drops new Shisha Lounge and Afterparty mixes.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0d1bp82.jpg"/>
+  </programme>
+  <programme channel="BBCRadioAsianNetwork.uk" start="20230429000000 +0100" stop="20230429003000 +0100">
+    <title lang="en">Desi Dancefloor Mix</title>
+    <desc lang="en">Panjabi Hit Squad deliver a special Desi Dancefloor Mix courtesy of DJ Nav Mischief!</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0bx18kz.jpg"/>
   </programme>
   <programme channel="BBCRadioAsianNetwork.uk" start="20230429003000 +0100" stop="20230429010000 +0100">
     <title lang="en">Desi Dancefloor Mix</title>
@@ -4545,6 +4635,11 @@
     <title lang="en">Pure Spice with DJ Manara</title>
     <desc lang="en">Kizzi kicks off May Day bank holiday in style!</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0c5wqfv.jpg"/>
+  </programme>
+  <programme channel="BBCRadioAsianNetwork.uk" start="20230430000000 +0100" stop="20230430003000 +0100">
+    <title lang="en">SOS Bhangra Mix</title>
+    <desc lang="en">Dipps Bhamrah serves up another essential SOS Bhangra Mix - The Captains Selection Chapter</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0bx1kwc.jpg"/>
   </programme>
   <programme channel="BBCRadioAsianNetwork.uk" start="20230430003000 +0100" stop="20230430010000 +0100">
     <title lang="en">SOS Bhangra Mix</title>
@@ -4836,20 +4931,20 @@
     <desc lang="en">Khartoum’s National Public Health Laboratory is caught up in the Sudanese conflict.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fk5kmy.jpg"/>
   </programme>
-  <programme channel="BBCRadioWorldService.uk" start="20230428140000 +0100" stop="20230428150000 +0100">
+  <programme channel="BBCRadioWorldService.uk" start="20230428140000 +0100" stop="20230428140600 +0100">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p060dh18.jpg"/>
   </programme>
-  <programme channel="BBCRadioWorldService.uk" start="20230428150000 +0100" stop="20230428150600 +0100">
+  <programme channel="BBCRadioWorldService.uk" start="20230428140600 +0100" stop="20230428150000 +0100">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Government-appointed chairman of the BBC resigns over undeclared conflict of interest</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fkcjdf.jpg"/>
+  </programme>
+  <programme channel="BBCRadioWorldService.uk" start="20230428150000 +0100" stop="20230428153000 +0100">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p060dh18.jpg"/>
-  </programme>
-  <programme channel="BBCRadioWorldService.uk" start="20230428150600 +0100" stop="20230428153000 +0100">
-    <title lang="en">HARDtalk</title>
-    <desc lang="en">In-depth, hard-hitting interviews with newsworthy personalities.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0dv4jw3.jpg"/>
   </programme>
   <programme channel="BBCRadioWorldService.uk" start="20230428153000 +0100" stop="20230428153200 +0100">
     <title lang="en">BBC News Summary</title>
@@ -4858,8 +4953,8 @@
   </programme>
   <programme channel="BBCRadioWorldService.uk" start="20230428153200 +0100" stop="20230428160000 +0100">
     <title lang="en">World Business Report</title>
-    <desc lang="en">The latest business and finance news from around the world, on the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0dv471q.jpg"/>
+    <desc lang="en">Fleeing Sudanese are burying their money and gold</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fkd3d7.jpg"/>
   </programme>
   <programme channel="BBCRadioWorldService.uk" start="20230428160000 +0100" stop="20230428160600 +0100">
     <title lang="en">BBC News</title>
@@ -4868,8 +4963,8 @@
   </programme>
   <programme channel="BBCRadioWorldService.uk" start="20230428160600 +0100" stop="20230428170000 +0100">
     <title lang="en">BBC OS</title>
-    <desc lang="en">BBC OS gives a vibrant account of the day’s events with explanation and reaction from those involved.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0dv6mg3.jpg"/>
+    <desc lang="en">A report found Mr Sharp breached rules on disclosing potential conflicts of interest</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fkd0rk.jpg"/>
   </programme>
   <programme channel="BBCRadioWorldService.uk" start="20230428170000 +0100" stop="20230428170600 +0100">
     <title lang="en">BBC News</title>
@@ -4933,8 +5028,8 @@
   </programme>
   <programme channel="BBCRadioWorldService.uk" start="20230428203200 +0100" stop="20230428210000 +0100">
     <title lang="en">CrowdScience</title>
-    <desc lang="en">CrowdScience explores the mysterious world of the microbiome.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0d0l8bz.jpg"/>
+    <desc lang="en">Trillions of microbes live inside our gut. What impact do they have on our body?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fkd0ph.jpg"/>
   </programme>
   <programme channel="BBCRadioWorldService.uk" start="20230428210000 +0100" stop="20230428210600 +0100">
     <title lang="en">BBC News</title>
@@ -4990,6 +5085,11 @@
     <title lang="en">World Business Report</title>
     <desc lang="en">The latest business and finance news from around the world, on the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0dv471q.jpg"/>
+  </programme>
+  <programme channel="BBCRadioWorldService.uk" start="20230429000000 +0100" stop="20230429000600 +0100">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p060dh18.jpg"/>
   </programme>
   <programme channel="BBCRadioWorldService.uk" start="20230429000600 +0100" stop="20230429010000 +0100">
     <title lang="en">The Real Story</title>
@@ -5291,6 +5391,21 @@
     <desc lang="en">Exposed to the worst of the internet and then fired - the moderators taking Meta to court</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fjqlgm.jpg"/>
   </programme>
+  <programme channel="BBCRadioWorldService.uk" start="20230430000000 +0100" stop="20230430000600 +0100">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p060dh18.jpg"/>
+  </programme>
+  <programme channel="BBCRadioWorldService.uk" start="20230430000600 +0100" stop="20230430003000 +0100">
+    <title lang="en">BBC OS Conversations</title>
+    <desc lang="en">Families share their stories of losing a loved one and the stigma around the drug</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fkc4c6.jpg"/>
+  </programme>
+  <programme channel="BBCRadioWorldService.uk" start="20230430003000 +0100" stop="20230430003200 +0100">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p060dh18.jpg"/>
+  </programme>
   <programme channel="BBCRadioWorldService.uk" start="20230430005000 +0100" stop="20230430010000 +0100">
     <title lang="en">Sporting Witness</title>
     <desc lang="en">How weightlifter Karnam Malleswari became the first Indian woman to win an Olympic medal</desc>
@@ -5563,7 +5678,7 @@
   </programme>
   <programme channel="BBCRadioWorldService.uk" start="20230430220600 +0100" stop="20230430223000 +0100">
     <title lang="en">The Climate Question</title>
-    <desc lang="en">Alternatives to Gross National Product (GDP).</desc>
+    <desc lang="en">The UN is looking at what might replace Gross Domestic Product as a success indicator.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0cmywm7.jpg"/>
   </programme>
   <programme channel="BBCRadioWorldService.uk" start="20230430223000 +0100" stop="20230430223200 +0100">
@@ -5605,5 +5720,20 @@
     <title lang="en">Outlook</title>
     <desc lang="en">How writer Delia Ephron found herself in a love story like her hit film You’ve Got Mail</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fkcj03.jpg"/>
+  </programme>
+  <programme channel="BBCRadioWorldService.uk" start="20230501000000 +0100" stop="20230501000600 +0100">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p060dh18.jpg"/>
+  </programme>
+  <programme channel="BBCRadioWorldService.uk" start="20230501000600 +0100" stop="20230501003000 +0100">
+    <title lang="en">From Our Own Correspondent</title>
+    <desc lang="en">Insight from BBC correspondents, journalists and writers from around the world.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p0fk6llg.jpg"/>
+  </programme>
+  <programme channel="BBCRadioWorldService.uk" start="20230501003000 +0100" stop="20230501003200 +0100">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/640x640/p060dh18.jpg"/>
   </programme>
 </tv>

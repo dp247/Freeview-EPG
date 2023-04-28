@@ -173,9 +173,6 @@ for channel in channels_data:
             # Get the schedule sections (early, morning, afternoon, evening, late)
             sections = soup.find_all("section", {"class": "sc-c-schedule-segment"})
             for s_idx, section in enumerate(sections):
-                # Don't get the late sections, as this is after midnight and for the next day
-                if s_idx == 4:
-                    continue
                 # Find each programme item as a block on the schedule
                 programme_items = section.find_all("div", {
                     "class": "sc-c-schedule-item gs-u-display-block gs-u-mb gs-u-mb+@m gs-u-pv+"})
@@ -200,7 +197,7 @@ for channel in channels_data:
                     programme_desc = info.contents[2].text
                     programme_start = datetime.combine(current_date, air_time)
                     if section.attrs.get("aria-labelledby") == "late":
-                        if programme_start.time() >= time(0, 30, 0):
+                        if programme_start.time() > time(0, 30, 0):
                             continue
                     ch_name = channel[2][1]
                     q = len(programme_items)
@@ -222,10 +219,15 @@ for channel in channels_data:
 
                     print(f"\nName: {programme_name}, Loc: S{s_idx}P{p_idx}")
                     if s_idx == 3 and p_idx == len(programme_items) - 1:
-                        programme_stop = datetime.combine(programme_stop.date() +
-                                                          timedelta(days=1), next_start)
+                        programme_stop = datetime.combine(programme_start.date() + timedelta(days=1), next_start)
+                    elif s_idx == 4:
+                        if len(programme_items) == 1 or p_idx == len(programme_items) - 1:
+                            continue
+                        else:
+                            programme_start = datetime.combine(programme_start.date() + timedelta(days=1), air_time)
+                            programme_stop = datetime.combine(programme_start.date(), next_start)
                     else:
-                        programme_stop = datetime.combine(current_date, next_start)
+                        programme_stop = datetime.combine(programme_start, next_start)
                     print(f"On: {programme_start} - {programme_stop}\n")
 
                     programme_data.append({
