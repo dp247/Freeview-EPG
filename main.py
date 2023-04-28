@@ -21,8 +21,14 @@ Generate epoch times for now, midnight tomorrow, and midnight the next day
         day_2 = int(datetime.timestamp(datetime.combine(datetime.now(), time(0, 0)) + timedelta(2)))
         return [now, day_1, day_2]
 
-    else:
+    elif src == "bt":
         now = datetime.now() - timedelta(hours=1)
+        day_1 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(1))
+        day_2 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(2))
+        return [now, day_1, day_2]
+
+    else:
+        now = (datetime.combine(datetime.now(), time(0, 0)))
         day_1 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(1))
         day_2 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(2))
         return [now, day_1, day_2]
@@ -156,7 +162,7 @@ for channel in channels_data:
 
     # If EPG is a BBC radio station
     if channel[0][1] == "bbc_radio":
-        url_list = [f'https://www.bbc.co.uk/sounds/schedules/bbc_radio_one/{d.date()}' for d in get_days("bt")]
+        url_list = [f'https://www.bbc.co.uk/sounds/schedules/{channel[3][1]}/{d.date()}' for d in get_days("bbc_radio")]
         for url in url_list:
             current_date = datetime.strptime(url.split('/')[-1], "%Y-%m-%d").date()
             response = requests.get(url)
@@ -172,8 +178,8 @@ for channel in channels_data:
                 programme_items = section.find_all("div", {
                     "class": "sc-c-schedule-item gs-u-display-block gs-u-mb gs-u-mb+@m gs-u-pv+"})
                 for p_idx, item in enumerate(programme_items):
-                    # Get the air time from the block. We only want shows from 00:00:00 to 23:59:59 for each page, so get rid
-                    # of shows that start on the day before or day after
+                    # Get the air time from the block. We only want shows from 00:00:00 to 23:59:59 for each page,
+                    # so get rid of shows that start on the day before or day after
                     air_time = datetime.strptime(
                         item.find("p", {"class": "sc-c-schedule-item__on-air-time gel-great-primer"}).text,
                         "%H:%M").time()
@@ -183,28 +189,37 @@ for channel in channels_data:
                     if section.attrs.get("aria-labelledby") == "late":
                         if air_time >= time(0, 0, 0):
                             continue
+
                     # Dive further into each item to extract info correctly
                     programme_thumbnail = item.find("img")['src']
                     info = item.find("div", {"class": "gs-u-display-flex sc-u-flex-column"}).contents[0]
                     programme_name = info.contents[0].text
                     programme_desc = info.contents[2].text
                     programme_start = datetime.combine(current_date, air_time)
+                    ch_name = channel[2][1]
+                    print(programme_name)
+                    # If we're still within the same section (as in, we haven't run out of programmes in the list), get
+                    # the next programme's start time from the next item in the list
                     if p_idx + 1 < len(programme_items):
                         next_idx = p_idx + 1
                         next_start = datetime.strptime(programme_items[next_idx].find("p", {
                             "class": "sc-c-schedule-item__on-air-time gel-great-primer"}).text, "%H:%M").time()
+
+                    # However, if we have run out of programmes, but not run out of sections, then find the next start
+                    # time from first programme block in the next section
                     elif s_idx + 1 < len(sections):
                         next_idx = s_idx + 1
                         next_start = datetime.strptime(sections[next_idx].find("div", {
-                            "class": "sc-c-schedule-item gs-u-display-block gs-u-mb gs-u-mb+@m gs-u-pv+"}).find("p", {
-                            "class": "sc-c-schedule-item__on-air-time gel-great-primer"}).text, "%H:%M").time()
-                    programme_list.append({
+                            "class": "sc-c-schedule-item gs-u-display-block gs-u-mb gs-u-mb+@m gs-u-pv+"}).find("p", {"class": "sc-c-schedule-item__on-air-time gel-great-primer"}).text, "%H:%M").time()
+
+                    programme_stop = datetime.combine(current_date, next_start)
+                    programme_data.append({
                         "title": programme_name,
                         "description": programme_desc,
-                        "start": programme_start,
-                        "stop": next_start,
+                        "start": programme_start.timestamp(),
+                        "stop": programme_stop.timestamp(),
                         "icon": programme_thumbnail,
-                        "channel": ""
+                        "channel": ch_name
                     })
 
 channel_xml = build_xmltv(channels_data, programme_data)
