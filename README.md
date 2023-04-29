@@ -1,12 +1,13 @@
 ![logo](https://user-images.githubusercontent.com/9065463/232618260-d9017259-1786-4d85-807f-63752143d403.png)
 
-[![Make EPG](https://github.com/dp247/Freeview-EPG/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/dp247/Freeview-EPG/actions/workflows/actions.yml)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/dp247/Freeview-EPG/actions.yml?color=%232ca9bc&label=EPG%20Generation&style=flat-square) ![GitHub issues](https://img.shields.io/github/issues-raw/dp247/Freeview-EPG?color=%232ca9bc&style=flat-square)
 
 Freeview-EPG is a project designed to provide a reliable source of XMLTV data for UK free-to-air channels. The channel list was designed to match [this](https://github.com/ExperiencersInternational/tvsetup) project as closely as possible, and is a cutdown fork from the [iptv/epg](https://github.com/iptv-org/epg) project. 
 
-![image](https://user-images.githubusercontent.com/9065463/232475526-1ea36b57-df01-4a95-afe2-dfbd3116052f.png)
+![image](https://user-images.githubusercontent.com/9065463/235314658-369f0825-692c-4626-8938-d3f60de3d167.png)
 
-The project works by using Sky's EPG Services or BT's YouView API to parse channel and programme data and then build the resulting dataset into an XMLTV file. The file provides a 48h EPG and is automatically updated every 24 hours. Metadata is bound by both what the API provides and what can be represented in the XMLTV format (see [here](https://github.com/XMLTV/xmltv/blob/master/xmltv.dtd)), but the aim is to at least provide:
+
+The project works by using Sky's EPG Services or BT's YouView API to parse channel and programme data and then build the resulting dataset into an XMLTV file. The file provides a 48h EPG and is automatically updated every 8 hours. Metadata is bound by both what the API provides and what can be represented in the XMLTV format (see [here](https://github.com/XMLTV/xmltv/blob/master/xmltv.dtd)), but the aim is to at least provide:
 
 - Programme title
 - Programme description
@@ -25,7 +26,7 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 ```
 
 ## To-do
-- Build EPG data for radio stations
+- ~~Build EPG data for radio stations~~
 - Experiment with adding more metadata to the XML file (e.g. season/episode numbering and ratings where available)
 - Produce a longer EPG
 
@@ -56,4 +57,5 @@ You may copy, distribute and modify the software as long as you track changes/da
 
 ## Related projects
 - [YouTube to M3U8](https://github.com/dp247/YouTubeToM3U8) - converts and maintains YouTube live streams in a single M3U8 playlist
+- [iptv-cutter](https://github.com/dp247/iptv-cutter) - deduplicator and generator of M3Us for popular IPTV services
 - [Freeview M3U](https://github.com/ExperiencersInternational/tvsetup) - companion playlist for this project
