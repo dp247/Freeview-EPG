@@ -34,5 +34,7 @@
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioDevon.uk" site_id="bbc_radio_devon">BBC Radio Devon</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioFoyle.uk" site_id="bbc_radio_foyle">BBC Radio Foyle</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioLancashire.uk" site_id="bbc_radio_lancashire">BBC Radio Lancashire</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioNanGaidheal.uk" site_id="bbc_radio_nan_gaidheal">BBC Radio nan Gàidheal</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioNottingham.uk" site_id="bbc_radio_nottingham">BBC Radio Nottingham</channel>
   </channels>
 </site>
