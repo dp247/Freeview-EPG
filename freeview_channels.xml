@@ -41,5 +41,9 @@
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioYork.uk" site_id="bbc_radio_york">BBC Radio York</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioThreeCounties.uk" site_id="bbc_three_counties_radio">BBC Radio Three Counties</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioCornwall.uk" site_id="bbc_radio_cornwall">BBC Radio Cornwall</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioCumbria.uk" site_id="bbc_radio_cumbria">BBC Radio Cumbria</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioCymru2.uk" site_id="bbc_radio_cymru_2">BBC Radio Cymru 2</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioGuernsey.uk" site_id="bbc_radio_guernsey">BBC Radio Guernsey</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioHumberside.uk" site_id="bbc_radio_humberside">BBC Radio Humberside</channel>
   </channels>
 </site>
