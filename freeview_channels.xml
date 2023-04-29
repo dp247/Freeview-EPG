@@ -29,7 +29,7 @@
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioScotland.uk" site_id="bbc_radio_scotland_fm">BBC Radio Scotland</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioUlster.uk" site_id="bbc_radio_ulster">BBC Radio Ulster</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioWales.uk" site_id="bbc_radio_wales_fm">BBC Radio Wales</channel>
-    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioHW.uk" site_id="bbc_radio_hereford_worcester">BBC Radio Hereford & Worcester</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioHW.uk" site_id="bbc_radio_hereford_worcester">BBC Radio Hereford &amp; Worcester</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioCymru.uk" site_id="bbc_radio_cymru">BBC Radio Cymru</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioDevon.uk" site_id="bbc_radio_devon">BBC Radio Devon</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioFoyle.uk" site_id="bbc_radio_foyle">BBC Radio Foyle</channel>
