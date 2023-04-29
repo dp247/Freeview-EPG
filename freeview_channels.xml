@@ -16,5 +16,23 @@
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadio6Music.uk" site_id="bbc_6music">BBC Radio 6 Music</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioAsianNetwork.uk" site_id="bbc_asian_network">BBC Radio Asian Network</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioWorldService.uk" site_id="bbc_world_service">BBC Radio World Service</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="CBeebiesRadio.uk" site_id="cbeebies_radio">CBeebies Radio</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioLeeds.uk" site_id="bbc_radio_leeds">BBC Radio Leeds</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioJersey.uk" site_id="bbc_radio_jersey">BBC Radio Jersey</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioBristol.uk" site_id="bbc_radio_bristol">BBC Radio Bristol</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioBerkshire.uk" site_id="bbc_radio_berkshire">BBC Radio Berkshire</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioCWR.uk" site_id="bbc_radio_coventry_warwickshire">BBC Radio CWR</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioKent.uk" site_id="bbc_radio_kent">BBC Radio Kent</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioManchester.uk" site_id="bbc_radio_manchester">BBC Radio Manchester</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioNewcastle.uk" site_id="bbc_radio_newcastle">BBC Radio Newcastle</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioNorfolk.uk" site_id="bbc_radio_norfolk">BBC Radio Norfolk</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioScotland.uk" site_id="bbc_radio_scotland_fm">BBC Radio Scotland</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioUlster.uk" site_id="bbc_radio_ulster">BBC Radio Ulster</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioWales.uk" site_id="bbc_radio_wales_fm">BBC Radio Wales</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioHW.uk" site_id="bbc_radio_hereford_worcester">BBC Radio Hereford & Worcester</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioCymru.uk" site_id="bbc_radio_cymru">BBC Radio Cymru</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioDevon.uk" site_id="bbc_radio_devon">BBC Radio Devon</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioFoyle.uk" site_id="bbc_radio_foyle">BBC Radio Foyle</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioLancashire.uk" site_id="bbc_radio_lancashire">BBC Radio Lancashire</channel>
   </channels>
 </site>
