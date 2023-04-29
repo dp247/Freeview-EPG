@@ -27,12 +27,25 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 ## To-do
 - Build EPG data for radio stations
 - Experiment with adding more metadata to the XML file (e.g. season/episode numbering and ratings where available)
-- Produce a longer EPG (5-7 days would be ideal)
+- Produce a longer EPG
 
 ## Contributing
+### Guidelines
 - Please report issues [here](https://github.com/dp247/Freeview-EPG/issues/new?assignees=&labels=bug&template=issue-report.md&title=%5BIssue%5D), including as much detail as possible about the problem.
 - You can request channels [here](https://github.com/dp247/Freeview-EPG/issues/new?assignees=&labels=channel&template=channel-request.md&title=%5BChannel+request%5D). Please bear in mind that a request is not a guarantee.
 - If you'd like to suggest a change or feature, feel free to fork and PR back in. Big changes should be discussed in a [blank issue](https://github.com/dp247/Freeview-EPG/issues/new) first.
+
+### Adding BBC Radio stations
+BBC radio stations can be added to the `freeview_channels.xml` file with the same schema as Sky and BT-sourced channels. With that being said, please set the attributes as so:
+
+| Attribute    | Value       | Notes                                                                                                                                                                                                              |
+|--------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| src          | bbc_radio   | Used to get dates in correct format and choose correct scraper                                                                                                                                                     |
+| lang         | en          |                                                                                                                                                                                                                    |
+| xmltv_id     | {name}.uk   | Should start with 'BBCRadio'. Full station names are preferred, but feel free to abbreviate too (e.g. BBCRadio1Dance.uk -> BBCRadio1D.uk)                                                                          |
+| site_id      | {id}        | This needs to be taken from the BBC Sounds schedule page's URL. Go to `https://www.bbc.co.uk/sounds/stations` and select your station's schedule, then copy the bit before the date (Radio 1's is `bbc_radio_one`) |
+| channel name | {name text} | Not an XML attribute, but the actual text. Should be the station's full name                                                                                                                                       |
+
 
 ## License
 [GNU General Public License v3.0](https://github.com/dp247/Freeview-EPG/blob/master/LICENSE)
