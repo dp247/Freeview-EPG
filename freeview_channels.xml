@@ -47,5 +47,24 @@
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioHumberside.uk" site_id="bbc_radio_humberside">BBC Radio Humberside</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioLeicester.uk" site_id="bbc_radio_leicester">BBC Radio Leicester</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioLondon.uk" site_id="bbc_london">BBC Radio London</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioShropshire.uk" site_id="bbc_radio_shropshire">BBC Radio Shropshire</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioWiltshire.uk" site_id="bbc_radio_wiltshire">BBC Radio Wiltshire</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioCambridge.uk" site_id="bbc_radio_cambridge">BBC Radio Cambridge</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioLincolnshire.uk" site_id="bbc_radio_lincolnshire">BBC Radio Lincolnshire</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioMerseyside.uk" site_id="bbc_radio_merseyside">BBC Radio Merseyside</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioOxford.uk" site_id="bbc_radio_oxford">BBC Radio Oxford</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioSolent.uk" site_id="bbc_radio_solent">BBC Radio Solent</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioSomerset.uk" site_id="bbc_radio_somerset_sound">BBC Radio Somerset</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioSurrey.uk" site_id="bbc_radio_surrey">BBC Radio Surrey</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioTees.uk" site_id="bbc_tees">BBC Radio Tees</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioWM.uk" site_id="bbc_wm">BBC Radio WM</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioStoke.uk" site_id="bbc_radio_stoke">BBC Radio Stoke</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCEssex.uk" site_id="bbc_radio_essex">BBC Essex</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioNorthampton.uk" site_id="bbc_radio_northampton">BBC Radio Northampton</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioSheffield.uk" site_id="bbc_radio_sheffield">BBC Radio Sheffield</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioGloucestershire.uk" site_id="bbc_radio_gloucestershire">BBC Radio Gloucestershire</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioDerby.uk" site_id="bbc_radio_derby">BBC Radio Derby</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioOrkney.uk" site_id="bbc_radio_orkney">BBC Radio Orkney</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioShetland.uk" site_id="bbc_radio_shetland">BBC Radio Shetland</channel>
   </channels>
 </site>
