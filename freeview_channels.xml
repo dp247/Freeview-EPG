@@ -29,7 +29,7 @@
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioScotland.uk" site_id="bbc_radio_scotland_fm">BBC Radio Scotland</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioUlster.uk" site_id="bbc_radio_ulster">BBC Radio Ulster</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioWales.uk" site_id="bbc_radio_wales_fm">BBC Radio Wales</channel>
-    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioHW.uk" site_id="bbc_radio_hereford_worcester">BBC Radio Hereford & Worcester</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioHW.uk" site_id="bbc_radio_hereford_worcester">BBC Radio Hereford &amp Worcester</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioCymru.uk" site_id="bbc_radio_cymru">BBC Radio Cymru</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioDevon.uk" site_id="bbc_radio_devon">BBC Radio Devon</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioFoyle.uk" site_id="bbc_radio_foyle">BBC Radio Foyle</channel>
@@ -45,5 +45,7 @@
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioCymru2.uk" site_id="bbc_radio_cymru_2">BBC Radio Cymru 2</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioGuernsey.uk" site_id="bbc_radio_guernsey">BBC Radio Guernsey</channel>
     <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioHumberside.uk" site_id="bbc_radio_humberside">BBC Radio Humberside</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioLeicester.uk" site_id="bbc_radio_leicester">BBC Radio Leicester</channel>
+    <channel src="bbc_radio" lang="en" xmltv_id="BBCRadioLondon.uk" site_id="bbc_london">BBC Radio London</channel>
   </channels>
 </site>
