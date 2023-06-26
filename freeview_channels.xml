@@ -20,23 +20,6 @@
     <channel src="sky" lang="en" xmltv_id="BBCFour.uk" site_id="2018">BBC Four</channel>
     <channel src="sky" lang="en" xmltv_id="BBCFourHD.uk" site_id="2086">BBC Four HD</channel>
     <channel src="sky" lang="en" xmltv_id="BBCNews.uk" site_id="2011">BBC News</channel>
-<!--    <channel src="sky" lang="en" xmltv_id="BBCOneChannelIslands.uk" site_id="2074">BBC One CI</channel>-->
-<!--    <channel src="sky" lang="en" xmltv_id="BBCOneEastMidlands.uk" site_id="2105">BBC One E Mid</channel>-->
-<!--    <channel src="sky" lang="en" xmltv_id="BBCOneEngland.uk" site_id="2076">BBC One</channel>-->
-<!--    <channel src="sky" lang="en" xmltv_id="BBCOneLondon.uk" site_id="1059">BBC One Lon</channel>-->
-<!--    <channel src="sky" lang="en" xmltv_id="BBCOneNorthEastCumbria.uk" site_id="2155">BBC One NE&amp;C</channel>-->
-<!--    <channel src="sky" lang="en" xmltv_id="BBCOneNorthWest.uk" site_id="2102">BBC One N West</channel>-->
-<!--    <channel src="sky" lang="en" xmltv_id="BBCOneNorthernIreland.uk" site_id="2005">BBC One NI</channel>-->
-<!--    <channel src="sky" lang="en" xmltv_id="BBCOneOxfordshire.uk" site_id="2156">BBC One Oxford</channel>-->
-<!--    <channel src="sky" lang="en" xmltv_id="BBCOneScotland.uk" site_id="2004">BBC One Scotland</channel>-->
-<!--    <channel src="sky" lang="en" xmltv_id="BBCOneSouth.uk" site_id="2153">BBC One South</channel>-->
-<!--    <channel src="sky" lang="en" xmltv_id="BBCOneSouthEast.uk" site_id="2152">BBC One S East</channel>-->
-<!--    <channel src="sky" lang="en" xmltv_id="BBCOneSouthWest.uk" site_id="2154">BBC One S West</channel>-->
-<!--    <channel src="sky" lang="en" xmltv_id="BBCOneWales.uk" site_id="2003">BBC One Wales</channel>-->
-<!--    <channel src="sky" lang="en" xmltv_id="BBCOneWest.uk" site_id="2151">BBC One West</channel>-->
-<!--    <channel src="sky" lang="en" xmltv_id="BBCOneWestMidlands.uk" site_id="2101">BBC One W Mid</channel>-->
-<!--    <channel src="sky" lang="en" xmltv_id="BBCOneYorksLincs.uk" site_id="2103">BBC One Yk&amp;Li</channel>-->
-<!--    <channel src="sky" lang="en" xmltv_id="BBCOneYorkshire.uk" site_id="2104">BBC One Yorks</channel>-->
     <channel src="sky" lang="en" xmltv_id="BBCOneNEHD.uk" site_id="3009">BBC One North East HD</channel>
     <channel src="sky" lang="en" xmltv_id="BBCOneNWHD.uk" site_id="3007">BBC One North West HD</channel>
     <channel src="sky" lang="en" xmltv_id="BBCOneYorksHD.uk" site_id="3017">BBC One Yorkshire HD</channel>
@@ -61,6 +44,51 @@
     <channel src="sky" lang="en" xmltv_id="BBCTwoEngland.uk" site_id="2006">BBC Two</channel>
     <channel src="sky" lang="en" xmltv_id="BBCTwoNorthernIreland.uk" site_id="3019">BBC Two NI</channel>
     <channel src="sky" lang="en" xmltv_id="BBCTwoWales.uk" site_id="3015">BBC Two Wales</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR1.uk" site_id="2111">BBC Radio 1</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR1X.uk" site_id="2126">BBC Radio 1 Xtra</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR2.uk" site_id="2112">BBC Radio 2</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR3.uk" site_id="2113">BBC Radio 3</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR4FM.uk" site_id="2114">BBC Radio 4 FM</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR4LW.uk" site_id="2115">BBC Radio 4 LW</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR4EX.uk" site_id="2128">BBC Radio 4 Extra</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR5L.uk" site_id="2026">BBC Radio 5 Live</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR5SX.uk" site_id="2034">BBC Radio 5 Sports Xtra</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR6M.uk" site_id="2127">BBC Radio 6 Music</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCWorldService.uk" site_id="2122">BBC World Service</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCRScotland.uk" site_id="2117">BBC Radio Scotland</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCRWales.uk" site_id="2118">BBC Radio Wales</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCRUlster.uk" site_id="2119">BBC Radio Ulster</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCRadioGaidhael.uk" site_id="2129">BBC Radio nan Gaidhael</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCRadioCymru.uk" site_id="2123">BBC Radio Cymru</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCRadioCymru2.uk" site_id="2021">BBC Radio Cymru 2</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCRadioFoyle.uk" site_id="2124">BBC Radio Foyle</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCRadioLondon.uk" site_id="2130">BBC Radio London</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCRAsianNetwork.uk" site_id="2120">BBC Asian Network</channel>
+    <channel src="sky" lang="en" xmltv_id="ClassicFM.uk" site_id="3470">Classic FM</channel>
+    <channel src="sky" lang="en" xmltv_id="AbsoluteRadio.uk" site_id="2901">Absolute Radio</channel>
+    <channel src="sky" lang="en" xmltv_id="TalkSport.uk" site_id="2902">talkSPORT</channel>
+    <channel src="sky" lang="en" xmltv_id="CapitalRadio.uk" site_id="2908">Capital</channel>
+    <channel src="sky" lang="en" xmltv_id="PlanetRock.uk" site_id="3475">Planet Rock</channel>
+    <channel src="sky" lang="en" xmltv_id="HeartRadio.uk" site_id="2909">Heart Radio</channel>
+    <channel src="sky" lang="en" xmltv_id="Heart80s.uk" site_id="2928">Heart 80s</channel>
+    <channel src="sky" lang="en" xmltv_id="Heart90s.uk" site_id="1083">Heart 90s</channel>
+    <channel src="sky" lang="en" xmltv_id="HeartDance.uk" site_id="2920">Heart Dance</channel>
+    <channel src="sky" lang="en" xmltv_id="RadioX.uk" site_id="2904">Radio X</channel>
+    <channel src="sky" lang="en" xmltv_id="CapitalXtra.uk" site_id="2971">Capital Xtra</channel>
+    <channel src="sky" lang="en" xmltv_id="GoldRadio.uk" site_id="2903">Gold</channel>
+    <channel src="sky" lang="en" xmltv_id="LBCRadio.uk" site_id="2926">LBC</channel>
+    <channel src="sky" lang="en" xmltv_id="LBCNews.uk" site_id="1205">LBC News</channel>
+    <channel src="sky" lang="en" xmltv_id="SmoothRadio.uk" site_id="2917">Smooth</channel>
+    <channel src="sky" lang="en" xmltv_id="KissRadio.uk" site_id="3656">Kiss Radio</channel>
+    <channel src="sky" lang="en" xmltv_id="MagicRadio.uk" site_id="3660">Magic Radio</channel>
+    <channel src="sky" lang="en" xmltv_id="HitsRadio.uk" site_id="5562">Hits Radio</channel>
+    <channel src="sky" lang="en" xmltv_id="Absolute80s.uk" site_id="4373">Absolute 80s</channel>
+    <channel src="sky" lang="en" xmltv_id="Absolute90s.uk" site_id="4372">Absolute 90s</channel>
+    <channel src="sky" lang="en" xmltv_id="JazzFM.uk" site_id="4376">Jazz FM</channel>
+    <channel src="sky" lang="en" xmltv_id="ClassicRock.uk" site_id="4371">Classic Rock</channel>
+    <channel src="sky" lang="en" xmltv_id="BFBSRadio.uk" site_id="3371">BFBS Radio</channel>
+    <channel src="sky" lang="en" xmltv_id="VirginRadio.uk" site_id="1148">Virgin Radio</channel>
+    <channel src="sky" lang="en" xmltv_id="GreatestHitsRadio.uk" site_id="1101">Greatest Hits Radio</channel>
     <channel src="sky" lang="en" xmltv_id="Blaze.uk" site_id="1065">Blaze UK</channel>
     <channel src="sky" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="1074">Bloomberg HD</channel>
     <channel src="sky" lang="en" xmltv_id="CBBC.uk" site_id="1095">CBBC</channel>
