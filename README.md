@@ -2,7 +2,7 @@
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/dp247/Freeview-EPG/actions.yml?color=%232ca9bc&label=EPG%20Generation&style=flat-square) ![GitHub issues](https://img.shields.io/github/issues-raw/dp247/Freeview-EPG?color=%232ca9bc&style=flat-square)
 
-Freeview-EPG is a project designed to provide a reliable source of XMLTV data for UK free-to-air TV channels and radio stations. The channel list was designed to match [this](https://github.com/ExperiencersInternational/tvsetup) project as closely as possible, and is a cutdown fork from the [iptv/epg](https://github.com/iptv-org/epg) project. 
+Freeview-EPG is a project designed to provide a reliable source of XMLTV data for UK free-to-air TV channels and _national_ radio stations. The channel list was designed to match [this](https://github.com/ExperiencersInternational/tvsetup) project as closely as possible, and is a cutdown fork from the [iptv/epg](https://github.com/iptv-org/epg) project. 
 
 ![image](https://user-images.githubusercontent.com/9065463/235314658-369f0825-692c-4626-8938-d3f60de3d167.png)
 
@@ -26,9 +26,7 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 ```
 
 ## To-do
-- ~~Build EPG data for radio stations~~
-- Experiment with adding more metadata to the XML file (e.g. season/episode numbering and ratings where available)
-- Produce a longer EPG
+- Find reliable source for local BBC radio station programming data and re-add stations from radio-v1
 
 ## Contributing
 ### Guidelines
