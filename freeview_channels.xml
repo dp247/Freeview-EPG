@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site site="sky.com">
   <channels>
-        <channel src="sky" lang="en" xmltv_id="4Music.uk" site_id="1350">4Music</channel>
+    <channel src="sky" lang="en" xmltv_id="4Music.uk" site_id="1350">4Music</channel>
     <channel src="sky" lang="en" xmltv_id="4seven.uk" site_id="3150">4Seven</channel>
     <channel src="sky" lang="en" xmltv_id="5Action.uk" site_id="1036">5 Action</channel>
     <channel src="sky" lang="en" xmltv_id="5Select.uk" site_id="3028">5 Select</channel>
