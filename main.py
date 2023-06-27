@@ -119,7 +119,7 @@ Make the channels and programmes into something readable by XMLTV
         channel.set("id", ch[2][1])
         name = etree.SubElement(channel, "display-name")
         name.set("lang", "en")
-        name.text = ch[4][1]
+        name.text = ch[4][1] if ch[0][1] != "freeview" else ch[5][1]
 
     for pr in programmes:
         programme = etree.SubElement(data, 'programme')
@@ -261,8 +261,6 @@ for channel in channels_data:
                         icon = listing.get('fallback_image_url') + '?w=800'
                     else:
                         icon = None
-
-                    print(f"Title: {title} @ {temp_start}")
 
                     programme_data.append({
                         "title":       title,
