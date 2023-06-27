@@ -26,7 +26,8 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 ```
 
 ## To-do
-- Find reliable source for local BBC radio station programming data and re-add stations from radio-v1
+- Add remaining local BBC radio stations
+- Add channel logos/icons
 
 ## Contributing
 ### Guidelines
