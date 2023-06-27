@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site site="sky.com">
   <channels>
-    <channel src="freeview" lang="en" xmltv_id="BBCTwo.uk" site_id="4287" network_id="64361">BBC Two</channel>
     <channel src="freeview" lang="en" xmltv_id="BBCRadioLeeds.uk" site_id="6154" network_id="64361">BBC Radio Leeds</channel>
     <channel src="freeview" lang="en" xmltv_id="BBCRadioYork.uk" site_id="6282" network_id="64361">BBC Radio York</channel>
     <channel src="freeview" lang="en" xmltv_id="BBCRadioHumberside.uk" site_id="6223" network_id="64361">BBC Radio Humberside</channel>
