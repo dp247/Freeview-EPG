@@ -6,9 +6,15 @@ import json
 import requests
 import pytz
 import re
+import unicodedata
 
 bt_dt_format = '%Y-%m-%dT%H:%M:%SZ'
 tz = pytz.timezone('Europe/London')
+
+
+# From https://stackoverflow.com/questions/4324790/removing-control-characters-from-a-string-in-python
+def remove_control_characters(s):
+    return "".join(ch for ch in s if unicodedata.category(ch)[0]!="C")
 
 # From spatialtime/iso8601_duration.py
 def parse_duration(iso_duration):
@@ -131,7 +137,7 @@ Make the channels and programmes into something readable by XMLTV
         if pr.get('description') is not None:
             description = etree.SubElement(programme, "desc")
             description.set('lang', 'en')
-            description.text = pr.get("description")
+            description.text = remove_control_characters(pr.get("description"))
 
         if pr.get('icon') is not None:
             icon = etree.SubElement(programme, "icon")
@@ -220,48 +226,52 @@ for channel in channels_data:
             for item in ch_match:
                 service_id = item.get('service_id')
 
-                # Listings have a different URL which can be built using previously returned data
+                # Freeview API returns basic info with EPG API call
                 for listing in item.get('events'):
+
+                    ch_name = channel[2][1]
+                    title = listing.get("main_title")
+                    desc = listing.get("secondary_title") if "secondary_title" in listing else \
+                        "No further information..."
+                    temp_start = datetime.strptime(listing.get('start_time'), "%Y-%m-%dT%H:%M:%S%z")
+                    duration = parse_duration(listing.get('duration'))
+                    end = (temp_start + duration).timestamp()
+                    start = temp_start.timestamp()
+
+                    # There's another URL for more in-depth programme information
                     data_url = f"https://www.freeview.co.uk/api/program?sid={service_id}&nid={channel[4][1]}" \
                                f"&pid={listing.get('program_id')}&start_time={listing.get('start_time')}&duration={listing.get('duration')}"
-
                     info_req = requests.get(data_url)
 
-                    if info_req.status_code != 200:
-                        continue
-                    else:
+                    try:
                         res = json.loads(info_req.text)
+                    except Exception as ex:
+                        continue
 
-                        # If JSON returns but is empty, skip
-                        if not len(res['data']['programs']) > 0:
-                            continue
+                    # Should only return one programme, so just get the first if one exists
+                    info = res['data']['programs'][0] if 'programs' in res['data'] else None
 
-                        info = res['data']['programs'][0]
+                    # Update the description with Freeview Play's medium option if available
+                    desc = info.get('synopsis').get('medium') if 'synopsis' in info else ''
 
-                        ch_name = channel[2][1]
-                        title = info.get("main_title")
-                        desc = info.get('synopsis').get('medium')
-                        icon = info.get('image_url') + '?w=800' if 'image_url' in info else None
+                    # Get Freeview Play's image, or use the fallback
+                    if 'image_url' in info:
+                        icon = info.get('image_url') + '?w=800'
+                    elif 'fallback_image_url' in listing:
+                        icon = listing.get('fallback_image_url') + '?w=800'
+                    else:
+                        icon = None
 
-                        # If there's no event info (i.e. scheduling), skip
-                        if "events" not in info:
-                            continue
+                    print(f"Title: {title} @ {temp_start}")
 
-                        temp_start = datetime.strptime(info['events'][0].get('start_time'), "%Y-%m-%dT%H:%M:%S%z")
-                        duration = parse_duration(info['events'][0].get('duration'))
-                        end = (temp_start + duration).timestamp()
-                        start = temp_start.timestamp()
-
-                        print(f"Title: {title} @ {temp_start}")
-
-                        programme_data.append({
-                            "title":       title,
-                            "description": desc,
-                            "start":       start,
-                            "stop":        end,
-                            "icon":        icon,
-                            "channel":     ch_name
-                        })
+                    programme_data.append({
+                        "title":       title,
+                        "description": desc,
+                        "start":       start,
+                        "stop":        end,
+                        "icon":        icon,
+                        "channel":     ch_name
+                    })
 
 channel_xml = build_xmltv(channels_data, programme_data)
 
