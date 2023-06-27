@@ -1,12 +1,55 @@
+import math
+
 from lxml import etree
 from datetime import datetime, timedelta, time, timezone
 import json
 import requests
 import pytz
+import re
+import unicodedata
 
 bt_dt_format = '%Y-%m-%dT%H:%M:%SZ'
 tz = pytz.timezone('Europe/London')
 
+
+# From https://stackoverflow.com/questions/4324790/removing-control-characters-from-a-string-in-python
+def remove_control_characters(s):
+    return "".join(ch for ch in s if unicodedata.category(ch)[0]!="C")
+
+# From spatialtime/iso8601_duration.py
+def parse_duration(iso_duration):
+    """Parses an ISO 8601 duration string into a datetime.timedelta instance.
+    Args:
+        iso_duration: an ISO 8601 duration string.
+    Returns:
+        a datetime.timedelta instance
+    """
+    m = re.match(r'^P(?:(\d+)Y)?(?:(\d+)M)?(?:(\d+)D)?T(?:(\d+)H)?(?:(\d+)M)?(?:(\d+(?:.\d+)?)S)?$',
+                 iso_duration)
+    if m is None:
+        raise ValueError("invalid ISO 8601 duration string")
+
+    days = 0
+    hours = 0
+    minutes = 0
+    seconds = 0.0
+
+    # Years and months are not being utilized here, as there is not enough
+    # information provided to determine which year and which month.
+    # Python's time_delta class stores durations as days, seconds and
+    # microseconds internally, and therefore we'd have to
+    # convert parsed years and months to specific number of days.
+
+    if m[3]:
+        days = int(m[3])
+    if m[4]:
+        hours = int(m[4])
+    if m[5]:
+        minutes = int(m[5])
+    if m[6]:
+        seconds = float(m[6])
+
+    return timedelta(days=days, hours=hours, minutes=minutes, seconds=seconds)
 
 def get_days(src: str) -> list:
     """
@@ -23,6 +66,14 @@ Generate epoch times for now, midnight tomorrow, and midnight the next day
         now = datetime.now() - timedelta(hours=1)
         day_1 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(1))
         day_2 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(2))
+        return [now, day_1, day_2]
+
+    elif src == "freeview":
+        midnight = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0).timestamp()
+
+        now = math.trunc(datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0).timestamp())
+        day_1 = math.trunc((datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(1)).timestamp())
+        day_2 = math.trunc((datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(2)).timestamp())
         return [now, day_1, day_2]
 
     else:
@@ -86,7 +137,7 @@ Make the channels and programmes into something readable by XMLTV
         if pr.get('description') is not None:
             description = etree.SubElement(programme, "desc")
             description.set('lang', 'en')
-            description.text = pr.get("description")
+            description.text = remove_control_characters(pr.get("description"))
 
         if pr.get('icon') is not None:
             icon = etree.SubElement(programme, "icon")
@@ -157,6 +208,70 @@ for channel in channels_data:
                     "icon": icon,
                     "channel": ch_name
                 })
+
+    if channel[0][1] == "freeview":
+        epoch_times = get_days("freeview")
+        for epoch in epoch_times:
+            # Get programme data for Freeview multiplex
+            url = f"https://www.freeview.co.uk/api/tv-guide"
+            req = requests.get(url, params={'nid': f'{channel[4][1]}', 'start': f'{str(epoch)}'})
+            if req.status_code != 200:
+                continue
+            result = json.loads(req.text)
+            epg_data = result['data']['programs']
+
+            ch_match = filter(lambda ch: ch['service_id'] == channel[3][1], epg_data)
+
+            # For each channel in result, get UID from JSON
+            for item in ch_match:
+                service_id = item.get('service_id')
+
+                # Freeview API returns basic info with EPG API call
+                for listing in item.get('events'):
+
+                    ch_name = channel[2][1]
+                    title = listing.get("main_title")
+                    desc = listing.get("secondary_title") if "secondary_title" in listing else \
+                        "No further information..."
+                    temp_start = datetime.strptime(listing.get('start_time'), "%Y-%m-%dT%H:%M:%S%z")
+                    duration = parse_duration(listing.get('duration'))
+                    end = (temp_start + duration).timestamp()
+                    start = temp_start.timestamp()
+
+                    # There's another URL for more in-depth programme information
+                    data_url = f"https://www.freeview.co.uk/api/program?sid={service_id}&nid={channel[4][1]}" \
+                               f"&pid={listing.get('program_id')}&start_time={listing.get('start_time')}&duration={listing.get('duration')}"
+                    info_req = requests.get(data_url)
+
+                    try:
+                        res = json.loads(info_req.text)
+                    except Exception as ex:
+                        continue
+
+                    # Should only return one programme, so just get the first if one exists
+                    info = res['data']['programs'][0] if 'programs' in res['data'] else None
+
+                    # Update the description with Freeview Play's medium option if available
+                    desc = info.get('synopsis').get('medium') if 'synopsis' in info else ''
+
+                    # Get Freeview Play's image, or use the fallback
+                    if 'image_url' in info:
+                        icon = info.get('image_url') + '?w=800'
+                    elif 'fallback_image_url' in listing:
+                        icon = listing.get('fallback_image_url') + '?w=800'
+                    else:
+                        icon = None
+
+                    print(f"Title: {title} @ {temp_start}")
+
+                    programme_data.append({
+                        "title":       title,
+                        "description": desc,
+                        "start":       start,
+                        "stop":        end,
+                        "icon":        icon,
+                        "channel":     ch_name
+                    })
 
 channel_xml = build_xmltv(channels_data, programme_data)
 
