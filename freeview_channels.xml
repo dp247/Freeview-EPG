@@ -33,6 +33,7 @@
     <channel src="sky" lang="en" xmltv_id="BBCOneSWHD.uk" site_id="3014">BBC One South West HD</channel>
     <channel src="sky" lang="en" xmltv_id="BBCOneCIHD.uk" site_id="3018">BBC One Channel Islands HD</channel>
     <channel src="sky" lang="en" xmltv_id="BBCOneNIHD.uk" site_id="2081">BBC One NI HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCOneLondonHD.uk" site_id="3000">BBC One London HD</channel>
     <channel src="sky" lang="en" xmltv_id="BBCOneScotHD.uk" site_id="2082">BBC One Scotland HD</channel>
     <channel src="sky" lang="en" xmltv_id="BBCOneWalesHD.uk" site_id="2083">BBC One Wales HD</channel>
     <channel src="sky" lang="en" xmltv_id="BBCParliament.uk" site_id="2072">BBC Parliament</channel>
@@ -137,16 +138,15 @@
     <channel src="sky" lang="en" xmltv_id="HGTVUKPlus1.uk" site_id="2309">HGTV+1</channel>
     <channel src="sky" lang="en" xmltv_id="HorrorXtra.uk" site_id="3605">HorrorXtra</channel>
     <channel src="sky" lang="en" xmltv_id="HorrorXtraPlus1.uk" site_id="4502">HorrorXtra+1</channel>
-    <channel src="sky" lang="en" xmltv_id="ITV1.uk" site_id="1020">ITV</channel>
-    <channel src="sky" lang="en" xmltv_id="ITV1Plus1.uk" site_id="6145">ITV+1</channel>
-    <channel src="sky" lang="en" xmltv_id="ITV2.uk" site_id="6240">ITV 2</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1.uk" site_id="1044">ITV</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1Plus1.uk" site_id="6155">ITV+1</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV2.uk" site_id="6532">ITV 2</channel>
     <channel src="sky" lang="en" xmltv_id="ITV2Plus1.uk" site_id="6241">ITV 2 +1</channel>
-    <channel src="sky" lang="en" xmltv_id="ITV3.uk" site_id="6260">ITV 3</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV3.uk" site_id="6533">ITV 3</channel>
     <channel src="sky" lang="en" xmltv_id="ITV3Plus1.uk" site_id="6261">ITV 3 +1</channel>
-    <channel src="sky" lang="en" xmltv_id="ITV4.uk" site_id="6272">ITV 4</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV4.uk" site_id="6534">ITV 4</channel>
     <channel src="sky" lang="en" xmltv_id="ITV4Plus1.uk" site_id="6274">ITV 4 +1</channel>
     <channel src="sky" lang="en" xmltv_id="ITVBe.uk" site_id="6508">ITV Be</channel>
-    <channel src="sky" lang="en" xmltv_id="IdealWorldTV.uk" site_id="1244">Ideal World</channel>
     <channel src="sky" lang="en" xmltv_id="JewelleryMaker.uk" site_id="3354">Jewellery Maker</channel>
     <channel src="sky" lang="en" xmltv_id="Kerrang.uk" site_id="1853">Kerrang!</channel>
     <channel src="sky" lang="en" xmltv_id="KissTVUK.uk" site_id="1858">Kiss TV</channel>
