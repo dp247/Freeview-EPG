@@ -99,6 +99,7 @@
     <channel src="sky" lang="en" xmltv_id="CBeebies.uk" site_id="1093">CBeebies</channel>
     <channel src="sky" lang="en" xmltv_id="CITV.uk" site_id="6273">CITV</channel>
     <channel src="sky" lang="en" xmltv_id="CNBCEurope.uk" site_id="1088">CNBC UK</channel>
+    <channel src="sky" lang="en" xmltv_id="CNNInternational.uk" site_id="1019">CNN International</channel>
     <channel src="sky" lang="en" xmltv_id="Challenge.uk" site_id="2202">Challenge UK</channel>
     <channel src="sky" lang="en" xmltv_id="Channel4.uk" site_id="1621">Channel 4</channel>
     <channel src="sky" lang="en" xmltv_id="Channel4Plus1.uk" site_id="1671">Channel 4+1</channel>
@@ -138,8 +139,26 @@
     <channel src="sky" lang="en" xmltv_id="HGTVUKPlus1.uk" site_id="2309">HGTV+1</channel>
     <channel src="sky" lang="en" xmltv_id="HorrorXtra.uk" site_id="3605">HorrorXtra</channel>
     <channel src="sky" lang="en" xmltv_id="HorrorXtraPlus1.uk" site_id="4502">HorrorXtra+1</channel>
-    <channel src="sky" lang="en" xmltv_id="ITV1.uk" site_id="1044">ITV</channel>
-    <channel src="sky" lang="en" xmltv_id="ITV1Plus1.uk" site_id="6155">ITV+1</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1Anglia.uk" site_id="1045">ITV1 Anglia</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1AngliaWest.uk" site_id="1217">ITV1 Anglia (West)</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1Border.uk" site_id="1061">ITV1 Border</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1CentralE.uk" site_id="1219">ITV1 Central (East)</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1CentralW.uk" site_id="6503">ITV1 Central (West)</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1London.uk" site_id="6504">ITV1 London</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1MeridianN.uk" site_id="1208">ITV1 Meridian (North)</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1MeridianE.uk" site_id="6502">ITV1 Meridian (East)</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1MeridianS.uk" site_id="1209">ITV1 Meridian (South)</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1North.uk" site_id="6505">ITV1 North</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1TyneTees.uk" site_id="1043">ITV1 Tyne Tees</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1Wales.uk" site_id="6501">ITV1 Wales</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1West.uk" site_id="1063">ITV1 West</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1WestCountry.uk" site_id="1062">ITV1 West Country</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1YorkshireEast.uk" site_id="1214">ITV1 Yorkshire (East)</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1YorkshireWest.uk" site_id="1044">ITV1 Yorkshire</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1Plus1Granada.uk" site_id="6355">ITV+1 Granada</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1Plus1London.uk" site_id="6155">ITV+1 London</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1Plus1Meridian.uk" site_id="6365">ITV+1 Meridian</channel>
+    <channel src="sky" lang="en" xmltv_id="ITV1Plus1Midlands.uk" site_id="6145">ITV+1 Midlands</channel>
     <channel src="sky" lang="en" xmltv_id="ITV2.uk" site_id="6532">ITV 2</channel>
     <channel src="sky" lang="en" xmltv_id="ITV2Plus1.uk" site_id="6241">ITV 2 +1</channel>
     <channel src="sky" lang="en" xmltv_id="ITV3.uk" site_id="6533">ITV 3</channel>
