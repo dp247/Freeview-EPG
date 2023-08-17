@@ -8,7 +8,7 @@ Freeview-EPG is a project designed to provide a reliable source of XMLTV data fo
 ![image](https://user-images.githubusercontent.com/9065463/235314658-369f0825-692c-4626-8938-d3f60de3d167.png)
 
 
-The project works by using Sky's EPG Services or BT's YouView API to parse channel and programme data and then build the resulting dataset into an XMLTV file. The file provides a 48h EPG and is automatically updated every 8 hours. Metadata is bound by both what the API provides and what can be represented in the XMLTV format (see [here](https://github.com/XMLTV/xmltv/blob/master/xmltv.dtd)), but the aim is to at least provide:
+The project works by using various APIs to parse channel and programme data and then build the resulting dataset into an XMLTV file. The file provides a 48h EPG and is automatically updated every 8 hours. Metadata is bound by both what the API provides and what can be represented in the XMLTV format (see [here](https://github.com/XMLTV/xmltv/blob/master/xmltv.dtd)), but the aim is to at least provide:
 
 - Programme title
 - Programme description
@@ -29,6 +29,7 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 ## To-do
 - Add remaining local BBC radio stations
 - Add channel logos/icons
+- Create standalone version with support for more days/custom channel lists
 
 ## Contributing
 ### Guidelines
