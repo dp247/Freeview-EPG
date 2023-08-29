@@ -16,12 +16,12 @@ The project works by using various APIs to parse channel and programme data and 
 - Some kind of image for the programme (this will probably be a screengrab, which doesn't fit poster-based EPGs like Plex's, but is better than nothing)
 
 ## Disclaimers
-- I'm open to adding any *free-to-air* channels to this EPG, whether that's for an IPTV channel or a Freeview channel, but I won't be adding PPV or subscription based channels here.
-- The software and data is provided as-is. While I intend for it to be as reliable as possible, the data is sourced from respective APIs and is out of my control.
+- I'm open to adding any *free-to-air* channels to this EPG, whether that's for an IPTV channel or a Freeview channel, but I won't be adding PPV or subscription-based channels here.
+- The software and data are provided as-is. While I intend for it to be as reliable as possible, the data is sourced from respective APIs and is out of my control.
 
 
 ## Usage
-Grab the XMLTV file from this link and paste it into your favourite IPTV client:
+Grab the XMLTV file from this link and paste it into your favorite IPTV client:
 ```
 https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 ```
@@ -29,13 +29,14 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 ## To-do
 - Add remaining local BBC radio stations
 - Add channel logos/icons
-- Create standalone version with support for more days/custom channel lists
+- Create a standalone version with support for upto 7 days, as well as custom channel lists
 
 ## Contributing
 ### Guidelines
+- Please check [the FAQ](https://github.com/dp247/Freeview-EPG/wiki/FAQ) to make sure your question hasn't already been answered.
 - Please report issues [here](https://github.com/dp247/Freeview-EPG/issues/new?assignees=&labels=bug&template=issue-report.md&title=%5BIssue%5D), including as much detail as possible about the problem.
 - You can request channels [here](https://github.com/dp247/Freeview-EPG/issues/new?assignees=&labels=channel&template=channel-request.md&title=%5BChannel+request%5D). Please bear in mind that a request is not a guarantee.
-- If you'd like to suggest a change or feature, feel free to fork and PR back in. Big changes should be discussed in a [blank issue](https://github.com/dp247/Freeview-EPG/issues/new) first.
+- If you'd like to suggest a change or feature, feel free to either open a blank fork and PR back in. Big changes should be discussed in a [blank issue](https://github.com/dp247/Freeview-EPG/issues/new) first.
 
 
 ## License
