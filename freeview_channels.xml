@@ -231,6 +231,6 @@
     <channel src="freeview" lang="en" xmltv_id="BBCRadioHumberside.uk" site_id="6223" network_id="64361">BBC Radio Humberside</channel>
     <channel src="freeview" lang="en" xmltv_id="BBCRadioLincolnshire.uk" site_id="6159" network_id="64361">BBC Radio Lincolnshire</channel>
     <channel src="freeview" lang="en" xmltv_id="BBCRadioSheffield.uk" site_id="6218" network_id="64361">BBC Radio Sheffield</channel>
-    <channel src="freeview" lang="en" xmltv_id="BBCRadioSomerset.uk" site_id="6337" network_id="64320">BBC Radio Sheffield</channel>
+    <channel src="freeview" lang="en" xmltv_id="BBCRadioSomerset.uk" site_id="6337" network_id="64320">BBC Radio Somerset</channel>
   </channels>
 </site>
