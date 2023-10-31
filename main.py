@@ -252,7 +252,8 @@ for channel in channels_data:
                     info = res['data']['programs'][0] if 'programs' in res['data'] else None
 
                     # Update the description with Freeview Play's medium option if available
-                    desc = info.get('synopsis').get('medium') if 'synopsis' in info else ''
+                    if len(info.get('synopsis')) > 0:
+                        desc = info.get('synopsis').get('medium') if 'synopsis' in info else ''
 
                     # Get Freeview Play's image, or use the fallback
                     if 'image_url' in info:
