@@ -45,10 +45,10 @@
     <channel src="sky" lang="en" xmltv_id="BBCTwoEngland.uk" site_id="2006" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png">BBC Two</channel>
     <channel src="sky" lang="en" xmltv_id="BBCTwoNorthernIreland.uk" site_id="3019" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png">BBC Two NI</channel>
     <channel src="sky" lang="en" xmltv_id="BBCTwoWales.uk" site_id="3015" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png">BBC Two Wales</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCR1.uk" site_id="2111" icon_url="https://raw.githubusercontent.com/ExperiencersInternational/tvsetup/main/tvg-ico/bbcrd1-epg.png">BBC Radio 1</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCR1X.uk" site_id="2126" icon_url="https://raw.githubusercontent.com/ExperiencersInternational/tvsetup/main/tvg-ico/bbcrd1x-epg.png">BBC Radio 1 Xtra</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCR2.uk" site_id="2112" icon_url="https://raw.githubusercontent.com/ExperiencersInternational/tvsetup/main/tvg-ico/bbcrd2-epg.png">BBC Radio 2</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCR3.uk" site_id="2113" icon_url="https://raw.githubusercontent.com/ExperiencersInternational/tvsetup/main/tvg-ico/bbcrd3-epg.png">BBC Radio 3</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR1.uk" site_id="2111">BBC Radio 1</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR1X.uk" site_id="2126">BBC Radio 1 Xtra</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR2.uk" site_id="2112">BBC Radio 2</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR3.uk" site_id="2113">BBC Radio 3</channel>
     <channel src="sky" lang="en" xmltv_id="BBCR4FM.uk" site_id="2114">BBC Radio 4 FM</channel>
     <channel src="sky" lang="en" xmltv_id="BBCR4LW.uk" site_id="2115">BBC Radio 4 LW</channel>
     <channel src="sky" lang="en" xmltv_id="BBCR4EX.uk" site_id="2128">BBC Radio 4 Extra</channel>
