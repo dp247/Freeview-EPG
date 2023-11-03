@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site site="sky.com">
   <channels>
-    <channel src="sky" lang="en" xmltv_id="4Music.uk" site_id="1350">4Music</channel>
-    <channel src="sky" lang="en" xmltv_id="4seven.uk" site_id="3150">4Seven</channel>
-    <channel src="sky" lang="en" xmltv_id="5Action.uk" site_id="1036">5 Action</channel>
-    <channel src="sky" lang="en" xmltv_id="5Select.uk" site_id="3028">5 Select</channel>
-    <channel src="sky" lang="en" xmltv_id="5Star.uk" site_id="3023">5 Star</channel>
-    <channel src="sky" lang="en" xmltv_id="5StarPlus1.uk" site_id="3024">5STAR+1</channel>
-    <channel src="sky" lang="en" xmltv_id="5USA.uk" site_id="3022">5 USA</channel>
-    <channel src="sky" lang="en" xmltv_id="5USAPlus1.uk" site_id="3027">5USA+1</channel>
-    <channel src="sky" lang="en" xmltv_id="AdultChannel.uk" site_id="4195">Adult Channel</channel>
-    <channel src="sky" lang="en" xmltv_id="AlJazeeraEnglish.qa" site_id="1023">Al Jazeera English</channel>
-    <channel src="sky" lang="en" xmltv_id="Alibi.uk" site_id="2303">alibi</channel>
-    <channel src="sky" lang="en" xmltv_id="AlibiPlus1.uk" site_id="2630">alibi+1</channel>
-    <channel src="sky" lang="en" xmltv_id="AnimalPlanetUK.uk" site_id="2402">Animal Planet</channel>
-    <channel src="sky" lang="en" xmltv_id="AnimalPlanetUKPlus1.uk" site_id="1352">Animal Plnt+1</channel>
-    <channel src="sky" lang="en" xmltv_id="ArirangWorld.kr" site_id="1066">Arirang World</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCAlba.uk" site_id="2012">BBC Alba</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCFour.uk" site_id="2018">BBC Four</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCFourHD.uk" site_id="2086">BBC Four HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCNews.uk" site_id="2011">BBC News</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCOneNorthEastCumbria.uk" site_id="3009">BBC One North East HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCOneNorthWest.uk" site_id="3007">BBC One North West HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCOneYorkshire.uk" site_id="3017">BBC One Yorkshire HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCOneYorksLincs.uk" site_id="3004">BBC One Yorks &amp; Lincs HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCOneWestMidlands.uk" site_id="3003">BBC One West Midlands HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCOneEastMidlands.uk" site_id="3005">BBC One East Midlands HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCOneEast.uk" site_id="3006">BBC One East HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCOneSouthEast.uk" site_id="3008">BBC One South East HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCOneWest.uk" site_id="3001">BBC One West HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCOneSouth.uk" site_id="3011">BBC One South HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCOneSouthWest.uk" site_id="3014">BBC One South West HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCOneChannelIslands.uk" site_id="3018">BBC One Channel Islands HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCOneNorthernIreland.uk" site_id="2081">BBC One NI HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCOneLondonHD.uk" site_id="3000">BBC One London HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCOneScotHD.uk" site_id="2082">BBC One Scotland HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCOneWalesHD.uk" site_id="2083">BBC One Wales HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCParliament.uk" site_id="2072">BBC Parliament</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCRedButton1.uk" site_id="2051">BBC Red Button 1</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCScotland.uk" site_id="1137">BBC Scotland</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCThree.uk" site_id="2022">BBC Three</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCThreeHD.uk" site_id="2080">BBC Three HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCTwoHD.uk" site_id="2075">BBC Two HD</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCTwoEngland.uk" site_id="2006">BBC Two</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCTwoNorthernIreland.uk" site_id="3019">BBC Two NI</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCTwoWales.uk" site_id="3015">BBC Two Wales</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCR1.uk" site_id="2111">BBC Radio 1</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCR1X.uk" site_id="2126">BBC Radio 1 Xtra</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCR2.uk" site_id="2112">BBC Radio 2</channel>
-    <channel src="sky" lang="en" xmltv_id="BBCR3.uk" site_id="2113">BBC Radio 3</channel>
+    <channel src="sky" lang="en" xmltv_id="4Music.uk" site_id="1350" icon_url="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png">4Music</channel>
+    <channel src="sky" lang="en" xmltv_id="4seven.uk" site_id="3150" icon_url="https://i.imgur.com/Fpaxyop.png">4Seven</channel>
+    <channel src="sky" lang="en" xmltv_id="5Action.uk" site_id="1036" icon_url="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/512px-5Action_logo.svg.png">5 Action</channel>
+    <channel src="sky" lang="en" xmltv_id="5Select.uk" site_id="3028" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-select-uk.png">5 Select</channel>
+    <channel src="sky" lang="en" xmltv_id="5Star.uk" site_id="3023" icon_url="https://i.imgur.com/PI11s9s.png">5 Star</channel>
+    <channel src="sky" lang="en" xmltv_id="5StarPlus1.uk" site_id="3024" icon_url="https://i.imgur.com/fzqtSNm.png">5STAR+1</channel>
+    <channel src="sky" lang="en" xmltv_id="5USA.uk" site_id="3022" icon_url="https://i.imgur.com/Pi7so2l.png">5 USA</channel>
+    <channel src="sky" lang="en" xmltv_id="5USAPlus1.uk" site_id="3027" icon_url="https://i.imgur.com/hBx6T5t.png">5USA+1</channel>
+    <channel src="sky" lang="en" xmltv_id="AdultChannel.uk" site_id="4195" icon_url="https://i.imgur.com/CLBDM6g.png">Adult Channel</channel>
+    <channel src="sky" lang="en" xmltv_id="AlJazeeraEnglish.qa" site_id="1023" icon_url="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png">Al Jazeera English</channel>
+    <channel src="sky" lang="en" xmltv_id="Alibi.uk" site_id="2303" icon_url="https://i.imgur.com/r0OGAXz.png">alibi</channel>
+    <channel src="sky" lang="en" xmltv_id="AlibiPlus1.uk" site_id="2630" icon_url="https://i.imgur.com/wT33O3F.png">alibi+1</channel>
+    <channel src="sky" lang="en" xmltv_id="AnimalPlanetUK.uk" site_id="2402" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png">Animal Planet</channel>
+    <channel src="sky" lang="en" xmltv_id="AnimalPlanetUKPlus1.uk" site_id="1352" icon_url="https://i.imgur.com/JJPFEjy.png">Animal Plnt+1</channel>
+    <channel src="sky" lang="en" xmltv_id="ArirangWorld.kr" site_id="1066" icon_url="https://i.imgur.com/Asu5pE9.png">Arirang World</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCAlba.uk" site_id="2012" icon_url="https://i.imgur.com/36KDxLg.png">BBC Alba</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCFour.uk" site_id="2018" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png">BBC Four</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCFourHD.uk" site_id="2086" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png">BBC Four HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCNews.uk" site_id="2011" icon_url="https://i.imgur.com/vSz2WEp.png">BBC News</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCOneNorthEastCumbria.uk" site_id="3009" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png">BBC One North East HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCOneNorthWest.uk" site_id="3007" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png">BBC One North West HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCOneYorkshire.uk" site_id="3017" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png">BBC One Yorkshire HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCOneYorksLincs.uk" site_id="3004" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png">BBC One Yorks &amp; Lincs HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCOneWestMidlands.uk" site_id="3003" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png">BBC One West Midlands HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCOneEastMidlands.uk" site_id="3005" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png">BBC One East Midlands HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCOneEast.uk" site_id="3006" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png">BBC One East HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCOneSouthEast.uk" site_id="3008" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png">BBC One South East HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCOneWest.uk" site_id="3001" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png">BBC One West HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCOneSouth.uk" site_id="3011" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png">BBC One South HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCOneSouthWest.uk" site_id="3014" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png">BBC One South West HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCOneChannelIslands.uk" site_id="3018" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png">BBC One Channel Islands HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCOneNorthernIreland.uk" site_id="2081" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png">BBC One NI HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCOneLondonHD.uk" site_id="3000" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png">BBC One London HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCOneScotHD.uk" site_id="2082" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png">BBC One Scotland HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCOneWalesHD.uk" site_id="2083" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png">BBC One Wales HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCParliament.uk" site_id="2072" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-uk.png">BBC Parliament</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCRedButton1.uk" site_id="2051" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-red-button-uk.png">BBC Red Button 1</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCScotland.uk" site_id="1137" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png">BBC Scotland</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCThree.uk" site_id="2022" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png">BBC Three</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCThreeHD.uk" site_id="2080" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png">BBC Three HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCTwoHD.uk" site_id="2075" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png">BBC Two HD</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCTwoEngland.uk" site_id="2006" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png">BBC Two</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCTwoNorthernIreland.uk" site_id="3019" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png">BBC Two NI</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCTwoWales.uk" site_id="3015" icon_url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png">BBC Two Wales</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR1.uk" site_id="2111" icon_url="https://raw.githubusercontent.com/ExperiencersInternational/tvsetup/main/tvg-ico/bbcrd1-epg.png">BBC Radio 1</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR1X.uk" site_id="2126" icon_url="https://raw.githubusercontent.com/ExperiencersInternational/tvsetup/main/tvg-ico/bbcrd1x-epg.png">BBC Radio 1 Xtra</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR2.uk" site_id="2112" icon_url="https://raw.githubusercontent.com/ExperiencersInternational/tvsetup/main/tvg-ico/bbcrd2-epg.png">BBC Radio 2</channel>
+    <channel src="sky" lang="en" xmltv_id="BBCR3.uk" site_id="2113" icon_url="https://raw.githubusercontent.com/ExperiencersInternational/tvsetup/main/tvg-ico/bbcrd3-epg.png">BBC Radio 3</channel>
     <channel src="sky" lang="en" xmltv_id="BBCR4FM.uk" site_id="2114">BBC Radio 4 FM</channel>
     <channel src="sky" lang="en" xmltv_id="BBCR4LW.uk" site_id="2115">BBC Radio 4 LW</channel>
     <channel src="sky" lang="en" xmltv_id="BBCR4EX.uk" site_id="2128">BBC Radio 4 Extra</channel>
