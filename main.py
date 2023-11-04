@@ -119,7 +119,20 @@ Make the channels and programmes into something readable by XMLTV
         channel.set("id", ch[2][1])
         name = etree.SubElement(channel, "display-name")
         name.set("lang", "en")
-        name.text = ch[4][1] if ch[0][1] != "freeview" else ch[5][1]
+        if ch[0][1] != "freeview":
+            if ch[4][0] == "icon_url":
+                icon_src = etree.SubElement(channel, "icon")
+                icon_src.set("src", ch[4][1])
+                name.text = ch[5][1]
+            else:
+                name.text = ch[4][1]
+        else:
+            if ch[5][0] == "icon_url":
+                icon_src = etree.SubElement(channel, "icon")
+                icon_src.set("src", ch[5][1])
+                name.text = ch[6][1]
+            else:
+                name.text = ch[5][1]
 
     for pr in programmes:
         programme = etree.SubElement(data, 'programme')
@@ -249,18 +262,26 @@ for channel in channels_data:
                         continue
 
                     # Should only return one programme, so just get the first if one exists
-                    info = res['data']['programs'][0] if 'programs' in res['data'] else None
+                    if 'programs' in res['data']:
+                        if len(res['data']['programs']) > 0:
+                            info = res['data']['programs'][0]
+                        else:
+                            info = None
 
-                    # Update the description with Freeview Play's medium option if available
-                    if len(info.get('synopsis')) > 0:
-                        desc = info.get('synopsis').get('medium') if 'synopsis' in info else ''
+                    if info is not None:
+                        # Update the description with Freeview Play's medium option if available
+                        if len(info.get('synopsis')) > 0:
+                            desc = info.get('synopsis').get('medium') if 'synopsis' in info else ''
 
-                    # Get Freeview Play's image, or use the fallback
-                    if 'image_url' in info:
-                        icon = info.get('image_url') + '?w=800'
-                    elif 'fallback_image_url' in listing:
-                        icon = listing.get('fallback_image_url') + '?w=800'
+                        # Get Freeview Play's image, or use the fallback
+                        if 'image_url' in info:
+                            icon = info.get('image_url') + '?w=800'
+                        elif 'fallback_image_url' in listing:
+                            icon = listing.get('fallback_image_url') + '?w=800'
+                        else:
+                            icon = None
                     else:
+                        desc = ''
                         icon = None
 
                     programme_data.append({
