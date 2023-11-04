@@ -55,3 +55,7 @@ You may copy, distribute and modify the software as long as you track changes/da
 - [YouTube to M3U8](https://github.com/dp247/YouTubeToM3U8) - converts and maintains YouTube live streams in a single M3U8 playlist
 - [iptv-cutter](https://github.com/dp247/iptv-cutter) - deduplicator and generator of M3Us for popular IPTV services
 - [Freeview M3U](https://github.com/ExperiencersInternational/tvsetup) - companion playlist for this project
+
+## Legal
+- This project extracts publicly available data from public-facing websites
+- This project is not affiliated with the DTT television platform Freeview (UK), its owners (BBC, ITV, Channel Four, Sky Group), or its parent companies (Everyone TV, DTV Services Ltd) in any way, shape or form.
