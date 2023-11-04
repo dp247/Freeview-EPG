@@ -9,7 +9,6 @@
     <channel src="sky" lang="en" xmltv_id="5StarPlus1.uk" site_id="3024" icon_url="https://i.imgur.com/fzqtSNm.png">5STAR+1</channel>
     <channel src="sky" lang="en" xmltv_id="5USA.uk" site_id="3022" icon_url="https://i.imgur.com/Pi7so2l.png">5 USA</channel>
     <channel src="sky" lang="en" xmltv_id="5USAPlus1.uk" site_id="3027" icon_url="https://i.imgur.com/hBx6T5t.png">5USA+1</channel>
-    <channel src="sky" lang="en" xmltv_id="AdultChannel.uk" site_id="4195" icon_url="https://i.imgur.com/CLBDM6g.png">Adult Channel</channel>
     <channel src="sky" lang="en" xmltv_id="AlJazeeraEnglish.qa" site_id="1023" icon_url="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png">Al Jazeera English</channel>
     <channel src="sky" lang="en" xmltv_id="Alibi.uk" site_id="2303" icon_url="https://i.imgur.com/r0OGAXz.png">alibi</channel>
     <channel src="sky" lang="en" xmltv_id="AlibiPlus1.uk" site_id="2630" icon_url="https://i.imgur.com/wT33O3F.png">alibi+1</channel>
@@ -96,7 +95,6 @@
     <channel src="sky" lang="en" xmltv_id="CBSRealityUK.uk" site_id="1142" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CBS%20Reality.png">CBS Reality</channel>
     <channel src="sky" lang="en" xmltv_id="CBSRealityUKPlus1.uk" site_id="3602" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CBS%20Reality%20Plus%201.png">CBS Reality+1</channel>
     <channel src="sky" lang="en" xmltv_id="CBeebies.uk" site_id="1093" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbeebies-uk.png">CBeebies</channel>
-    <channel src="sky" lang="en" xmltv_id="CITV.uk" site_id="6273" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CBS%20Reality%20Plus%201.png">CITV</channel>
     <channel src="sky" lang="en" xmltv_id="CNBCEurope.uk" site_id="1088" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CNBC.png">CNBC UK</channel>
     <channel src="sky" lang="en" xmltv_id="CNNInternational.uk" site_id="1019" icon_url="https://i.imgur.com/05S3yYZ.png">CNN International</channel>
     <channel src="sky" lang="en" xmltv_id="Challenge.uk" site_id="2202" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/challenge-uk.png">Challenge UK</channel>
@@ -125,7 +123,6 @@
     <channel src="sky" lang="en" xmltv_id="Foodxp.uk" site_id="1227" icon_url="https://i.imgur.com/zOWog5j.png">Foodxp</channel>
     <channel src="sky" lang="en" xmltv_id="France24English.fr" site_id="1121" icon_url="https://i.imgur.com/CMgoCrh.png">France 24 English</channel>
     <channel src="sky" lang="en" xmltv_id="GBNews.uk" site_id="1196" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gb-news-uk.png">GB News</channel>
-    <channel src="sky" lang="en" xmltv_id="GINXEsportsTV.uk" site_id="1830" icon_url="https://i.imgur.com/ZeOPwcw.png">Ginx eSports TV UK</channel>
     <channel src="sky" lang="en" xmltv_id="GemsTV.uk" site_id="3010" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gemporia-uk.png">Gems TV</channel>
     <channel src="sky" lang="en" xmltv_id="GreatMovies.uk" site_id="3709" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-hz-uk.png">Great! Movies</channel>
     <channel src="sky" lang="en" xmltv_id="GreatMoviesAction.uk" site_id="3708" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-hz-uk.png">Great! Movies Action</channel>
@@ -187,8 +184,8 @@
     <channel src="sky" lang="en" xmltv_id="PopPlus1.uk" site_id="4216" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-plus-uk.png">POP+1</channel>
     <channel src="sky" lang="en" xmltv_id="QVCBeautyUK.uk" site_id="4105" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-beauty-uk.png">QVC Beauty</channel>
     <channel src="sky" lang="en" xmltv_id="QVCExtraUK.uk" site_id="3359" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-extra-uk.png">QVC Extra</channel>
-    <channel src="sky" lang="en" xmltv_id="QVCStyleUK.uk" site_id="4410" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-style-uk.png">QVC Style UK</channel>
-    <channel src="sky" lang="en" xmltv_id="QVCUK.uk" site_id="5907" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-uk.png">QVC UK</channel>
+    <channel src="sky" lang="en" xmltv_id="QVCStyleUK.uk" site_id="1118" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-style-uk.png">QVC Style UK</channel>
+    <channel src="sky" lang="en" xmltv_id="QVCUK.uk" site_id="1076" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-uk.png">QVC UK</channel>
     <channel src="sky" lang="en" xmltv_id="QuestRedUK.uk" site_id="2410" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-red-hz-uk.png">Quest Red</channel>
     <channel src="sky" lang="en" xmltv_id="QuestRedUKPlus1.uk" site_id="4547" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-red-plus-hz-uk.png">Quest Red UK +1</channel>
     <channel src="sky" lang="en" xmltv_id="QuestUK.uk" site_id="1128" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png">Quest</channel>
@@ -211,7 +208,6 @@
     <channel src="sky" lang="en" xmltv_id="TJC.uk" site_id="1033" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tjc-the-jewellery-channel-uk.png">TJC</channel>
     <channel src="sky" lang="en" xmltv_id="TalkTV.uk" site_id="1078" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talk-tv-uk.png">TalkTV HD</channel>
     <channel src="sky" lang="en" xmltv_id="TalkingPicturesTV.uk" site_id="5252" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talking-pictures-tv-uk.png">Talking Pictures TV</channel>
-    <channel src="sky" lang="en" xmltv_id="TelevisionX.uk" site_id="4192" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/television-x-uk.png">Television X</channel>
     <channel src="sky" lang="en" xmltv_id="TheBoxUK.uk" site_id="1802" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/the-box-uk.png">The Box UK</channel>
     <channel src="sky" lang="en" xmltv_id="TinyPop.uk" site_id="3780" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tiny-pop-uk.png">Tiny Pop</channel>
     <channel src="sky" lang="en" xmltv_id="TinyPopPlus1.uk" site_id="4261" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tiny-pop-plus-uk.png">Tiny Pop+1</channel>
@@ -221,7 +217,6 @@
     <channel src="sky" lang="en" xmltv_id="UTV.uk" site_id="6230" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-tv-uk.png">UTV</channel>
     <channel src="sky" lang="en" xmltv_id="W.uk" site_id="2617" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/w-network-uk.png">W</channel>
     <channel src="sky" lang="en" xmltv_id="WPlus1.uk" site_id="2616" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/w-network-plus-uk.png">W+1</channel>
-    <channel src="sky" lang="en" xmltv_id="XpandedTV.uk" site_id="4191" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/xpanded-uk.png">Xpanded TV</channel>
     <channel src="sky" lang="en" xmltv_id="Yesterday.uk" site_id="2305" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/yesterday-uk.png">Yesterday</channel>
     <channel src="sky" lang="en" xmltv_id="YesterdayPlus1.uk" site_id="2615" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/yesterday-plus-uk.png">Yesterday +1</channel>
     <channel src="freeview" lang="en" xmltv_id="BBCRadioLeeds.uk" site_id="6154" network_id="64361" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC%20Radio%20Leeds.png">BBC Radio Leeds</channel>
@@ -232,7 +227,7 @@
     <channel src="freeview" lang="en" xmltv_id="BBCRadioSomerset.uk" site_id="6337" network_id="64320" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC%20Radio%20Somerset.png">BBC Radio Somerset</channel>
     <channel src="freeview" lang="en" xmltv_id="BBCRadioBerkshire.uk" site_id="6275" network_id="64257" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC%20Radio%20Berkshire.png">BBC Radio Berkshire</channel>
     <channel src="freeview" lang="en" xmltv_id="BBCRadioThreeCounties.uk" site_id="6157" network_id="64257" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC%20Three%20Counties%20Radio.png">BBC Radio Three Counties</channel>
-    <channel src="freeview" lang="en" xmltv_id="BBCRadioNewcastle.uk" site_id="6153" network_id="64361" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC%20Radio%20Newcastle.png">BBC Radio Newcastle</channel>
+    <channel src="freeview" lang="en" xmltv_id="BBCRadioNewcastle.uk" site_id="6153" network_id="64369" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC%20Radio%20Newcastle.png">BBC Radio Newcastle</channel>
     <channel src="freeview" lang="en" xmltv_id="BBCRadioManchester.uk" site_id="6152" network_id="64377" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC%20Radio%20Manchester.png">BBC Radio Manchester</channel>
     <channel src="freeview" lang="en" xmltv_id="BBCRadioSurrey.uk" site_id="6284" network_id="64257" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC%20Radio%20Surrey.png">BBC Radio Surrey</channel>
     <channel src="freeview" lang="en" xmltv_id="KissFreshRadio.uk" site_id="27040" network_id="64361" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kiss%20Fresh.png">Kiss Fresh</channel>
