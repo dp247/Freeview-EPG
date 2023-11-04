@@ -203,7 +203,7 @@
     <channel src="sky" lang="en" xmltv_id="SkyMix.uk" site_id="1831" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky%20Mix.png">Sky Mix</channel>
     <channel src="sky" lang="en" xmltv_id="SkyNews.uk" site_id="1404" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png">Sky News</channel>
     <channel src="sky" lang="en" xmltv_id="STV.uk" site_id="6325" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-uk.png">STV</channel>
-    <channel src="bt" lang="en" xmltv_id="STVPlus1.uk" site_id="hs8h" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-plus-uk.png">STV+1</channel>
+    <channel src="freeview" lang="en" xmltv_id="STVPlus1.uk" site_id="8373" network_id="64405" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-plus-uk.png">STV+1</channel>
     <channel src="sky" lang="en" xmltv_id="TBNUK.uk" site_id="3109" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tbn-uk.png">TBN UK</channel>
     <channel src="sky" lang="en" xmltv_id="TJC.uk" site_id="1033" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tjc-the-jewellery-channel-uk.png">TJC</channel>
     <channel src="sky" lang="en" xmltv_id="TalkTV.uk" site_id="1078" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talk-tv-uk.png">TalkTV HD</channel>
