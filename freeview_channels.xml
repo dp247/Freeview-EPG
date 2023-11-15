@@ -162,7 +162,7 @@
     <channel src="sky" lang="en" xmltv_id="ITV4.uk" site_id="6534" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png">ITV4</channel>
     <channel src="sky" lang="en" xmltv_id="ITV4Plus1.uk" site_id="6274" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-plus-uk.png">ITV4 +1</channel>
     <channel src="sky" lang="en" xmltv_id="ITVBe.uk" site_id="6508" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-be-uk.png">ITVBe</channel>
-    <channel src="freeview" lang="en" xmltv_id="ITVBe.uk" site_id="15864" network_id="64350" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-be-plus-uk.png">ITVBe +1</channel>
+    <channel src="freeview" lang="en" xmltv_id="ITVBePlus1.uk" site_id="15864" network_id="64350" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-be-plus-uk.png">ITVBe +1</channel>
     <channel src="sky" lang="en" xmltv_id="JewelleryMaker.uk" site_id="3354" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/jewellery-maker-uk.png">Jewellery Maker</channel>
     <channel src="sky" lang="en" xmltv_id="Kerrang.uk" site_id="1853" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/kerrang-tv-uk.png">Kerrang!</channel>
     <channel src="sky" lang="en" xmltv_id="KissTVUK.uk" site_id="1858" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/kiss-tv-uk.png">Kiss TV</channel>
