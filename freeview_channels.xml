@@ -92,8 +92,8 @@
     <channel src="sky" lang="en" xmltv_id="Blaze.uk" site_id="1065" icon_url="https://i.imgur.com/6UcPWP9.png">Blaze UK</channel>
     <channel src="sky" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="1074" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Bloomberg%20TV%20HD.png">Bloomberg HD</channel>
     <channel src="sky" lang="en" xmltv_id="CBBC.uk" site_id="1095" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbbc-uk.png">CBBC</channel>
-    <channel src="sky" lang="en" xmltv_id="CBSRealityUK.uk" site_id="1142" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CBS%20Reality.png">CBS Reality</channel>
-    <channel src="sky" lang="en" xmltv_id="CBSRealityUKPlus1.uk" site_id="3602" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CBS%20Reality%20Plus%201.png">CBS Reality+1</channel>
+    <channel src="sky" lang="en" xmltv_id="TrueCrimeUK.uk" site_id="3352" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True%20Crime%20UK.png">True Crime</channel>
+    <channel src="sky" lang="en" xmltv_id="TrueCrimeUKPlus1.uk" site_id="3602" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True%20Crime%20%2B1.png">True Crime+1</channel>
     <channel src="sky" lang="en" xmltv_id="CBeebies.uk" site_id="1093" icon_url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbeebies-uk.png">CBeebies</channel>
     <channel src="sky" lang="en" xmltv_id="CNBCEurope.uk" site_id="1088" icon_url="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CNBC.png">CNBC UK</channel>
     <channel src="sky" lang="en" xmltv_id="CNNInternational.uk" site_id="1019" icon_url="https://i.imgur.com/05S3yYZ.png">CNN International</channel>
