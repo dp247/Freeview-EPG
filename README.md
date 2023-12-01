@@ -16,13 +16,6 @@ This project exists because of a gap in the market - up until recently, it was v
 - Includes data for both TV and radio stations.
 - Data is reliably sourced from UK TV providers, rather than third parties. 
 - Builds to an XMLTV file, complete with channel logos and programme images.
-### To-do
-- Convert channel config from XML to JSON for better reliability/readability
-- Improve code, maybe through splitting files and OOP
-- Speed up EPG processing, probably using async code
-- Finish adding regional stations
-- Attempt to fix/find alternate EPG images
-
 
 ## Usage
 Grab the XMLTV file from this link and paste it into your favorite IPTV client:
@@ -36,6 +29,13 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 - Please report issues [here](https://github.com/dp247/Freeview-EPG/issues/new?assignees=&labels=bug&template=issue-report.md&title=%5BIssue%5D), including as much detail as possible about the problem.
 - You can request channels [here](https://github.com/dp247/Freeview-EPG/issues/new?assignees=&labels=channel&template=channel-request.md&title=%5BChannel+request%5D). Please bear in mind that a request is not a guarantee.
 - If you'd like to suggest a change or feature, feel free to either open a blank fork and PR back in. Big changes should be discussed in a [blank issue](https://github.com/dp247/Freeview-EPG/issues/new) first.
+
+### To-do
+- Convert channel config from XML to JSON for better reliability/readability
+- Improve code, maybe through splitting files and OOP
+- Speed up EPG processing, probably using async code
+- Finish adding regional stations
+- Attempt to fix/find alternate EPG images
 
 ## Special thanks
 - This project was heavily influenced by iptv-org's [EPG](https://github.com/iptv-org/epg) project
