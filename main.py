@@ -83,22 +83,15 @@ Generate epoch times for now, midnight tomorrow, and midnight the next day
         return [now, day_1, day_2]
 
 
-def get_channels_data() -> list:
+def get_channels_config() -> list:
     """
 Load XML file of channel information
     :return: XML elements as a set, then all sets as a list
     """
-    data_list = []
-    x = etree.parse('freeview_channels.xml')
-    data = x.find('channels').getchildren()
+    with open('channels.json') as channel_file:
+        data = json.load(channel_file, encoding='utf-8')['channels']
 
-    for element in data:
-        if element.items() is not None:
-            items = element.items()
-            items.append(('name', element.text))
-            data_list.append(items)
-
-    return data_list
+    return data
 
 
 def build_xmltv(channels: list, programmes: list) -> bytes:
@@ -160,29 +153,29 @@ Make the channels and programmes into something readable by XMLTV
 
 
 # Load the channels data
-channels_data = get_channels_data()
+channels_data = get_channels_config()
 
 programme_data = []
 for channel in channels_data:
-    print(channel[2][1])
+    print(channel.get('name'))
     # If EPG is to be sourced from Sky:
-    if channel[0][1] == "sky":
+    if channel.get('src') == "sky":
         # Get some epoch times - right now, 12am tomorrow and 12am the day after tomorrow (so 48h)
-        epoch_times = get_days(channel[0][1])
+        epoch_times = get_days("sky")
         for epoch in epoch_times:
-            url = f"https://epgservices.sky.com/5.2.2/api/2.0/channel/json/{channel[3][1]}/{epoch}/86400/4"
+            url = f"https://epgservices.sky.com/5.2.2/api/2.0/channel/json/{channel.get('provider_id')}/{epoch}/86400/4"
             req = requests.get(url)
             if req.status_code != 200:
                 continue
             result = json.loads(req.text)
-            epg_data = result['listings'][f'{channel[3][1]}']
+            epg_data = result['listings'][f"{channel.get('provider_id')}"]
             for item in epg_data:
                 title = item['t']
                 desc = item['d'] if 'd' in item else None
                 start = int(item['s'])
                 end = int(item['s']) + int(item['m'][1])
                 icon = f"http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/{item['img']}" if 'img' in item else None
-                ch_name = channel[2][1]
+                ch_name = channel.get('name')
 
                 programme_data.append({
                     "title": title,
@@ -193,47 +186,18 @@ for channel in channels_data:
                     "channel": ch_name
                 })
 
-    # If EPG is from BT TV:
-    if channel[0][1] == "bt":
-        times = get_days(channel[0][1])
-        for t in times:
-            url = f'https://voila.metabroadcast.com/4/schedules/{channel[3][1]}.json?key=b4d2edb68da14dfb9e47b5465e99b1b1&from={t.strftime(bt_dt_format)}&to={(datetime.combine(t, time(0, 0)) + timedelta(1)).strftime(bt_dt_format)}&source=api.youview.tv&annotations=content.description'
-            req = requests.get(url)
-            if req.status_code != 200:
-                continue
-            result = json.loads(req.text)
-            epg_data = []
-            for x in result['schedule']['entries']:
-                title = x.get('item').get('display_title').get('title').strip()
-                desc = x.get('item').get('description').strip()
-                start = int(tz.fromutc(datetime.strptime(x.get('broadcast').get('transmission_time'),
-                                                         "%Y-%m-%dT%H:%M:%S.000Z")).timestamp())
-                end = int(tz.fromutc(datetime.strptime(x.get('broadcast').get('transmission_end_time'),
-                                                       "%Y-%m-%dT%H:%M:%S.000Z")).timestamp())
-                icon = x.get('item').get('image')
-                ch_name = channel[2][1]
-
-                programme_data.append({
-                    "title": title,
-                    "description": desc,
-                    "start": start,
-                    "stop": end,
-                    "icon": icon,
-                    "channel": ch_name
-                })
-
-    if channel[0][1] == "freeview":
+    if channel.get('src') == "freeview":
         epoch_times = get_days("freeview")
         for epoch in epoch_times:
             # Get programme data for Freeview multiplex
             url = f"https://www.freeview.co.uk/api/tv-guide"
-            req = requests.get(url, params={'nid': f'{channel[4][1]}', 'start': f'{str(epoch)}'})
+            req = requests.get(url, params={'nid': f'{channel.get("region_id")}', 'start': f'{str(epoch)}'})
             if req.status_code != 200:
                 continue
             result = json.loads(req.text)
             epg_data = result['data']['programs']
 
-            ch_match = filter(lambda ch: ch['service_id'] == channel[3][1], epg_data)
+            ch_match = filter(lambda ch: ch['service_id'] == channel.get('provider_id'), epg_data)
 
             # For each channel in result, get UID from JSON
             for item in ch_match:
@@ -242,7 +206,7 @@ for channel in channels_data:
                 # Freeview API returns basic info with EPG API call
                 for listing in item.get('events'):
 
-                    ch_name = channel[2][1]
+                    ch_name = channel.get('name')
                     title = listing.get("main_title")
                     desc = listing.get("secondary_title") if "secondary_title" in listing else \
                         "No further information..."
@@ -252,7 +216,7 @@ for channel in channels_data:
                     start = temp_start.timestamp()
 
                     # There's another URL for more in-depth programme information
-                    data_url = f"https://www.freeview.co.uk/api/program?sid={service_id}&nid={channel[4][1]}" \
+                    data_url = f"https://www.freeview.co.uk/api/program?sid={service_id}&nid={channel.get('region_id')}" \
                                f"&pid={listing.get('program_id')}&start_time={listing.get('start_time')}&duration={listing.get('duration')}"
                     info_req = requests.get(data_url)
 
