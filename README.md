@@ -16,6 +16,12 @@ This project exists because of a gap in the market - up until recently, it was v
 - Includes data for both TV and radio stations.
 - Data is reliably sourced from UK TV providers, rather than third parties. 
 - Builds to an XMLTV file, complete with channel logos and programme images.
+### To-do
+- Convert channel config from XML to JSON for better reliability/readability
+- Improve code, maybe through splitting files and OOP
+- Speed up EPG processing, probably using async code
+- Finish adding regional stations
+- Attempt to fix/find alternate EPG images
 
 
 ## Usage
