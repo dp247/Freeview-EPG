@@ -55,7 +55,6 @@ You may copy, distribute and modify the software as long as you track changes/da
 - You're welcome to request channel additions (see [Contributing](#contributing)), but I'll only add channels that are **free-to-air**.
 - If you're looking for a longer EPG, the [custom](https://github.com/dp247/Freeview-EPG/tree/custom) branch allows for this. However, the logic of the branch is also out-of-date and I have no immediate plans to continue development on it.
 - The software and data are provided as-is. While I intend for it to be as reliable as possible, certain aspects are out of my control.
-- This project is not owned by, related to or affiliated with BBC, ITV plc, Channel Four Television Corporation, Sky Group, Everyone TV or DTV Services Ltd.
 
 ## Related projects
 - [YouTube to M3U8](https://github.com/dp247/YouTubeToM3U8) - converts and maintains YouTube live streams in a single M3U8 playlist
@@ -63,5 +62,5 @@ You may copy, distribute and modify the software as long as you track changes/da
 - [Freeview M3U](https://github.com/ExperiencersInternational/tvsetup) - companion playlist for this project
 
 ## Legal
-- This project extracts publicly available data from public-facing websites
-- This project is not affiliated with the DTT television platform Freeview (UK), its owners (BBC, ITV, Channel Four, Sky Group), or its parent companies (Everyone TV, DTV Services Ltd) in any way, shape or form.
+- This project extracts publicly available data from public-facing websites without the use of private APIs. 
+- This project is not owned by, related to or affiliated with BBC, ITV plc, Channel Four Television Corporation, Sky Group, Everyone TV or DTV Services Ltd. 
