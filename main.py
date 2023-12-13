@@ -123,7 +123,7 @@ Make the channels and programmes into something readable by XMLTV
         start_time = datetime.fromtimestamp(pr.get('start'), tz).strftime(dt_format)
         end_time = datetime.fromtimestamp(pr.get('stop'), tz).strftime(dt_format)
 
-        programme.set("channel", pr.get('channel'))
+        programme.set("channel", pr.get('xmltv_id'))
         programme.set("start", start_time)
         programme.set("stop", end_time)
 
