@@ -89,7 +89,7 @@ Load XML file of channel information
     :return: XML elements as a set, then all sets as a list
     """
     with open('channels.json') as channel_file:
-        data = json.load(channel_file, encoding='utf-8')['channels']
+        data = json.load(channel_file)['channels']
 
     return data
 
@@ -109,23 +109,14 @@ Make the channels and programmes into something readable by XMLTV
     data.set("generator-info-url", "https://github.com/dp247/Freeview-EPG")
     for ch in channels:
         channel = etree.SubElement(data, "channel")
-        channel.set("id", ch[2][1])
+        channel.set("id", ch.get("xmltv_id"))
         name = etree.SubElement(channel, "display-name")
         name.set("lang", "en")
-        if ch[0][1] != "freeview":
-            if ch[4][0] == "icon_url":
-                icon_src = etree.SubElement(channel, "icon")
-                icon_src.set("src", ch[4][1])
-                name.text = ch[5][1]
-            else:
-                name.text = ch[4][1]
-        else:
-            if ch[5][0] == "icon_url":
-                icon_src = etree.SubElement(channel, "icon")
-                icon_src.set("src", ch[5][1])
-                name.text = ch[6][1]
-            else:
-                name.text = ch[5][1]
+        if ch.get("icon_url") is not None:
+            icon_src = etree.SubElement(channel, "icon")
+            icon_src.set("src", ch.get("icon_url"))
+            icon_src.text = ''
+        name.text = ch.get("name")
 
     for pr in programmes:
         programme = etree.SubElement(data, 'programme')
