@@ -349,7 +349,7 @@
       "lang": "en",
       "xmltv_id": "BBCR1.uk",
       "provider_id": "2111",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+1.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1.png",
       "name": "BBC Radio 1"
     },
     {
@@ -357,7 +357,7 @@
       "lang": "en",
       "xmltv_id": "BBCR1X.uk",
       "provider_id": "2126",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+1Xtra.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1Xtra.png",
       "name": "BBC Radio 1 Xtra"
     },
     {
@@ -365,7 +365,7 @@
       "lang": "en",
       "xmltv_id": "BBCR2.uk",
       "provider_id": "2112",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+2.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-2.png",
       "name": "BBC Radio 2"
     },
     {
@@ -373,7 +373,7 @@
       "lang": "en",
       "xmltv_id": "BBCR3.uk",
       "provider_id": "2113",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+3.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
       "name": "BBC Radio 3"
     },
     {
@@ -381,7 +381,7 @@
       "lang": "en",
       "xmltv_id": "BBCR4FM.uk",
       "provider_id": "2114",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+4.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-4.png",
       "name": "BBC Radio 4 FM"
     },
     {
@@ -389,7 +389,7 @@
       "lang": "en",
       "xmltv_id": "BBCR4LW.uk",
       "provider_id": "2115",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+4+LW.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-4-LW.png",
       "name": "BBC Radio 4 LW"
     },
     {
@@ -397,7 +397,7 @@
       "lang": "en",
       "xmltv_id": "BBCR4EX.uk",
       "provider_id": "2128",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+4+Extra.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-4-Extra.png",
       "name": "BBC Radio 4 Extra"
     },
     {
@@ -405,7 +405,7 @@
       "lang": "en",
       "xmltv_id": "BBCR5L.uk",
       "provider_id": "2026",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+5+Live.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Live.png",
       "name": "BBC Radio 5 Live"
     },
     {
@@ -413,7 +413,7 @@
       "lang": "en",
       "xmltv_id": "BBCR5SX.uk",
       "provider_id": "2034",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+5+Sports+Extra.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Sports-Extra.png",
       "name": "BBC Radio 5 Sports Xtra"
     },
     {
@@ -421,7 +421,7 @@
       "lang": "en",
       "xmltv_id": "BBCR6M.uk",
       "provider_id": "2127",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+6+Music.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-6-Music.png",
       "name": "BBC Radio 6 Music"
     },
     {
@@ -429,7 +429,7 @@
       "lang": "en",
       "xmltv_id": "BBCWorldService.uk",
       "provider_id": "2122",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+World+Service.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-World-Service.png",
       "name": "BBC World Service"
     },
     {
@@ -437,7 +437,7 @@
       "lang": "en",
       "xmltv_id": "BBCRScotland.uk",
       "provider_id": "2117",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+Scotland.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
       "name": "BBC Radio Scotland"
     },
     {
@@ -445,7 +445,7 @@
       "lang": "en",
       "xmltv_id": "BBCRWales.uk",
       "provider_id": "2118",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+Wales.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Wales.png",
       "name": "BBC Radio Wales"
     },
     {
@@ -453,7 +453,7 @@
       "lang": "en",
       "xmltv_id": "BBCRUlster.uk",
       "provider_id": "2119",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+Ulster.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Ulster.png",
       "name": "BBC Radio Ulster"
     },
     {
@@ -461,7 +461,7 @@
       "lang": "en",
       "xmltv_id": "BBCRadioGaidhael.uk",
       "provider_id": "2129",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+nan+Gaidheal.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-nan-Gaidheal.png",
       "name": "BBC Radio nan Gaidhael"
     },
     {
@@ -469,7 +469,7 @@
       "lang": "en",
       "xmltv_id": "BBCRadioCymru.uk",
       "provider_id": "2123",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+Cymru.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru.png",
       "name": "BBC Radio Cymru"
     },
     {
@@ -477,7 +477,7 @@
       "lang": "en",
       "xmltv_id": "BBCRadioCymru2.uk",
       "provider_id": "2021",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+Cymru+2.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru-2.png",
       "name": "BBC Radio Cymru 2"
     },
     {
@@ -485,7 +485,7 @@
       "lang": "en",
       "xmltv_id": "BBCRadioFoyle.uk",
       "provider_id": "2124",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+Foyle.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Foyle.png",
       "name": "BBC Radio Foyle"
     },
     {
@@ -493,7 +493,7 @@
       "lang": "en",
       "xmltv_id": "BBCRadioLondon.uk",
       "provider_id": "2130",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+London.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-London.png",
       "name": "BBC Radio London"
     },
     {
@@ -501,7 +501,7 @@
       "lang": "en",
       "xmltv_id": "BBCRAsianNetwork.uk",
       "provider_id": "2120",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Asian+Network.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Asian-Network.png",
       "name": "BBC Asian Network"
     },
     {
@@ -509,7 +509,7 @@
       "lang": "en",
       "xmltv_id": "ClassicFM.uk",
       "provider_id": "3470",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Classic+FM.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Classic-FM.png",
       "name": "Classic FM"
     },
     {
@@ -517,7 +517,7 @@
       "lang": "en",
       "xmltv_id": "AbsoluteRadio.uk",
       "provider_id": "2901",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Absolute+Radio.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Absolute-Radio.png",
       "name": "Absolute Radio"
     },
     {
@@ -541,7 +541,7 @@
       "lang": "en",
       "xmltv_id": "PlanetRock.uk",
       "provider_id": "3475",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Planet+Rock.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Planet-Rock.png",
       "name": "Planet Rock"
     },
     {
@@ -557,7 +557,7 @@
       "lang": "en",
       "xmltv_id": "Heart80s.uk",
       "provider_id": "2928",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart+80s.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart-80s.png",
       "name": "Heart 80s"
     },
     {
@@ -565,7 +565,7 @@
       "lang": "en",
       "xmltv_id": "Heart90s.uk",
       "provider_id": "1083",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart+90s.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart-90s.png",
       "name": "Heart 90s"
     },
     {
@@ -573,7 +573,7 @@
       "lang": "en",
       "xmltv_id": "HeartDance.uk",
       "provider_id": "2920",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart+Dance.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart-Dance.png",
       "name": "Heart Dance"
     },
     {
@@ -581,7 +581,7 @@
       "lang": "en",
       "xmltv_id": "RadioX.uk",
       "provider_id": "2904",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Radio+X.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Radio-X.png",
       "name": "Radio X"
     },
     {
@@ -589,7 +589,7 @@
       "lang": "en",
       "xmltv_id": "CapitalXtra.uk",
       "provider_id": "2971",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Capital+Xtra.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Capital-Xtra.png",
       "name": "Capital Xtra"
     },
     {
@@ -597,7 +597,7 @@
       "lang": "en",
       "xmltv_id": "GoldRadio.uk",
       "provider_id": "2903",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Gold+Radio.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Gold-Radio.png",
       "name": "Gold"
     },
     {
@@ -613,7 +613,7 @@
       "lang": "en",
       "xmltv_id": "LBCNews.uk",
       "provider_id": "1205",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/LBC+News.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/LBC-News.png",
       "name": "LBC News"
     },
     {
@@ -621,7 +621,7 @@
       "lang": "en",
       "xmltv_id": "SmoothRadio.uk",
       "provider_id": "2917",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Smooth+Radio.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Smooth-Radio.png",
       "name": "Smooth"
     },
     {
@@ -637,7 +637,7 @@
       "lang": "en",
       "xmltv_id": "MagicRadio.uk",
       "provider_id": "3660",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Magic+Radio.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Magic-Radio.png",
       "name": "Magic Radio"
     },
     {
@@ -645,7 +645,7 @@
       "lang": "en",
       "xmltv_id": "HitsRadio.uk",
       "provider_id": "5562",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Hits+Radio.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Hits-Radio.png",
       "name": "Hits Radio"
     },
     {
@@ -653,7 +653,7 @@
       "lang": "en",
       "xmltv_id": "Absolute80s.uk",
       "provider_id": "4373",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Absolute+Radio+80s.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Absolute-Radio-80s.png",
       "name": "Absolute 80s"
     },
     {
@@ -661,7 +661,7 @@
       "lang": "en",
       "xmltv_id": "Absolute90s.uk",
       "provider_id": "4372",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Absolute+Radio+90s.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Absolute-Radio-90s.png",
       "name": "Absolute 90s"
     },
     {
@@ -669,7 +669,7 @@
       "lang": "en",
       "xmltv_id": "JazzFM.uk",
       "provider_id": "4376",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Jazz+FM.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Jazz-FM.png",
       "name": "Jazz FM"
     },
     {
@@ -677,7 +677,7 @@
       "lang": "en",
       "xmltv_id": "ClassicRock.uk",
       "provider_id": "4371",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Absolute+Classic+Rock.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Absolute-Classic-Rock.png",
       "name": "Absolute Classic Rock"
     },
     {
@@ -685,7 +685,7 @@
       "lang": "en",
       "xmltv_id": "BFBSRadio.uk",
       "provider_id": "3371",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BFBS+Radio.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BFBS-Radio.png",
       "name": "BFBS Radio"
     },
     {
@@ -693,7 +693,7 @@
       "lang": "en",
       "xmltv_id": "VirginRadio.uk",
       "provider_id": "1148",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Virgin+Radio+UK.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Virgin-Radio-UK.png",
       "name": "Virgin Radio"
     },
     {
@@ -701,7 +701,7 @@
       "lang": "en",
       "xmltv_id": "GreatestHitsRadio.uk",
       "provider_id": "1101",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Greatest+Hits+Radio.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Greatest-Hits-Radio.png",
       "name": "Greatest Hits Radio"
     },
     {
@@ -717,7 +717,7 @@
       "lang": "en",
       "xmltv_id": "BloombergTVEurope.uk",
       "provider_id": "1074",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Bloomberg+TV+HD.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Bloomberg-TV-HD.png",
       "name": "Bloomberg HD"
     },
     {
@@ -733,7 +733,7 @@
       "lang": "en",
       "xmltv_id": "CBSRealityUK.uk",
       "provider_id": "1142",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CBS+Reality.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CBS-Reality.png",
       "name": "CBS Reality"
     },
     {
@@ -1542,7 +1542,7 @@
       "lang": "en",
       "xmltv_id": "RTENews.ie",
       "provider_id": "2804",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/RTE+News.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/RTE-News.png",
       "name": "RTÉ News"
     },
     {
@@ -1606,7 +1606,7 @@
       "lang": "en",
       "xmltv_id": "SkyMix.uk",
       "provider_id": "1831",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky+Mix.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Mix.png",
       "name": "Sky Mix"
     },
     {
@@ -1760,7 +1760,7 @@
       "xmltv_id": "BBCRadioLeeds.uk",
       "provider_id": "6154",
       "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+Leeds.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Leeds.png",
       "name": "BBC Radio Leeds"
     },
     {
@@ -1769,7 +1769,7 @@
       "xmltv_id": "BBCRadioYork.uk",
       "provider_id": "6282",
       "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+York.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-York.png",
       "name": "BBC Radio York"
     },
     {
@@ -1778,7 +1778,7 @@
       "xmltv_id": "BBCRadioHumberside.uk",
       "provider_id": "6223",
       "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+Humberside.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Humberside.png",
       "name": "BBC Radio Humberside"
     },
     {
@@ -1787,7 +1787,7 @@
       "xmltv_id": "BBCRadioLincolnshire.uk",
       "provider_id": "6159",
       "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+Lincolnshire.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Lincolnshire.png",
       "name": "BBC Radio Lincolnshire"
     },
     {
@@ -1796,7 +1796,7 @@
       "xmltv_id": "BBCRadioSheffield.uk",
       "provider_id": "6218",
       "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+Sheffield.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Sheffield.png",
       "name": "BBC Radio Sheffield"
     },
     {
@@ -1805,7 +1805,7 @@
       "xmltv_id": "BBCRadioSomerset.uk",
       "provider_id": "6337",
       "region_id": "64320",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+Somerset.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Somerset.png",
       "name": "BBC Radio Somerset"
     },
     {
@@ -1814,7 +1814,7 @@
       "xmltv_id": "BBCRadioBerkshire.uk",
       "provider_id": "6275",
       "region_id": "64257",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+Berkshire.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Berkshire.png",
       "name": "BBC Radio Berkshire"
     },
     {
@@ -1823,7 +1823,7 @@
       "xmltv_id": "BBCRadioThreeCounties.uk",
       "provider_id": "6157",
       "region_id": "64257",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Three+Counties+Radio.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Three-Counties-Radio.png",
       "name": "BBC Radio Three Counties"
     },
     {
@@ -1832,7 +1832,7 @@
       "xmltv_id": "BBCRadioNewcastle.uk",
       "provider_id": "6153",
       "region_id": "64369",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+Newcastle.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Newcastle.png",
       "name": "BBC Radio Newcastle"
     },
     {
@@ -1841,7 +1841,7 @@
       "xmltv_id": "BBCRadioManchester.uk",
       "provider_id": "6152",
       "region_id": "64377",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+Manchester.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Manchester.png",
       "name": "BBC Radio Manchester"
     },
     {
@@ -1850,7 +1850,7 @@
       "xmltv_id": "BBCRadioSurrey.uk",
       "provider_id": "6284",
       "region_id": "64257",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC+Radio+Surrey.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Surrey.png",
       "name": "BBC Radio Surrey"
     },
     {
@@ -1859,7 +1859,7 @@
       "xmltv_id": "KissFreshRadio.uk",
       "provider_id": "27040",
       "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kiss+Fresh.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kiss-Fresh.png",
       "name": "Kiss Fresh"
     },
     {
@@ -1877,7 +1877,7 @@
       "xmltv_id": "KerrangRadio.uk",
       "provider_id": "26304",
       "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kerrang+Radio.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kerrang-Radio.png",
       "name": "Kerrang! Radio"
     },
     {
@@ -1949,7 +1949,7 @@
       "xmltv_id": "Thats90s.uk",
       "provider_id": "23904",
       "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/blob/master/TV/Thats+90s.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/blob/master/TV/Thats-90s.png",
       "name": "That's 90s"
     },
     {
