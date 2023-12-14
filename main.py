@@ -88,7 +88,7 @@ def get_channels_config() -> list:
 Load XML file of channel information
     :return: XML elements as a set, then all sets as a list
     """
-    with open('channels.json') as channel_file:
+    with open('channels.json', encoding='utf-8') as channel_file:
         data = json.load(channel_file)['channels']
 
     return data
@@ -111,19 +111,19 @@ Make the channels and programmes into something readable by XMLTV
         channel = etree.SubElement(data, "channel")
         channel.set("id", ch.get("xmltv_id"))
         name = etree.SubElement(channel, "display-name")
-        name.set("lang", "en")
+        name.set("lang", ch.get("lang"))
+        name.text = ch.get("name")
         if ch.get("icon_url") is not None:
             icon_src = etree.SubElement(channel, "icon")
             icon_src.set("src", ch.get("icon_url"))
             icon_src.text = ''
-        name.text = ch.get("name")
 
     for pr in programmes:
         programme = etree.SubElement(data, 'programme')
         start_time = datetime.fromtimestamp(pr.get('start'), tz).strftime(dt_format)
         end_time = datetime.fromtimestamp(pr.get('stop'), tz).strftime(dt_format)
 
-        programme.set("channel", pr.get('xmltv_id'))
+        programme.set("channel", pr.get('channel'))
         programme.set("start", start_time)
         programme.set("stop", end_time)
 
@@ -166,7 +166,7 @@ for channel in channels_data:
                 start = int(item['s'])
                 end = int(item['s']) + int(item['m'][1])
                 icon = f"http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/{item['img']}" if 'img' in item else None
-                ch_name = channel.get('name')
+                ch_name = channel.get('xmltv_id')
 
                 programme_data.append({
                     "title": title,
@@ -197,7 +197,7 @@ for channel in channels_data:
                 # Freeview API returns basic info with EPG API call
                 for listing in item.get('events'):
 
-                    ch_name = channel.get('name')
+                    ch_name = channel.get('xmltv_id')
                     title = listing.get("main_title")
                     desc = listing.get("secondary_title") if "secondary_title" in listing else \
                         "No further information..."
