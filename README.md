@@ -31,7 +31,6 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 - If you'd like to suggest a change or feature, feel free to either open a blank fork and PR back in. Big changes should be discussed in a [blank issue](https://github.com/dp247/Freeview-EPG/issues/new) first.
 
 ### To-do
-- Convert channel config from XML to JSON for better reliability/readability
 - Improve code, maybe through splitting files and OOP
 - Speed up EPG processing, probably using async code
 - Finish adding regional stations
