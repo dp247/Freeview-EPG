@@ -147,6 +147,7 @@ Make the channels and programmes into something readable by XMLTV
 channels_data = get_channels_config()
 
 programme_data = []
+freeview_cache = {}
 for channel in channels_data:
     print(channel.get('name'))
     # If EPG is to be sourced from Sky:
@@ -180,13 +181,15 @@ for channel in channels_data:
     if channel.get('src') == "freeview":
         epoch_times = get_days("freeview")
         for epoch in epoch_times:
-            # Get programme data for Freeview multiplex
-            url = f"https://www.freeview.co.uk/api/tv-guide"
-            req = requests.get(url, params={'nid': f'{channel.get("region_id")}', 'start': f'{str(epoch)}'})
-            if req.status_code != 200:
-                continue
-            result = json.loads(req.text)
-            epg_data = result['data']['programs']
+            if epoch not in freeview_cache:
+                # Get programme data for Freeview multiplex
+                url = f"https://www.freeview.co.uk/api/tv-guide"
+                req = requests.get(url, params={'nid': f'{channel.get("region_id")}', 'start': f'{str(epoch)}'})
+                if req.status_code != 200:
+                    continue
+                freeview_cache[epoch] = json.loads(req.text)
+
+            epg_data = freeview_cache[epoch]['data']['programs']
 
             ch_match = filter(lambda ch: ch['service_id'] == channel.get('provider_id'), epg_data)
 
