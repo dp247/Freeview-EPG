@@ -1024,18 +1024,18 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "HorrorXtra.uk",
+      "xmltv_id": "LegendXtra.uk",
       "provider_id": "3605",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/horror-xtra-uk.png",
-      "name": "HorrorXtra"
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra.png",
+      "name": "Legend Xtra"
     },
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "HorrorXtraPlus1.uk",
+      "xmltv_id": "LegendXtraPlus1.uk",
       "provider_id": "4502",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/horror-xtra-plus-uk.png",
-      "name": "HorrorXtra+1"
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra-%2B1.png",
+      "name": "Legend Xtra+1"
     },
     {
       "src": "sky",
@@ -1537,10 +1537,10 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "RealityXtra.uk",
-      "provider_id": "1232",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/reality-xtra-uk.png",
-      "name": "RealityXtra"
+      "xmltv_id": "TrueCrimeXtra.uk",
+      "provider_id": "3617",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-Xtra.png",
+      "name": "True Crime Xtra"
     },
     {
       "src": "sky",
