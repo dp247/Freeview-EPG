@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Get current date
         id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+        run: echo "RUN_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
       - name: checkout repo content
         uses: actions/checkout@v3
@@ -38,7 +38,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "Updated EPG listings on ${{ steps.date.outputs.date }}" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "Updated EPG listings on $RUN_DATE" --allow-empty)
 
 
       - name: push changes
