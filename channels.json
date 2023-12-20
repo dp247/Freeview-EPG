@@ -75,38 +75,6 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "Alibi.uk",
-      "provider_id": "2303",
-      "icon_url": "https://i.imgur.com/r0OGAXz.png",
-      "name": "alibi"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "AlibiPlus1.uk",
-      "provider_id": "2630",
-      "icon_url": "https://i.imgur.com/wT33O3F.png",
-      "name": "alibi+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "AnimalPlanetUK.uk",
-      "provider_id": "2402",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png",
-      "name": "Animal Planet"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "AnimalPlanetUKPlus1.uk",
-      "provider_id": "1352",
-      "icon_url": "https://i.imgur.com/JJPFEjy.png",
-      "name": "Animal Plnt+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
       "xmltv_id": "ArirangWorld.kr",
       "provider_id": "1066",
       "icon_url": "https://i.imgur.com/Asu5pE9.png",
@@ -803,7 +771,7 @@
       "xmltv_id": "DMAXUK.uk",
       "provider_id": "3618",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png",
-      "name": "DMAX UK"
+      "name": "DMAX"
     },
     {
       "src": "sky",
@@ -835,7 +803,7 @@
       "xmltv_id": "Drama.uk",
       "provider_id": "2612",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/drama-uk.png",
-      "name": "Drama UK"
+      "name": "Drama"
     },
     {
       "src": "sky",
@@ -843,7 +811,7 @@
       "xmltv_id": "DramaPlus1.uk",
       "provider_id": "1081",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/drama-plus-uk.png",
-      "name": "Drama UK+1"
+      "name": "Drama+1"
     },
     {
       "src": "sky",
@@ -851,7 +819,7 @@
       "xmltv_id": "E4.uk",
       "provider_id": "1628",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-uk.png",
-      "name": "E4 UK"
+      "name": "E4"
     },
     {
       "src": "sky",
@@ -899,7 +867,7 @@
       "xmltv_id": "Film4Plus1.uk",
       "provider_id": "1629",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-plus-uk.png",
-      "name": "Film 4 UK+1"
+      "name": "Film 4+1"
     },
     {
       "src": "sky",
@@ -955,7 +923,7 @@
       "xmltv_id": "GreatMovies.uk",
       "provider_id": "3709",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-hz-uk.png",
-      "name": "Great! Movies"
+      "name": "GREAT! Movies"
     },
     {
       "src": "sky",
@@ -963,7 +931,7 @@
       "xmltv_id": "GreatMoviesAction.uk",
       "provider_id": "3708",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-hz-uk.png",
-      "name": "Great! Movies Action"
+      "name": "GREAT! action"
     },
     {
       "src": "sky",
@@ -971,7 +939,7 @@
       "xmltv_id": "GreatMoviesActionPlus1.uk",
       "provider_id": "3721",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-plus-hz-uk.png",
-      "name": "GREAT!action+1"
+      "name": "GREAT! action+1"
     },
     {
       "src": "sky",
@@ -979,7 +947,7 @@
       "xmltv_id": "GreatMoviesRomance.uk",
       "provider_id": "3643",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-hz-uk.png",
-      "name": "Great! Movies Romance"
+      "name": "GREAT! Romance"
     },
     {
       "src": "sky",
@@ -995,7 +963,7 @@
       "xmltv_id": "GreatTV.uk",
       "provider_id": "4266",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-hz-uk.png",
-      "name": "Great! tv"
+      "name": "GREAT! tv"
     },
     {
       "src": "sky",
@@ -1011,7 +979,7 @@
       "xmltv_id": "HGTVUK.uk",
       "provider_id": "2301",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-uk.png",
-      "name": "HGTV UK"
+      "name": "HGTV"
     },
     {
       "src": "sky",
@@ -1316,7 +1284,7 @@
       "xmltv_id": "More4.uk",
       "provider_id": "3340",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-more-uk.png",
-      "name": "More 4 UK"
+      "name": "More4"
     },
     {
       "src": "sky",
@@ -1348,7 +1316,7 @@
       "xmltv_id": "NBCNewsNOW.us",
       "provider_id": "1039",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-news-now-hz-us.png",
-      "name": "NBCNewsNowHD"
+      "name": "NBC News Now HD"
     },
     {
       "src": "sky",
@@ -1613,7 +1581,7 @@
       "xmltv_id": "TalkTV.uk",
       "provider_id": "1078",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talk-tv-uk.png",
-      "name": "TalkTV HD"
+      "name": "TalkTV"
     },
     {
       "src": "sky",
