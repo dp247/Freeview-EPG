@@ -664,22 +664,6 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "CBSRealityUK.uk",
-      "provider_id": "1142",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CBS-Reality.png",
-      "name": "CBS Reality"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "CBSRealityUKPlus1.uk",
-      "provider_id": "3602",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CBS+Reality+Plus+1.png",
-      "name": "CBS Reality+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
       "xmltv_id": "CBeebies.uk",
       "provider_id": "1093",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbeebies-uk.png",
@@ -740,6 +724,14 @@
       "provider_id": "1839",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-plus-uk.png",
       "name": "Channel 5+1"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "Channels24.ng",
+      "provider_id": "5520",
+      "icon_url": "https://i.imgur.com/ww5zNmY.png",
+      "name": "Channels 24"
     },
     {
       "src": "sky",
@@ -992,18 +984,10 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "LegendXtra.uk",
-      "provider_id": "3605",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra.png",
-      "name": "Legend Xtra"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "LegendXtraPlus1.uk",
-      "provider_id": "4502",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra-%2B1.png",
-      "name": "Legend Xtra+1"
+      "xmltv_id": "IndiaToday.in",
+      "provider_id": "1057",
+      "icon_url": "https://i.imgur.com/koFYddE.png",
+      "name": "India Today"
     },
     {
       "src": "sky",
@@ -1226,7 +1210,7 @@
       "lang": "en",
       "xmltv_id": "ITVBePlus1.uk",
       "provider_id": "15864",
-      "region_id": "64350",
+      "region_id": "64361",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-be-plus-uk.png",
       "name": "ITVBe+1"
     },
@@ -1261,6 +1245,22 @@
       "provider_id": "4610",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/legend-uk.png",
       "name": "Legend"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "LegendXtra.uk",
+      "provider_id": "3605",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra.png",
+      "name": "Legend Xtra"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "LegendXtraPlus1.uk",
+      "provider_id": "4502",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra-%2B1.png",
+      "name": "Legend Xtra+1"
     },
     {
       "src": "sky",
@@ -1313,10 +1313,10 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "NBCNewsNOW.us",
-      "provider_id": "1039",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-news-now-hz-us.png",
-      "name": "NBC News Now HD"
+      "xmltv_id": "NDTV24x7.in",
+      "provider_id": "1821",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/ndtv-24x7-in.png",
+      "name": "NDTV 24x7"
     },
     {
       "src": "sky",
@@ -1465,14 +1465,6 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "RTE2Plus1.ie",
-      "provider_id": "1158",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-plus-uk.png",
-      "name": "RTÉ2+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
       "xmltv_id": "RTENews.ie",
       "provider_id": "2804",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/RTE-News.png",
@@ -1501,6 +1493,22 @@
       "provider_id": "1256",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-jr-uk.png",
       "name": "RTÉjr"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "TrueCrime.uk",
+      "provider_id": "3352",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-UK.png",
+      "name": "True Crime"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "TrueCrimePlus1.uk",
+      "provider_id": "3602",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-%2B1.png",
+      "name": "True Crime+1"
     },
     {
       "src": "sky",
@@ -1555,7 +1563,7 @@
       "lang": "en",
       "xmltv_id": "STVPlus1.uk",
       "provider_id": "8373",
-      "region_id": "64405",
+      "region_id": "64400",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-plus-uk.png",
       "name": "STV+1"
     },
@@ -1642,6 +1650,22 @@
     {
       "src": "sky",
       "lang": "en",
+      "xmltv_id": "TRTWorld.tr",
+      "provider_id": "5071",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-world-tr.png",
+      "name": "TRT World"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "TVCNews.ng",
+      "provider_id": "5882",
+      "icon_url": "https://i.imgur.com/jaSq18B.png",
+      "name": "TVC News"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
       "xmltv_id": "UTV.uk",
       "provider_id": "6230",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-tv-uk.png",
@@ -1678,6 +1702,14 @@
       "provider_id": "2615",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/yesterday-plus-uk.png",
       "name": "Yesterday+1"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "AriseNews.uk",
+      "provider_id": "5040",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/arise-news-uk.png",
+      "name": "Arise News"
     },
     {
       "src": "freeview",
