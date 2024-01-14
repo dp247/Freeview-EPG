@@ -84,17 +84,9 @@
       "src": "sky",
       "lang": "en",
       "xmltv_id": "BBCAlba.uk",
-      "provider_id": "2012",
+      "provider_id": "3021",
       "icon_url": "https://i.imgur.com/36KDxLg.png",
       "name": "BBC Alba"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCFour.uk",
-      "provider_id": "2018",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",
-      "name": "BBC Four"
     },
     {
       "src": "sky",
@@ -108,7 +100,7 @@
       "src": "sky",
       "lang": "en",
       "xmltv_id": "BBCNews.uk",
-      "provider_id": "2011",
+      "provider_id": "2085",
       "icon_url": "https://i.imgur.com/vSz2WEp.png",
       "name": "BBC News"
     },
@@ -244,7 +236,7 @@
       "src": "sky",
       "lang": "en",
       "xmltv_id": "BBCParliament.uk",
-      "provider_id": "2072",
+      "provider_id": "3020",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-uk.png",
       "name": "BBC Parliament"
     },
@@ -260,17 +252,9 @@
       "src": "sky",
       "lang": "en",
       "xmltv_id": "BBCScotland.uk",
-      "provider_id": "1137",
+      "provider_id": "1138",
       "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png",
       "name": "BBC Scotland"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCThree.uk",
-      "provider_id": "2022",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png",
-      "name": "BBC Three"
     },
     {
       "src": "sky",
@@ -287,14 +271,6 @@
       "provider_id": "2075",
       "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
       "name": "BBC Two HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCTwoEngland.uk",
-      "provider_id": "2006",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
-      "name": "BBC Two"
     },
     {
       "src": "sky",
@@ -1201,7 +1177,7 @@
       "src": "sky",
       "lang": "en",
       "xmltv_id": "ITVBe.uk",
-      "provider_id": "6508",
+      "provider_id": "3026",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-be-uk.png",
       "name": "ITVBe"
     },
@@ -1554,7 +1530,7 @@
       "src": "sky",
       "lang": "en",
       "xmltv_id": "STV.uk",
-      "provider_id": "6325",
+      "provider_id": "1170",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-uk.png",
       "name": "STV"
     },
