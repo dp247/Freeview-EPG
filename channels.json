@@ -1,1881 +1,1873 @@
 {
-  "channels": [
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "4Music.uk",
-      "provider_id": "1350",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-music-uk.png",
-      "name": "4Music"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "4seven.uk",
-      "provider_id": "3150",
-      "icon_url": "https://i.imgur.com/Fpaxyop.png",
-      "name": "4Seven"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "5Action.uk",
-      "provider_id": "1036",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-action-uk.png",
-      "name": "5Action"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "5Select.uk",
-      "provider_id": "3028",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-select-uk.png",
-      "name": "5Select"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "5Star.uk",
-      "provider_id": "3023",
-      "icon_url": "https://i.imgur.com/PI11s9s.png",
-      "name": "5Star"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "5StarPlus1.uk",
-      "provider_id": "3024",
-      "icon_url": "https://i.imgur.com/fzqtSNm.png",
-      "name": "5STAR+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "5USA.uk",
-      "provider_id": "3022",
-      "icon_url": "https://i.imgur.com/Pi7so2l.png",
-      "name": "5USA"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "5USAPlus1.uk",
-      "provider_id": "3027",
-      "icon_url": "https://i.imgur.com/hBx6T5t.png",
-      "name": "5USA+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "AlJazeeraEnglish.qa",
-      "provider_id": "1023",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",
-      "name": "Al Jazeera"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ArirangWorld.kr",
-      "provider_id": "1066",
-      "icon_url": "https://i.imgur.com/Asu5pE9.png",
-      "name": "Arirang World"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCAlba.uk",
-      "provider_id": "2012",
-      "icon_url": "https://i.imgur.com/36KDxLg.png",
-      "name": "BBC Alba"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCFour.uk",
-      "provider_id": "2018",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",
-      "name": "BBC Four"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCFourHD.uk",
-      "provider_id": "2086",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",
-      "name": "BBC Four HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCNews.uk",
-      "provider_id": "2011",
-      "icon_url": "https://i.imgur.com/vSz2WEp.png",
-      "name": "BBC News"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCOneNorthEastCumbria.uk",
-      "provider_id": "3009",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-      "name": "BBC One North East HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCOneNorthWest.uk",
-      "provider_id": "3007",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-      "name": "BBC One North West HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCOneYorkshire.uk",
-      "provider_id": "3017",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-      "name": "BBC One Yorkshire HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCOneYorksLincs.uk",
-      "provider_id": "3004",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-      "name": "BBC One Yorks & Lincs HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCOneWestMidlands.uk",
-      "provider_id": "3003",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-      "name": "BBC One West Midlands HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCOneEastMidlands.uk",
-      "provider_id": "3005",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-      "name": "BBC One East Midlands HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCOneEast.uk",
-      "provider_id": "3006",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-      "name": "BBC One East HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCOneSouthEast.uk",
-      "provider_id": "3008",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-      "name": "BBC One South East HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCOneWest.uk",
-      "provider_id": "3001",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-      "name": "BBC One West HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCOneSouth.uk",
-      "provider_id": "3011",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-      "name": "BBC One South HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCOneSouthWest.uk",
-      "provider_id": "3014",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-      "name": "BBC One South West HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCOneChannelIslands.uk",
-      "provider_id": "3018",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-      "name": "BBC One Channel Islands HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCOneNorthernIreland.uk",
-      "provider_id": "2081",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-      "name": "BBC One NI HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCOneLondonHD.uk",
-      "provider_id": "3000",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-      "name": "BBC One London HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCOneScotHD.uk",
-      "provider_id": "2082",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-      "name": "BBC One Scotland HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCOneWalesHD.uk",
-      "provider_id": "2083",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
-      "name": "BBC One Wales HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCParliament.uk",
-      "provider_id": "2072",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-uk.png",
-      "name": "BBC Parliament"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCRedButton1.uk",
-      "provider_id": "2051",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-red-button-uk.png",
-      "name": "BBC Red Button 1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCScotland.uk",
-      "provider_id": "1137",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png",
-      "name": "BBC Scotland"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCThree.uk",
-      "provider_id": "2022",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png",
-      "name": "BBC Three"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCThreeHD.uk",
-      "provider_id": "2080",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png",
-      "name": "BBC Three HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCTwoHD.uk",
-      "provider_id": "2075",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
-      "name": "BBC Two HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCTwoEngland.uk",
-      "provider_id": "2006",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
-      "name": "BBC Two"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCTwoNorthernIreland.uk",
-      "provider_id": "3019",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
-      "name": "BBC Two NI"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCTwoWales.uk",
-      "provider_id": "3015",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
-      "name": "BBC Two Wales"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCR1.uk",
-      "provider_id": "2111",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1.png",
-      "name": "BBC Radio 1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCR1X.uk",
-      "provider_id": "2126",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1Xtra.png",
-      "name": "BBC Radio 1 Xtra"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCR2.uk",
-      "provider_id": "2112",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-2.png",
-      "name": "BBC Radio 2"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCR3.uk",
-      "provider_id": "2113",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
-      "name": "BBC Radio 3"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCR4FM.uk",
-      "provider_id": "2114",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-4.png",
-      "name": "BBC Radio 4 FM"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCR4LW.uk",
-      "provider_id": "2115",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-4-LW.png",
-      "name": "BBC Radio 4 LW"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCR4EX.uk",
-      "provider_id": "2128",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-4-Extra.png",
-      "name": "BBC Radio 4 Extra"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCR5L.uk",
-      "provider_id": "2026",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Live.png",
-      "name": "BBC Radio 5 Live"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCR5SX.uk",
-      "provider_id": "2034",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Sports-Extra.png",
-      "name": "BBC Radio 5 Sports Xtra"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCR6M.uk",
-      "provider_id": "2127",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-6-Music.png",
-      "name": "BBC Radio 6 Music"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCWorldService.uk",
-      "provider_id": "2122",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-World-Service.png",
-      "name": "BBC World Service"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCRScotland.uk",
-      "provider_id": "2117",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
-      "name": "BBC Radio Scotland"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCRWales.uk",
-      "provider_id": "2118",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Wales.png",
-      "name": "BBC Radio Wales"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCRUlster.uk",
-      "provider_id": "2119",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Ulster.png",
-      "name": "BBC Radio Ulster"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCRadioGaidhael.uk",
-      "provider_id": "2129",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-nan-Gaidheal.png",
-      "name": "BBC Radio nan Gaidhael"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCRadioCymru.uk",
-      "provider_id": "2123",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru.png",
-      "name": "BBC Radio Cymru"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCRadioCymru2.uk",
-      "provider_id": "2021",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru-2.png",
-      "name": "BBC Radio Cymru 2"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCRadioFoyle.uk",
-      "provider_id": "2124",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Foyle.png",
-      "name": "BBC Radio Foyle"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCRadioLondon.uk",
-      "provider_id": "2130",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-London.png",
-      "name": "BBC Radio London"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BBCRAsianNetwork.uk",
-      "provider_id": "2120",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Asian-Network.png",
-      "name": "BBC Asian Network"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ClassicFM.uk",
-      "provider_id": "3470",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Classic-FM.png",
-      "name": "Classic FM"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "AbsoluteRadio.uk",
-      "provider_id": "14688",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Absolute-Radio.png",
-      "name": "Absolute Radio"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TalkSport.uk",
-      "provider_id": "2902",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Talksport.png",
-      "name": "talkSPORT"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "CapitalRadio.uk",
-      "provider_id": "2908",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Capital.png",
-      "name": "Capital"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "HeartRadio.uk",
-      "provider_id": "2909",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart.png",
-      "name": "Heart Radio"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Heart80s.uk",
-      "provider_id": "2928",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart-80s.png",
-      "name": "Heart 80s"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Heart90s.uk",
-      "provider_id": "1083",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart-90s.png",
-      "name": "Heart 90s"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "HeartDance.uk",
-      "provider_id": "2920",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart-Dance.png",
-      "name": "Heart Dance"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "RadioX.uk",
-      "provider_id": "2904",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Radio-X.png",
-      "name": "Radio X"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "CapitalXtra.uk",
-      "provider_id": "2971",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Capital-Xtra.png",
-      "name": "Capital Xtra"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "GoldRadio.uk",
-      "provider_id": "2903",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Gold-Radio.png",
-      "name": "Gold"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "LBCRadio.uk",
-      "provider_id": "2926",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/LBC.png",
-      "name": "LBC"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "LBCNews.uk",
-      "provider_id": "1205",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/LBC-News.png",
-      "name": "LBC News"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "SmoothRadio.uk",
-      "provider_id": "2917",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Smooth-Radio.png",
-      "name": "Smooth"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "KissRadio.uk",
-      "provider_id": "26176",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kiss.png",
-      "name": "Kiss Radio"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "MagicRadio.uk",
-      "provider_id": "26624",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Magic-Radio.png",
-      "name": "Magic Radio"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "HitsRadio.uk",
-      "provider_id": "26560",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Hits-Radio.png",
-      "name": "Hits Radio"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BFBSRadio.uk",
-      "provider_id": "3371",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BFBS-Radio.png",
-      "name": "BFBS Radio"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "VirginRadio.uk",
-      "provider_id": "1148",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Virgin-Radio-UK.png",
-      "name": "Virgin Radio"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "GreatestHitsRadio.uk",
-      "provider_id": "26240",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Greatest-Hits-Radio.png",
-      "name": "Greatest Hits Radio"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Blaze.uk",
-      "provider_id": "1065",
-      "icon_url": "https://i.imgur.com/6UcPWP9.png",
-      "name": "Blaze UK"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "BloombergTVEurope.uk",
-      "provider_id": "1074",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Bloomberg-TV-HD.png",
-      "name": "Bloomberg HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "CBBC.uk",
-      "provider_id": "1095",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbbc-uk.png",
-      "name": "CBBC"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "CBSRealityUK.uk",
-      "provider_id": "1142",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CBS-Reality.png",
-      "name": "CBS Reality"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "CBSRealityUKPlus1.uk",
-      "provider_id": "3602",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CBS+Reality+Plus+1.png",
-      "name": "CBS Reality+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "CBeebies.uk",
-      "provider_id": "1093",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbeebies-uk.png",
-      "name": "CBeebies"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "CNBCEurope.uk",
-      "provider_id": "1088",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CNBC.png",
-      "name": "CNBC UK"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "CNNInternational.uk",
-      "provider_id": "1019",
-      "icon_url": "https://i.imgur.com/05S3yYZ.png",
-      "name": "CNN International"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Challenge.uk",
-      "provider_id": "2202",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/challenge-uk.png",
-      "name": "Challenge UK"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Channel4.uk",
-      "provider_id": "1621",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png",
-      "name": "Channel 4"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Channel4Plus1.uk",
-      "provider_id": "1671",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-plus-uk.png",
-      "name": "Channel 4+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Channel5.uk",
-      "provider_id": "1800",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png",
-      "name": "Channel 5"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Channel5Plus1.uk",
-      "provider_id": "1839",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-plus-uk.png",
-      "name": "Channel 5+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ClublandTV.uk",
-      "provider_id": "4505",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/clubland-uk.png",
-      "name": "Clubland TV"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "CraftExtra.uk",
-      "provider_id": "3357",
-      "icon_url": "https://i.imgur.com/9nTFPK3.png",
-      "name": "Craft Extra"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "CreateandCraft.uk",
-      "provider_id": "1245",
-      "icon_url": "https://i.imgur.com/n65sk4L.png",
-      "name": "Create and Craft"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "DMAXUK.uk",
-      "provider_id": "3618",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png",
-      "name": "DMAX"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "DMAXUKPlus1.uk",
-      "provider_id": "1865",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-plus-uk.png",
-      "name": "DMAX+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Dave.uk",
-      "provider_id": "2306",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-uk.png",
-      "name": "Dave UK"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Davejavu.uk",
-      "provider_id": "2320",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-ja-vu-uk.png",
-      "name": "Dave ja vu"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Drama.uk",
-      "provider_id": "2612",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/drama-uk.png",
-      "name": "Drama"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "DramaPlus1.uk",
-      "provider_id": "1081",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/drama-plus-uk.png",
-      "name": "Drama+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "E4.uk",
-      "provider_id": "1628",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-uk.png",
-      "name": "E4"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "E4Extra.uk",
-      "provider_id": "1758",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-extra-uk.png",
-      "name": "E4 Extra"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "E4Plus1.uk",
-      "provider_id": "3300",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-plus-uk.png",
-      "name": "E4 UK+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "EarthxTV.us",
-      "provider_id": "1086",
-      "icon_url": "https://i.imgur.com/ZWWqiCb.png",
-      "name": "EarthxTV HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "EuronewsEnglish.fr",
-      "provider_id": "4604",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Euronews.png",
-      "name": "EuroNews English"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Film4.uk",
-      "provider_id": "1073",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png",
-      "name": "Film4"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Film4Plus1.uk",
-      "provider_id": "1629",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-plus-uk.png",
-      "name": "Film 4+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "FoodNetworkUK.uk",
-      "provider_id": "3590",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-network-uk.png",
-      "name": "Food Network"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "FoodNetworkUKPlus1.uk",
-      "provider_id": "3592",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-network-plus-uk.png",
-      "name": "Food Network+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Foodxp.uk",
-      "provider_id": "1227",
-      "icon_url": "https://i.imgur.com/zOWog5j.png",
-      "name": "Foodxp"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "France24English.fr",
-      "provider_id": "1121",
-      "icon_url": "https://i.imgur.com/CMgoCrh.png",
-      "name": "France 24 English"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "GBNews.uk",
-      "provider_id": "1196",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gb-news-uk.png",
-      "name": "GB News"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "GemsTV.uk",
-      "provider_id": "3010",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gemporia-uk.png",
-      "name": "Gems TV"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "GreatMovies.uk",
-      "provider_id": "3709",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-hz-uk.png",
-      "name": "GREAT! Movies"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "GreatMoviesAction.uk",
-      "provider_id": "3708",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-hz-uk.png",
-      "name": "GREAT! action"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "GreatMoviesActionPlus1.uk",
-      "provider_id": "3721",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-plus-hz-uk.png",
-      "name": "GREAT! action+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "GreatMoviesRomance.uk",
-      "provider_id": "3643",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-hz-uk.png",
-      "name": "GREAT! Romance"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "GreatMoviesPlus1.uk",
-      "provider_id": "3771",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-plus-hz-uk.png",
-      "name": "GREAT! movies+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "GreatTV.uk",
-      "provider_id": "4266",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-hz-uk.png",
-      "name": "GREAT! tv"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "GreatTVPlus1.uk",
-      "provider_id": "5338",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-plus-hz-uk.png",
-      "name": "GREAT! tv+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "HGTVUK.uk",
-      "provider_id": "2301",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-uk.png",
-      "name": "HGTV"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "HGTVUKPlus1.uk",
-      "provider_id": "2309",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-plus-uk.png",
-      "name": "HGTV+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "LegendXtra.uk",
-      "provider_id": "3605",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra.png",
-      "name": "Legend Xtra"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "LegendXtraPlus1.uk",
-      "provider_id": "4502",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra-%2B1.png",
-      "name": "Legend Xtra+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1Anglia.uk",
-      "provider_id": "1045",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV1 Anglia"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1AngliaWest.uk",
-      "provider_id": "1217",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV1 Anglia (West)"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1Border.uk",
-      "provider_id": "1061",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV1 Border"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1CentralE.uk",
-      "provider_id": "1219",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV1 Central (East)"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1CentralW.uk",
-      "provider_id": "6503",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV1 Central (West)"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1London.uk",
-      "provider_id": "6504",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV1 London"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1MeridianN.uk",
-      "provider_id": "1208",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV1 Meridian (North)"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1MeridianE.uk",
-      "provider_id": "6502",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV1 Meridian (East)"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1MeridianS.uk",
-      "provider_id": "1209",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV1 Meridian (South)"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1North.uk",
-      "provider_id": "6505",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV1 North"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1TyneTees.uk",
-      "provider_id": "1043",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV1 Tyne Tees"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1Wales.uk",
-      "provider_id": "6501",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV1 Wales"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1West.uk",
-      "provider_id": "1063",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV1 West"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1WestCountry.uk",
-      "provider_id": "1062",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV1 West Country"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1YorkshireEast.uk",
-      "provider_id": "1214",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV1 Yorkshire (East)"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1YorkshireWest.uk",
-      "provider_id": "1044",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV1 Yorkshire"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1Plus1Granada.uk",
-      "provider_id": "6355",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV+1 Granada"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1Plus1London.uk",
-      "provider_id": "6155",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV+1 London"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1Plus1Meridian.uk",
-      "provider_id": "6365",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV+1 Meridian"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1Plus1Midlands.uk",
-      "provider_id": "6145",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV+1 Midlands"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV2.uk",
-      "provider_id": "6532",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png",
-      "name": "ITV2"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV2Plus1.uk",
-      "provider_id": "6241",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-plus-uk.png",
-      "name": "ITV2+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV3.uk",
-      "provider_id": "6533",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-uk.png",
-      "name": "ITV3"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV3Plus1.uk",
-      "provider_id": "6261",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-plus-uk.png",
-      "name": "ITV3+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV4.uk",
-      "provider_id": "6534",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png",
-      "name": "ITV4"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV4Plus1.uk",
-      "provider_id": "6274",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-plus-uk.png",
-      "name": "ITV4+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITVBe.uk",
-      "provider_id": "6508",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-be-uk.png",
-      "name": "ITVBe"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "ITVBePlus1.uk",
-      "provider_id": "15864",
-      "region_id": "64350",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-be-plus-uk.png",
-      "name": "ITVBe+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "JewelleryMaker.uk",
-      "provider_id": "3354",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/jewellery-maker-uk.png",
-      "name": "Jewellery Maker"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Kerrang.uk",
-      "provider_id": "1853",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/kerrang-tv-uk.png",
-      "name": "Kerrang!"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "KissTVUK.uk",
-      "provider_id": "1858",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/kiss-tv-uk.png",
-      "name": "Kiss TV"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Legend.uk",
-      "provider_id": "4610",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/legend-uk.png",
-      "name": "Legend"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "LondonLive.uk",
-      "provider_id": "5090",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/london-live-uk.png",
-      "name": "London Live"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Magic.uk",
-      "provider_id": "1877",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/magic-tv-uk.png",
-      "name": "Magic"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "More4.uk",
-      "provider_id": "3340",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-more-uk.png",
-      "name": "More4"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "More4Plus1.uk",
-      "provider_id": "3310",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-more-plus-uk.png",
-      "name": "More4+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Movies24.uk",
-      "provider_id": "4420",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/movies-24-uk.png",
-      "name": "Movies24"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Movies24Plus.uk",
-      "provider_id": "4421",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/movies-24-plus-uk.png",
-      "name": "Movies24+"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "NBCNewsNOW.us",
-      "provider_id": "1039",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-news-now-hz-us.png",
-      "name": "NBC News Now HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "NHKWorldJapan.jp",
-      "provider_id": "3147",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",
-      "name": "NHK World HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Now70s.uk",
-      "provider_id": "3403",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/now-70s-uk.png",
-      "name": "Now 70's"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Now80s.uk",
-      "provider_id": "4541",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/now-80s-uk.png",
-      "name": "Now 80's"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Now90s.uk",
-      "provider_id": "3682",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/now-90s-uk.png",
-      "name": "Now 90's"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "PBSAmerica.uk",
-      "provider_id": "5500",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pbs-america-uk.png",
-      "name": "PBS America"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Pop.uk",
-      "provider_id": "3750",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-uk.png",
-      "name": "Pop"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "PopMax.uk",
-      "provider_id": "4262",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-max-uk.png",
-      "name": "Pop Max"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "PopMaxPlus1.uk",
-      "provider_id": "4263",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-max-plus-uk.png",
-      "name": "POP Max+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "PopPlus1.uk",
-      "provider_id": "4216",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-plus-uk.png",
-      "name": "POP+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "QVCBeautyUK.uk",
-      "provider_id": "4105",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-beauty-uk.png",
-      "name": "QVC Beauty"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "QVCExtraUK.uk",
-      "provider_id": "3359",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-extra-uk.png",
-      "name": "QVC Extra"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "QVCStyleUK.uk",
-      "provider_id": "1118",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-style-uk.png",
-      "name": "QVC Style UK"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "QVCUK.uk",
-      "provider_id": "1076",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-uk.png",
-      "name": "QVC UK"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "QuestRedUK.uk",
-      "provider_id": "2410",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-red-hz-uk.png",
-      "name": "Quest Red"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "QuestRedUKPlus1.uk",
-      "provider_id": "4547",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-red-plus-hz-uk.png",
-      "name": "Quest Red UK+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "QuestUK.uk",
-      "provider_id": "1128",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png",
-      "name": "Quest"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "QuestUKPlus1.uk",
-      "provider_id": "3621",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-plus-uk.png",
-      "name": "QUEST+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "RTE2.ie",
-      "provider_id": "1252",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-uk.png",
-      "name": "RTÉ2"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "RTE2Plus1.ie",
-      "provider_id": "1158",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-plus-uk.png",
-      "name": "RTÉ2+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "RTENews.ie",
-      "provider_id": "2804",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/RTE-News.png",
-      "name": "RTÉ News"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "RTEOne.ie",
-      "provider_id": "1251",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-uk.png",
-      "name": "RTÉ One"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "RTEOnePlus1.ie",
-      "provider_id": "2808",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-plus-uk.png",
-      "name": "RTÉ One+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "RTEjr.ie",
-      "provider_id": "1256",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-jr-uk.png",
-      "name": "RTÉjr"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TrueCrimeXtra.uk",
-      "provider_id": "3617",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-Xtra.png",
-      "name": "True Crime Xtra"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Really.uk",
-      "provider_id": "2324",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-uk.png",
-      "name": "Really"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "S4C.uk",
-      "provider_id": "5701",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png",
-      "name": "S4C"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "SkyMix.uk",
-      "provider_id": "1831",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Mix.png",
-      "name": "Sky Mix"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "SkyNews.uk",
-      "provider_id": "1404",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png",
-      "name": "Sky News"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "STV.uk",
-      "provider_id": "6325",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-uk.png",
-      "name": "STV"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "STVPlus1.uk",
-      "provider_id": "8373",
-      "region_id": "64405",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-plus-uk.png",
-      "name": "STV+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TBNUK.uk",
-      "provider_id": "3109",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tbn-uk.png",
-      "name": "TBN UK"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TJC.uk",
-      "provider_id": "1033",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tjc-the-jewellery-channel-uk.png",
-      "name": "TJC"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TalkTV.uk",
-      "provider_id": "1078",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talk-tv-uk.png",
-      "name": "TalkTV"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TalkingPicturesTV.uk",
-      "provider_id": "5252",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talking-pictures-tv-uk.png",
-      "name": "Talking Pictures TV"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TheBoxUK.uk",
-      "provider_id": "1802",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/the-box-uk.png",
-      "name": "The Box UK"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TinyPop.uk",
-      "provider_id": "3780",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tiny-pop-uk.png",
-      "name": "Tiny Pop"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TinyPopPlus1.uk",
-      "provider_id": "4261",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tiny-pop-plus-uk.png",
-      "name": "Tiny Pop+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TogetherTV.uk",
-      "provider_id": "1872",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/together-tv-uk.png",
-      "name": "Together TV"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TraceVault.uk",
-      "provider_id": "3935",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/trace-vault-uk.png",
-      "name": "Trace Vault"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Travelxp.in",
-      "provider_id": "1226",
-      "icon_url": "https://i.imgur.com/8KQirah.png",
-      "name": "Travelxp"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "UTV.uk",
-      "provider_id": "6230",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-tv-uk.png",
-      "name": "UTV"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "W.uk",
-      "provider_id": "2617",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/w-network-uk.png",
-      "name": "W"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "WPlus1.uk",
-      "provider_id": "2616",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/w-network-plus-uk.png",
-      "name": "W+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Yesterday.uk",
-      "provider_id": "2305",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/yesterday-uk.png",
-      "name": "Yesterday"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "YesterdayPlus1.uk",
-      "provider_id": "2615",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/yesterday-plus-uk.png",
-      "name": "Yesterday+1"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "BBCRadioLeeds.uk",
-      "provider_id": "6154",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Leeds.png",
-      "name": "BBC Radio Leeds"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "BBCRadioYork.uk",
-      "provider_id": "6282",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-York.png",
-      "name": "BBC Radio York"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "BBCRadioHumberside.uk",
-      "provider_id": "6223",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Humberside.png",
-      "name": "BBC Radio Humberside"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "BBCRadioLincolnshire.uk",
-      "provider_id": "6159",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Lincolnshire.png",
-      "name": "BBC Radio Lincolnshire"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "BBCRadioSheffield.uk",
-      "provider_id": "6218",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Sheffield.png",
-      "name": "BBC Radio Sheffield"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "BBCRadioSomerset.uk",
-      "provider_id": "6337",
-      "region_id": "64320",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Somerset.png",
-      "name": "BBC Radio Somerset"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "BBCRadioBerkshire.uk",
-      "provider_id": "6275",
-      "region_id": "64257",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Berkshire.png",
-      "name": "BBC Radio Berkshire"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "BBCRadioThreeCounties.uk",
-      "provider_id": "6157",
-      "region_id": "64257",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Three-Counties-Radio.png",
-      "name": "BBC Radio Three Counties"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "BBCRadioNewcastle.uk",
-      "provider_id": "6153",
-      "region_id": "64369",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Newcastle.png",
-      "name": "BBC Radio Newcastle"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "BBCRadioManchester.uk",
-      "provider_id": "6152",
-      "region_id": "64377",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Manchester.png",
-      "name": "BBC Radio Manchester"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "BBCRadioSurrey.uk",
-      "provider_id": "6284",
-      "region_id": "64257",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Surrey.png",
-      "name": "BBC Radio Surrey"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "KissFreshRadio.uk",
-      "provider_id": "27040",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kiss-Fresh.png",
-      "name": "Kiss Fresh"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "KisstoryRadio.uk",
-      "provider_id": "26752",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kisstory.png",
-      "name": "Kisstory"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "KerrangRadio.uk",
-      "provider_id": "26304",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kerrang-Radio.png",
-      "name": "Kerrang! Radio"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "NewsmaxTV.uk",
-      "provider_id": "16328",
-      "region_id": "64361",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png",
-      "name": "Newsmax"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "AlArabiya.uk",
-      "provider_id": "16304",
-      "region_id": "64361",
-      "icon_url": "https://i.imgur.com/NXFkYFj.png",
-      "name": "AL ARABIYA"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "AsharqNews.uk",
-      "provider_id": "16296",
-      "region_id": "64361",
-      "icon_url": "https://i.imgur.com/bqRC3sl.png",
-      "name": "Asharq News"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "WION.in",
-      "provider_id": "16290",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/wion-in.png",
-      "name": "WION"
-    },
-    {
-      "src": "freeview",
-      "lang": "ar-ae",
-      "xmltv_id": "AlJazeeraArabic.qa",
-      "provider_id": "16284",
-      "region_id": "64361",
-      "icon_url": "https://i.imgur.com/7bRVpnu.png",
-      "name": "Al Jazeera Arabic"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "Thats60s.uk",
-      "provider_id": "28032",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/thats-60s-uk.png",
-      "name": "That's 60s"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "Thats90s.uk",
-      "provider_id": "23904",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-90s.png",
-      "name": "That's 90s"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "HobbyMaker.uk",
-      "provider_id": "27840",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/HobbyMaker.png",
-      "name": "Hobby Maker"
-    }
-  ]
+   "channels":[
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"4Music.uk",
+         "provider_id":"1350",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-music-uk.png",
+         "name":"4Music"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"4seven.uk",
+         "provider_id":"3150",
+         "icon_url":"https://i.imgur.com/Fpaxyop.png",
+         "name":"4Seven"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"5Action.uk",
+         "provider_id":"1036",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-action-uk.png",
+         "name":"5Action"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"5Select.uk",
+         "provider_id":"3028",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-select-uk.png",
+         "name":"5Select"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"5Star.uk",
+         "provider_id":"3023",
+         "icon_url":"https://i.imgur.com/PI11s9s.png",
+         "name":"5Star"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"5StarPlus1.uk",
+         "provider_id":"3024",
+         "icon_url":"https://i.imgur.com/fzqtSNm.png",
+         "name":"5STAR+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"5USA.uk",
+         "provider_id":"3022",
+         "icon_url":"https://i.imgur.com/Pi7so2l.png",
+         "name":"5USA"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"5USAPlus1.uk",
+         "provider_id":"3027",
+         "icon_url":"https://i.imgur.com/hBx6T5t.png",
+         "name":"5USA+1"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"AlArabiya.uk",
+         "provider_id":"16304",
+         "region_id":"64361",
+         "icon_url":"https://i.imgur.com/NXFkYFj.png",
+         "name":"AL ARABIYA"
+      },
+      {
+         "src":"freeview",
+         "lang":"ar-ae",
+         "xmltv_id":"AlJazeeraArabic.qa",
+         "provider_id":"16284",
+         "region_id":"64361",
+         "icon_url":"https://i.imgur.com/7bRVpnu.png",
+         "name":"Al Jazeera Arabic"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"AlJazeeraEnglish.qa",
+         "provider_id":"1023",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",
+         "name":"Al Jazeera"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ArirangWorld.kr",
+         "provider_id":"1066",
+         "icon_url":"https://i.imgur.com/Asu5pE9.png",
+         "name":"Arirang World"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"AsharqNews.uk",
+         "provider_id":"16296",
+         "region_id":"64361",
+         "icon_url":"https://i.imgur.com/bqRC3sl.png",
+         "name":"Asharq News"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCAlba.uk",
+         "provider_id":"2012",
+         "icon_url":"https://i.imgur.com/36KDxLg.png",
+         "name":"BBC Alba"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCFour.uk",
+         "provider_id":"2018",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",
+         "name":"BBC Four"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCFourHD.uk",
+         "provider_id":"2086",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",
+         "name":"BBC Four HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCNews.uk",
+         "provider_id":"2011",
+         "icon_url":"https://i.imgur.com/vSz2WEp.png",
+         "name":"BBC News"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCOneChannelIslands.uk",
+         "provider_id":"3018",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+         "name":"BBC One Channel Islands HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCOneEast.uk",
+         "provider_id":"3006",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+         "name":"BBC One East HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCOneEastMidlands.uk",
+         "provider_id":"3005",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+         "name":"BBC One East Midlands HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCOneLondonHD.uk",
+         "provider_id":"3000",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+         "name":"BBC One London HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCOneNorthEastCumbria.uk",
+         "provider_id":"3009",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+         "name":"BBC One North East HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCOneNorthWest.uk",
+         "provider_id":"3007",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+         "name":"BBC One North West HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCOneNorthernIreland.uk",
+         "provider_id":"2081",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+         "name":"BBC One NI HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCOneScotHD.uk",
+         "provider_id":"2082",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+         "name":"BBC One Scotland HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCOneSouth.uk",
+         "provider_id":"3011",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+         "name":"BBC One South HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCOneSouthEast.uk",
+         "provider_id":"3008",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+         "name":"BBC One South East HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCOneSouthWest.uk",
+         "provider_id":"3014",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+         "name":"BBC One South West HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCOneWalesHD.uk",
+         "provider_id":"2083",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+         "name":"BBC One Wales HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCOneWest.uk",
+         "provider_id":"3001",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+         "name":"BBC One West HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCOneWestMidlands.uk",
+         "provider_id":"3003",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+         "name":"BBC One West Midlands HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCOneYorksLincs.uk",
+         "provider_id":"3004",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+         "name":"BBC One Yorks & Lincs HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCOneYorkshire.uk",
+         "provider_id":"3017",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+         "name":"BBC One Yorkshire HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCParliament.uk",
+         "provider_id":"2072",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-uk.png",
+         "name":"BBC Parliament"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCRedButton1.uk",
+         "provider_id":"2051",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-red-button-uk.png",
+         "name":"BBC Red Button 1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCScotland.uk",
+         "provider_id":"1137",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png",
+         "name":"BBC Scotland"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCThree.uk",
+         "provider_id":"2022",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png",
+         "name":"BBC Three"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCThreeHD.uk",
+         "provider_id":"2080",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png",
+         "name":"BBC Three HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCTwoEngland.uk",
+         "provider_id":"2006",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+         "name":"BBC Two"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCTwoHD.uk",
+         "provider_id":"2075",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+         "name":"BBC Two HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCTwoNorthernIreland.uk",
+         "provider_id":"3019",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+         "name":"BBC Two NI"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCTwoWales.uk",
+         "provider_id":"3015",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+         "name":"BBC Two Wales"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Blaze.uk",
+         "provider_id":"1065",
+         "icon_url":"https://i.imgur.com/6UcPWP9.png",
+         "name":"Blaze UK"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BloombergTVEurope.uk",
+         "provider_id":"1074",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Bloomberg-TV-HD.png",
+         "name":"Bloomberg HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"CBBC.uk",
+         "provider_id":"1095",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbbc-uk.png",
+         "name":"CBBC"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"CBSRealityUK.uk",
+         "provider_id":"1142",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CBS-Reality.png",
+         "name":"CBS Reality"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"CBSRealityUKPlus1.uk",
+         "provider_id":"3602",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CBS+Reality+Plus+1.png",
+         "name":"CBS Reality+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"CBeebies.uk",
+         "provider_id":"1093",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbeebies-uk.png",
+         "name":"CBeebies"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"CNBCEurope.uk",
+         "provider_id":"1088",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CNBC.png",
+         "name":"CNBC UK"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"CNNInternational.uk",
+         "provider_id":"1019",
+         "icon_url":"https://i.imgur.com/05S3yYZ.png",
+         "name":"CNN International"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Challenge.uk",
+         "provider_id":"2202",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/challenge-uk.png",
+         "name":"Challenge UK"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Channel4.uk",
+         "provider_id":"1621",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png",
+         "name":"Channel 4"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Channel4Plus1.uk",
+         "provider_id":"1671",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-plus-uk.png",
+         "name":"Channel 4+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Channel5.uk",
+         "provider_id":"1800",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png",
+         "name":"Channel 5"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Channel5Plus1.uk",
+         "provider_id":"1839",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-plus-uk.png",
+         "name":"Channel 5+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ClublandTV.uk",
+         "provider_id":"4505",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/clubland-uk.png",
+         "name":"Clubland TV"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"CraftExtra.uk",
+         "provider_id":"3357",
+         "icon_url":"https://i.imgur.com/9nTFPK3.png",
+         "name":"Craft Extra"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"CreateandCraft.uk",
+         "provider_id":"1245",
+         "icon_url":"https://i.imgur.com/n65sk4L.png",
+         "name":"Create and Craft"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"DMAXUK.uk",
+         "provider_id":"3618",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png",
+         "name":"DMAX"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"DMAXUKPlus1.uk",
+         "provider_id":"1865",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-plus-uk.png",
+         "name":"DMAX+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Dave.uk",
+         "provider_id":"2306",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-uk.png",
+         "name":"Dave UK"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Davejavu.uk",
+         "provider_id":"2320",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-ja-vu-uk.png",
+         "name":"Dave ja vu"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Drama.uk",
+         "provider_id":"2612",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/drama-uk.png",
+         "name":"Drama"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"DramaPlus1.uk",
+         "provider_id":"1081",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/drama-plus-uk.png",
+         "name":"Drama+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"E4.uk",
+         "provider_id":"1628",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-uk.png",
+         "name":"E4"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"E4Extra.uk",
+         "provider_id":"1758",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-extra-uk.png",
+         "name":"E4 Extra"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"E4Plus1.uk",
+         "provider_id":"3300",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-plus-uk.png",
+         "name":"E4 UK+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"EarthxTV.us",
+         "provider_id":"1086",
+         "icon_url":"https://i.imgur.com/ZWWqiCb.png",
+         "name":"EarthxTV HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"EuronewsEnglish.fr",
+         "provider_id":"4604",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Euronews.png",
+         "name":"EuroNews English"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Film4.uk",
+         "provider_id":"1073",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png",
+         "name":"Film4"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Film4Plus1.uk",
+         "provider_id":"1629",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-plus-uk.png",
+         "name":"Film 4+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"FoodNetworkUK.uk",
+         "provider_id":"3590",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-network-uk.png",
+         "name":"Food Network"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"FoodNetworkUKPlus1.uk",
+         "provider_id":"3592",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-network-plus-uk.png",
+         "name":"Food Network+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Foodxp.uk",
+         "provider_id":"1227",
+         "icon_url":"https://i.imgur.com/zOWog5j.png",
+         "name":"Foodxp"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"France24English.fr",
+         "provider_id":"1121",
+         "icon_url":"https://i.imgur.com/CMgoCrh.png",
+         "name":"France 24 English"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"GBNews.uk",
+         "provider_id":"1196",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gb-news-uk.png",
+         "name":"GB News"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"GemsTV.uk",
+         "provider_id":"3010",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gemporia-uk.png",
+         "name":"Gems TV"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"GreatMovies.uk",
+         "provider_id":"3709",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-hz-uk.png",
+         "name":"GREAT! Movies"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"GreatMoviesAction.uk",
+         "provider_id":"3708",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-hz-uk.png",
+         "name":"GREAT! action"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"GreatMoviesActionPlus1.uk",
+         "provider_id":"3721",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-plus-hz-uk.png",
+         "name":"GREAT! action+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"GreatMoviesPlus1.uk",
+         "provider_id":"3771",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-plus-hz-uk.png",
+         "name":"GREAT! movies+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"GreatMoviesRomance.uk",
+         "provider_id":"3643",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-hz-uk.png",
+         "name":"GREAT! Romance"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"GreatTV.uk",
+         "provider_id":"4266",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-hz-uk.png",
+         "name":"GREAT! tv"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"GreatTVPlus1.uk",
+         "provider_id":"5338",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-plus-hz-uk.png",
+         "name":"GREAT! tv+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"HGTVUK.uk",
+         "provider_id":"2301",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-uk.png",
+         "name":"HGTV"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"HGTVUKPlus1.uk",
+         "provider_id":"2309",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-plus-uk.png",
+         "name":"HGTV+1"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"HobbyMaker.uk",
+         "provider_id":"27840",
+         "region_id":"64361",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/HobbyMaker.png",
+         "name":"Hobby Maker"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1Anglia.uk",
+         "provider_id":"1045",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV1 Anglia"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1AngliaWest.uk",
+         "provider_id":"1217",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV1 Anglia (West)"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1Border.uk",
+         "provider_id":"1061",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV1 Border"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1CentralE.uk",
+         "provider_id":"1219",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV1 Central (East)"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1CentralW.uk",
+         "provider_id":"6503",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV1 Central (West)"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1London.uk",
+         "provider_id":"6504",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV1 London"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1MeridianE.uk",
+         "provider_id":"6502",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV1 Meridian (East)"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1MeridianN.uk",
+         "provider_id":"1208",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV1 Meridian (North)"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1MeridianS.uk",
+         "provider_id":"1209",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV1 Meridian (South)"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1North.uk",
+         "provider_id":"6505",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV1 North"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1Plus1Granada.uk",
+         "provider_id":"6355",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV+1 Granada"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1Plus1London.uk",
+         "provider_id":"6155",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV+1 London"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1Plus1Meridian.uk",
+         "provider_id":"6365",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV+1 Meridian"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1Plus1Midlands.uk",
+         "provider_id":"6145",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV+1 Midlands"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1TyneTees.uk",
+         "provider_id":"1043",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV1 Tyne Tees"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1Wales.uk",
+         "provider_id":"6501",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV1 Wales"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1West.uk",
+         "provider_id":"1063",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV1 West"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1WestCountry.uk",
+         "provider_id":"1062",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV1 West Country"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1YorkshireEast.uk",
+         "provider_id":"1214",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV1 Yorkshire (East)"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV1YorkshireWest.uk",
+         "provider_id":"1044",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+         "name":"ITV1 Yorkshire"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV2.uk",
+         "provider_id":"6532",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png",
+         "name":"ITV2"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV2Plus1.uk",
+         "provider_id":"6241",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-plus-uk.png",
+         "name":"ITV2+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV3.uk",
+         "provider_id":"6533",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-uk.png",
+         "name":"ITV3"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV3Plus1.uk",
+         "provider_id":"6261",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-plus-uk.png",
+         "name":"ITV3+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV4.uk",
+         "provider_id":"6534",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png",
+         "name":"ITV4"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITV4Plus1.uk",
+         "provider_id":"6274",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-plus-uk.png",
+         "name":"ITV4+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ITVBe.uk",
+         "provider_id":"6508",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-be-uk.png",
+         "name":"ITVBe"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"ITVBePlus1.uk",
+         "provider_id":"15864",
+         "region_id":"64350",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-be-plus-uk.png",
+         "name":"ITVBe+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"JewelleryMaker.uk",
+         "provider_id":"3354",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/jewellery-maker-uk.png",
+         "name":"Jewellery Maker"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Kerrang.uk",
+         "provider_id":"1853",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/kerrang-tv-uk.png",
+         "name":"Kerrang!"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"KissTVUK.uk",
+         "provider_id":"1858",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/kiss-tv-uk.png",
+         "name":"Kiss TV"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Legend.uk",
+         "provider_id":"4610",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/legend-uk.png",
+         "name":"Legend"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"LegendXtra.uk",
+         "provider_id":"3605",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra.png",
+         "name":"Legend Xtra"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"LegendXtraPlus1.uk",
+         "provider_id":"4502",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra-%2B1.png",
+         "name":"Legend Xtra+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"LondonLive.uk",
+         "provider_id":"5090",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/london-live-uk.png",
+         "name":"London Live"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Magic.uk",
+         "provider_id":"1877",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/magic-tv-uk.png",
+         "name":"Magic"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"More4.uk",
+         "provider_id":"3340",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-more-uk.png",
+         "name":"More4"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"More4Plus1.uk",
+         "provider_id":"3310",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-more-plus-uk.png",
+         "name":"More4+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Movies24.uk",
+         "provider_id":"4420",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/movies-24-uk.png",
+         "name":"Movies24"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Movies24Plus.uk",
+         "provider_id":"4421",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/movies-24-plus-uk.png",
+         "name":"Movies24+"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"NBCNewsNOW.us",
+         "provider_id":"1039",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-news-now-hz-us.png",
+         "name":"NBC News Now HD"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"NHKWorldJapan.jp",
+         "provider_id":"3147",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",
+         "name":"NHK World HD"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"NewsmaxTV.uk",
+         "provider_id":"16328",
+         "region_id":"64361",
+         "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png",
+         "name":"Newsmax"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Now70s.uk",
+         "provider_id":"3403",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/now-70s-uk.png",
+         "name":"Now 70's"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Now80s.uk",
+         "provider_id":"4541",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/now-80s-uk.png",
+         "name":"Now 80's"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Now90s.uk",
+         "provider_id":"3682",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/now-90s-uk.png",
+         "name":"Now 90's"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"PBSAmerica.uk",
+         "provider_id":"5500",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pbs-america-uk.png",
+         "name":"PBS America"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Pop.uk",
+         "provider_id":"3750",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-uk.png",
+         "name":"Pop"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"PopMax.uk",
+         "provider_id":"4262",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-max-uk.png",
+         "name":"Pop Max"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"PopMaxPlus1.uk",
+         "provider_id":"4263",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-max-plus-uk.png",
+         "name":"POP Max+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"PopPlus1.uk",
+         "provider_id":"4216",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-plus-uk.png",
+         "name":"POP+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"QVCBeautyUK.uk",
+         "provider_id":"4105",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-beauty-uk.png",
+         "name":"QVC Beauty"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"QVCExtraUK.uk",
+         "provider_id":"3359",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-extra-uk.png",
+         "name":"QVC Extra"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"QVCStyleUK.uk",
+         "provider_id":"1118",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-style-uk.png",
+         "name":"QVC Style UK"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"QVCUK.uk",
+         "provider_id":"1076",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-uk.png",
+         "name":"QVC UK"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"QuestRedUK.uk",
+         "provider_id":"2410",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-red-hz-uk.png",
+         "name":"Quest Red"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"QuestRedUKPlus1.uk",
+         "provider_id":"4547",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-red-plus-hz-uk.png",
+         "name":"Quest Red UK+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"QuestUK.uk",
+         "provider_id":"1128",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png",
+         "name":"Quest"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"QuestUKPlus1.uk",
+         "provider_id":"3621",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-plus-uk.png",
+         "name":"QUEST+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"RTE2.ie",
+         "provider_id":"1252",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-uk.png",
+         "name":"RTÉ2"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"RTE2Plus1.ie",
+         "provider_id":"1158",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-plus-uk.png",
+         "name":"RTÉ2+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"RTENews.ie",
+         "provider_id":"2804",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/RTE-News.png",
+         "name":"RTÉ News"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"RTEOne.ie",
+         "provider_id":"1251",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-uk.png",
+         "name":"RTÉ One"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"RTEOnePlus1.ie",
+         "provider_id":"2808",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-plus-uk.png",
+         "name":"RTÉ One+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"RTEjr.ie",
+         "provider_id":"1256",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-jr-uk.png",
+         "name":"RTÉjr"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Really.uk",
+         "provider_id":"2324",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-uk.png",
+         "name":"Really"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"S4C.uk",
+         "provider_id":"5701",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png",
+         "name":"S4C"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"STV.uk",
+         "provider_id":"6325",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-uk.png",
+         "name":"STV"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"STVPlus1.uk",
+         "provider_id":"8373",
+         "region_id":"64405",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-plus-uk.png",
+         "name":"STV+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"SkyMix.uk",
+         "provider_id":"1831",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Mix.png",
+         "name":"Sky Mix"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"SkyNews.uk",
+         "provider_id":"1404",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png",
+         "name":"Sky News"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"TBNUK.uk",
+         "provider_id":"3109",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tbn-uk.png",
+         "name":"TBN UK"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"TJC.uk",
+         "provider_id":"1033",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tjc-the-jewellery-channel-uk.png",
+         "name":"TJC"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"TalkTV.uk",
+         "provider_id":"1078",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talk-tv-uk.png",
+         "name":"TalkTV"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"TalkingPicturesTV.uk",
+         "provider_id":"5252",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talking-pictures-tv-uk.png",
+         "name":"Talking Pictures TV"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"Thats60s.uk",
+         "provider_id":"28032",
+         "region_id":"64361",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/thats-60s-uk.png",
+         "name":"That's 60s"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"Thats90s.uk",
+         "provider_id":"23904",
+         "region_id":"64361",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-90s.png",
+         "name":"That's 90s"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"TheBoxUK.uk",
+         "provider_id":"1802",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/the-box-uk.png",
+         "name":"The Box UK"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"TinyPop.uk",
+         "provider_id":"3780",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tiny-pop-uk.png",
+         "name":"Tiny Pop"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"TinyPopPlus1.uk",
+         "provider_id":"4261",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tiny-pop-plus-uk.png",
+         "name":"Tiny Pop+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"TogetherTV.uk",
+         "provider_id":"1872",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/together-tv-uk.png",
+         "name":"Together TV"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Travelxp.in",
+         "provider_id":"1226",
+         "icon_url":"https://i.imgur.com/8KQirah.png",
+         "name":"Travelxp"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"TrueCrimeXtra.uk",
+         "provider_id":"3617",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-Xtra.png",
+         "name":"True Crime Xtra"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"UTV.uk",
+         "provider_id":"6230",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-tv-uk.png",
+         "name":"UTV"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"W.uk",
+         "provider_id":"2617",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/w-network-uk.png",
+         "name":"W"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"WION.in",
+         "provider_id":"16290",
+         "region_id":"64361",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/wion-in.png",
+         "name":"WION"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"WPlus1.uk",
+         "provider_id":"2616",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/w-network-plus-uk.png",
+         "name":"W+1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Yesterday.uk",
+         "provider_id":"2305",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/yesterday-uk.png",
+         "name":"Yesterday"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"YesterdayPlus1.uk",
+         "provider_id":"2615",
+         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/yesterday-plus-uk.png",
+         "name":"Yesterday+1"
+      },
+     {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"AbsoluteRadio.uk",
+         "provider_id":"14688",
+         "region_id":"64361",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Absolute-Radio.png",
+         "name":"Absolute Radio"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCR1.uk",
+         "provider_id":"2111",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1.png",
+         "name":"BBC Radio 1"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCR1X.uk",
+         "provider_id":"2126",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1Xtra.png",
+         "name":"BBC Radio 1 Xtra"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCR2.uk",
+         "provider_id":"2112",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-2.png",
+         "name":"BBC Radio 2"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCR3.uk",
+         "provider_id":"2113",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
+         "name":"BBC Radio 3"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCR4EX.uk",
+         "provider_id":"2128",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-4-Extra.png",
+         "name":"BBC Radio 4 Extra"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCR4FM.uk",
+         "provider_id":"2114",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-4.png",
+         "name":"BBC Radio 4 FM"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCR4LW.uk",
+         "provider_id":"2115",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-4-LW.png",
+         "name":"BBC Radio 4 LW"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCR5L.uk",
+         "provider_id":"2026",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Live.png",
+         "name":"BBC Radio 5 Live"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCR5SX.uk",
+         "provider_id":"2034",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Sports-Extra.png",
+         "name":"BBC Radio 5 Sports Xtra"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCR6M.uk",
+         "provider_id":"2127",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-6-Music.png",
+         "name":"BBC Radio 6 Music"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCRAsianNetwork.uk",
+         "provider_id":"2120",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Asian-Network.png",
+         "name":"BBC Asian Network"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCRScotland.uk",
+         "provider_id":"2117",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
+         "name":"BBC Radio Scotland"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCRUlster.uk",
+         "provider_id":"2119",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Ulster.png",
+         "name":"BBC Radio Ulster"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCRWales.uk",
+         "provider_id":"2118",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Wales.png",
+         "name":"BBC Radio Wales"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"BBCRadioBerkshire.uk",
+         "provider_id":"6275",
+         "region_id":"64257",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Berkshire.png",
+         "name":"BBC Radio Berkshire"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCRadioCymru.uk",
+         "provider_id":"2123",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru.png",
+         "name":"BBC Radio Cymru"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCRadioCymru2.uk",
+         "provider_id":"2021",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru-2.png",
+         "name":"BBC Radio Cymru 2"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCRadioFoyle.uk",
+         "provider_id":"2124",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Foyle.png",
+         "name":"BBC Radio Foyle"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCRadioGaidhael.uk",
+         "provider_id":"2129",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-nan-Gaidheal.png",
+         "name":"BBC Radio nan Gaidhael"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"BBCRadioHumberside.uk",
+         "provider_id":"6223",
+         "region_id":"64361",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Humberside.png",
+         "name":"BBC Radio Humberside"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"BBCRadioLeeds.uk",
+         "provider_id":"6154",
+         "region_id":"64361",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Leeds.png",
+         "name":"BBC Radio Leeds"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"BBCRadioLincolnshire.uk",
+         "provider_id":"6159",
+         "region_id":"64361",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Lincolnshire.png",
+         "name":"BBC Radio Lincolnshire"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCRadioLondon.uk",
+         "provider_id":"2130",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-London.png",
+         "name":"BBC Radio London"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"BBCRadioManchester.uk",
+         "provider_id":"6152",
+         "region_id":"64377",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Manchester.png",
+         "name":"BBC Radio Manchester"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"BBCRadioNewcastle.uk",
+         "provider_id":"6153",
+         "region_id":"64369",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Newcastle.png",
+         "name":"BBC Radio Newcastle"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"BBCRadioSheffield.uk",
+         "provider_id":"6218",
+         "region_id":"64361",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Sheffield.png",
+         "name":"BBC Radio Sheffield"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"BBCRadioSomerset.uk",
+         "provider_id":"6337",
+         "region_id":"64320",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Somerset.png",
+         "name":"BBC Radio Somerset"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"BBCRadioSurrey.uk",
+         "provider_id":"6284",
+         "region_id":"64257",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Surrey.png",
+         "name":"BBC Radio Surrey"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"BBCRadioThreeCounties.uk",
+         "provider_id":"6157",
+         "region_id":"64257",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Three-Counties-Radio.png",
+         "name":"BBC Radio Three Counties"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"BBCRadioYork.uk",
+         "provider_id":"6282",
+         "region_id":"64361",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-York.png",
+         "name":"BBC Radio York"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BBCWorldService.uk",
+         "provider_id":"2122",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-World-Service.png",
+         "name":"BBC World Service"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"BFBSRadio.uk",
+         "provider_id":"3371",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BFBS-Radio.png",
+         "name":"BFBS Radio"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"CapitalRadio.uk",
+         "provider_id":"2908",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Capital.png",
+         "name":"Capital"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"CapitalXtra.uk",
+         "provider_id":"2971",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Capital-Xtra.png",
+         "name":"Capital Xtra"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ClassicFM.uk",
+         "provider_id":"3470",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Classic-FM.png",
+         "name":"Classic FM"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"GoldRadio.uk",
+         "provider_id":"2903",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Gold-Radio.png",
+         "name":"Gold"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"GreatestHitsRadio.uk",
+         "provider_id":"26240",
+         "region_id":"64361",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Greatest-Hits-Radio.png",
+         "name":"Greatest Hits Radio"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Heart80s.uk",
+         "provider_id":"2928",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart-80s.png",
+         "name":"Heart 80s"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Heart90s.uk",
+         "provider_id":"1083",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart-90s.png",
+         "name":"Heart 90s"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"HeartDance.uk",
+         "provider_id":"2920",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart-Dance.png",
+         "name":"Heart Dance"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"HeartRadio.uk",
+         "provider_id":"2909",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart.png",
+         "name":"Heart Radio"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"HitsRadio.uk",
+         "provider_id":"26560",
+         "region_id":"64361",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Hits-Radio.png",
+         "name":"Hits Radio"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"KerrangRadio.uk",
+         "provider_id":"26304",
+         "region_id":"64361",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kerrang-Radio.png",
+         "name":"Kerrang! Radio"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"KissFreshRadio.uk",
+         "provider_id":"27040",
+         "region_id":"64361",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kiss-Fresh.png",
+         "name":"Kiss Fresh"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"KissRadio.uk",
+         "provider_id":"26176",
+         "region_id":"64361",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kiss.png",
+         "name":"Kiss Radio"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"KisstoryRadio.uk",
+         "provider_id":"26752",
+         "region_id":"64361",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kisstory.png",
+         "name":"Kisstory"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"LBCNews.uk",
+         "provider_id":"1205",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/LBC-News.png",
+         "name":"LBC News"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"LBCRadio.uk",
+         "provider_id":"2926",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/LBC.png",
+         "name":"LBC"
+      },
+      {
+         "src":"freeview",
+         "lang":"en",
+         "xmltv_id":"MagicRadio.uk",
+         "provider_id":"26624",
+         "region_id":"64361",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Magic-Radio.png",
+         "name":"Magic Radio"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"RadioX.uk",
+         "provider_id":"2904",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Radio-X.png",
+         "name":"Radio X"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"SmoothRadio.uk",
+         "provider_id":"2917",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Smooth-Radio.png",
+         "name":"Smooth Radio"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"TalkSport.uk",
+         "provider_id":"2902",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Talksport.png",
+         "name":"talkSPORT"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"VirginRadio.uk",
+         "provider_id":"1148",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Virgin-Radio-UK.png",
+         "name":"Virgin Radio"
+      }
+   ]
 }
