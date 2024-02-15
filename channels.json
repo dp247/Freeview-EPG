@@ -343,31 +343,15 @@
          "src":"sky",
          "lang":"en",
          "xmltv_id":"CBBC.uk",
-         "provider_id":"1095",
+         "provider_id":"2078",
          "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbbc-uk.png",
          "name":"CBBC"
       },
       {
          "src":"sky",
          "lang":"en",
-         "xmltv_id":"CBSRealityUK.uk",
-         "provider_id":"1142",
-         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CBS-Reality.png",
-         "name":"CBS Reality"
-      },
-      {
-         "src":"sky",
-         "lang":"en",
-         "xmltv_id":"CBSRealityUKPlus1.uk",
-         "provider_id":"3602",
-         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CBS+Reality+Plus+1.png",
-         "name":"CBS Reality+1"
-      },
-      {
-         "src":"sky",
-         "lang":"en",
          "xmltv_id":"CBeebies.uk",
-         "provider_id":"1093",
+         "provider_id":"2088",
          "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbeebies-uk.png",
          "name":"CBeebies"
       },
@@ -938,7 +922,7 @@
          "lang":"en",
          "xmltv_id":"Legend.uk",
          "provider_id":"4610",
-         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/legend-uk.png",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend.png",
          "name":"Legend"
       },
       {
@@ -1336,6 +1320,22 @@
          "provider_id":"1226",
          "icon_url":"https://i.imgur.com/8KQirah.png",
          "name":"Travelxp"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"TrueCrime.uk",
+         "provider_id":"3352",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-UK.png",
+         "name":"True Crime"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"TrueCrimePlus1.uk",
+         "provider_id":"3602",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-%2B1.png",
+         "name":"True Crime+1"
       },
       {
          "src":"sky",
