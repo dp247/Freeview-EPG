@@ -1264,13 +1264,44 @@
          "name":"Talking Pictures TV"
       },
       {
-         "src":"freeview",
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ThatsTV.uk",
+         "provider_id":"1017",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-TV-plain.png",
+         "name":"That's TV"
+      },
+       {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"ThatsTV2.uk",
+         "provider_id":"1311",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-TV-2.png",
+         "name":"That's TV 2"
+      },
+      {
+         "src":"sky",
          "lang":"en",
          "xmltv_id":"Thats60s.uk",
-         "provider_id":"28032",
-         "region_id":"64361",
-         "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/thats-60s-uk.png",
+         "provider_id":"1134",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-60s.png",
          "name":"That's 60s"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Thats80s.uk",
+         "provider_id":"1305",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-80s.png",
+         "name":"That's 80s"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
+         "xmltv_id":"Thats90s.uk",
+         "provider_id":"1222",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-90s.png",
+         "name":"That's 90s"
       },
       {
          "src":"freeview",
