@@ -422,6 +422,14 @@
       {
          "src":"sky",
          "lang":"en",
+         "xmltv_id":"CourtTV.uk",
+         "provider_id":"1207",
+         "icon_url":"https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Court-TV.png",
+         "name":"Court TV"
+      },
+      {
+         "src":"sky",
+         "lang":"en",
          "xmltv_id":"CraftExtra.uk",
          "provider_id":"3357",
          "icon_url":"https://i.imgur.com/9nTFPK3.png",
@@ -889,7 +897,7 @@
          "lang":"en",
          "xmltv_id":"ITVBePlus1.uk",
          "provider_id":"15864",
-         "region_id":"64350",
+         "region_id":"64361",
          "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-be-plus-uk.png",
          "name":"ITVBe+1"
       },
@@ -1199,10 +1207,11 @@
          "name":"S4C"
       },
       {
-         "src":"sky",
+         "src":"freeview",
          "lang":"en",
          "xmltv_id":"STV.uk",
-         "provider_id":"6325",
+         "provider_id":"8273",
+         "region_id": "64400",
          "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-uk.png",
          "name":"STV"
       },
@@ -1211,7 +1220,7 @@
          "lang":"en",
          "xmltv_id":"STVPlus1.uk",
          "provider_id":"8373",
-         "region_id":"64405",
+         "region_id":"64400",
          "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-plus-uk.png",
          "name":"STV+1"
       },
@@ -1377,10 +1386,11 @@
          "name":"True Crime Xtra"
       },
       {
-         "src":"sky",
+         "src":"freeview",
          "lang":"en",
          "xmltv_id":"UTV.uk",
-         "provider_id":"6230",
+         "provider_id":"8276",
+         "region_id":"64425",
          "icon_url":"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-tv-uk.png",
          "name":"UTV"
       },
