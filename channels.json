@@ -99,6 +99,14 @@
       "name": "Arirang World"
     },
     {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "AriseNews.uk",
+      "provider_id": "5040",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/.Light/Arise%20News.png",
+      "name": "Arise News"
+    },
+    {
       "src": "freeview",
       "lang": "en",
       "xmltv_id": "AsharqNews.uk",
@@ -358,22 +366,6 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "CNBCEurope.uk",
-      "provider_id": "1088",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CNBC.png",
-      "name": "CNBC UK"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "CNNInternational.uk",
-      "provider_id": "1019",
-      "icon_url": "https://i.imgur.com/05S3yYZ.png",
-      "name": "CNN International"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
       "xmltv_id": "Challenge.uk",
       "provider_id": "2202",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/challenge-uk.png",
@@ -414,10 +406,34 @@
     {
       "src": "sky",
       "lang": "en",
+      "xmltv_id": "Channels24.ng",
+      "provider_id": "5520",
+      "icon_url": "https://i.imgur.com/ww5zNmY.png",
+      "name": "Channels 24"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
       "xmltv_id": "ClublandTV.uk",
       "provider_id": "4505",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/clubland-uk.png",
       "name": "Clubland TV"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "CNBCEurope.uk",
+      "provider_id": "1088",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CNBC.png",
+      "name": "CNBC UK"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "CNNInternational.uk",
+      "provider_id": "1019",
+      "icon_url": "https://i.imgur.com/05S3yYZ.png",
+      "name": "CNN International"
     },
     {
       "src": "sky",
@@ -446,22 +462,6 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "DMAXUK.uk",
-      "provider_id": "3618",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png",
-      "name": "DMAX"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "DMAXUKPlus1.uk",
-      "provider_id": "1865",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-plus-uk.png",
-      "name": "DMAX+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
       "xmltv_id": "Dave.uk",
       "provider_id": "2306",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-uk.png",
@@ -474,6 +474,22 @@
       "provider_id": "2320",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-ja-vu-uk.png",
       "name": "Dave ja vu"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "DMAXUK.uk",
+      "provider_id": "3618",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png",
+      "name": "DMAX"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "DMAXUKPlus1.uk",
+      "provider_id": "1865",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-plus-uk.png",
+      "name": "DMAX+1"
     },
     {
       "src": "sky",
@@ -529,7 +545,7 @@
       "xmltv_id": "EuronewsEnglish.fr",
       "provider_id": "4604",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Euronews.png",
-      "name": "EuroNews English"
+      "name": "Euronews"
     },
     {
       "src": "sky",
@@ -576,7 +592,7 @@
       "lang": "en",
       "xmltv_id": "France24English.fr",
       "provider_id": "1121",
-      "icon_url": "https://i.imgur.com/CMgoCrh.png",
+      "icon_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",
       "name": "France 24 English"
     },
     {
@@ -1016,10 +1032,10 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "NHKWorldJapan.jp",
-      "provider_id": "3147",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",
-      "name": "NHK World HD"
+      "xmltv_id": "NDTV24x7.in",
+      "provider_id": "1821",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/.Light/NDTV%2024x7.png",
+      "name": "	NDTV 24x7"
     },
     {
       "src": "freeview",
@@ -1029,6 +1045,14 @@
       "region_id": "64361",
       "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png",
       "name": "Newsmax"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "NHKWorldJapan.jp",
+      "provider_id": "3147",
+      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",
+      "name": "NHK World HD"
     },
     {
       "src": "sky",
@@ -1210,7 +1234,7 @@
       "src": "sky",
       "lang": "en",
       "xmltv_id": "Really.uk",
-      "provider_id": "2324",
+      "provider_id": "2325",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-uk.png",
       "name": "Really"
     },
@@ -1221,6 +1245,30 @@
       "provider_id": "5701",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png",
       "name": "S4C"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "SkyMix.uk",
+      "provider_id": "1831",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Mix.png",
+      "name": "Sky Mix"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "SkyNews.uk",
+      "provider_id": "1404",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png",
+      "name": "Sky News"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "SportyStuffTV.uk",
+      "provider_id": "1223",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/SportyStuff-TV.png",
+      "name": "SportyStuff"
     },
     {
       "src": "freesat",
@@ -1243,38 +1291,6 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "SkyMix.uk",
-      "provider_id": "1831",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Mix.png",
-      "name": "Sky Mix"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "SkyNews.uk",
-      "provider_id": "1404",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png",
-      "name": "Sky News"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TBNUK.uk",
-      "provider_id": "3109",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tbn-uk.png",
-      "name": "TBN UK"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TJC.uk",
-      "provider_id": "1033",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tjc-the-jewellery-channel-uk.png",
-      "name": "TJC"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
       "xmltv_id": "TalkTV.uk",
       "provider_id": "1078",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talk-tv-uk.png",
@@ -1287,6 +1303,14 @@
       "provider_id": "5252",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talking-pictures-tv-uk.png",
       "name": "Talking Pictures TV"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "TBNUK.uk",
+      "provider_id": "3109",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tbn-uk.png",
+      "name": "TBN UK"
     },
     {
       "src": "sky",
@@ -1355,6 +1379,14 @@
     {
       "src": "sky",
       "lang": "en",
+      "xmltv_id": "TJC.uk",
+      "provider_id": "1033",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tjc-the-jewellery-channel-uk.png",
+      "name": "TJC"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
       "xmltv_id": "TogetherTV.uk",
       "provider_id": "1872",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/together-tv-uk.png",
@@ -1367,6 +1399,14 @@
       "provider_id": "1226",
       "icon_url": "https://i.imgur.com/8KQirah.png",
       "name": "Travelxp"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "TRTWorld.tr",
+      "provider_id": "5237",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-world-tr.png",
+      "name": "TRT World"
     },
     {
       "src": "sky",
@@ -1393,6 +1433,14 @@
       "name": "True Crime Xtra"
     },
     {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "TVCNews.ng",
+      "provider_id": "5882",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TVC-News.png",
+      "name": "TVC News"
+    },
+    {
       "src": "freesat",
       "lang": "en",
       "xmltv_id": "UTV.uk",
@@ -1410,6 +1458,14 @@
       "name": "W"
     },
     {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "WPlus1.uk",
+      "provider_id": "2616",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/w-network-plus-uk.png",
+      "name": "W+1"
+    },
+    {
       "src": "freeview",
       "lang": "en",
       "xmltv_id": "WION.in",
@@ -1417,14 +1473,6 @@
       "region_id": "64361",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/wion-in.png",
       "name": "WION"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "WPlus1.uk",
-      "provider_id": "2616",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/w-network-plus-uk.png",
-      "name": "W+1"
     },
     {
       "src": "sky",
