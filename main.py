@@ -199,7 +199,6 @@ for channel in channels_data:
 
                 # Freeview API returns basic info with EPG API call
                 for listing in item.get('events'):
-
                     ch_name = channel.get('xmltv_id')
                     title = listing.get("main_title")
                     desc = listing.get("secondary_title") if "secondary_title" in listing else \
@@ -250,6 +249,60 @@ for channel in channels_data:
                         "icon":        icon,
                         "channel":     ch_name
                     })
+
+    if channel.get('src') == "freesat":
+        s = requests.Session()
+        headers = {
+            'authority':                 'www.freesat.co.uk',
+            'accept':                    'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+            'accept-language':           'en-GB,en-US;q=0.9,en;q=0.8',
+            'cache-control':             'no-cache',
+            # 'cookie': '__stripe_mid=3f47bcf1-2e61-4df4-86c5-6ac905b45ad3c82844',
+            'pragma':                    'no-cache',
+            'sec-ch-ua':                 '"Not_A Brand";v="8", "Chromium";v="120", "Opera GX";v="106"',
+            'sec-ch-ua-mobile':          '?0',
+            'sec-ch-ua-platform':        '"Windows"',
+            'sec-fetch-dest':            'document',
+            'sec-fetch-mode':            'navigate',
+            'sec-fetch-site':            'none',
+            'sec-fetch-user':            '?1',
+            'upgrade-insecure-requests': '1',
+            'user-agent':                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0',
+        }
+        channel_id = channel.get('provider_id')
+        postcode = channel.get('postcode')
+        res = s.post("https://www.freesat.co.uk/tv-guide/api/region", headers=headers, data=f"{postcode}")
+        channel_info_url = f"https://www.freesat.co.uk/tv-guide/api?post_code={postcode.replace(' ', '%')}"
+        channel_info = requests.get(channel_info_url, headers=headers).json()
+        # ch_match = list(filter(lambda ch: ch['channelid'] == channel.get('provider_id'), channel_info))[0].get('channelid')
+
+        param = {"channel": [channel_id]}
+        epg_data = []
+
+        for i in range(0, 3):
+            epg_data.extend(
+                requests.get(f'https://www.freesat.co.uk/tv-guide/api/{i}', params=param, headers=headers).json()[
+                    0].get('event'))
+
+        if len(epg_data) < 1:
+            raise Exception("No programmes found")
+
+        for item in epg_data:
+            ch_name = channel.get('xmltv_id')
+            title = item.get("name")
+            desc = item.get("description") if item.get("description") is not None else None
+            start = item.get('startTime')
+            end = (start + item.get('duration'))
+            image_url = f"https://fdp-sv15-image-v1-0.gcprod1.freetime-platform.net/270x180-0{item.get('image')}" if item.get("image") is not None else None
+
+            programme_data.append({
+                "title":       title,
+                "description": desc,
+                "start":       start,
+                "stop":        end,
+                "icon":        image_url,
+                "channel":     ch_name
+            })
 
 channel_xml = build_xmltv(channels_data, programme_data)
 

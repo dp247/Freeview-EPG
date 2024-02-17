@@ -1223,11 +1223,11 @@
       "name": "S4C"
     },
     {
-      "src": "freeview",
+      "src": "freesat",
       "lang": "en",
       "xmltv_id": "STV.uk",
-      "provider_id": "8273",
-      "region_id": "64400",
+      "provider_id": "20009",
+      "postcode": "G4 0QZ",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-uk.png",
       "name": "STV"
     },
@@ -1393,11 +1393,11 @@
       "name": "True Crime Xtra"
     },
     {
-      "src": "freeview",
+      "src": "freesat",
       "lang": "en",
       "xmltv_id": "UTV.uk",
-      "provider_id": "8276",
-      "region_id": "64425",
+      "provider_id": "1040",
+      "postcode": "BT1 5GS",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-tv-uk.png",
       "name": "UTV"
     },
