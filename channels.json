@@ -1249,6 +1249,14 @@
     {
       "src": "sky",
       "lang": "en",
+      "xmltv_id": "SkyArts.uk",
+      "provider_id": "1752",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Arts.png",
+      "name": "Sky Arts"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
       "xmltv_id": "SkyMix.uk",
       "provider_id": "1831",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Mix.png",
