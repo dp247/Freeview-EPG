@@ -118,6 +118,14 @@
     {
       "src": "sky",
       "lang": "en",
+      "xmltv_id": "AyozatTV.uk",
+      "provider_id": "3206",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/.Light/Ayozat%20TV.png",
+      "name": "Ayozat TV"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
       "xmltv_id": "BBCAlba.uk",
       "provider_id": "3021",
       "icon_url": "https://i.imgur.com/36KDxLg.png",
@@ -614,14 +622,6 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "GreatMovies.uk",
-      "provider_id": "3709",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-hz-uk.png",
-      "name": "GREAT! Movies"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
       "xmltv_id": "GreatMoviesAction.uk",
       "provider_id": "3708",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-hz-uk.png",
@@ -638,6 +638,14 @@
     {
       "src": "sky",
       "lang": "en",
+      "xmltv_id": "GreatMovies.uk",
+      "provider_id": "3709",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-hz-uk.png",
+      "name": "GREAT! movies"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
       "xmltv_id": "GreatMoviesPlus1.uk",
       "provider_id": "3771",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-plus-hz-uk.png",
@@ -646,26 +654,50 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "GreatMoviesRomance.uk",
+      "xmltv_id": "GreatReal.uk",
+      "provider_id": "1234",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-real-hz-uk.png",
+      "name": "GREAT! real"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "GreatRealPlus1.uk",
+      "provider_id": "1288",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-real-plus-hz-uk.png",
+      "name": "GREAT! real+1"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "GreatRomance.uk",
       "provider_id": "3643",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-hz-uk.png",
-      "name": "GREAT! Romance"
+      "name": "GREAT! romance"
     },
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "GreatTV.uk",
+      "xmltv_id": "GreatRomancePlus1.uk",
+      "provider_id": "3751",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-plus-hz-uk.png",
+      "name": "GREAT! romance+1"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "TV.uk",
       "provider_id": "4266",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-hz-uk.png",
-      "name": "GREAT! tv"
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/-tv-hz-uk.png",
+      "name": "! tv"
     },
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "GreatTVPlus1.uk",
+      "xmltv_id": "TVPlus1.uk",
       "provider_id": "5338",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-plus-hz-uk.png",
-      "name": "GREAT! tv+1"
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/-tv-plus-hz-uk.png",
+      "name": "! tv+1"
     },
     {
       "src": "sky",
@@ -955,7 +987,7 @@
       "xmltv_id": "KissTVUK.uk",
       "provider_id": "1858",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/kiss-tv-uk.png",
-      "name": "Kiss TV"
+      "name": "Kiss"
     },
     {
       "src": "sky",
@@ -1164,7 +1196,7 @@
       "xmltv_id": "QuestRedUKPlus1.uk",
       "provider_id": "4547",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-red-plus-hz-uk.png",
-      "name": "Quest Red UK+1"
+      "name": "Quest Red+1"
     },
     {
       "src": "sky",
@@ -1366,23 +1398,7 @@
       "xmltv_id": "TheBoxUK.uk",
       "provider_id": "1802",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/the-box-uk.png",
-      "name": "The Box UK"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TinyPop.uk",
-      "provider_id": "3780",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tiny-pop-uk.png",
-      "name": "Tiny Pop"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TinyPopPlus1.uk",
-      "provider_id": "4261",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tiny-pop-plus-uk.png",
-      "name": "Tiny Pop+1"
+      "name": "The Box"
     },
     {
       "src": "sky",
@@ -1809,11 +1825,11 @@
     {
       "src": "freeview",
       "lang": "en",
-      "xmltv_id": "GreatestHitsRadio.uk",
+      "xmltv_id": "estHitsRadio.uk",
       "provider_id": "26240",
       "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Greatest-Hits-Radio.png",
-      "name": "Greatest Hits Radio"
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/est-Hits-Radio.png",
+      "name": "est Hits Radio"
     },
     {
       "src": "sky",
