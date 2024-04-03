@@ -688,16 +688,16 @@
       "lang": "en",
       "xmltv_id": "TV.uk",
       "provider_id": "4266",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/-tv-hz-uk.png",
-      "name": "! tv"
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-hz-uk.png",
+      "name": "GREAT! tv"
     },
     {
       "src": "sky",
       "lang": "en",
       "xmltv_id": "TVPlus1.uk",
       "provider_id": "5338",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/-tv-plus-hz-uk.png",
-      "name": "! tv+1"
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-plus-hz-uk.png",
+      "name": "GREAT! tv+1"
     },
     {
       "src": "sky",
