@@ -40,6 +40,7 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 - This project was heavily influenced by iptv-org's [EPG](https://github.com/iptv-org/epg) project
 - [ExperiencersInternational](https://github.com/ExperiencersInternational) for all the testing and contributions
 - The [tv-logos](https://github.com/tv-logo/tv-logos) and [mediaportal-uk-logos](https://github.com/Jasmeet181/mediaportal-uk-logos) projects, for making channel icon finding so simple
+- This project would not be possible without the support of [Jetbrains' OSS licenses](https://www.jetbrains.com/community/opensource/)
 
 
 ## License
