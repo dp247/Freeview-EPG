@@ -1,16 +1,33 @@
-import math
-
-from lxml import etree
-from datetime import datetime, timedelta, time, timezone
 import json
-import requests
-import pytz
+import math
 import re
+from datetime import datetime, timedelta, time, timezone
+
+import pandas as pd
+import pytz
+import requests
 import unicodedata
+from lxml import etree
 
 bt_dt_format = '%Y-%m-%dT%H:%M:%SZ'
 tz = pytz.timezone('Europe/London')
 
+def clean_text(text: str) -> str:
+    """
+Removes control characters, feature tags and empty characters from text
+    :param text: The text to clean
+    :return: Cleaned text
+    """
+    # Removes control characters
+    text = remove_control_characters(text)
+
+    # Removes feature tags such as [S], [S,SL], [AD] and [HD]
+    text = re.sub(r'\[[A-Z,]+\]', '', text)
+
+    # Removes season/episode information
+    text = re.sub(r'\(?[SE]?\d+\s?Ep\s?\d+[\d/]*\)?', '', text)
+
+    return text.strip()
 
 # From https://stackoverflow.com/questions/4324790/removing-control-characters-from-a-string-in-python
 def remove_control_characters(s):
@@ -54,12 +71,12 @@ def parse_duration(iso_duration):
 def get_days(src: str) -> list:
     """
 Generate epoch times for now, midnight tomorrow, and midnight the next day
-    :return: List of times, either in epoch (for Sky) or str (for BT)
+    :return: Times, in a list, as required by the source
     """
     if src == "sky":
-        now = int(datetime.timestamp(datetime.now() - timedelta(hours=1)))
-        day_1 = int(datetime.timestamp(datetime.combine(datetime.now(), time(0, 0)) + timedelta(1)))
-        day_2 = int(datetime.timestamp(datetime.combine(datetime.now(), time(0, 0)) + timedelta(2)))
+        now = str(datetime.strftime(datetime.now(), "%Y%m%d"))
+        day_1 = str(datetime.strftime(datetime.now() + timedelta(1), "%Y%m%d"))
+        day_2 = str(datetime.strftime(datetime.now() + timedelta(2), "%Y%m%d"))
         return [now, day_1, day_2]
 
     elif src == "bt":
@@ -92,6 +109,17 @@ Load XML file of channel information
         data = json.load(channel_file)['channels']
 
     return data
+
+def validate_programmes_list(programmes: list):
+    """
+Performs validation of and removes any duplicate programming data (e.g. if both days include a single show).
+    :param programmes: the list of programmes for the channel
+    """
+    df = pd.DataFrame(programmes)
+    df.drop_duplicates(subset=['start'], keep="last", inplace=True)
+    clean_data = df.to_dict("records")
+
+    programme_data.extend(clean_data)
 
 
 def build_xmltv(channels: list, programmes: list) -> bytes:
@@ -134,11 +162,26 @@ Make the channels and programmes into something readable by XMLTV
         if pr.get('description') is not None:
             description = etree.SubElement(programme, "desc")
             description.set('lang', 'en')
-            description.text = remove_control_characters(pr.get("description"))
+            description.text = clean_text(pr.get("description"))
 
         if pr.get('icon') is not None:
             icon = etree.SubElement(programme, "icon")
             icon.set('src', pr.get("icon"))
+
+        if "premiere" in pr and pr["premiere"]:
+            premiere = etree.SubElement(programme, "premiere")
+
+        if pr.get("season") is not None and pr.get("episode") is not None:
+            if not math.isnan(pr.get("season")) and not math.isnan(pr.get("episode")):
+                if pr.get("season") > 0.0 and pr.get("episode") > 0.0:
+                    ep_ns = etree.SubElement(programme, "episode-num")
+                    ep_ns.set('system', 'xmltv_ns')
+                    ep_ns.text = f"{int(pr['season']) - 1}.{int(pr['episode']) - 1}.0"
+
+                    ep_o = etree.SubElement(programme, "episode-num")
+                    ep_o.set('system', 'onscreen')
+                    ep_o.text = f"S{int(pr['season'])}E{int(pr['episode'])}"
+
 
     return etree.tostring(data, pretty_print=True, encoding='utf-8')
 
@@ -146,36 +189,48 @@ Make the channels and programmes into something readable by XMLTV
 # Load the channels data
 channels_data = get_channels_config()
 
+ch_programme_data = []
 programme_data = []
 freeview_cache = {}
 for channel in channels_data:
     print(channel.get('name'))
+    ch_programme_data.clear()
     # If EPG is to be sourced from Sky:
     if channel.get('src') == "sky":
         # Get some epoch times - right now, 12am tomorrow and 12am the day after tomorrow (so 48h)
-        epoch_times = get_days("sky")
-        for epoch in epoch_times:
-            url = f"https://epgservices.sky.com/5.2.2/api/2.0/channel/json/{channel.get('provider_id')}/{epoch}/86400/4"
+        dates = get_days("sky")
+        for date in dates:
+            url = f"https://awk.epgsky.com/hawk/linear/schedule/{date}/{channel.get('provider_id')}"
             req = requests.get(url)
             if req.status_code != 200:
                 continue
             result = json.loads(req.text)
-            epg_data = result['listings'][f"{channel.get('provider_id')}"]
+            epg_data = result["schedule"][0]["events"]
             for item in epg_data:
                 title = item['t']
-                desc = item['d'] if 'd' in item else None
-                start = int(item['s'])
-                end = int(item['s']) + int(item['m'][1])
-                icon = f"http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/{item['img']}" if 'img' in item else None
+                desc = item['sy'] if 'sy' in item else None
+                start = int(item['st'])
+                end = int(item['st']) + int(item['d'])
+                if item.get('programmeuuid') is not None:
+                    icon = f"https://images.metadata.sky.com/pd-image/{item['programmeuuid']}/cover"
+                elif item.get('seasonuuid') is not None:
+                    icon = f"https://images.metadata.sky.com/pd-image/{item['seasonuuid']}/cover"
+                elif item.get('seriesuuid') is not None:
+                    icon = f"https://images.metadata.sky.com/pd-image/{item['seriesuuid']}/cover"
+                else:
+                    icon = None
                 ch_name = channel.get('xmltv_id')
 
-                programme_data.append({
+                ch_programme_data.append({
                     "title": title,
                     "description": desc,
                     "start": start,
                     "stop": end,
                     "icon": icon,
-                    "channel": ch_name
+                    "channel": ch_name,
+                    "premiere": item['new'] or item['t'].startswith("New:"),
+                    "season": item['seasonnumber'] if 'seasonnumber' in item else None,
+                    "episode": item['episodenumber'] if 'episodenumber' in item else None
                 })
 
     if channel.get('src') == "freeview":
@@ -241,7 +296,7 @@ for channel in channels_data:
                         desc = ''
                         icon = None
 
-                    programme_data.append({
+                    ch_programme_data.append({
                         "title":       title,
                         "description": desc,
                         "start":       start,
@@ -274,7 +329,6 @@ for channel in channels_data:
         res = s.post("https://www.freesat.co.uk/tv-guide/api/region", headers=headers, data=f"{postcode}")
         channel_info_url = f"https://www.freesat.co.uk/tv-guide/api?post_code={postcode.replace(' ', '%')}"
         channel_info = requests.get(channel_info_url, headers=headers).json()
-        # ch_match = list(filter(lambda ch: ch['channelid'] == channel.get('provider_id'), channel_info))[0].get('channelid')
 
         param = {"channel": [channel_id]}
         epg_data = []
@@ -295,7 +349,7 @@ for channel in channels_data:
             end = (start + item.get('duration'))
             image_url = f"https://fdp-sv15-image-v1-0.gcprod1.freetime-platform.net/270x180-0{item.get('image')}" if item.get("image") is not None else None
 
-            programme_data.append({
+            ch_programme_data.append({
                 "title":       title,
                 "description": desc,
                 "start":       start,
@@ -303,6 +357,8 @@ for channel in channels_data:
                 "icon":        image_url,
                 "channel":     ch_name
             })
+
+    validate_programmes_list(ch_programme_data)
 
 channel_xml = build_xmltv(channels_data, programme_data)
 

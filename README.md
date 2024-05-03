@@ -12,10 +12,10 @@ Freeview-EPG is a project designed to provide XMLTV data for UK free-to-air TV c
 This project exists because of a gap in the market - up until recently, it was very hard to get hold of a free, reliably updated and region-supported XMLTV file. You could either get a TV tuner and grab the data, or pay for it from a service. I didn't like either of those options - looking at what's on TV should be easy and free, so now it is.
 ### Features
 - 48 hours of data, built every 8 hours. If your TV/IPTV client supports auto-refresh, this is very much a set-and-forget solution.
-- Supports regional channels, as well as just London-based ones.
+- Supports regional channels, not just London-based/national ones.
 - Includes data for both TV and radio stations.
 - Data is reliably sourced from UK TV providers, rather than third parties. 
-- Builds to an XMLTV file, complete with channel logos and programme images.
+- Builds to an XMLTV file, complete with channel logos, programme images and season/episode numbering (where supported).
 
 ## Usage
 Grab the XMLTV file from this link and paste it into your favorite IPTV client:
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 - Improve code, maybe through splitting files and OOP
 - Speed up EPG processing, probably using async code
 - Finish adding regional stations
-- Attempt to fix/find alternate EPG images
+- Implement a configuration file for easier forking (allow for more days, specify image type)
 
 ## Special thanks
 - This project was heavily influenced by iptv-org's [EPG](https://github.com/iptv-org/epg) project
@@ -57,9 +57,8 @@ You may copy, distribute and modify the software as long as you track changes/da
 - The software and data are provided as-is. While I intend for it to be as reliable as possible, certain aspects are out of my control.
 
 ## Related projects
-- [YouTube to M3U8](https://github.com/dp247/YouTubeToM3U8) - converts and maintains YouTube live streams in a single M3U8 playlist
+- [Streams to M3U8](https://github.com/dp247/YouTubeToM3U8) - converts and maintains YouTube live streams in a single M3U8 playlist
 - [iptv-cutter](https://github.com/dp247/iptv-cutter) - deduplicator and generator of M3Us for popular IPTV services
-- [Freeview M3U](https://github.com/ExperiencersInternational/tvsetup) - companion playlist for this project
 
 ## Legal
 - This project extracts publicly available data from public-facing websites without the use of private APIs. 
