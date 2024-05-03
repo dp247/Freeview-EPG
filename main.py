@@ -25,7 +25,7 @@ Removes control characters, feature tags and empty characters from text
     text = re.sub(r'\[[A-Z,]+\]', '', text)
 
     # Removes season/episode information
-    text = re.sub(r'\(?S\d+[,]?\s*Ep\d+\)?', '', text)
+    text = re.sub(r'\(?[SE]?\d+\s?Ep\s?\d+[\d/]*\)?', '', text)
 
     return text.strip()
 
