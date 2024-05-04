@@ -957,15 +957,6 @@
       "name": "ITVBe"
     },
     {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "ITVBePlus1.uk",
-      "provider_id": "15864",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-be-plus-uk.png",
-      "name": "ITVBe+1"
-    },
-    {
       "src": "sky",
       "lang": "en",
       "xmltv_id": "JewelleryMaker.uk",
@@ -1217,18 +1208,10 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "RTE2.ie",
-      "provider_id": "1252",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-uk.png",
-      "name": "RTÉ2"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "RTE2Plus1.ie",
-      "provider_id": "1158",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-plus-uk.png",
-      "name": "RTÉ2+1"
+      "xmltv_id": "RTEjr.ie",
+      "provider_id": "1256",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-jr-uk.png",
+      "name": "RTÉjr"
     },
     {
       "src": "sky",
@@ -1242,7 +1225,7 @@
       "src": "sky",
       "lang": "en",
       "xmltv_id": "RTEOne.ie",
-      "provider_id": "1251",
+      "provider_id": "2816",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-uk.png",
       "name": "RTÉ One"
     },
@@ -1257,10 +1240,18 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "RTEjr.ie",
-      "provider_id": "1256",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-jr-uk.png",
-      "name": "RTÉjr"
+      "xmltv_id": "RTE2.ie",
+      "provider_id": "1270",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-uk.png",
+      "name": "RTÉ2"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "RTE2Plus1.ie",
+      "provider_id": "1158",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-plus-uk.png",
+      "name": "RTÉ2+1"
     },
     {
       "src": "sky",
@@ -1305,17 +1296,8 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "SportyStuffTV.uk",
-      "provider_id": "1223",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/SportyStuff-TV.png",
-      "name": "SportyStuff"
-    },
-    {
-      "src": "freesat",
-      "lang": "en",
       "xmltv_id": "STV.uk",
-      "provider_id": "20009",
-      "postcode": "G4 0QZ",
+      "provider_id": "4055",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-uk.png",
       "name": "STV"
     },
@@ -1324,7 +1306,7 @@
       "lang": "en",
       "xmltv_id": "STVPlus1.uk",
       "provider_id": "8373",
-      "region_id": "64400",
+      "region_id": "64401",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-plus-uk.png",
       "name": "STV+1"
     },
@@ -1351,6 +1333,14 @@
       "provider_id": "3109",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tbn-uk.png",
       "name": "TBN UK"
+    },
+    {
+      "src": "sky",
+      "lang": "ga",
+      "xmltv_id": "TG4.ie",
+      "provider_id": "4034",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tg-4-uk.png",
+      "name": "TG4"
     },
     {
       "src": "sky",
@@ -1476,6 +1466,46 @@
     {
       "src": "sky",
       "lang": "en",
+      "xmltv_id": "VirginMediaOne.ie",
+      "provider_id": "3881",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-one-uk.png",
+      "name": "Virgin Media One"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "VirginMediaOnePlus1.ie",
+      "provider_id": "1025",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-one-plus-uk.png",
+      "name": "Virgin Media One +1"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "VirginMediaTwo.ie",
+      "provider_id": "1046",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-two-uk.png",
+      "name": "Virgin Media Two"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "VirginMediaThree.ie",
+      "provider_id": "2817",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-three-uk.png",
+      "name": "Virgin Media Three"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "VirginMediaFour.ie",
+      "provider_id": "1316",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-four-uk.png",
+      "name": "Virgin Media Four"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
       "xmltv_id": "W.uk",
       "provider_id": "2617",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/w-network-uk.png",
@@ -1490,11 +1520,10 @@
       "name": "W+1"
     },
     {
-      "src": "freeview",
+      "src": "sky",
       "lang": "en",
       "xmltv_id": "WION.in",
-      "provider_id": "16290",
-      "region_id": "64361",
+      "provider_id": "1084",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/wion-in.png",
       "name": "WION"
     },
@@ -1575,7 +1604,7 @@
       "src": "sky",
       "lang": "en",
       "xmltv_id": "BBCR4LW.uk",
-      "provider_id": "2115",
+      "provider_id": "2114",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-4-LW.png",
       "name": "BBC Radio 4 LW"
     },
@@ -1823,15 +1852,6 @@
       "name": "Gold"
     },
     {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "GreatestHitsRadio.uk",
-      "provider_id": "26240",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Greatest-Hits-Radio.png",
-      "name": "Greatest Hits Radio"
-    },
-    {
       "src": "sky",
       "lang": "en",
       "xmltv_id": "Heart80s.uk",
@@ -1864,51 +1884,6 @@
       "name": "Heart Radio"
     },
     {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "HitsRadio.uk",
-      "provider_id": "26560",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Hits-Radio.png",
-      "name": "Hits Radio"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "KerrangRadio.uk",
-      "provider_id": "26304",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kerrang-Radio.png",
-      "name": "Kerrang! Radio"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "KissFreshRadio.uk",
-      "provider_id": "27040",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kiss-Fresh.png",
-      "name": "Kiss Fresh"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "KissRadio.uk",
-      "provider_id": "26176",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kiss.png",
-      "name": "Kiss Radio"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "KisstoryRadio.uk",
-      "provider_id": "26752",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kisstory.png",
-      "name": "Kisstory"
-    },
-    {
       "src": "sky",
       "lang": "en",
       "xmltv_id": "LBCNews.uk",
@@ -1923,15 +1898,6 @@
       "provider_id": "2926",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/LBC.png",
       "name": "LBC"
-    },
-    {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "MagicRadio.uk",
-      "provider_id": "26624",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Magic-Radio.png",
-      "name": "Magic Radio"
     },
     {
       "src": "sky",
