@@ -1313,14 +1313,6 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "TalkTV.uk",
-      "provider_id": "1078",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talk-tv-uk.png",
-      "name": "TalkTV"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
       "xmltv_id": "TalkingPicturesTV.uk",
       "provider_id": "5252",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talking-pictures-tv-uk.png",
