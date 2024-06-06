@@ -121,7 +121,7 @@ Performs validation of and removes any duplicate programming data (e.g. if both 
     :param programmes: the list of programmes for the channel
     """
     df = pd.DataFrame(programmes)
-    df.drop_duplicates(subset=['title', 'start'], keep="first", inplace=True)
+    df.drop_duplicates(subset=['title', 'start'], keep="last", inplace=True)
     clean_data = df.to_dict("records")
 
     programme_data.extend(clean_data)
