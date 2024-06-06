@@ -1294,21 +1294,36 @@
       "name": "Sky News"
     },
     {
-      "src": "sky",
+      "src": "rt",
       "lang": "en",
-      "xmltv_id": "STV.uk",
-      "provider_id": "4055",
+      "xmltv_id": "STVCentral.uk",
+      "provider_id": "htrd",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-uk.png",
-      "name": "STV"
+      "name": "STV Central"
     },
     {
-      "src": "freeview",
+      "src": "rt",
       "lang": "en",
-      "xmltv_id": "STVPlus1.uk",
-      "provider_id": "8373",
-      "region_id": "64401",
+      "xmltv_id": "STVCentralPlus1.uk",
+      "provider_id": "htrc",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-plus-uk.png",
-      "name": "STV+1"
+      "name": "STV Central +1"
+    },
+    {
+      "src": "rt",
+      "lang": "en",
+      "xmltv_id": "STVNorth.uk",
+      "provider_id": "htrf",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-uk.png",
+      "name": "STV North"
+    },
+    {
+      "src": "rt",
+      "lang": "en",
+      "xmltv_id": "STVNorthPlus1.uk",
+      "provider_id": "htrg",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-plus-uk.png",
+      "name": "STV North +1"
     },
     {
       "src": "sky",
@@ -1480,10 +1495,10 @@
       "name": "Virgin Media Two"
     },
     {
-      "src": "sky",
+      "src": "rt",
       "lang": "en",
       "xmltv_id": "VirginMediaThree.ie",
-      "provider_id": "2817",
+      "provider_id": "ht5f",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-three-uk.png",
       "name": "Virgin Media Three"
     },
