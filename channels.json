@@ -1551,15 +1551,6 @@
       "name": "Yesterday+1"
     },
     {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "AbsoluteRadio.uk",
-      "provider_id": "14688",
-      "region_id": "64361",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Absolute-Radio.png",
-      "name": "Absolute Radio"
-    },
-    {
       "src": "sky",
       "lang": "en",
       "xmltv_id": "BBCR1.uk",
