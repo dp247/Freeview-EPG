@@ -93,10 +93,15 @@ Generate epoch times for now, midnight tomorrow, and midnight the next day
         day_2 = math.trunc((datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(2)).timestamp())
         return [now, day_1, day_2]
 
+    # elif src == "rt":
+    #     now = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0).strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    #     day_1 = (datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(1)).strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    #     day_2 = (datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(2)).strftime("%Y-%m-%dT%H:%M:%S.000Z")
+
     else:
-        now = (datetime.combine(datetime.now(), time(0, 0)))
-        day_1 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(1))
-        day_2 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(2))
+        now = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
+        day_1 = (datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(1))
+        day_2 = (datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(2))
         return [now, day_1, day_2]
 
 
@@ -116,7 +121,7 @@ Performs validation of and removes any duplicate programming data (e.g. if both 
     :param programmes: the list of programmes for the channel
     """
     df = pd.DataFrame(programmes)
-    df.drop_duplicates(subset=['start'], keep="last", inplace=True)
+    df.drop_duplicates(subset=['title', 'start'], keep="first", inplace=True)
     clean_data = df.to_dict("records")
 
     programme_data.extend(clean_data)
@@ -357,6 +362,48 @@ for channel in channels_data:
                 "icon":        image_url,
                 "channel":     ch_name
             })
+
+    if channel.get('src') == "rt":
+        # Get some epoch times - right now, 12am tomorrow and 12am the day after tomorrow (so 48h)
+        dates = get_days("rt")
+        prev_name = ''
+        prev_start = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+
+        for date in dates:
+            url = f"https://www.radiotimes.com/api/broadcast/broadcast/channels/{channel.get('provider_id')}/schedule?from={date.strftime('%Y-%m-%dT%H:%M:%S.000Z')}&to={(date + timedelta(1)).strftime('%Y-%m-%dT%H:%M:%S.000Z')}"
+            req = requests.get(url)
+            if req.status_code != 200:
+                continue
+            epg_data = json.loads(req.text)
+            for item in epg_data:
+                programme_id = item['id']
+                details_request = requests.get(f"https://www.radiotimes.com/api/broadcast/broadcast/details/{programme_id}")
+                if details_request.status_code != 200:
+                    break
+                details_json = json.loads(details_request.text)
+                title = item['title']
+                desc = details_json['description'] if 'description' in details_json else None
+                start = datetime.strptime(item['start'], '%Y-%m-%dT%H:%M:%SZ')
+                end = datetime.strptime(item['end'], '%Y-%m-%dT%H:%M:%SZ')
+                if details_json.get('image').get('url') is not None:
+                    icon = details_json.get('image').get('url')
+                else:
+                    icon = None
+                ch_name = channel.get('xmltv_id')
+
+                # if end < (start.replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(1)):
+                if prev_start == start:
+                    continue
+                ch_programme_data.append({
+                    "title": title,
+                    "description": desc,
+                    "start": start.timestamp(),
+                    "stop": end.timestamp(),
+                    "icon": icon,
+                    "channel": ch_name,
+                })
+                prev_name = title
+                prev_start = start
 
     validate_programmes_list(ch_programme_data)
 
