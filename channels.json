@@ -1663,13 +1663,28 @@
       "name": "BBC Radio Wales"
     },
     {
-      "src": "freeview",
+      "src": "rt",
       "lang": "en",
       "xmltv_id": "BBCRadioBerkshire.uk",
-      "provider_id": "6275",
-      "region_id": "64257",
+      "provider_id": "hvhd",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Berkshire.png",
       "name": "BBC Radio Berkshire"
+    },
+    {
+      "src": "rt",
+      "lang": "en",
+      "xmltv_id": "BBCRadioCornwall.uk",
+      "provider_id": "hvjs",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cornwall.png",
+      "name": "BBC Radio Cornwall"
+    },
+    {
+      "src": "rt",
+      "lang": "en",
+      "xmltv_id": "BBCRadioCumbria.uk",
+      "provider_id": "hvhn",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cumbria.png",
+      "name": "BBC Radio Cumbria"
     },
     {
       "src": "sky",
@@ -1704,13 +1719,28 @@
       "name": "BBC Radio nan Gaidhael"
     },
     {
-      "src": "freeview",
+      "src": "rt",
       "lang": "en",
       "xmltv_id": "BBCRadioHumberside.uk",
-      "provider_id": "6223",
-      "region_id": "64361",
+      "provider_id": "hvf7",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Humberside.png",
       "name": "BBC Radio Humberside"
+    },
+    {
+      "src": "rt",
+      "lang": "en",
+      "xmltv_id": "BBCRadioKent.uk",
+      "provider_id": "hvhc",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Kent.png",
+      "name": "BBC Radio Kent"
+    },
+    {
+      "src": "rt",
+      "lang": "en",
+      "xmltv_id": "BBCRadioLancashire.uk",
+      "provider_id": "hvhg",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Lancashire.png",
+      "name": "BBC Radio Lancashire"
     },
     {
       "src": "freeview",
@@ -1739,65 +1769,50 @@
       "name": "BBC Radio London"
     },
     {
-      "src": "freeview",
+      "src": "rt",
       "lang": "en",
       "xmltv_id": "BBCRadioManchester.uk",
-      "provider_id": "6152",
-      "region_id": "64377",
+      "provider_id": "hvfs",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Manchester.png",
       "name": "BBC Radio Manchester"
     },
     {
-      "src": "freeview",
+      "src": "rt",
       "lang": "en",
       "xmltv_id": "BBCRadioNewcastle.uk",
-      "provider_id": "6153",
-      "region_id": "64369",
+      "provider_id": "hvhw",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Newcastle.png",
       "name": "BBC Radio Newcastle"
     },
     {
-      "src": "freeview",
+      "src": "rt",
       "lang": "en",
       "xmltv_id": "BBCRadioSheffield.uk",
-      "provider_id": "6218",
-      "region_id": "64361",
+      "provider_id": "hvct",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Sheffield.png",
       "name": "BBC Radio Sheffield"
     },
     {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "BBCRadioSomerset.uk",
-      "provider_id": "6337",
-      "region_id": "64320",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Somerset.png",
-      "name": "BBC Radio Somerset"
-    },
-    {
-      "src": "freeview",
+      "src": "rt",
       "lang": "en",
       "xmltv_id": "BBCRadioSurrey.uk",
-      "provider_id": "6284",
-      "region_id": "64257",
+      "provider_id": "hvfn",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Surrey.png",
       "name": "BBC Radio Surrey"
     },
     {
-      "src": "freeview",
+      "src": "rt",
       "lang": "en",
       "xmltv_id": "BBCRadioThreeCounties.uk",
-      "provider_id": "6157",
-      "region_id": "64257",
+      "provider_id": "hvhs",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Three-Counties-Radio.png",
       "name": "BBC Radio Three Counties"
     },
     {
-      "src": "freeview",
+      "src": "rt",
       "lang": "en",
       "xmltv_id": "BBCRadioYork.uk",
-      "provider_id": "6282",
-      "region_id": "64361",
+      "provider_id": "hvgd",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-York.png",
       "name": "BBC Radio York"
     },
