@@ -1,5 +1,6 @@
 requests~=2.31.0
-numpy==1.21.0
+numpy==1.26.4
 pytz~=2023.3
 lxml~=4.9.2
 pandas==1.4.4
+python-dateutil==2.9.0
