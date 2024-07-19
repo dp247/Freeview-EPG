@@ -470,18 +470,18 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "Dave.uk",
+      "xmltv_id": "UAndDave.uk",
       "provider_id": "2306",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-uk.png",
-      "name": "Dave UK"
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26Dave.png",
+      "name": "U&Dave"
     },
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "Davejavu.uk",
+      "xmltv_id": "UAndDavejavu.uk",
       "provider_id": "2320",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-ja-vu-uk.png",
-      "name": "Dave ja vu"
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26DaveJaVu.png",
+      "name": "U&Dave ja vu"
     },
     {
       "src": "sky",
@@ -502,18 +502,18 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "Drama.uk",
+      "xmltv_id": "UAndDrama.uk",
       "provider_id": "2612",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/drama-uk.png",
-      "name": "Drama"
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26DRAMA.png",
+      "name": "U&Drama"
     },
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "DramaPlus1.uk",
+      "xmltv_id": "UAndDramaPlus1.uk",
       "provider_id": "1081",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/drama-plus-uk.png",
-      "name": "Drama+1"
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26DRAMAPlus1.png",
+      "name": "U&Drama+1"
     },
     {
       "src": "sky",
@@ -538,14 +538,6 @@
       "provider_id": "3300",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-plus-uk.png",
       "name": "E4 UK+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "EarthxTV.us",
-      "provider_id": "1086",
-      "icon_url": "https://i.imgur.com/ZWWqiCb.png",
-      "name": "EarthxTV HD"
     },
     {
       "src": "sky",
@@ -618,6 +610,15 @@
       "provider_id": "3010",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gemporia-uk.png",
       "name": "Gemporia TV"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "GinxESports.uk",
+      "provider_id": "16182",
+      "region_id": "64257",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Ginx-eSports-TV.png",
+      "name": "GINX TV"
     },
     {
       "src": "sky",
@@ -1368,10 +1369,18 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "Thats60s.uk",
+      "xmltv_id": "ThatsDance.uk",
+      "provider_id": "1224",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_Dance.png",
+      "name": "That's Dance"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "ThatsMemories.uk",
       "provider_id": "1134",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-60s.png",
-      "name": "That's 60s"
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_Memories.png",
+      "name": "That's Memories"
     },
     {
       "src": "sky",
@@ -1513,18 +1522,18 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "W.uk",
+      "xmltv_id": "UAndW.uk",
       "provider_id": "2617",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/w-network-uk.png",
-      "name": "W"
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26W.png",
+      "name": "U&W"
     },
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "WPlus1.uk",
+      "xmltv_id": "UAndWPlus1.uk",
       "provider_id": "2616",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/w-network-plus-uk.png",
-      "name": "W+1"
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26WPlus1.png",
+      "name": "U&W+1"
     },
     {
       "src": "sky",
@@ -1537,18 +1546,18 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "Yesterday.uk",
+      "xmltv_id": "UAndYesterday.uk",
       "provider_id": "2305",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/yesterday-uk.png",
-      "name": "Yesterday"
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26YESTERDAY.png",
+      "name": "U&Yesterday"
     },
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "YesterdayPlus1.uk",
+      "xmltv_id": "UAndYesterdayPlus1.uk",
       "provider_id": "2615",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/yesterday-plus-uk.png",
-      "name": "Yesterday+1"
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26YESTERDAYPlus1.png",
+      "name": "U&Yesterday+1"
     },
     {
       "src": "sky",
