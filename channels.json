@@ -750,6 +750,14 @@
       "name": "ITV1 Central (West)"
     },
     {
+      "src": "rt",
+      "lang": "en",
+      "xmltv_id": "ITV1Granada.uk",
+      "provider_id": "htqn",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+      "name": "ITV1 Granada"
+    },
+    {
       "src": "sky",
       "lang": "en",
       "xmltv_id": "ITV1London.uk",
