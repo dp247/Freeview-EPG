@@ -3,14 +3,6 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "4Music.uk",
-      "provider_id": "1350",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-music-uk.png",
-      "name": "4Music"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
       "xmltv_id": "4seven.uk",
       "provider_id": "3150",
       "icon_url": "https://i.imgur.com/Fpaxyop.png",
@@ -114,14 +106,6 @@
       "region_id": "64361",
       "icon_url": "https://i.imgur.com/bqRC3sl.png",
       "name": "Asharq News"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "AyozatTV.uk",
-      "provider_id": "3206",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/.Light/Ayozat%20TV.png",
-      "name": "Ayozat TV"
     },
     {
       "src": "sky",
@@ -383,7 +367,7 @@
       "src": "sky",
       "lang": "en",
       "xmltv_id": "Channel4.uk",
-      "provider_id": "1621",
+      "provider_id": "1249",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png",
       "name": "Channel 4"
     },
@@ -428,6 +412,15 @@
       "name": "Clubland TV"
     },
     {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "CNAInternational.sg",
+      "provider_id": "16164",
+      "region_id": "64257",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CNA.png",
+      "name": "CNA International"
+    },
+    {
       "src": "sky",
       "lang": "en",
       "xmltv_id": "CNBCEurope.uk",
@@ -450,22 +443,6 @@
       "provider_id": "1207",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Court-TV.png",
       "name": "Court TV"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "CraftExtra.uk",
-      "provider_id": "3357",
-      "icon_url": "https://i.imgur.com/9nTFPK3.png",
-      "name": "Craft Extra"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "CreateandCraft.uk",
-      "provider_id": "1245",
-      "icon_url": "https://i.imgur.com/n65sk4L.png",
-      "name": "Create and Craft"
     },
     {
       "src": "sky",
@@ -505,7 +482,7 @@
       "xmltv_id": "E4Plus1.uk",
       "provider_id": "3300",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-plus-uk.png",
-      "name": "E4 UK+1"
+      "name": "E4 +1"
     },
     {
       "src": "sky",
@@ -582,6 +559,15 @@
     {
       "src": "freeview",
       "lang": "en",
+      "xmltv_id": "GIGS.uk",
+      "provider_id": "16170",
+      "region_id": "64257",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/GIGS.png",
+      "name": "GIGS"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
       "xmltv_id": "GinxESports.uk",
       "provider_id": "16182",
       "region_id": "64257",
@@ -619,6 +605,15 @@
       "provider_id": "3771",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-plus-hz-uk.png",
       "name": "GREAT! movies+1"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "GreatMystery.uk",
+      "provider_id": "15584",
+      "region_id": "64257",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Great-Movies-Mystery-hz.png",
+      "name": "GREAT! mystery"
     },
     {
       "src": "sky",
@@ -753,7 +748,7 @@
       "src": "rt",
       "lang": "en",
       "xmltv_id": "ITV1Granada.uk",
-      "provider_id": "htqn",
+      "provider_id": "htpc",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
       "name": "ITV1 Granada"
     },
