@@ -3,8 +3,7 @@ on:
   schedule:
     - cron: '0 */8 * * *'
   push:
-    branches: "master"
-    paths: wiki/**
+    
 jobs:
   json-to-md:
     runs-on: ubuntu-latest
