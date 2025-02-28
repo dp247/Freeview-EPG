@@ -1,7 +1,5 @@
 name: deploy-wiki
 on:
-  schedule:
-    - cron: '0 */8 * * *'
   push:
     
 jobs:
@@ -33,7 +31,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "Updated channels.md on $RUN_DATE" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "Updated channels list on $RUN_DATE" --allow-empty)
   
       - name: push changes
         uses: ad-m/github-push-action@master
