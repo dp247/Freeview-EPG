@@ -17,6 +17,9 @@ This project exists because of a gap in the market - up until recently, it was v
 - Data is reliably sourced from UK TV providers, rather than third parties. 
 - Builds to an XMLTV file, complete with channel logos, programme images and season/episode numbering (where supported).
 
+### Channels
+For a list of included channels, please see the [channel list](https://github.com/dp247/Freeview-EPG/wiki/Channels-list) wiki page.
+
 ## Usage
 Grab the XMLTV file from this link and paste it into your favorite IPTV client:
 ```
