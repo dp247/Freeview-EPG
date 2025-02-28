@@ -1,6 +1,8 @@
 
 ![logo](https://user-images.githubusercontent.com/9065463/232618260-d9017259-1786-4d85-807f-63752143d403.png)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/dp247/Freeview-EPG/actions.yml?color=%232ca9bc&label=EPG%20Generation&style=flat-square) ![GitHub issues](https://img.shields.io/github/issues-raw/dp247/Freeview-EPG?color=%232ca9bc&style=flat-square)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/dp247/Freeview-EPG/build_epg.yml?style=flat-square&label=EPG%20Generation)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/dp247/Freeview-EPG/wiki.yml?style=flat-square&label=Channel%20List)
+![GitHub issues](https://img.shields.io/github/issues-raw/dp247/Freeview-EPG?color=%232ca9bc&style=flat-square)
 
 <a href='https://ko-fi.com/K3K4EYJL5' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
