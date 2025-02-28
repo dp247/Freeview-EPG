@@ -3,7 +3,6 @@ name: Build EPG
 on:
   schedule:
     - cron: '0 */8 * * *'
-  push:
 
 jobs:
   build:
