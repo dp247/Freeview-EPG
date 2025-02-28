@@ -1,0 +1,51 @@
+name: deploy-wiki
+on:
+  schedule:
+    - cron: '0 */8 * * *'
+  push:
+    
+jobs:
+  json-to-md:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "RUN_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+    
+      - name: checkout repo content
+        uses: actions/checkout@v4
+    
+      - name: pull changes
+        run: |
+          git fetch --prune
+          git reset --hard origin/master
+    
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+    
+      - name: execute py script
+        run: python jsontomd.py
+    
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "Updated channels.md on $RUN_DATE" --allow-empty)
+  
+      - name: push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+      
+  deploy-wiki:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions4gh/configure-wiki@v1
+      - uses: actions4gh/deploy-wiki@v1
