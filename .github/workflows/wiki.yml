@@ -26,7 +26,7 @@ jobs:
           python-version: "3.10"
     
       - name: execute py script
-        run: python jsontomd.py channels.json channels.md --columns src:Source lang:Language xmltv_id:XMLTV_ID provider_id:Provider_ID icon_url:Logo name:Name --json_root channels
+        run: python jsontomd.py channels.json Channels-list.md --columns src:Source lang:Language xmltv_id:XMLTV_ID provider_id:Provider_ID icon_url:Logo name:Name --json_root channels
     
       - name: commit files
         run: |
