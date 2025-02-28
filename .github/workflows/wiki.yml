@@ -18,7 +18,7 @@ jobs:
       - name: pull changes
         run: |
           git fetch --prune
-          git reset --hard origin/main
+          git reset --hard origin/master
     
       - name: Set up Python
         uses: actions/setup-python@v5
