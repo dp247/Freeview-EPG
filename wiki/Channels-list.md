@@ -1,8 +1,10 @@
-Channel list current as of 2025-02-28 17:38
+Channel list current as of 2025-04-20 15:24
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
 | sky | en | 4seven.uk | 3150 | <img src="https://i.imgur.com/Fpaxyop.png" width="150px" /> | 4Seven |
+| sky | en | 5.uk | 4058 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" width="150px" /> | 5 |
+| sky | en | 5Plus1.uk | 1839 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-plus-uk.png" width="150px" /> | 5+1 |
 | sky | en | 5Action.uk | 1036 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-action-uk.png" width="150px" /> | 5Action |
 | sky | en | 5Select.uk | 3028 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-select-uk.png" width="150px" /> | 5Select |
 | sky | en | 5Star.uk | 3023 | <img src="https://i.imgur.com/PI11s9s.png" width="150px" /> | 5Star |
@@ -49,8 +51,6 @@ Channel list current as of 2025-02-28 17:38
 | sky | en | Challenge.uk | 2202 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/challenge-uk.png" width="150px" /> | Challenge UK |
 | sky | en | Channel4.uk | 1249 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png" width="150px" /> | Channel 4 |
 | sky | en | Channel4Plus1.uk | 1671 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-plus-uk.png" width="150px" /> | Channel 4+1 |
-| sky | en | Channel5.uk | 1800 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" width="150px" /> | Channel 5 |
-| sky | en | Channel5Plus1.uk | 1839 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-plus-uk.png" width="150px" /> | Channel 5+1 |
 | sky | en | Channels24.ng | 5520 | <img src="https://i.imgur.com/ww5zNmY.png" width="150px" /> | Channels 24 |
 | sky | en | ClublandTV.uk | 4505 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/clubland-uk.png" width="150px" /> | Clubland TV |
 | freeview | en | CNAInternational.sg | 16164 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CNA.png" width="150px" /> | CNA International |
@@ -94,7 +94,7 @@ Channel list current as of 2025-02-28 17:38
 | sky | en | ITV1Border.uk | 1061 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Border |
 | sky | en | ITV1CentralE.uk | 1219 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Central (East) |
 | sky | en | ITV1CentralW.uk | 6503 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Central (West) |
-| rt | en | ITV1Granada.uk | htpc | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Granada |
+| rt | en | ITV1Granada.uk | htqn | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Granada |
 | sky | en | ITV1London.uk | 6504 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 London |
 | sky | en | ITV1MeridianE.uk | 6502 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Meridian (East) |
 | sky | en | ITV1MeridianN.uk | 1208 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Meridian (North) |
