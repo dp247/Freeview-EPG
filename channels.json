@@ -11,6 +11,22 @@
     {
       "src": "sky",
       "lang": "en",
+      "xmltv_id": "5.uk",
+      "provider_id": "4058",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png",
+      "name": "5"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "5Plus1.uk",
+      "provider_id": "1839",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-plus-uk.png",
+      "name": "5+1"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
       "xmltv_id": "5Action.uk",
       "provider_id": "1036",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-action-uk.png",
@@ -382,22 +398,6 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "Channel5.uk",
-      "provider_id": "1800",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png",
-      "name": "Channel 5"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Channel5Plus1.uk",
-      "provider_id": "1839",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-plus-uk.png",
-      "name": "Channel 5+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
       "xmltv_id": "Channels24.ng",
       "provider_id": "5520",
       "icon_url": "https://i.imgur.com/ww5zNmY.png",
@@ -748,7 +748,7 @@
       "src": "rt",
       "lang": "en",
       "xmltv_id": "ITV1Granada.uk",
-      "provider_id": "htpc",
+      "provider_id": "htqn",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
       "name": "ITV1 Granada"
     },
