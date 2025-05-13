@@ -1,4 +1,4 @@
-Channel list current as of 2025-04-24 23:11
+Channel list current as of 2025-05-13 12:39
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@ Channel list current as of 2025-04-24 23:11
 | sky | en | ITV1Border.uk | 1061 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Border HD |
 | sky | en | ITV1CentralE.uk | 1219 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Central (East) HD |
 | sky | en | ITV1CentralW.uk | 6503 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Central (West) HD |
-| rt | en | ITV1Granada.uk | htqn | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Granada HD |
+| freeview | en | ITV1Granada.uk | 8267 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Granada HD |
 | sky | en | ITV1London.uk | 6504 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 London HD |
 | sky | en | ITV1MeridianE.uk | 6502 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Meridian (East) HD |
 | sky | en | ITV1MeridianN.uk | 1208 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Meridian (North) HD |
