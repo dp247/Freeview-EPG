@@ -897,10 +897,11 @@
       "name": "ITV1 Central (West) HD"
     },
     {
-      "src": "rt",
+      "src": "freeview",
       "lang": "en",
       "xmltv_id": "ITV1Granada.uk",
-      "provider_id": "htqn",
+      "provider_id": "8267",
+      "region_id": "64377",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
       "name": "ITV1 Granada HD"
     },
