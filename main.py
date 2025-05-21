@@ -376,6 +376,8 @@ for channel in channels_data:
                 continue
             epg_data = json.loads(req.text)
             for item in epg_data:
+                if item['type'] != "episode":
+                    continue
                 if 'id' in item:
                     programme_id = item['id']
                     details_request = requests.get(f"https://www.radiotimes.com/api/broadcast/broadcast/details/{programme_id}")
