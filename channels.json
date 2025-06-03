@@ -794,7 +794,7 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "TV.uk",
+      "xmltv_id": "GreatTV.uk",
       "provider_id": "4266",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-hz-uk.png",
       "name": "GREAT! tv"
@@ -802,7 +802,7 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "TVPlus1.uk",
+      "xmltv_id": "GreatTVPlus1.uk",
       "provider_id": "5338",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-plus-hz-uk.png",
       "name": "GREAT! tv+1"
