@@ -1,4 +1,4 @@
-Channel list current as of 2025-05-27 19:17
+Channel list current as of 2025-06-03 06:45
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -100,8 +100,8 @@ Channel list current as of 2025-05-27 19:17
 | sky | en | GreatRealPlus1.uk | 1288 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-real-plus-hz-uk.png" width="150px" /> | GREAT! real+1 |
 | sky | en | GreatXmas.uk | 3643 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-hz-uk.png" width="150px" /> | GREAT! romance |
 | sky | en | GreatXmasPlus1.uk | 3751 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-plus-hz-uk.png" width="150px" /> | GREAT! romance+1 |
-| sky | en | TV.uk | 4266 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-hz-uk.png" width="150px" /> | GREAT! tv |
-| sky | en | TVPlus1.uk | 5338 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-plus-hz-uk.png" width="150px" /> | GREAT! tv+1 |
+| sky | en | GreatTV.uk | 4266 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-hz-uk.png" width="150px" /> | GREAT! tv |
+| sky | en | GreatTVPlus1.uk | 5338 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-plus-hz-uk.png" width="150px" /> | GREAT! tv+1 |
 | sky | en | HGTV.uk | 2301 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-uk.png" width="150px" /> | HGTV |
 | sky | en | HGTV.ie | 2408 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-uk.png" width="150px" /> | HGTV ROI |
 | sky | en | HGTVPlus1.uk | 2309 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-plus-uk.png" width="150px" /> | HGTV+1 |
