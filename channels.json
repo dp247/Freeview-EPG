@@ -74,15 +74,6 @@
     },
     {
       "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "AlArabiya.uk",
-      "provider_id": "16304",
-      "region_id": "64361",
-      "icon_url": "https://i.imgur.com/NXFkYFj.png",
-      "name": "AL ARABIYA"
-    },
-    {
-      "src": "freeview",
       "lang": "ar-ae",
       "xmltv_id": "AlJazeeraArabic.qa",
       "provider_id": "16284",
@@ -342,10 +333,10 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "Blaze.ie",
-      "provider_id": "1206",
-      "icon_url": "https://i.imgur.com/6UcPWP9.png",
-      "name": "Blaze ROI"
+      "xmltv_id": "BestDirect.uk",
+      "provider_id": "4100",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/best-direct-uk.png",
+      "name": "Best Direct"
     },
     {
       "src": "sky",
@@ -710,15 +701,6 @@
       "name": "GIGS"
     },
     {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "GinxESports.uk",
-      "provider_id": "16182",
-      "region_id": "64257",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Ginx-eSports-TV.png",
-      "name": "GINX TV"
-    },
-    {
       "src": "sky",
       "lang": "en",
       "xmltv_id": "GreatMoviesAction.uk",
@@ -832,6 +814,14 @@
       "name": "HGTV+1"
     },
     {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "HighStreetTV.uk",
+      "provider_id": "3580",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/high-street-tv-uk.png",
+      "name": "High Street TV"
+    },
+    {
       "src": "freeview",
       "lang": "en",
       "xmltv_id": "HobbyMaker.uk",
@@ -847,14 +837,6 @@
       "provider_id": "1101",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Ideal-World-2023.png",
       "name": "Ideal World HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "IndiaToday.in",
-      "provider_id": "1057",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/india-today-in.png",
-      "name": "India Today"
     },
     {
       "src": "sky",
@@ -908,6 +890,14 @@
     {
       "src": "sky",
       "lang": "en",
+      "xmltv_id": "ITV1Plus1Granada.uk",
+      "provider_id": "6355",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
+      "name": "ITV+1 Granada"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
       "xmltv_id": "ITV1London.uk",
       "provider_id": "6504",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
@@ -944,14 +934,6 @@
       "provider_id": "6505",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
       "name": "ITV1 North HD"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "ITV1Plus1Granada.uk",
-      "provider_id": "6355",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
-      "name": "ITV+1 Granada"
     },
     {
       "src": "sky",
@@ -1076,10 +1058,10 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "ITVBe.uk",
+      "xmltv_id": "ITVQuiz.uk",
       "provider_id": "3026",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-be-uk.png",
-      "name": "ITVBe HD"
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/itv-quiz-uk.png",
+      "name": "ITV Quiz"
     },
     {
       "src": "sky",
@@ -1253,22 +1235,6 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "PopMax.uk",
-      "provider_id": "4262",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-max-uk.png",
-      "name": "Pop Max"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "PopMaxPlus1.uk",
-      "provider_id": "4263",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-max-plus-uk.png",
-      "name": "POP Max+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
       "xmltv_id": "Quest.uk",
       "provider_id": "6761",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png",
@@ -1357,6 +1323,22 @@
     {
       "src": "sky",
       "lang": "en",
+      "xmltv_id": "Really.uk",
+      "provider_id": "2325",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-uk.png",
+      "name": "Really"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "Really.ie",
+      "provider_id": "2324",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-uk.png",
+      "name": "Really ROI"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
       "xmltv_id": "RewindTV.uk",
       "provider_id": "1030",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Rewind_TV.png",
@@ -1409,22 +1391,6 @@
       "provider_id": "1158",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-plus-uk.png",
       "name": "RTÉ2+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Really.uk",
-      "provider_id": "2325",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-uk.png",
-      "name": "Really"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "Really.ie",
-      "provider_id": "2324",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-uk.png",
-      "name": "Really ROI"
     },
     {
       "src": "sky",
@@ -1737,7 +1703,7 @@
       "xmltv_id": "VirginMediaOne.ie",
       "provider_id": "3881",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-one-uk.png",
-      "name": "Virgin Media One HD"
+      "name": "Virgin Media One"
     },
     {
       "src": "sky",
@@ -1753,13 +1719,13 @@
       "xmltv_id": "VirginMediaTwo.ie",
       "provider_id": "1046",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-two-uk.png",
-      "name": "Virgin Media Two HD"
+      "name": "Virgin Media Two"
     },
     {
-      "src": "rt",
+      "src": "sky",
       "lang": "en",
       "xmltv_id": "VirginMediaThree.ie",
-      "provider_id": "ht5f",
+      "provider_id": "2817",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-three-uk.png",
       "name": "Virgin Media Three"
     },
@@ -1769,7 +1735,7 @@
       "xmltv_id": "VirginMediaFour.ie",
       "provider_id": "1316",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-four-uk.png",
-      "name": "Virgin Media Four HD"
+      "name": "Virgin Media Four"
     },
     {
       "src": "sky",
