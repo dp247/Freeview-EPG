@@ -325,18 +325,18 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "Blaze.uk",
-      "provider_id": "1065",
-      "icon_url": "https://i.imgur.com/6UcPWP9.png",
-      "name": "Blaze"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
       "xmltv_id": "BestDirect.uk",
       "provider_id": "4100",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/best-direct-uk.png",
       "name": "Best Direct"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "Blaze.uk",
+      "provider_id": "1065",
+      "icon_url": "https://i.imgur.com/6UcPWP9.png",
+      "name": "Blaze"
     },
     {
       "src": "sky",
