@@ -1,4 +1,4 @@
-Channel list current as of 2025-06-03 06:50
+Channel list current as of 2025-07-30 12:51
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -11,7 +11,6 @@ Channel list current as of 2025-06-03 06:50
 | sky | en | 5StarPlus1.uk | 3024 | <img src="https://i.imgur.com/fzqtSNm.png" width="150px" /> | 5STAR+1 |
 | sky | en | 5USA.uk | 3022 | <img src="https://i.imgur.com/Pi7so2l.png" width="150px" /> | 5 USA |
 | sky | en | 5USAPlus1.uk | 3027 | <img src="https://i.imgur.com/hBx6T5t.png" width="150px" /> | 5USA+1 |
-| freeview | en | AlArabiya.uk | 16304 | <img src="https://i.imgur.com/NXFkYFj.png" width="150px" /> | AL ARABIYA |
 | freeview | ar-ae | AlJazeeraArabic.qa | 16284 | <img src="https://i.imgur.com/7bRVpnu.png" width="150px" /> | Al Jazeera Arabic |
 | sky | en | AlJazeeraEnglish.qa | 1023 | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" width="150px" /> | Al Jazeera HD |
 | sky | en | ArirangWorld.kr | 1066 | <img src="https://i.imgur.com/Asu5pE9.png" width="150px" /> | Arirang TV HD |
@@ -44,7 +43,7 @@ Channel list current as of 2025-06-03 06:50
 | sky | en | BBCTwoNorthernIreland.uk | 3019 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" width="150px" /> | BBC Two NI HD |
 | sky | en | BBCTwoWales.uk | 3015 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" width="150px" /> | BBC Two Wales HD |
 | sky | en | Blaze.uk | 1065 | <img src="https://i.imgur.com/6UcPWP9.png" width="150px" /> | Blaze |
-| sky | en | Blaze.ie | 1206 | <img src="https://i.imgur.com/6UcPWP9.png" width="150px" /> | Blaze ROI |
+| sky | en | BestDirect.uk | 4100 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/best-direct-uk.png" width="150px" /> | Best Direct |
 | sky | en | BloombergTVEurope.uk | 1074 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Bloomberg-TV-HD.png" width="150px" /> | Bloomberg HD |
 | sky | en | CBBC.uk | 2078 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbbc-uk.png" width="150px" /> | CBBC |
 | sky | en | CBeebies.uk | 2088 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbeebies-uk.png" width="150px" /> | CBeebies |
@@ -90,7 +89,6 @@ Channel list current as of 2025-06-03 06:50
 | sky | en | GBNews.uk | 1196 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gb-news-uk.png" width="150px" /> | GB News HD |
 | sky | en | GemsTV.uk | 3010 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gemporia-uk.png" width="150px" /> | Gemporia TV |
 | freeview | en | GIGS.uk | 16170 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/GIGS.png" width="150px" /> | GIGS |
-| freeview | en | GinxESports.uk | 16182 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Ginx-eSports-TV.png" width="150px" /> | GINX TV |
 | sky | en | GreatMoviesAction.uk | 3708 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-hz-uk.png" width="150px" /> | GREAT! action |
 | sky | en | GreatMoviesActionPlus1.uk | 3721 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-plus-hz-uk.png" width="150px" /> | GREAT! action+1 |
 | sky | en | GreatMovies.uk | 3709 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-hz-uk.png" width="150px" /> | GREAT! movies |
@@ -105,21 +103,21 @@ Channel list current as of 2025-06-03 06:50
 | sky | en | HGTV.uk | 2301 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-uk.png" width="150px" /> | HGTV |
 | sky | en | HGTV.ie | 2408 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-uk.png" width="150px" /> | HGTV ROI |
 | sky | en | HGTVPlus1.uk | 2309 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-plus-uk.png" width="150px" /> | HGTV+1 |
+| sky | en | HighStreetTV.uk | 3580 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/high-street-tv-uk.png" width="150px" /> | High Street TV |
 | freeview | en | HobbyMaker.uk | 27840 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/HobbyMaker.png" width="150px" /> | Hobby Maker HD |
 | sky | en | IdealWorld.uk | 1101 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Ideal-World-2023.png" width="150px" /> | Ideal World HD |
-| sky | en | IndiaToday.in | 1057 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/india-today-in.png" width="150px" /> | India Today |
 | sky | en | ITV1Anglia.uk | 1045 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Anglia HD |
 | sky | en | ITV1AngliaWest.uk | 1217 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Anglia (West) HD |
 | sky | en | ITV1Border.uk | 1061 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Border HD |
 | sky | en | ITV1CentralE.uk | 1219 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Central (East) HD |
 | sky | en | ITV1CentralW.uk | 6503 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Central (West) HD |
 | freeview | en | ITV1Granada.uk | 8267 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Granada HD |
+| sky | en | ITV1Plus1Granada.uk | 6355 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV+1 Granada |
 | sky | en | ITV1London.uk | 6504 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 London HD |
 | sky | en | ITV1MeridianE.uk | 6502 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Meridian (East) HD |
 | sky | en | ITV1MeridianN.uk | 1208 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Meridian (North) HD |
 | sky | en | ITV1MeridianS.uk | 1209 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 Meridian (South) HD |
 | sky | en | ITV1North.uk | 6505 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV1 North HD |
-| sky | en | ITV1Plus1Granada.uk | 6355 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV+1 Granada |
 | sky | en | ITV1Plus1London.uk | 6155 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV+1 London |
 | sky | en | ITV1Plus1Meridian.uk | 6365 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV+1 Meridian |
 | sky | en | ITV1Plus1Midlands.uk | 6145 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" width="150px" /> | ITV+1 Midlands |
@@ -135,7 +133,7 @@ Channel list current as of 2025-06-03 06:50
 | sky | en | ITV3Plus1.uk | 6261 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-plus-uk.png" width="150px" /> | ITV3+1 |
 | sky | en | ITV4.uk | 6534 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png" width="150px" /> | ITV4 HD |
 | sky | en | ITV4Plus1.uk | 6274 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-plus-uk.png" width="150px" /> | ITV4+1 |
-| sky | en | ITVBe.uk | 3026 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-be-uk.png" width="150px" /> | ITVBe HD |
+| sky | en | ITVQuiz.uk | 3026 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/itv-quiz-uk.png" width="150px" /> | ITV Quiz |
 | sky | en | JewelleryMaker.uk | 3354 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/jewellery-maker-uk.png" width="150px" /> | Jewellery Maker |
 | sky | en | Legend.uk | 4610 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend.png" width="150px" /> | Legend |
 | sky | en | LegendXtra.uk | 3605 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra.png" width="150px" /> | Legend Xtra |
@@ -157,8 +155,6 @@ Channel list current as of 2025-06-03 06:50
 | sky | en | PBSAmerica.uk | 5500 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pbs-america-uk.png" width="150px" /> | PBS America |
 | sky | en | Pop.uk | 3750 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-uk.png" width="150px" /> | Pop |
 | sky | en | PopPlus1.uk | 4216 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-plus-uk.png" width="150px" /> | POP+1 |
-| sky | en | PopMax.uk | 4262 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-max-uk.png" width="150px" /> | Pop Max |
-| sky | en | PopMaxPlus1.uk | 4263 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-max-plus-uk.png" width="150px" /> | POP Max+1 |
 | sky | en | Quest.uk | 6761 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png" width="150px" /> | Quest |
 | sky | en | QuestHD.uk | 1128 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png" width="150px" /> | Quest HD |
 | sky | en | QuestHD.ie | 1130 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png" width="150px" /> | Quest HD ROI |
@@ -170,6 +166,8 @@ Channel list current as of 2025-06-03 06:50
 | sky | en | QVCExtraUK.uk | 3359 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-extra-uk.png" width="150px" /> | QVC Extra |
 | sky | en | QVCStyleUK.uk | 1118 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-style-uk.png" width="150px" /> | QVC Style UK |
 | sky | en | QVCUK.uk | 1076 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-uk.png" width="150px" /> | QVC UK |
+| sky | en | Really.uk | 2325 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-uk.png" width="150px" /> | Really |
+| sky | en | Really.ie | 2324 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-uk.png" width="150px" /> | Really ROI |
 | sky | en | RewindTV.uk | 1030 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Rewind_TV.png" width="150px" /> | Rewind TV |
 | sky | en | RTEjr.ie | 1256 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-jr-uk.png" width="150px" /> | RTÉjr |
 | sky | en | RTENews.ie | 2804 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/RTE-News.png" width="150px" /> | RTÉ News |
@@ -177,8 +175,6 @@ Channel list current as of 2025-06-03 06:50
 | sky | en | RTEOnePlus1.ie | 2808 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-plus-uk.png" width="150px" /> | RTÉ One+1 |
 | sky | en | RTE2.ie | 1270 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-uk.png" width="150px" /> | RTÉ2 HD |
 | sky | en | RTE2Plus1.ie | 1158 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-plus-uk.png" width="150px" /> | RTÉ2+1 |
-| sky | en | Really.uk | 2325 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-uk.png" width="150px" /> | Really |
-| sky | en | Really.ie | 2324 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-uk.png" width="150px" /> | Really ROI |
 | sky | en | S4C.uk | 5701 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png" width="150px" /> | S4C |
 | sky | en | SkyArts.uk | 1752 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Arts.png" width="150px" /> | Sky Arts |
 | sky | en | SkyArts.ie | 1229 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Arts.png" width="150px" /> | Sky Arts ROI |
@@ -217,11 +213,11 @@ Channel list current as of 2025-06-03 06:50
 | sky | en | UAndWPlus1.uk | 2616 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26WPlus1.png" width="150px" /> | U&W+1 |
 | sky | en | UAndYesterday.uk | 2305 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26YESTERDAY.png" width="150px" /> | U&Yesterday |
 | sky | en | UAndYesterdayPlus1.uk | 2615 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26YESTERDAYPlus1.png" width="150px" /> | U&Yesterday+1 |
-| sky | en | VirginMediaOne.ie | 3881 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-one-uk.png" width="150px" /> | Virgin Media One HD |
+| sky | en | VirginMediaOne.ie | 3881 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-one-uk.png" width="150px" /> | Virgin Media One |
 | sky | en | VirginMediaOnePlus1.ie | 1025 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-one-plus-uk.png" width="150px" /> | Virgin Media One +1 |
-| sky | en | VirginMediaTwo.ie | 1046 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-two-uk.png" width="150px" /> | Virgin Media Two HD |
-| rt | en | VirginMediaThree.ie | ht5f | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-three-uk.png" width="150px" /> | Virgin Media Three |
-| sky | en | VirginMediaFour.ie | 1316 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-four-uk.png" width="150px" /> | Virgin Media Four HD |
+| sky | en | VirginMediaTwo.ie | 1046 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-two-uk.png" width="150px" /> | Virgin Media Two |
+| sky | en | VirginMediaThree.ie | 2817 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-three-uk.png" width="150px" /> | Virgin Media Three |
+| sky | en | VirginMediaFour.ie | 1316 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-four-uk.png" width="150px" /> | Virgin Media Four |
 | sky | en | WION.in | 1084 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/wion-in.png" width="150px" /> | WION HD |
 | sky | en | BBCR1.uk | 2111 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1.png" width="150px" /> | BBC Radio 1 |
 | sky | en | BBCR1X.uk | 2126 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1Xtra.png" width="150px" /> | BBC Radio 1 Xtra |
