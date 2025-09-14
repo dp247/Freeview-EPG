@@ -392,6 +392,7 @@ for channel in channels_data:
                             else:
                                 icon = None
                         except Exception as e:
+                            print(f"Error getting details for {programme_id}: {e}")
                             pass
                     title = item['title']
                     start = datetime.strptime(item['start'], '%Y-%m-%dT%H:%M:%SZ')
