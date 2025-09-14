@@ -375,38 +375,41 @@ for channel in channels_data:
             if req.status_code != 200:
                 continue
             epg_data = json.loads(req.text)
-            for item in epg_data:
-                if item['type'] != "episode":
-                    continue
-                if 'id' in item:
-                    programme_id = item['id']
-                    details_request = requests.get(f"https://www.radiotimes.com/api/broadcast/broadcast/details/{programme_id}")
-                    if details_request.status_code != 200:
-                        break
-                    details_json = json.loads(details_request.text)
-                    desc = details_json['description'] if 'description' in details_json else None
-                    if details_json.get('image').get('url') is not None:
-                        icon = details_json.get('image').get('url')
-                    else:
-                        icon = None
-                title = item['title']
-                start = datetime.strptime(item['start'], '%Y-%m-%dT%H:%M:%SZ')
-                end = datetime.strptime(item['end'], '%Y-%m-%dT%H:%M:%SZ')
-                ch_name = channel.get('xmltv_id')
+            if epg_data is not None:
+                for item in epg_data:
+                    if item['type'] != "episode":
+                        continue
+                    if 'id' in item:
+                        programme_id = item['id']
+                        details_request = requests.get(f"https://www.radiotimes.com/api/broadcast/broadcast/details/{programme_id}")
+                        if details_request.status_code != 200:
+                            break
+                        try:
+                            details_json = json.loads(details_request.text)
+                            desc = details_json['description'] if 'description' in details_json else None
+                            if details_json.get('image').get('url') is not None:
+                                icon = details_json.get('image').get('url')
+                            else:
+                                icon = None
+                        except Exception as e:
+                            pass
+                    title = item['title']
+                    start = datetime.strptime(item['start'], '%Y-%m-%dT%H:%M:%SZ')
+                    end = datetime.strptime(item['end'], '%Y-%m-%dT%H:%M:%SZ')
+                    ch_name = channel.get('xmltv_id')
 
-                # if end < (start.replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(1)):
-                if prev_start == start:
-                    continue
-                ch_programme_data.append({
-                    "title": title,
-                    "description": desc,
-                    "start": start.timestamp(),
-                    "stop": end.timestamp(),
-                    "icon": icon,
-                    "channel": ch_name,
-                })
-                prev_name = title
-                prev_start = start
+                    if prev_start == start:
+                        continue
+                    ch_programme_data.append({
+                        "title": title,
+                        "description": desc,
+                        "start": start.timestamp(),
+                        "stop": end.timestamp(),
+                        "icon": icon,
+                        "channel": ch_name,
+                    })
+                    prev_name = title
+                    prev_start = start
 
     validate_programmes_list(ch_programme_data)
 
