@@ -1,4 +1,4 @@
-Channel list current as of 2025-07-30 12:59
+Channel list current as of 2025-09-14 10:22
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -42,8 +42,8 @@ Channel list current as of 2025-07-30 12:59
 | sky | en | BBCTwoHD.uk | 2075 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" height="150px" /> | BBC Two HD |
 | sky | en | BBCTwoNorthernIreland.uk | 3019 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" height="150px" /> | BBC Two NI HD |
 | sky | en | BBCTwoWales.uk | 3015 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" height="150px" /> | BBC Two Wales HD |
-| sky | en | Blaze.uk | 1065 | <img src="https://i.imgur.com/6UcPWP9.png" height="150px" /> | Blaze |
 | sky | en | BestDirect.uk | 4100 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/best-direct-uk.png" height="150px" /> | Best Direct |
+| sky | en | Blaze.uk | 1065 | <img src="https://i.imgur.com/6UcPWP9.png" height="150px" /> | Blaze |
 | sky | en | BloombergTVEurope.uk | 1074 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Bloomberg-TV-HD.png" height="150px" /> | Bloomberg HD |
 | sky | en | CBBC.uk | 2078 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbbc-uk.png" height="150px" /> | CBBC |
 | sky | en | CBeebies.uk | 2088 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbeebies-uk.png" height="150px" /> | CBeebies |
