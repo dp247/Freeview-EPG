@@ -21,7 +21,7 @@ def json_to_markdown(json_data, column_mapping):
             value = str(item.get(key, ""))
             # If the column contains a URL, embed it as an image
             if value.startswith("http") and (".png" in value or ".jpg" in value or ".jpeg" in value or ".gif" in value):
-                value = f'<img src="{value}" width="150px" />'
+                value = f'<img src="{value}" height="150px" />'
             row.append(value)
         md_table += "| " + " | ".join(row) + " |\n"
 
