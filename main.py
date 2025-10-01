@@ -333,7 +333,11 @@ for channel in channels_data:
         postcode = channel.get('postcode')
         res = s.post("https://www.freesat.co.uk/tv-guide/api/region", headers=headers, data=f"{postcode}")
         channel_info_url = f"https://www.freesat.co.uk/tv-guide/api?post_code={postcode.replace(' ', '%')}"
-        channel_info = requests.get(channel_info_url, headers=headers).json()
+        channel_info = requests.get(channel_info_url, headers=headers)
+        if channel_info.status_code != 200:
+            print(f"Error getting channel info for {channel.get('name')}")
+            continue
+        channel_info = channel_info.json()
 
         param = {"channel": [channel_id]}
         epg_data = []
