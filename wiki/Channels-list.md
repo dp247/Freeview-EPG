@@ -1,24 +1,24 @@
-Channel list current as of 2025-10-01 13:36
+Channel list current as of 2025-10-15 13:36
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
-| sky | en | 4seven.uk | 3150 | <img src="https://i.imgur.com/Fpaxyop.png" height="150px" /> | 4Seven |
+| sky | en | 4seven.uk | 3150 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-seven-uk.png" height="150px" /> | 4Seven |
 | sky | en | 5.uk | 4058 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" height="150px" /> | 5 HD |
 | sky | en | 5Plus1.uk | 1839 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-plus-uk.png" height="150px" /> | 5+1 |
 | sky | en | 5Action.uk | 1036 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-action-uk.png" height="150px" /> | 5ACTION |
 | sky | en | 5Select.uk | 3028 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-select-uk.png" height="150px" /> | 5SELECT |
-| sky | en | 5Star.uk | 3023 | <img src="https://i.imgur.com/PI11s9s.png" height="150px" /> | 5STAR |
-| sky | en | 5StarPlus1.uk | 3024 | <img src="https://i.imgur.com/fzqtSNm.png" height="150px" /> | 5STAR+1 |
-| sky | en | 5USA.uk | 3022 | <img src="https://i.imgur.com/Pi7so2l.png" height="150px" /> | 5 USA |
-| sky | en | 5USAPlus1.uk | 3027 | <img src="https://i.imgur.com/hBx6T5t.png" height="150px" /> | 5USA+1 |
-| freeview | ar-ae | AlJazeeraArabic.qa | 16284 | <img src="https://i.imgur.com/7bRVpnu.png" height="150px" /> | Al Jazeera Arabic |
+| sky | en | 5Star.uk | 3023 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-star-uk.png" height="150px" /> | 5STAR |
+| sky | en | 5StarPlus1.uk | 3024 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-star-plus-uk.png" height="150px" /> | 5STAR+1 |
+| sky | en | 5USA.uk | 3022 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-usa-uk.png" height="150px" /> | 5 USA |
+| sky | en | 5USAPlus1.uk | 3027 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-usa-plus-uk.png" height="150px" /> | 5USA+1 |
+| freeview | ar-ae | AlJazeeraArabic.qa | 16284 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" height="150px" /> | Al Jazeera Arabic |
 | sky | en | AlJazeeraEnglish.qa | 1023 | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" height="150px" /> | Al Jazeera HD |
-| sky | en | ArirangWorld.kr | 1066 | <img src="https://i.imgur.com/Asu5pE9.png" height="150px" /> | Arirang TV HD |
+| sky | en | ArirangTV.kr | 1066 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" height="150px" /> | Arirang TV |
 | sky | en | AriseNews.uk | 5040 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/.Light/Arise%20News.png" height="150px" /> | Arise News |
-| freeview | en | AsharqNews.uk | 16296 | <img src="https://i.imgur.com/bqRC3sl.png" height="150px" /> | Asharq News |
-| sky | en | BBCAlba.uk | 3021 | <img src="https://i.imgur.com/36KDxLg.png" height="150px" /> | BBC ALBA HD |
+| freeview | en | AsharqNews.uk | 16296 | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Asharq_News_Logo.svg/2560px-Asharq_News_Logo.svg.png" height="150px" /> | Asharq News |
+| sky | en | BBCAlba.uk | 3021 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png" height="150px" /> | BBC ALBA HD |
 | sky | en | BBCFourHD.uk | 2086 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" height="150px" /> | BBC Four HD |
-| sky | en | BBCNews.uk | 2085 | <img src="https://i.imgur.com/vSz2WEp.png" height="150px" /> | BBC NEWS HD |
+| sky | en | BBCNews.uk | 2085 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" height="150px" /> | BBC NEWS HD |
 | sky | en | BBCOneChannelIslands.uk | 3018 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" height="150px" /> | BBC One CI HD |
 | sky | en | BBCOneEast.uk | 3006 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" height="150px" /> | BBC One East HD |
 | sky | en | BBCOneEastMidlands.uk | 3005 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" height="150px" /> | BBC One East Midlands HD |
@@ -43,7 +43,7 @@ Channel list current as of 2025-10-01 13:36
 | sky | en | BBCTwoNorthernIreland.uk | 3019 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" height="150px" /> | BBC Two NI HD |
 | sky | en | BBCTwoWales.uk | 3015 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" height="150px" /> | BBC Two Wales HD |
 | sky | en | BestDirect.uk | 4100 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/best-direct-uk.png" height="150px" /> | Best Direct |
-| sky | en | Blaze.uk | 1065 | <img src="https://i.imgur.com/6UcPWP9.png" height="150px" /> | Blaze |
+| sky | en | Blaze.uk | 1065 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/blaze-uk.png" height="150px" /> | Blaze |
 | sky | en | BloombergTVEurope.uk | 1074 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Bloomberg-TV-HD.png" height="150px" /> | Bloomberg HD |
 | sky | en | CBBC.uk | 2078 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbbc-uk.png" height="150px" /> | CBBC |
 | sky | en | CBeebies.uk | 2088 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbeebies-uk.png" height="150px" /> | CBeebies |
@@ -61,11 +61,11 @@ Channel list current as of 2025-10-01 13:36
 | sky | en | Channel4Plus1North.uk | 1673 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-plus-uk.png" height="150px" /> | Channel 4+1 North |
 | sky | en | Channel4Plus1Scotland.uk | 1675 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-plus-uk.png" height="150px" /> | Channel 4+1 Scotland |
 | sky | en | Channel4Plus1ROI.uk | 1667 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-plus-uk.png" height="150px" /> | Channel 4+1 ROI |
-| sky | en | Channels24.ng | 5520 | <img src="https://i.imgur.com/ww5zNmY.png" height="150px" /> | Channels 24 |
+| sky | en | Channels24.ng | 5520 | https://play-lh.googleusercontent.com/umnpxRtZspajiZtlfBUg0rKNGIfARoEj8uKSHWLfL1fFZ-RhAodcj6SMGfwnFWuiGv4 | Channels 24 |
 | sky | en | ClublandTV.uk | 4505 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/clubland-uk.png" height="150px" /> | Clubland TV |
 | freeview | en | CNAInternational.sg | 16164 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CNA.png" height="150px" /> | CNA |
 | sky | en | CNBCEurope.uk | 1088 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CNBC.png" height="150px" /> | CNBC HD |
-| sky | en | CNNInternational.uk | 1019 | <img src="https://i.imgur.com/05S3yYZ.png" height="150px" /> | CNN HD |
+| sky | en | CNNInternational.uk | 1019 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/cnn-international-int.png" height="150px" /> | CNN HD |
 | sky | en | CourtTV.uk | 1207 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Court-TV.png" height="150px" /> | Court TV |
 | sky | en | DMAX.uk | 3618 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png" height="150px" /> | DMAX |
 | sky | en | DMAX.ie | 4548 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png" height="150px" /> | DMAX ROI |
@@ -84,7 +84,7 @@ Channel list current as of 2025-10-01 13:36
 | sky | en | FoodNetwork.uk | 3590 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-network-uk.png" height="150px" /> | Food Network |
 | sky | en | FoodNetwork.ie | 5617 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-network-uk.png" height="150px" /> | Food Network ROI |
 | sky | en | FoodNetworkPlus1.uk | 3592 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-network-plus-uk.png" height="150px" /> | Food Network+1 |
-| sky | en | Foodxp.uk | 1227 | <img src="https://i.imgur.com/zOWog5j.png" height="150px" /> | Foodxp |
+| sky | en | Foodxp.uk | 1227 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-xp-uk.png" height="150px" /> | Foodxp |
 | sky | en | France24English.fr | 1121 | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" height="150px" /> | France 24 HD |
 | sky | en | GBNews.uk | 1196 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gb-news-uk.png" height="150px" /> | GB News HD |
 | sky | en | GemsTV.uk | 3010 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gemporia-uk.png" height="150px" /> | Gemporia TV |
@@ -196,7 +196,7 @@ Channel list current as of 2025-10-01 13:36
 | sky | en | ThatsTV3.uk | 1134 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_TV_3.png" height="150px" /> | That's TV 3 |
 | sky | en | TJC.uk | 1113 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tjc-the-jewellery-channel-uk.png" height="150px" /> | TJC HD |
 | sky | en | TogetherTV.uk | 1872 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/together-tv-uk.png" height="150px" /> | Together TV |
-| sky | en | Travelxp.in | 1226 | <img src="https://i.imgur.com/8KQirah.png" height="150px" /> | Travelxp |
+| sky | en | Travelxp.in | 1226 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/travelxp-in.png" height="150px" /> | Travelxp |
 | sky | en | TRTWorld.tr | 5071 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-world-tr.png" height="150px" /> | TRT World |
 | sky | en | TrueCrime.uk | 3352 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-UK.png" height="150px" /> | True Crime |
 | sky | en | TrueCrimePlus1.uk | 3602 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-%2B1.png" height="150px" /> | True Crime+1 |
