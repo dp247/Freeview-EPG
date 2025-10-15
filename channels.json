@@ -5,7 +5,7 @@
       "lang": "en",
       "xmltv_id": "4seven.uk",
       "provider_id": "3150",
-      "icon_url": "https://i.imgur.com/Fpaxyop.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-seven-uk.png",
       "name": "4Seven"
     },
     {
@@ -45,7 +45,7 @@
       "lang": "en",
       "xmltv_id": "5Star.uk",
       "provider_id": "3023",
-      "icon_url": "https://i.imgur.com/PI11s9s.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-star-uk.png",
       "name": "5STAR"
     },
     {
@@ -53,7 +53,7 @@
       "lang": "en",
       "xmltv_id": "5StarPlus1.uk",
       "provider_id": "3024",
-      "icon_url": "https://i.imgur.com/fzqtSNm.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-star-plus-uk.png",
       "name": "5STAR+1"
     },
     {
@@ -61,7 +61,7 @@
       "lang": "en",
       "xmltv_id": "5USA.uk",
       "provider_id": "3022",
-      "icon_url": "https://i.imgur.com/Pi7so2l.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-usa-uk.png",
       "name": "5 USA"
     },
     {
@@ -69,7 +69,7 @@
       "lang": "en",
       "xmltv_id": "5USAPlus1.uk",
       "provider_id": "3027",
-      "icon_url": "https://i.imgur.com/hBx6T5t.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-usa-plus-uk.png",
       "name": "5USA+1"
     },
     {
@@ -78,7 +78,7 @@
       "xmltv_id": "AlJazeeraArabic.qa",
       "provider_id": "16284",
       "region_id": "64361",
-      "icon_url": "https://i.imgur.com/7bRVpnu.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png",
       "name": "Al Jazeera Arabic"
     },
     {
@@ -92,10 +92,10 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "ArirangWorld.kr",
+      "xmltv_id": "ArirangTV.kr",
       "provider_id": "1066",
-      "icon_url": "https://i.imgur.com/Asu5pE9.png",
-      "name": "Arirang TV HD"
+      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",
+      "name": "Arirang TV"
     },
     {
       "src": "sky",
@@ -111,7 +111,7 @@
       "xmltv_id": "AsharqNews.uk",
       "provider_id": "16296",
       "region_id": "64361",
-      "icon_url": "https://i.imgur.com/bqRC3sl.png",
+      "icon_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Asharq_News_Logo.svg/2560px-Asharq_News_Logo.svg.png",
       "name": "Asharq News"
     },
     {
@@ -119,7 +119,7 @@
       "lang": "en",
       "xmltv_id": "BBCAlba.uk",
       "provider_id": "3021",
-      "icon_url": "https://i.imgur.com/36KDxLg.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png",
       "name": "BBC ALBA HD"
     },
     {
@@ -135,7 +135,7 @@
       "lang": "en",
       "xmltv_id": "BBCNews.uk",
       "provider_id": "2085",
-      "icon_url": "https://i.imgur.com/vSz2WEp.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png",
       "name": "BBC NEWS HD"
     },
     {
@@ -335,7 +335,7 @@
       "lang": "en",
       "xmltv_id": "Blaze.uk",
       "provider_id": "1065",
-      "icon_url": "https://i.imgur.com/6UcPWP9.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/blaze-uk.png",
       "name": "Blaze"
     },
     {
@@ -479,7 +479,7 @@
       "lang": "en",
       "xmltv_id": "Channels24.ng",
       "provider_id": "5520",
-      "icon_url": "https://i.imgur.com/ww5zNmY.png",
+      "icon_url": "https://play-lh.googleusercontent.com/umnpxRtZspajiZtlfBUg0rKNGIfARoEj8uKSHWLfL1fFZ-RhAodcj6SMGfwnFWuiGv4",
       "name": "Channels 24"
     },
     {
@@ -512,7 +512,7 @@
       "lang": "en",
       "xmltv_id": "CNNInternational.uk",
       "provider_id": "1019",
-      "icon_url": "https://i.imgur.com/05S3yYZ.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/cnn-international-int.png",
       "name": "CNN HD"
     },
     {
@@ -664,7 +664,7 @@
       "lang": "en",
       "xmltv_id": "Foodxp.uk",
       "provider_id": "1227",
-      "icon_url": "https://i.imgur.com/zOWog5j.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-xp-uk.png",
       "name": "Foodxp"
     },
     {
@@ -1565,7 +1565,7 @@
       "lang": "en",
       "xmltv_id": "Travelxp.in",
       "provider_id": "1226",
-      "icon_url": "https://i.imgur.com/8KQirah.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/travelxp-in.png",
       "name": "Travelxp"
     },
     {
