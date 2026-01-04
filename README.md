@@ -13,7 +13,7 @@ Freeview-EPG is a project designed to provide XMLTV data for UK free-to-air TV c
 ## About
 This project exists because of a gap in the market - up until recently, it was very hard to get hold of a free, reliably updated and region-supported XMLTV file. You could either get a TV tuner and grab the data, or pay for it from a service. I didn't like either of those options - looking at what's on TV should be easy and free, so now it is.
 ### Features
-- 48 hours of data, built every 8 hours. If your TV/IPTV client supports auto-refresh, this is very much a set-and-forget solution.
+- 7 days of data, built every 12 hours. If your TV/IPTV client supports auto-refresh, this is very much a set-and-forget solution.
 - Supports regional channels, not just London-based/national ones.
 - Includes data for both TV and radio stations.
 - Data is reliably sourced from UK TV providers, rather than third parties. 
