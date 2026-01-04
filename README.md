@@ -36,16 +36,15 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 - If you'd like to suggest a change or feature, feel free to either open a blank fork and PR back in. Big changes should be discussed in a [blank issue](https://github.com/dp247/Freeview-EPG/issues/new) first.
 
 ### To-do
-- Improve code, maybe through splitting files and OOP
+- ✅ Improve code, maybe through splitting files and OOP
 - Speed up EPG processing, probably using async code
-- Finish adding regional stations
-- Implement a configuration file for easier forking (allow for more days, specify image type)
+- Add better provider metadata options, such as integration with TMDB
+
 
 ## Special thanks
 - This project was heavily influenced by iptv-org's [EPG](https://github.com/iptv-org/epg) project
 - [ExperiencersInternational](https://github.com/ExperiencersInternational) for all the testing and contributions
 - The [tv-logos](https://github.com/tv-logo/tv-logos) and [mediaportal-uk-logos](https://github.com/Jasmeet181/mediaportal-uk-logos) projects, for making channel icon finding so simple
-- This project would not be possible without the support of [Jetbrains' OSS licenses](https://www.jetbrains.com/community/opensource/)
 
 
 ## License
@@ -66,5 +65,5 @@ You may copy, distribute and modify the software as long as you track changes/da
 - [iptv-cutter](https://github.com/dp247/iptv-cutter) - deduplicator and generator of M3Us for popular IPTV services
 
 ## Legal
-- This project extracts publicly available data from public-facing websites without the use of private APIs. 
+- This project extracts publicly available data from public-facing websites without the use of private APIs.
 - This project is not owned by, related to or affiliated with BBC, ITV plc, Channel Four Television Corporation, Sky Group, Everyone TV or DTV Services Ltd. 
