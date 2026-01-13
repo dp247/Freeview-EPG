@@ -1,4 +1,4 @@
-Channel list current as of 2026-01-04 22:10
+Channel list current as of 2026-01-13 22:27
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -100,9 +100,8 @@ Channel list current as of 2026-01-04 22:10
 | sky | en | GreatXmasPlus1.uk | 3751 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-plus-hz-uk.png" height="150px" /> | GREAT! romance+1 |
 | sky | en | GreatTV.uk | 4266 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-hz-uk.png" height="150px" /> | GREAT! tv |
 | sky | en | GreatTVPlus1.uk | 5338 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-plus-hz-uk.png" height="150px" /> | GREAT! tv+1 |
-| sky | en | HGTV.uk | 2301 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-uk.png" height="150px" /> | HGTV |
-| sky | en | HGTV.ie | 2408 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-uk.png" height="150px" /> | HGTV ROI |
-| sky | en | HGTVPlus1.uk | 2309 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-plus-uk.png" height="150px" /> | HGTV+1 |
+| sky | en | TLC.uk | 3812 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tlc-uk.png" height="150px" /> | TLC |
+| sky | en | TLCPlus1.uk | 5451 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tlc-plus-uk.png" height="150px" /> | TLC+1 |
 | sky | en | HighStreetTV.uk | 3580 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/high-street-tv-uk.png" height="150px" /> | High Street TV |
 | freeview | en | HobbyMaker.uk | 27840 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/HobbyMaker.png" height="150px" /> | Hobby Maker HD |
 | sky | en | IdealWorld.uk | 1101 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Ideal-World-2023.png" height="150px" /> | Ideal World HD |
