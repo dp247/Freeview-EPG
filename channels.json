@@ -792,26 +792,18 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "HGTV.uk",
-      "provider_id": "2301",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-uk.png",
-      "name": "HGTV"
+      "xmltv_id": "TLC.uk",
+      "provider_id": "3812",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tlc-uk.png",
+      "name": "TLC"
     },
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "HGTV.ie",
-      "provider_id": "2408",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-uk.png",
-      "name": "HGTV ROI"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "HGTVPlus1.uk",
-      "provider_id": "2309",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-plus-uk.png",
-      "name": "HGTV+1"
+      "xmltv_id": "TLCPlus1.uk",
+      "provider_id": "5451",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tlc-plus-uk.png",
+      "name": "TLC+1"
     },
     {
       "src": "sky",
