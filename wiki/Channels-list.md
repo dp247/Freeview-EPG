@@ -1,4 +1,4 @@
-Channel list current as of 2026-01-13 22:27
+Channel list current as of 2026-01-21 17:09
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -15,7 +15,6 @@ Channel list current as of 2026-01-13 22:27
 | sky | en | AlJazeeraEnglish.qa | 1023 | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" height="150px" /> | Al Jazeera HD |
 | sky | en | ArirangTV.kr | 1066 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" height="150px" /> | Arirang TV |
 | sky | en | AriseNews.uk | 5040 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/.Light/Arise%20News.png" height="150px" /> | Arise News |
-| freeview | en | AsharqNews.uk | 16296 | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Asharq_News_Logo.svg/2560px-Asharq_News_Logo.svg.png" height="150px" /> | Asharq News |
 | sky | en | BBCAlba.uk | 3021 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png" height="150px" /> | BBC ALBA HD |
 | sky | en | BBCFourHD.uk | 2086 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" height="150px" /> | BBC Four HD |
 | sky | en | BBCNews.uk | 2085 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" height="150px" /> | BBC NEWS HD |
@@ -201,7 +200,7 @@ Channel list current as of 2026-01-13 22:27
 | sky | en | TrueCrimePlus1.uk | 3602 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-%2B1.png" height="150px" /> | True Crime+1 |
 | sky | en | TrueCrimeXtra.uk | 3617 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-Xtra.png" height="150px" /> | True Crime Xtra |
 | sky | en | TVCNews.ng | 5882 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TVC-News.png" height="150px" /> | TVC News |
-| freesat | en | UTV.uk | 1040 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-tv-uk.png" height="150px" /> | UTV |
+| sky | en | UTV.uk | 6510 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-tv-uk.png" height="150px" /> | UTV |
 | sky | en | UAndDave.uk | 2306 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26Dave.png" height="150px" /> | U&Dave |
 | sky | en | UAndDavejavu.uk | 2320 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26DaveJaVu.png" height="150px" /> | U&Dave ja vu |
 | sky | en | UAndDrama.uk | 2612 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26DRAMA.png" height="150px" /> | U&Drama |
@@ -249,6 +248,7 @@ Channel list current as of 2026-01-13 22:27
 | rt | en | BBCRadioNewcastle.uk | hvhw | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Newcastle.png" height="150px" /> | BBC Radio Newcastle |
 | rt | en | BBCRadioSheffield.uk | hvct | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Sheffield.png" height="150px" /> | BBC Radio Sheffield |
 | rt | en | BBCRadioSurrey.uk | hvfn | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Surrey.png" height="150px" /> | BBC Radio Surrey |
+| freeview | en | BBCRadioTees.uk | 6281 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Tees.png" height="150px" /> | BBC Radio Tees |
 | rt | en | BBCRadioThreeCounties.uk | hvhs | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Three-Counties-Radio.png" height="150px" /> | BBC Radio Three Counties |
 | rt | en | BBCRadioYork.uk | hvgd | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-York.png" height="150px" /> | BBC Radio York |
 | sky | en | BBCWorldService.uk | 2122 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-World-Service.png" height="150px" /> | BBC World Service |
