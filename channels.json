@@ -106,15 +106,6 @@
       "name": "Arise News"
     },
     {
-      "src": "freeview",
-      "lang": "en",
-      "xmltv_id": "AsharqNews.uk",
-      "provider_id": "16296",
-      "region_id": "64361",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Asharq_News_Logo.svg/2560px-Asharq_News_Logo.svg.png",
-      "name": "Asharq News"
-    },
-    {
       "src": "sky",
       "lang": "en",
       "xmltv_id": "BBCAlba.uk",
@@ -1601,11 +1592,10 @@
       "name": "TVC News"
     },
     {
-      "src": "freesat",
+      "src": "sky",
       "lang": "en",
       "xmltv_id": "UTV.uk",
-      "provider_id": "1040",
-      "postcode": "BT1 5GS",
+      "provider_id": "6510",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-tv-uk.png",
       "name": "UTV"
     },
@@ -1986,6 +1976,15 @@
       "provider_id": "hvfn",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Surrey.png",
       "name": "BBC Radio Surrey"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "BBCRadioTees.uk",
+      "provider_id": "6281",
+      "region_id": "64370",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Tees.png",
+      "name": "BBC Radio Tees"
     },
     {
       "src": "rt",
