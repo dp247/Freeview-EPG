@@ -1,4 +1,4 @@
-Channel list current as of 2026-01-30 21:50
+Channel list current as of 2026-01-30 22:36
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -86,21 +86,16 @@ Channel list current as of 2026-01-30 21:50
 | sky | en | Foodxp.uk | 1227 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-xp-uk.png" height="150px" /> | Foodxp |
 | sky | en | France24English.fr | 1121 | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" height="150px" /> | France 24 HD |
 | sky | en | GBNews.uk | 1196 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gb-news-uk.png" height="150px" /> | GB News HD |
-| sky | en | GemsTV.uk | 3010 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gemporia-uk.png" height="150px" /> | Gemporia TV |
+| sky | en | GemsTV.uk | 1042 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gemporia-uk.png" height="150px" /> | Gemporia TV |
 | freeview | en | GIGS.uk | 16170 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/GIGS.png" height="150px" /> | GIGS |
-| sky | en | GreatMoviesAction.uk | 3708 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-hz-uk.png" height="150px" /> | GREAT! action |
-| sky | en | GreatMoviesActionPlus1.uk | 3721 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-plus-hz-uk.png" height="150px" /> | GREAT! action+1 |
-| sky | en | GreatMovies.uk | 3709 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-hz-uk.png" height="150px" /> | GREAT! movies |
-| sky | en | GreatMoviesPlus1.uk | 3771 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-plus-hz-uk.png" height="150px" /> | GREAT! movies+1 |
-| freeview | en | GreatMystery.uk | 15584 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Great-Movies-Mystery-hz.png" height="150px" /> | GREAT! mystery |
-| sky | en | GreatReal.uk | 1234 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-real-hz-uk.png" height="150px" /> | GREAT! real |
-| sky | en | GreatRealPlus1.uk | 1288 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-real-plus-hz-uk.png" height="150px" /> | GREAT! real+1 |
-| sky | en | GreatXmas.uk | 3643 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-hz-uk.png" height="150px" /> | GREAT! romance |
-| sky | en | GreatXmasPlus1.uk | 3751 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-plus-hz-uk.png" height="150px" /> | GREAT! romance+1 |
-| sky | en | GreatTV.uk | 4266 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-hz-uk.png" height="150px" /> | GREAT! tv |
-| sky | en | GreatTVPlus1.uk | 5338 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-plus-hz-uk.png" height="150px" /> | GREAT! tv+1 |
-| sky | en | TLC.uk | 3812 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TLC.png" height="150px" /> | TLC |
-| sky | en | TLCPlus1.uk | 5451 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TLC-Plus-1.png" height="150px" /> | TLC+1 |
+| sky | en | GreatAction.uk | 3708 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-uk.png" height="150px" /> | GREAT! action |
+| sky | en | GreatActionPlus1.uk | 3721 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-plus-uk.png" height="150px" /> | GREAT! action+1 |
+| sky | en | GreatMystery.uk | 3709 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-mystery-uk.png" height="150px" /> | GREAT! Mystery |
+| sky | en | GreatMysteryPlus1.uk | 3771 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-mystery-plus-uk.png" height="150px" /> | GREAT! Mystery +1 |
+| freeview | en | GreatMovies.uk | 15584 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-uk.png" height="150px" /> | GREAT! Movies |
+| sky | en | GreatRomance.uk | 3643 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-uk.png" height="150px" /> | GREAT! romance |
+| sky | en | GreatTV.uk | 4266 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-uk.png" height="150px" /> | GREAT! tv |
+| sky | en | GreatTVPlus1.uk | 5338 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-plus-uk.png" height="150px" /> | GREAT! tv+1 |
 | sky | en | HighStreetTV.uk | 3580 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/high-street-tv-uk.png" height="150px" /> | High Street TV |
 | freeview | en | HobbyMaker.uk | 27840 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/HobbyMaker.png" height="150px" /> | Hobby Maker HD |
 | sky | en | IdealWorld.uk | 1101 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Ideal-World-2023.png" height="150px" /> | Ideal World HD |
@@ -151,8 +146,6 @@ Channel list current as of 2026-01-30 21:50
 | sky | en | Now90s.uk | 1103 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/now-90s-uk.png" height="150px" /> | Now 90s & 00s |
 | sky | en | NowRock.uk | 3682 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/NOW_Rock.png" height="150px" /> | Now Rock |
 | sky | en | PBSAmerica.uk | 5500 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pbs-america-uk.png" height="150px" /> | PBS America |
-| sky | en | Pop.uk | 3750 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-uk.png" height="150px" /> | Pop |
-| sky | en | PopPlus1.uk | 4216 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-plus-uk.png" height="150px" /> | POP+1 |
 | sky | en | Quest.uk | 6761 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png" height="150px" /> | Quest |
 | sky | en | QuestHD.uk | 1128 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png" height="150px" /> | Quest HD |
 | sky | en | QuestHD.ie | 1130 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png" height="150px" /> | Quest HD ROI |
@@ -194,6 +187,8 @@ Channel list current as of 2026-01-30 21:50
 | sky | en | ThatsTV2.uk | 1311 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-TV-2.png" height="150px" /> | That's TV 2 |
 | sky | en | ThatsTV3.uk | 1134 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_TV_3.png" height="150px" /> | That's TV 3 |
 | sky | en | TJC.uk | 1113 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tjc-the-jewellery-channel-uk.png" height="150px" /> | TJC HD |
+| sky | en | TLC.uk | 3812 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TLC.png" height="150px" /> | TLC |
+| sky | en | TLCPlus1.uk | 5451 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TLC-Plus-1.png" height="150px" /> | TLC+1 |
 | sky | en | TogetherTV.uk | 1872 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/together-tv-uk.png" height="150px" /> | Together TV |
 | sky | en | Travelxp.in | 1226 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/travelxp-in.png" height="150px" /> | Travelxp |
 | sky | en | TRTWorld.tr | 5071 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-world-tr.png" height="150px" /> | TRT World |
