@@ -1282,10 +1282,10 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "RTEjr.ie",
+      "xmltv_id": "RTEKidsJr.ie",
       "provider_id": "1256",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-jr-uk.png",
-      "name": "RTÉjr"
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-kids-jr-ie.png",
+      "name": "RTÉ KIDSjr"
     },
     {
       "src": "sky",
@@ -1300,7 +1300,7 @@
       "lang": "en",
       "xmltv_id": "RTEOne.ie",
       "provider_id": "2816",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-one-ie.png",
       "name": "RTÉ One HD"
     },
     {
@@ -1308,15 +1308,15 @@
       "lang": "en",
       "xmltv_id": "RTEOnePlus1.ie",
       "provider_id": "2808",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-plus-uk.png",
-      "name": "RTÉ One+1"
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-one-plus-ie.png",
+      "name": "RTÉ One +1"
     },
     {
       "src": "sky",
       "lang": "en",
       "xmltv_id": "RTE2.ie",
       "provider_id": "1270",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-2-ie.png",
       "name": "RTÉ2 HD"
     },
     {
@@ -1324,8 +1324,8 @@
       "lang": "en",
       "xmltv_id": "RTE2Plus1.ie",
       "provider_id": "1158",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-plus-uk.png",
-      "name": "RTÉ2+1"
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-2-plus-ie.png",
+      "name": "RTÉ2 +1"
     },
     {
       "src": "sky",
@@ -1428,8 +1428,8 @@
       "lang": "ga",
       "xmltv_id": "TG4.ie",
       "provider_id": "4034",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tg-4-uk.png",
-      "name": "TG4 HD"
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/tg-4-ie.png",
+      "name": "TG4"
     },
     {
       "src": "sky",
@@ -1652,7 +1652,7 @@
       "lang": "en",
       "xmltv_id": "VirginMediaOne.ie",
       "provider_id": "3881",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-one-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-one-ie.png",
       "name": "Virgin Media One"
     },
     {
@@ -1660,7 +1660,7 @@
       "lang": "en",
       "xmltv_id": "VirginMediaOnePlus1.ie",
       "provider_id": "1025",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-one-plus-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-one-plus-ie.png",
       "name": "Virgin Media One +1"
     },
     {
@@ -1668,7 +1668,7 @@
       "lang": "en",
       "xmltv_id": "VirginMediaTwo.ie",
       "provider_id": "1046",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-two-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-two-ie.png",
       "name": "Virgin Media Two"
     },
     {
@@ -1676,7 +1676,7 @@
       "lang": "en",
       "xmltv_id": "VirginMediaThree.ie",
       "provider_id": "2817",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-three-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-three-ie.png",
       "name": "Virgin Media Three"
     },
     {
@@ -1684,7 +1684,7 @@
       "lang": "en",
       "xmltv_id": "VirginMediaFour.ie",
       "provider_id": "1316",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-four-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-four-ie.png",
       "name": "Virgin Media Four"
     },
     {
