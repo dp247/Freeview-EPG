@@ -1,4 +1,4 @@
-Channel list current as of 2026-01-30 22:36
+Channel list current as of 2026-01-30 23:02
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -161,12 +161,12 @@ Channel list current as of 2026-01-30 22:36
 | sky | en | ReallyPlus1.uk | 1015 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Really-Plus-1.png" height="150px" /> | Really +1 |
 | sky | en | Really.ie | 2324 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Really.png" height="150px" /> | Really ROI |
 | sky | en | RewindTV.uk | 1030 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Rewind_TV.png" height="150px" /> | Rewind TV |
-| sky | en | RTEjr.ie | 1256 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-jr-uk.png" height="150px" /> | RTÉjr |
+| sky | en | RTEKidsJr.ie | 1256 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-kids-jr-ie.png" height="150px" /> | RTÉ KIDSjr |
 | sky | en | RTENews.ie | 2804 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/RTE-News.png" height="150px" /> | RTÉ News |
-| sky | en | RTEOne.ie | 2816 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-uk.png" height="150px" /> | RTÉ One HD |
-| sky | en | RTEOnePlus1.ie | 2808 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-plus-uk.png" height="150px" /> | RTÉ One+1 |
-| sky | en | RTE2.ie | 1270 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-uk.png" height="150px" /> | RTÉ2 HD |
-| sky | en | RTE2Plus1.ie | 1158 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-plus-uk.png" height="150px" /> | RTÉ2+1 |
+| sky | en | RTEOne.ie | 2816 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-one-ie.png" height="150px" /> | RTÉ One HD |
+| sky | en | RTEOnePlus1.ie | 2808 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-one-plus-ie.png" height="150px" /> | RTÉ One +1 |
+| sky | en | RTE2.ie | 1270 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-2-ie.png" height="150px" /> | RTÉ2 HD |
+| sky | en | RTE2Plus1.ie | 1158 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-2-plus-ie.png" height="150px" /> | RTÉ2 +1 |
 | sky | en | S4C.uk | 5701 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png" height="150px" /> | S4C |
 | sky | en | SkyArts.uk | 1752 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Arts.png" height="150px" /> | Sky Arts |
 | sky | en | SkyArts.ie | 1229 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Arts.png" height="150px" /> | Sky Arts ROI |
@@ -179,7 +179,7 @@ Channel list current as of 2026-01-30 22:36
 | rt | en | STVNorthPlus1.uk | htrg | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-plus-uk.png" height="150px" /> | STV North +1 |
 | sky | en | TalkingPicturesTV.uk | 5252 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talking-pictures-tv-uk.png" height="150px" /> | Talking Pictures TV |
 | sky | en | TBNUK.uk | 3109 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tbn-uk.png" height="150px" /> | TBN UK |
-| sky | ga | TG4.ie | 4034 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tg-4-uk.png" height="150px" /> | TG4 HD |
+| sky | ga | TG4.ie | 4034 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/tg-4-ie.png" height="150px" /> | TG4 |
 | sky | en | ThatsDance.uk | 1224 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_Dance.png" height="150px" /> | That's Dance |
 | sky | en | ThatsFabulous.uk | 1222 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_Fabulous.png" height="150px" /> | That's Fabulous |
 | sky | en | ThatsMelody.uk | 1305 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_Melody.png" height="150px" /> | That's Melody |
@@ -207,11 +207,11 @@ Channel list current as of 2026-01-30 22:36
 | sky | en | UAndWPlus1.uk | 2616 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26WPlus1.png" height="150px" /> | U&W+1 |
 | sky | en | UAndYesterday.uk | 2305 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26YESTERDAY.png" height="150px" /> | U&Yesterday |
 | sky | en | UAndYesterdayPlus1.uk | 2615 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26YESTERDAYPlus1.png" height="150px" /> | U&Yesterday+1 |
-| sky | en | VirginMediaOne.ie | 3881 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-one-uk.png" height="150px" /> | Virgin Media One |
-| sky | en | VirginMediaOnePlus1.ie | 1025 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-one-plus-uk.png" height="150px" /> | Virgin Media One +1 |
-| sky | en | VirginMediaTwo.ie | 1046 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-two-uk.png" height="150px" /> | Virgin Media Two |
-| sky | en | VirginMediaThree.ie | 2817 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-three-uk.png" height="150px" /> | Virgin Media Three |
-| sky | en | VirginMediaFour.ie | 1316 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/virgin-media-four-uk.png" height="150px" /> | Virgin Media Four |
+| sky | en | VirginMediaOne.ie | 3881 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-one-ie.png" height="150px" /> | Virgin Media One |
+| sky | en | VirginMediaOnePlus1.ie | 1025 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-one-plus-ie.png" height="150px" /> | Virgin Media One +1 |
+| sky | en | VirginMediaTwo.ie | 1046 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-two-ie.png" height="150px" /> | Virgin Media Two |
+| sky | en | VirginMediaThree.ie | 2817 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-three-ie.png" height="150px" /> | Virgin Media Three |
+| sky | en | VirginMediaFour.ie | 1316 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-four-ie.png" height="150px" /> | Virgin Media Four |
 | sky | en | WION.in | 1084 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/wion-in.png" height="150px" /> | WION HD |
 | sky | en | BBCR1.uk | 2111 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1.png" height="150px" /> | BBC Radio 1 |
 | sky | en | BBCR1X.uk | 2126 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1Xtra.png" height="150px" /> | BBC Radio 1 Xtra |
