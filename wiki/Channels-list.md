@@ -1,4 +1,4 @@
-Channel list current as of 2026-01-21 17:09
+Channel list current as of 2026-01-30 21:50
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -99,8 +99,8 @@ Channel list current as of 2026-01-21 17:09
 | sky | en | GreatXmasPlus1.uk | 3751 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-plus-hz-uk.png" height="150px" /> | GREAT! romance+1 |
 | sky | en | GreatTV.uk | 4266 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-hz-uk.png" height="150px" /> | GREAT! tv |
 | sky | en | GreatTVPlus1.uk | 5338 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-plus-hz-uk.png" height="150px" /> | GREAT! tv+1 |
-| sky | en | TLC.uk | 3812 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tlc-uk.png" height="150px" /> | TLC |
-| sky | en | TLCPlus1.uk | 5451 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tlc-plus-uk.png" height="150px" /> | TLC+1 |
+| sky | en | TLC.uk | 3812 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TLC.png" height="150px" /> | TLC |
+| sky | en | TLCPlus1.uk | 5451 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TLC-Plus-1.png" height="150px" /> | TLC+1 |
 | sky | en | HighStreetTV.uk | 3580 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/high-street-tv-uk.png" height="150px" /> | High Street TV |
 | freeview | en | HobbyMaker.uk | 27840 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/HobbyMaker.png" height="150px" /> | Hobby Maker HD |
 | sky | en | IdealWorld.uk | 1101 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Ideal-World-2023.png" height="150px" /> | Ideal World HD |
@@ -164,8 +164,9 @@ Channel list current as of 2026-01-21 17:09
 | sky | en | QVCExtraUK.uk | 3359 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-extra-uk.png" height="150px" /> | QVC Extra |
 | sky | en | QVCStyleUK.uk | 1118 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-style-uk.png" height="150px" /> | QVC Style UK |
 | sky | en | QVCUK.uk | 1076 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-uk.png" height="150px" /> | QVC UK |
-| sky | en | Really.uk | 2325 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-uk.png" height="150px" /> | Really |
-| sky | en | Really.ie | 2324 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-uk.png" height="150px" /> | Really ROI |
+| sky | en | Really.uk | 2325 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Really.png" height="150px" /> | Really |
+| sky | en | ReallyPlus1.uk | 1015 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Really-Plus-1.png" height="150px" /> | Really +1 |
+| sky | en | Really.ie | 2324 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Really.png" height="150px" /> | Really ROI |
 | sky | en | RewindTV.uk | 1030 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Rewind_TV.png" height="150px" /> | Rewind TV |
 | sky | en | RTEjr.ie | 1256 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-jr-uk.png" height="150px" /> | RTÉjr |
 | sky | en | RTENews.ie | 2804 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/RTE-News.png" height="150px" /> | RTÉ News |
