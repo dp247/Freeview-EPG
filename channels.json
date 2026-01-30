@@ -785,7 +785,7 @@
       "lang": "en",
       "xmltv_id": "TLC.uk",
       "provider_id": "3812",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tlc-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TLC.png",
       "name": "TLC"
     },
     {
@@ -793,7 +793,7 @@
       "lang": "en",
       "xmltv_id": "TLCPlus1.uk",
       "provider_id": "5451",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tlc-plus-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TLC-Plus-1.png",
       "name": "TLC+1"
     },
     {
@@ -1308,15 +1308,23 @@
       "lang": "en",
       "xmltv_id": "Really.uk",
       "provider_id": "2325",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Really.png",
       "name": "Really"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "ReallyPlus1.uk",
+      "provider_id": "1015",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Really-Plus-1.png",
+      "name": "Really +1"
     },
     {
       "src": "sky",
       "lang": "en",
       "xmltv_id": "Really.ie",
       "provider_id": "2324",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Really.png",
       "name": "Really ROI"
     },
     {
