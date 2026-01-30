@@ -678,7 +678,7 @@
       "src": "sky",
       "lang": "en",
       "xmltv_id": "GemsTV.uk",
-      "provider_id": "3010",
+      "provider_id": "1042",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gemporia-uk.png",
       "name": "Gemporia TV"
     },
@@ -694,82 +694,58 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "GreatMoviesAction.uk",
+      "xmltv_id": "GreatAction.uk",
       "provider_id": "3708",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-hz-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-uk.png",
       "name": "GREAT! action"
     },
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "GreatMoviesActionPlus1.uk",
+      "xmltv_id": "GreatActionPlus1.uk",
       "provider_id": "3721",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-plus-hz-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-plus-uk.png",
       "name": "GREAT! action+1"
     },
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "GreatMovies.uk",
+      "xmltv_id": "GreatMystery.uk",
       "provider_id": "3709",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-hz-uk.png",
-      "name": "GREAT! movies"
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-mystery-uk.png",
+      "name": "GREAT! Mystery"
     },
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "GreatMoviesPlus1.uk",
+      "xmltv_id": "GreatMysteryPlus1.uk",
       "provider_id": "3771",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-plus-hz-uk.png",
-      "name": "GREAT! movies+1"
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-mystery-plus-uk.png",
+      "name": "GREAT! Mystery +1"
     },
     {
       "src": "freeview",
       "lang": "en",
-      "xmltv_id": "GreatMystery.uk",
+      "xmltv_id": "GreatMovies.uk",
       "provider_id": "15584",
       "region_id": "64257",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Great-Movies-Mystery-hz.png",
-      "name": "GREAT! mystery"
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-uk.png",
+      "name": "GREAT! Movies"
     },
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "GreatReal.uk",
-      "provider_id": "1234",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-real-hz-uk.png",
-      "name": "GREAT! real"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "GreatRealPlus1.uk",
-      "provider_id": "1288",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-real-plus-hz-uk.png",
-      "name": "GREAT! real+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "GreatXmas.uk",
+      "xmltv_id": "GreatRomance.uk",
       "provider_id": "3643",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-hz-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-uk.png",
       "name": "GREAT! romance"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "GreatXmasPlus1.uk",
-      "provider_id": "3751",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-plus-hz-uk.png",
-      "name": "GREAT! romance+1"
     },
     {
       "src": "sky",
       "lang": "en",
       "xmltv_id": "GreatTV.uk",
       "provider_id": "4266",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-hz-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-uk.png",
       "name": "GREAT! tv"
     },
     {
@@ -777,24 +753,8 @@
       "lang": "en",
       "xmltv_id": "GreatTVPlus1.uk",
       "provider_id": "5338",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-plus-hz-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-plus-uk.png",
       "name": "GREAT! tv+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TLC.uk",
-      "provider_id": "3812",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TLC.png",
-      "name": "TLC"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TLCPlus1.uk",
-      "provider_id": "5451",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TLC-Plus-1.png",
-      "name": "TLC+1"
     },
     {
       "src": "sky",
@@ -1202,22 +1162,6 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "Pop.uk",
-      "provider_id": "3750",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-uk.png",
-      "name": "Pop"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "PopPlus1.uk",
-      "provider_id": "4216",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-plus-uk.png",
-      "name": "POP+1"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
       "xmltv_id": "Quest.uk",
       "provider_id": "6761",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png",
@@ -1542,6 +1486,22 @@
       "provider_id": "1113",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tjc-the-jewellery-channel-uk.png",
       "name": "TJC HD"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "TLC.uk",
+      "provider_id": "3812",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TLC.png",
+      "name": "TLC"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "TLCPlus1.uk",
+      "provider_id": "5451",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TLC-Plus-1.png",
+      "name": "TLC+1"
     },
     {
       "src": "sky",
