@@ -1,8 +1,10 @@
 import unittest
 from datetime import timedelta
 
-import pytz
-from lxml import etree
+import pytest
+
+pytz = pytest.importorskip("pytz")
+etree = pytest.importorskip("lxml.etree")
 
 from src.xmltv import build_xmltv, clean_text, parse_duration, remove_control_characters
 

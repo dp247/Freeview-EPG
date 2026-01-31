@@ -36,10 +36,19 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 - If you'd like to suggest a change or feature, feel free to either open a blank fork and PR back in. Big changes should be discussed in a [blank issue](https://github.com/dp247/Freeview-EPG/issues/new) first.
 
 ### Testing
-Install dependencies and run the test suite:
+Install dependencies and run the test suite. The core unit tests use
+``unittest``, and additional provider parsing tests are exercised via
+``pytest``.
 ```bash
 pip install -r requirements.txt
 python -m unittest discover -s tests -v
+```
+
+To run the full test suite (including mocked provider tests), install the
+development dependencies and run ``pytest``:
+```bash
+pip install -r requirements-dev.txt
+pytest
 ```
 
 ### To-do
