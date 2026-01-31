@@ -35,16 +35,17 @@ def fetch_programmes(channel: Dict[str, Any], ctx: Context) -> List[Dict[str, An
     epoch_times = [int((base + timedelta(days=i)).timestamp()) for i in range(ctx.days)]
 
     # Use caches on the context to avoid redundant requests
-    data_cache: Dict[int, Any] = ctx.caches.setdefault("freeview_data", {})
+    data_cache: Dict[Tuple[Any, int], Any] = ctx.caches.setdefault("freeview_data", {})
     # Note: we must distinguish "missing" from "cached None" (when details fetch fails).
-    details_cache: Dict[Tuple[int, Any, str, str], Optional[Dict]] = ctx.caches.setdefault(
+    details_cache: Dict[Tuple[Any, int, Any, str, str], Optional[Dict]] = ctx.caches.setdefault(
         "freeview_details", {}
     )
 
     _missing = object()
 
     for epoch in epoch_times:
-        if epoch not in data_cache:
+        data_key = (region_id, epoch)
+        if data_key not in data_cache:
             url = "https://www.freeview.co.uk/api/tv-guide"
             try:
                 resp = ctx.session.get(
@@ -53,11 +54,11 @@ def fetch_programmes(channel: Dict[str, Any], ctx: Context) -> List[Dict[str, An
                     timeout=(5, 30),
                 )
                 resp.raise_for_status()
-                data_cache[epoch] = resp.json()
+                data_cache[data_key] = resp.json()
             except Exception:
                 # Skip this epoch on any error
                 continue
-        epg_data = data_cache[epoch].get("data", {}).get("programs", [])
+        epg_data = data_cache[data_key].get("data", {}).get("programs", [])
         for service in epg_data:
             if service.get("service_id") != provider_id:
                 continue
@@ -80,7 +81,13 @@ def fetch_programmes(channel: Dict[str, Any], ctx: Context) -> List[Dict[str, An
                 # Build a cache key for the detail request
                 service_id = service.get("service_id")
                 program_id = listing.get("program_id")
-                details_key = (service_id, program_id, start_time_str, duration_str)
+                details_key = (
+                    region_id,
+                    service_id,
+                    program_id,
+                    start_time_str,
+                    duration_str,
+                )
                 info = details_cache.get(details_key, _missing)
                 if info is _missing:
                     data_url = (
