@@ -1,4 +1,4 @@
-Channel list current as of 2026-01-31 16:20
+Channel list current as of 2026-01-31 17:30
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -74,7 +74,6 @@ Channel list current as of 2026-01-31 16:20
 | sky | en | E4HD.uk | 4076 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-uk.png" height="150px" /> | E4 HD |
 | sky | en | E4Extra.uk | 1758 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-extra-uk.png" height="150px" /> | E4 Extra |
 | sky | en | E4Plus1.uk | 3300 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-plus-uk.png" height="150px" /> | E4 +1 |
-| sky | en | E4Plus1.ie | 1668 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-plus-uk.png" height="150px" /> | E4 +1 ROI |
 | sky | en | EuronewsEnglish.fr | 4604 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Euronews.png" height="150px" /> | Euronews |
 | sky | en | Film4.uk | 1627 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png" height="150px" /> | Film4 |
 | sky | en | Film4HD.uk | 4044 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png" height="150px" /> | Film4 HD |
