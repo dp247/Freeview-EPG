@@ -36,10 +36,10 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 - If you'd like to suggest a change or feature, feel free to either open a blank fork and PR back in. Big changes should be discussed in a [blank issue](https://github.com/dp247/Freeview-EPG/issues/new) first.
 
 ### Testing
-Install the development dependencies and run the test suite:
-```
-pip install -r requirements-dev.txt
-pytest
+Install dependencies and run the test suite:
+```bash
+pip install -r requirements.txt
+python -m unittest discover -s tests -v
 ```
 
 ### To-do
