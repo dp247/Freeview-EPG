@@ -35,6 +35,13 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 - You can request channels [here](https://github.com/dp247/Freeview-EPG/issues/new?assignees=&labels=channel&template=channel-request.md&title=%5BChannel+request%5D). Please bear in mind that a request is not a guarantee.
 - If you'd like to suggest a change or feature, feel free to either open a blank fork and PR back in. Big changes should be discussed in a [blank issue](https://github.com/dp247/Freeview-EPG/issues/new) first.
 
+### Testing
+Install the development dependencies and run the test suite:
+```
+pip install -r requirements-dev.txt
+pytest
+```
+
 ### To-do
 - ✅ Improve code, maybe through splitting files and OOP
 - Speed up EPG processing, probably using async code
