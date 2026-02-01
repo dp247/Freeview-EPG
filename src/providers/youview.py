@@ -11,6 +11,8 @@ from __future__ import annotations
 from datetime import datetime, timedelta, timezone
 from typing import Any, Dict, Iterable, List, Optional
 
+from tomlkit import key, value
+
 from ..xmltv import parse_duration
 from .base import Context
 
@@ -31,19 +33,10 @@ def _intervals(days: int, step_hours: int = 12) -> Iterable[str]:
 def _extract_entries(payload: Any) -> List[Dict[str, Any]]:
     if not isinstance(payload, dict):
         return []
-    for key in ("entries", "events"):
+    for key in payload:
         value = payload.get(key)
         if isinstance(value, list):
             return [item for item in value if isinstance(item, dict)]
-    for key in ("schedule", "schedules"):
-        value = payload.get(key)
-        if isinstance(value, dict):
-            return _extract_entries(value)
-        if isinstance(value, list):
-            entries: List[Dict[str, Any]] = []
-            for item in value:
-                entries.extend(_extract_entries(item))
-            return entries
     return []
 
 
@@ -103,17 +96,10 @@ def _pick_text(*values: Any) -> Optional[str]:
 
 def _extract_episode(payload: Any) -> Optional[Dict[str, Any]]:
     if isinstance(payload, dict):
-        for key in ("episode", "entity"):
-            value = payload.get(key)
-            if isinstance(value, dict):
-                return value
-        for key in ("entries", "episodes", "items", "results"):
-            value = payload.get(key)
-            if isinstance(value, list):
-                for item in value:
-                    if isinstance(item, dict):
-                        return item
-        return payload
+      value = payload.get("items")[0]
+      if isinstance(value, dict):
+          return value
+      return payload
     if isinstance(payload, list):
         for item in payload:
             if isinstance(item, dict):
@@ -135,15 +121,10 @@ def _extract_synopsis(data: Dict[str, Any]) -> Optional[str]:
 
 def _extract_instance_id(entry: Dict[str, Any]) -> Optional[str]:
     for key in ("instanceId", "instance_id", "instanceID"):
-        value = entry.get(key)
-        if isinstance(value, str) and value.strip():
-            return value.strip()
-    instance = entry.get("instance")
-    if isinstance(instance, dict):
-        value = instance.get("id") or instance.get("instanceId")
-        if isinstance(value, str) and value.strip():
-            return value.strip()
-    return None
+      value = entry.get('id')
+      if isinstance(value, str) and value.strip():
+        return value.strip()
+      return None
 
 
 def _fetch_episode_details(instance_id: str, ctx: Context) -> Optional[Dict[str, Any]]:
@@ -196,31 +177,11 @@ def fetch_programmes(channel: Dict[str, Any], ctx: Context) -> List[Dict[str, An
 
         for entry in _extract_entries(payload):
             title = _pick_text(entry.get("title"), entry.get("programmeTitle"))
-            start_ts = _parse_timestamp(
-                entry.get("start")
-                or entry.get("startTime")
-                or entry.get("startTimeUtc")
-                or entry.get("startTimeUTC")
-            )
-            end_ts = _parse_timestamp(
-                entry.get("end")
-                or entry.get("endTime")
-                or entry.get("endTimeUtc")
-                or entry.get("endTimeUTC")
-            )
-            if start_ts is None:
+            start_ts = _parse_timestamp(entry.get("publishedStartTime"))
+            duration_td = _parse_duration_value(entry.get("publishedDuration"))
+            if duration_td is None:
                 continue
-            if end_ts is None:
-                duration_td = _parse_duration_value(
-                    entry.get("duration")
-                    or entry.get("durationSeconds")
-                    or entry.get("durationMillis")
-                    or entry.get("durationMs")
-                    or entry.get("durationIso")
-                )
-                if duration_td is None:
-                    continue
-                end_ts = int(start_ts + duration_td.total_seconds())
+            end_ts = int(start_ts + duration_td.total_seconds())
 
             instance_id = _extract_instance_id(entry)
             if instance_id:
