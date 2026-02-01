@@ -1,13 +1,6 @@
 {
   "channels": [
     {
-      "src": "yv",
-      "lang": "en",
-      "xmltv_id": "EEYouViewTest.uk",
-      "provider_id": "dvb://233a..1044",
-      "name": "EE/YouView Test"
-    },
-    {
       "src": "sky",
       "lang": "en",
       "xmltv_id": "4seven.uk",
