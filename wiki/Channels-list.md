@@ -1,8 +1,7 @@
-Channel list current as of 2026-02-01 22:27
+Channel list current as of 2026-02-01 22:37
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
-| yv | en | EEYouViewTest.uk | dvb://233a..1044 |  | EE/YouView Test |
 | sky | en | 4seven.uk | 3150 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-seven-uk.png" height="150px" /> | 4Seven |
 | sky | en | 5.uk | 4058 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" height="150px" /> | 5 HD |
 | sky | en | 5Plus1.uk | 1839 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-plus-uk.png" height="150px" /> | 5+1 |
