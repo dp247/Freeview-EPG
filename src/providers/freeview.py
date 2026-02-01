@@ -11,7 +11,7 @@ programme dictionaries ready for XMLTV serialisation.
 from datetime import datetime, timedelta, timezone
 from typing import List, Dict, Any, Tuple, Optional
 
-from ..xmltv import parse_duration
+from ..utils.parsing import parse_duration_value, parse_timestamp
 from .base import Context
 
 
@@ -71,13 +71,11 @@ def fetch_programmes(channel: Dict[str, Any], ctx: Context) -> List[Dict[str, An
                 if not start_time_str or not duration_str:
                     continue
                 try:
-                    start_dt = datetime.strptime(start_time_str, "%Y-%m-%dT%H:%M:%S%z")
-                    duration_td = parse_duration(duration_str)
+                    start_ts = parse_timestamp(start_time_str)
+                    duration_seconds = parse_duration_value(duration_str)
                 except Exception:
                     continue
-                end_dt = start_dt + duration_td
-                start_ts = start_dt.timestamp()
-                end_ts = end_dt.timestamp()
+                end_ts = start_ts + duration_seconds
                 # Build a cache key for the detail request
                 service_id = service.get("service_id")
                 program_id = listing.get("program_id")
