@@ -6,12 +6,8 @@ service locator. Episode metadata is enriched via the instance-id endpoint,
 and images are derived from the instance-id when available.
 """
 
-from __future__ import annotations
-
 from datetime import datetime, timedelta, timezone
 from typing import Any, Dict, Iterable, List, Optional
-
-from tomlkit import key, value
 
 from ..xmltv import parse_duration
 from .base import Context
