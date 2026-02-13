@@ -2059,12 +2059,36 @@
       "name": "LBC"
     },
     {
+      "src": "rt",
+      "lang": "en",
+      "xmltv_id": "PlanetRock.uk",
+      "provider_id": "httg",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Planet-Rock.png",
+      "name": "Planet Rock"
+    },
+    {
+      "src": "rt",
+      "lang": "en",
+      "xmltv_id": "PremierRadio.uk",
+      "provider_id": "htmp",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Premier-Radio.png",
+      "name": "Premier Radio"
+    },
+    {
       "src": "sky",
       "lang": "en",
       "xmltv_id": "RadioX.uk",
       "provider_id": "2904",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Radio-X.png",
       "name": "Radio X"
+    },
+    {
+      "src": "rt",
+      "lang": "en",
+      "xmltv_id": "RNIBConnectRadio.uk",
+      "provider_id": "hwbr",
+      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/RNIB-Connect-Radio.png",
+      "name": "RNIB Connect"
     },
     {
       "src": "sky",
