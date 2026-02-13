@@ -1,4 +1,4 @@
-Channel list current as of 2026-02-01 22:37
+Channel list current as of 2026-02-13 16:35
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -258,7 +258,10 @@ Channel list current as of 2026-02-01 22:37
 | sky | en | HeartRadio.uk | 2909 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart.png" height="150px" /> | Heart Radio |
 | sky | en | LBCNews.uk | 1205 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/LBC-News.png" height="150px" /> | LBC News |
 | sky | en | LBCRadio.uk | 2926 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/LBC.png" height="150px" /> | LBC |
+| rt | en | PlanetRock.uk | httg | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Planet-Rock.png" height="150px" /> | Planet Rock |
+| rt | en | PremierRadio.uk | htmp | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Premier-Radio.png" height="150px" /> | Premier Radio |
 | sky | en | RadioX.uk | 2904 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Radio-X.png" height="150px" /> | Radio X |
+| rt | en | RNIBConnectRadio.uk | hwbr | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/RNIB-Connect-Radio.png" height="150px" /> | RNIB Connect |
 | sky | en | SmoothRadio.uk | 2917 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Smooth-Radio.png" height="150px" /> | Smooth Radio |
 | sky | en | TalkSport.uk | 2902 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Talksport.png" height="150px" /> | talkSPORT |
 | sky | en | VirginRadio.uk | 1148 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Virgin-Radio-UK.png" height="150px" /> | Virgin Radio |
