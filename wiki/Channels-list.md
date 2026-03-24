@@ -1,4 +1,4 @@
-Channel list current as of 2026-02-13 16:35
+Channel list current as of 2026-03-24 22:46
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -36,8 +36,8 @@ Channel list current as of 2026-02-13 16:35
 | sky | en | BBCOneYorkshire.uk | 3017 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" height="150px" /> | BBC One Yorkshire HD |
 | sky | en | BBCParliament.uk | 3020 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-uk.png" height="150px" /> | BBC Parliament HD |
 | sky | en | BBCRedButton1.uk | 2053 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-red-button-uk.png" height="150px" /> | BBC Red Button 1 |
-| sky | en | BBCScotland.uk | 1138 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png" height="150px" /> | BBC Scotland HD |
-| sky | en | BBCThreeHD.uk | 2080 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" height="150px" /> | BBC Three HD |
+| sky | en | BBCScotland.uk | 1138 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-scotland-uk.png" height="150px" /> | BBC Scotland HD |
+| sky | en | BBCThreeHD.uk | 2080 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-three-uk.png" height="150px" /> | BBC Three HD |
 | sky | en | BBCTwoHD.uk | 2075 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" height="150px" /> | BBC Two HD |
 | sky | en | BBCTwoNorthernIreland.uk | 3019 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" height="150px" /> | BBC Two NI HD |
 | sky | en | BBCTwoWales.uk | 3015 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" height="150px" /> | BBC Two Wales HD |
@@ -82,8 +82,7 @@ Channel list current as of 2026-02-13 16:35
 | sky | en | FoodNetwork.uk | 3590 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-network-uk.png" height="150px" /> | Food Network |
 | sky | en | FoodNetwork.ie | 5617 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-network-uk.png" height="150px" /> | Food Network ROI |
 | sky | en | FoodNetworkPlus1.uk | 3592 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-network-plus-uk.png" height="150px" /> | Food Network+1 |
-| sky | en | Foodxp.uk | 1227 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-xp-uk.png" height="150px" /> | Foodxp |
-| sky | en | France24English.fr | 1121 | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" height="150px" /> | France 24 HD |
+| sky | en | France24English.fr | 1121 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-24-fr.png" height="150px" /> | France 24 HD |
 | sky | en | GBNews.uk | 1196 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gb-news-uk.png" height="150px" /> | GB News HD |
 | sky | en | GemsTV.uk | 1042 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gemporia-uk.png" height="150px" /> | Gemporia TV |
 | freeview | en | GIGS.uk | 16170 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/GIGS.png" height="150px" /> | GIGS |
@@ -138,8 +137,8 @@ Channel list current as of 2026-02-13 16:35
 | sky | en | Movies24.uk | 4420 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/movies-24-uk.png" height="150px" /> | Movies24 |
 | sky | en | Movies24Plus.uk | 4421 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/movies-24-plus-uk.png" height="150px" /> | Movies24+ |
 | sky | en | NDTVWorld.in | 1821 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/.Light/NDTV%2024x7.png" height="150px" /> | NDTV World |
-| freeview | en | NewsmaxTV.uk | 16328 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" height="150px" /> | Newsmax |
-| sky | en | NHKWorldJapan.jp | 3147 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" height="150px" /> | NHK World HD |
+| freeview | en | NewsmaxTV.uk | 16328 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/newsmax-tv-us.png" height="150px" /> | Newsmax |
+| sky | en | NHKWorldJapan.jp | 3147 | <img src="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" height="150px" /> | NHK World HD |
 | sky | en | Now70s.uk | 3403 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/now-70s-uk.png" height="150px" /> | Now 70s |
 | sky | en | Now80s.uk | 4541 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/now-80s-uk.png" height="150px" /> | Now 80s |
 | sky | en | Now90s.uk | 1103 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/now-90s-uk.png" height="150px" /> | Now 90s & 00s |
@@ -149,9 +148,9 @@ Channel list current as of 2026-02-13 16:35
 | sky | en | QuestHD.uk | 1128 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png" height="150px" /> | Quest HD |
 | sky | en | QuestHD.ie | 1130 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png" height="150px" /> | Quest HD ROI |
 | sky | en | QuestPlus1.uk | 3621 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-plus-uk.png" height="150px" /> | QUEST+1 |
-| sky | en | QuestRed.uk | 2411 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-red-hz-uk.png" height="150px" /> | Quest Red |
-| sky | en | QuestRed.ie | 2410 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-red-hz-uk.png" height="150px" /> | Quest Red ROI |
-| sky | en | QuestRedPlus1.uk | 4547 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-red-plus-hz-uk.png" height="150px" /> | Quest Red+1 |
+| sky | en | QuestRed.uk | 2411 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/quest-red-uk.png" height="150px" /> | Quest Red |
+| sky | en | QuestRed.ie | 2410 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/quest-red-uk.png" height="150px" /> | Quest Red ROI |
+| sky | en | QuestRedPlus1.uk | 4547 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/quest-red-plus-uk.png" height="150px" /> | Quest Red+1 |
 | sky | en | QVCBeautyUK.uk | 4105 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-beauty-uk.png" height="150px" /> | QVC Beauty |
 | sky | en | QVCExtraUK.uk | 3359 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-extra-uk.png" height="150px" /> | QVC Extra |
 | sky | en | QVCStyleUK.uk | 1118 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-style-uk.png" height="150px" /> | QVC Style UK |
