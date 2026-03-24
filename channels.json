@@ -1162,6 +1162,14 @@
     {
       "src": "sky",
       "lang": "en",
+      "xmltv_id": "PanjabRadio.uk",
+      "provider_id": "3363",
+      "icon_url": "https://www.panjabradio.co.uk/wp-content/uploads/2021/03/Logo-2-768x768.png",
+      "name": "Panjab Radio"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
       "xmltv_id": "PBSAmerica.uk",
       "provider_id": "5500",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pbs-america-uk.png",
