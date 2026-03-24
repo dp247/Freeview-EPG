@@ -1,4 +1,4 @@
-Channel list current as of 2026-03-24 22:46
+Channel list current as of 2026-03-24 23:07
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -12,9 +12,9 @@ Channel list current as of 2026-03-24 22:46
 | sky | en | 5USA.uk | 3022 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-usa-uk.png" height="150px" /> | 5 USA |
 | sky | en | 5USAPlus1.uk | 3027 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-usa-plus-uk.png" height="150px" /> | 5USA+1 |
 | freeview | ar-ae | AlJazeeraArabic.qa | 16284 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" height="150px" /> | Al Jazeera Arabic |
-| sky | en | AlJazeeraEnglish.qa | 1023 | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" height="150px" /> | Al Jazeera HD |
+| sky | en | AlJazeeraEnglish.qa | 1023 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" height="150px" /> | Al Jazeera HD |
 | sky | en | ArirangTV.kr | 1066 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" height="150px" /> | Arirang TV |
-| sky | en | AriseNews.uk | 5040 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/.Light/Arise%20News.png" height="150px" /> | Arise News |
+| sky | en | AriseNews.uk | 5040 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/arise-news-uk.png" height="150px" /> | Arise News |
 | sky | en | BBCAlba.uk | 3021 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png" height="150px" /> | BBC ALBA HD |
 | sky | en | BBCFourHD.uk | 2086 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" height="150px" /> | BBC Four HD |
 | sky | en | BBCNews.uk | 2085 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" height="150px" /> | BBC NEWS HD |
@@ -69,6 +69,7 @@ Channel list current as of 2026-03-24 22:46
 | sky | en | DMAX.uk | 3618 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png" height="150px" /> | DMAX |
 | sky | en | DMAX.ie | 4548 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png" height="150px" /> | DMAX ROI |
 | sky | en | DMAXUKPlus1.uk | 1865 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-plus-uk.png" height="150px" /> | DMAX+1 |
+| sky | en | DMNewsEnglish.uk | 1189 | <img src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/10000/10000/skychb1189.png" height="150px" /> | DM News English |
 | sky | en | E4.uk | 1628 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-uk.png" height="150px" /> | E4 |
 | sky | en | E4.ie | 1637 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-uk.png" height="150px" /> | E4 ROI |
 | sky | en | E4HD.uk | 4076 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-uk.png" height="150px" /> | E4 HD |
@@ -94,7 +95,8 @@ Channel list current as of 2026-03-24 22:46
 | sky | en | GreatRomance.uk | 3643 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-uk.png" height="150px" /> | GREAT! romance |
 | sky | en | GreatTV.uk | 4266 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-uk.png" height="150px" /> | GREAT! tv |
 | sky | en | GreatTVPlus1.uk | 5338 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-plus-uk.png" height="150px" /> | GREAT! tv+1 |
-| sky | en | HighStreetTV.uk | 3580 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/high-street-tv-uk.png" height="150px" /> | High Street TV |
+| sky | en | HighStreetTV1.uk | 3580 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/high-street-tv-uk.png" height="150px" /> | High Street TV 1 |
+| sky | en | HighStreetTV2.uk | 5706 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/high-street-tv-uk.png" height="150px" /> | High Street TV 2 |
 | freeview | en | HobbyMaker.uk | 27840 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/HobbyMaker.png" height="150px" /> | Hobby Maker HD |
 | sky | en | IdealWorld.uk | 1101 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Ideal-World-2023.png" height="150px" /> | Ideal World HD |
 | sky | en | ITV1Anglia.uk | 1045 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" height="150px" /> | ITV1 Anglia HD |
@@ -136,6 +138,7 @@ Channel list current as of 2026-03-24 22:46
 | sky | en | More4Plus1.uk | 3310 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-more-plus-uk.png" height="150px" /> | More4+1 |
 | sky | en | Movies24.uk | 4420 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/movies-24-uk.png" height="150px" /> | Movies24 |
 | sky | en | Movies24Plus.uk | 4421 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/movies-24-plus-uk.png" height="150px" /> | Movies24+ |
+| sky | en | MustHaveIdeas.uk | 1089 | <img src="https://cdn-img.widilo.co.uk/img/must-have-ideas-logo.png?v=638548256962670412" height="150px" /> | Must Have Ideas |
 | sky | en | NDTVWorld.in | 1821 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/.Light/NDTV%2024x7.png" height="150px" /> | NDTV World |
 | freeview | en | NewsmaxTV.uk | 16328 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/newsmax-tv-us.png" height="150px" /> | Newsmax |
 | sky | en | NHKWorldJapan.jp | 3147 | <img src="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" height="150px" /> | NHK World HD |
@@ -166,6 +169,7 @@ Channel list current as of 2026-03-24 22:46
 | sky | en | RTE2.ie | 1270 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-2-ie.png" height="150px" /> | RTÉ2 HD |
 | sky | en | RTE2Plus1.ie | 1158 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-2-plus-ie.png" height="150px" /> | RTÉ2 +1 |
 | sky | en | S4C.uk | 5701 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png" height="150px" /> | S4C |
+| sky | en | ShopUnlimited.uk | 3404 | <img src="https://www.shopunlimitedlive.com/cdn/shop/files/LHCCS100_33.png?v=1761321260&width=100" height="150px" /> | Shop Unlimited |
 | sky | en | SkyArts.uk | 1752 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Arts.png" height="150px" /> | Sky Arts |
 | sky | en | SkyArts.ie | 1229 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Arts.png" height="150px" /> | Sky Arts ROI |
 | sky | en | SkyMix.uk | 1831 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Mix.png" height="150px" /> | Sky Mix HD |
@@ -176,7 +180,6 @@ Channel list current as of 2026-03-24 22:46
 | rt | en | STVNorth.uk | htrf | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-uk.png" height="150px" /> | STV North HD |
 | rt | en | STVNorthPlus1.uk | htrg | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-plus-uk.png" height="150px" /> | STV North +1 |
 | sky | en | TalkingPicturesTV.uk | 5252 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talking-pictures-tv-uk.png" height="150px" /> | Talking Pictures TV |
-| sky | en | TBNUK.uk | 3109 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tbn-uk.png" height="150px" /> | TBN UK |
 | sky | ga | TG4.ie | 4034 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/tg-4-ie.png" height="150px" /> | TG4 |
 | sky | en | ThatsDance.uk | 1224 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_Dance.png" height="150px" /> | That's Dance |
 | sky | en | ThatsFabulous.uk | 1222 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_Fabulous.png" height="150px" /> | That's Fabulous |
@@ -194,6 +197,7 @@ Channel list current as of 2026-03-24 22:46
 | sky | en | TrueCrimePlus1.uk | 3602 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-%2B1.png" height="150px" /> | True Crime+1 |
 | sky | en | TrueCrimeXtra.uk | 3617 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-Xtra.png" height="150px" /> | True Crime Xtra |
 | sky | en | TVCNews.ng | 5882 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TVC-News.png" height="150px" /> | TVC News |
+| sky | en | TVWarehouse.uk | 3632 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tv-warehouse-uk.png" height="150px" /> | TV Warehouse |
 | sky | en | UTV.uk | 6510 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-tv-uk.png" height="150px" /> | UTV |
 | sky | en | UAndDave.uk | 2306 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26Dave.png" height="150px" /> | U&Dave |
 | sky | en | UAndDavejavu.uk | 2320 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26DaveJaVu.png" height="150px" /> | U&Dave ja vu |
