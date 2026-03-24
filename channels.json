@@ -86,7 +86,7 @@
       "lang": "en",
       "xmltv_id": "AlJazeeraEnglish.qa",
       "provider_id": "1023",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png",
       "name": "Al Jazeera HD"
     },
     {
@@ -102,7 +102,7 @@
       "lang": "en",
       "xmltv_id": "AriseNews.uk",
       "provider_id": "5040",
-      "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/.Light/Arise%20News.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/arise-news-uk.png",
       "name": "Arise News"
     },
     {
@@ -541,6 +541,14 @@
     {
       "src": "sky",
       "lang": "en",
+      "xmltv_id": "DMNewsEnglish.uk",
+      "provider_id": "1189",
+      "icon_url": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/10000/10000/skychb1189.png",
+      "name": "DM News English"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
       "xmltv_id": "E4.uk",
       "provider_id": "1628",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-uk.png",
@@ -743,10 +751,18 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "HighStreetTV.uk",
+      "xmltv_id": "HighStreetTV1.uk",
       "provider_id": "3580",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/high-street-tv-uk.png",
-      "name": "High Street TV"
+      "name": "High Street TV 1"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "HighStreetTV2.uk",
+      "provider_id": "5706",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/high-street-tv-uk.png",
+      "name": "High Street TV 2"
     },
     {
       "src": "freeview",
@@ -1081,6 +1097,14 @@
     {
       "src": "sky",
       "lang": "en",
+      "xmltv_id": "MustHaveIdeas.uk",
+      "provider_id": "1089",
+      "icon_url": "https://cdn-img.widilo.co.uk/img/must-have-ideas-logo.png?v=638548256962670412",
+      "name": "Must Have Ideas"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
       "xmltv_id": "NDTVWorld.in",
       "provider_id": "1821",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/.Light/NDTV%2024x7.png",
@@ -1322,6 +1346,14 @@
     {
       "src": "sky",
       "lang": "en",
+      "xmltv_id": "ShopUnlimited.uk",
+      "provider_id": "3404",
+      "icon_url": "https://www.shopunlimitedlive.com/cdn/shop/files/LHCCS100_33.png?v=1761321260&width=100",
+      "name": "Shop Unlimited"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
       "xmltv_id": "SkyArts.uk",
       "provider_id": "1752",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Arts.png",
@@ -1398,14 +1430,6 @@
       "provider_id": "5252",
       "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talking-pictures-tv-uk.png",
       "name": "Talking Pictures TV"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
-      "xmltv_id": "TBNUK.uk",
-      "provider_id": "3109",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tbn-uk.png",
-      "name": "TBN UK"
     },
     {
       "src": "sky",
@@ -1542,6 +1566,14 @@
       "provider_id": "5882",
       "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TVC-News.png",
       "name": "TVC News"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "TVWarehouse.uk",
+      "provider_id": "3632",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tv-warehouse-uk.png",
+      "name": "TV Warehouse"
     },
     {
       "src": "sky",
