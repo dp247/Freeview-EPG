@@ -278,7 +278,7 @@
       "lang": "en",
       "xmltv_id": "BBCScotland.uk",
       "provider_id": "1138",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-scotland-uk.png",
       "name": "BBC Scotland HD"
     },
     {
@@ -286,7 +286,7 @@
       "lang": "en",
       "xmltv_id": "BBCThreeHD.uk",
       "provider_id": "2080",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-three-uk.png",
       "name": "BBC Three HD"
     },
     {
@@ -645,17 +645,9 @@
     {
       "src": "sky",
       "lang": "en",
-      "xmltv_id": "Foodxp.uk",
-      "provider_id": "1227",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-xp-uk.png",
-      "name": "Foodxp"
-    },
-    {
-      "src": "sky",
-      "lang": "en",
       "xmltv_id": "France24English.fr",
       "provider_id": "1121",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-24-fr.png",
       "name": "France 24 HD"
     },
     {
@@ -1100,7 +1092,7 @@
       "xmltv_id": "NewsmaxTV.uk",
       "provider_id": "16328",
       "region_id": "64361",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/newsmax-tv-us.png",
       "name": "Newsmax"
     },
     {
@@ -1108,7 +1100,7 @@
       "lang": "en",
       "xmltv_id": "NHKWorldJapan.jp",
       "provider_id": "3147",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",
+      "icon_url": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
       "name": "NHK World HD"
     },
     {
@@ -1188,7 +1180,7 @@
       "lang": "en",
       "xmltv_id": "QuestRed.uk",
       "provider_id": "2411",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-red-hz-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/quest-red-uk.png",
       "name": "Quest Red"
     },
     {
@@ -1196,7 +1188,7 @@
       "lang": "en",
       "xmltv_id": "QuestRed.ie",
       "provider_id": "2410",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-red-hz-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/quest-red-uk.png",
       "name": "Quest Red ROI"
     },
     {
@@ -1204,7 +1196,7 @@
       "lang": "en",
       "xmltv_id": "QuestRedPlus1.uk",
       "provider_id": "4547",
-      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-red-plus-hz-uk.png",
+      "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/quest-red-plus-uk.png",
       "name": "Quest Red+1"
     },
     {
