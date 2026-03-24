@@ -1,4 +1,4 @@
-Channel list current as of 2026-03-24 23:07
+Channel list current as of 2026-03-24 23:13
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@ Channel list current as of 2026-03-24 23:07
 | sky | en | Now80s.uk | 4541 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/now-80s-uk.png" height="150px" /> | Now 80s |
 | sky | en | Now90s.uk | 1103 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/now-90s-uk.png" height="150px" /> | Now 90s & 00s |
 | sky | en | NowRock.uk | 3682 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/NOW_Rock.png" height="150px" /> | Now Rock |
+| sky | en | PanjabRadio.uk | 3363 | <img src="https://www.panjabradio.co.uk/wp-content/uploads/2021/03/Logo-2-768x768.png" height="150px" /> | Panjab Radio |
 | sky | en | PBSAmerica.uk | 5500 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pbs-america-uk.png" height="150px" /> | PBS America |
 | sky | en | Quest.uk | 6761 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png" height="150px" /> | Quest |
 | sky | en | QuestHD.uk | 1128 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png" height="150px" /> | Quest HD |
