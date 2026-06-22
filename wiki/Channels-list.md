@@ -1,4 +1,4 @@
-Channel list current as of 2026-04-27 14:10
+Channel list current as of 2026-06-22 17:27
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -169,6 +169,10 @@ Channel list current as of 2026-04-27 14:10
 | sky | en | RTEOnePlus1.ie | 2808 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-one-plus-ie.png" height="150px" /> | RTÉ One +1 |
 | sky | en | RTE2.ie | 1270 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-2-ie.png" height="150px" /> | RTÉ2 HD |
 | sky | en | RTE2Plus1.ie | 1158 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-2-plus-ie.png" height="150px" /> | RTÉ2 +1 |
+| sky | en | RTERadio1.ie | 1261 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/Radio/RTE-Radio-1.png" height="150px" /> | RTÉ Radio 1 |
+| sky | en | RTE2FM.ie | 1262 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/Radio/RTE-2FM.png" height="150px" /> | RTÉ 2FM |
+| sky | en | RTELyricFM.ie | 1264 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/Radio/RTE-Lyric-FM.png" height="150px" /> | RTÉ Lyric FM |
+| sky | en | RTERnaG.ie | 1263 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/Radio/RTE-Raidio-na-Gaeltachta.png" height="150px" /> | RTÉ Raidió na Gaeltachta |
 | sky | en | S4C.uk | 5701 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png" height="150px" /> | S4C |
 | sky | en | ShopUnlimited.uk | 3404 | <img src="https://www.shopunlimitedlive.com/cdn/shop/files/LHCCS100_33.png?v=1761321260&width=100" height="150px" /> | Shop Unlimited |
 | sky | en | SkyArts.uk | 1752 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Arts.png" height="150px" /> | Sky Arts |
