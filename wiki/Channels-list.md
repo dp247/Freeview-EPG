@@ -1,4 +1,4 @@
-Channel list current as of 2026-06-22 17:27
+Channel list current as of 2026-07-08 09:28
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@ Channel list current as of 2026-06-22 17:27
 | sky | en | Legend.uk | 4610 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend.png" height="150px" /> | Legend |
 | sky | en | LegendXtra.uk | 3605 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra.png" height="150px" /> | Legend Xtra |
 | sky | en | LegendXtraPlus1.uk | 4502 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra-%2B1.png" height="150px" /> | Legend Xtra+1 |
-| sky | en | LondonLive.uk | 5090 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/london-live-uk.png" height="150px" /> | London Live |
+| freeview | en | LondonTV.uk | 32842 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/London_TV.png" height="150px" /> | London TV |
 | sky | en | More4.uk | 3340 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-more-uk.png" height="150px" /> | More4 |
 | sky | en | More4HD.uk | 4043 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-more-uk.png" height="150px" /> | More4 HD |
 | sky | en | More4.ie | 3360 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-more-uk.png" height="150px" /> | More4 ROI |
