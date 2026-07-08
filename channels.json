@@ -1039,12 +1039,13 @@
             "xmltv_id": "LegendXtraPlus1.uk"
         },
         {
-            "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/london-live-uk.png",
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/London_TV.png",
             "lang": "en",
-            "name": "London Live",
-            "provider_id": "5090",
-            "src": "sky",
-            "xmltv_id": "LondonLive.uk"
+            "name": "London TV",
+            "provider_id": "32842",
+            "region_id": "64257",
+            "src": "freeview",
+            "xmltv_id": "LondonTV.uk"
         },
         {
             "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-more-uk.png",
