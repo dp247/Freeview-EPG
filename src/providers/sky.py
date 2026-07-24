@@ -9,6 +9,7 @@ and events are collated into a list of programme dictionaries.
 from datetime import datetime, timedelta
 from typing import List, Dict, Any
 
+from ..utils.parsing import parse_duration_value, parse_timestamp
 from .base import Context
 
 
@@ -52,8 +53,9 @@ def fetch_programmes(channel: Dict[str, Any], ctx: Context) -> List[Dict[str, An
             if start_raw is None or duration_raw is None:
                 continue
             try:
-                start = int(start_raw)
-                end = start + int(duration_raw)
+                start = parse_timestamp(start_raw)
+                duration = parse_duration_value(duration_raw)
+                end = start + duration
             except Exception:
                 continue
             # Determine the best available icon based on identifiers
