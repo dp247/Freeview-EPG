@@ -4231,8 +4231,8 @@
     <title lang="en">Spongebob SquarePants</title>
     <desc lang="en">SpongeBob takes his first break ever at work, but how will he spend his precious time?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8dfc63fe-f7e7-4951-9b17-0555f762bdea/cover"/>
-    <episode-num system="xmltv_ns">11.27.0</episode-num>
-    <episode-num system="onscreen">S12E28</episode-num>
+    <episode-num system="xmltv_ns">11.29.0</episode-num>
+    <episode-num system="onscreen">S12E30</episode-num>
   </programme>
   <programme channel="5.uk" start="20260801090000 +0100" stop="20260801091000 +0100">
     <title lang="en">Entertainment News on 5</title>
@@ -7520,8 +7520,8 @@
     <title lang="en">Spongebob SquarePants</title>
     <desc lang="en">SpongeBob takes his first break ever at work, but how will he spend his precious time?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8dfc63fe-f7e7-4951-9b17-0555f762bdea/cover"/>
-    <episode-num system="xmltv_ns">11.27.0</episode-num>
-    <episode-num system="onscreen">S12E28</episode-num>
+    <episode-num system="xmltv_ns">11.29.0</episode-num>
+    <episode-num system="onscreen">S12E30</episode-num>
   </programme>
   <programme channel="5Plus1.uk" start="20260801100000 +0100" stop="20260801101000 +0100">
     <title lang="en">Entertainment News on 5</title>
@@ -37968,7 +37968,7 @@
   </programme>
   <programme channel="BBCR1.uk" start="20260726070000 +0100" stop="20260726100000 +0100">
     <title lang="en">Radio 1 Weekend Breakfast with James Cusack</title>
-    <desc lang="en">James Cusack entertains the nation with Radio 1 Weekend Breakfast.</desc>
+    <desc lang="en">James Cusack entertains the nation with Weekend Breakfast. What's the best thing that bounces? Can you guess the song from the breath? Would you swap Nick Jonas for Cascada?</desc>
   </programme>
   <programme channel="BBCR1.uk" start="20260726100000 +0100" stop="20260726103000 +0100">
     <title lang="en">Radio 1 00s with James Cusack</title>
@@ -41068,7 +41068,7 @@
   </programme>
   <programme channel="BBCR4FM.uk" start="20260726090000 +0100" stop="20260726100000 +0100">
     <title lang="en">Broadcasting House</title>
-    <desc lang="en">The Sunday morning news magazine programme. Presented by Paddy O'Connell.</desc>
+    <desc lang="en">Andy Burnham gives his first broadcast interview as PM to Laura Kuenssberg. Also on BH presented by Anita Anand, wildfires and Wham! in China.</desc>
   </programme>
   <programme channel="BBCR4FM.uk" start="20260726100000 +0100" stop="20260726110000 +0100">
     <title lang="en">Desert Island Discs</title>
@@ -41092,7 +41092,7 @@
   </programme>
   <programme channel="BBCR4FM.uk" start="20260726130000 +0100" stop="20260726133000 +0100">
     <title lang="en">The World This Weekend</title>
-    <desc lang="en">A look at the week's big stories and preview of the week to come.</desc>
+    <desc lang="en">How much has the kingdom changed under Mohammed Bin Salman and his grand plans?</desc>
   </programme>
   <programme channel="BBCR4FM.uk" start="20260726133000 +0100" stop="20260726140000 +0100">
     <title lang="en">Troubled Town</title>
@@ -42264,7 +42264,7 @@
   </programme>
   <programme channel="BBCR4LW.uk" start="20260726090000 +0100" stop="20260726100000 +0100">
     <title lang="en">Broadcasting House</title>
-    <desc lang="en">The Sunday morning news magazine programme. Presented by Paddy O'Connell.</desc>
+    <desc lang="en">Andy Burnham gives his first broadcast interview as PM to Laura Kuenssberg. Also on BH presented by Anita Anand, wildfires and Wham! in China.</desc>
   </programme>
   <programme channel="BBCR4LW.uk" start="20260726100000 +0100" stop="20260726110000 +0100">
     <title lang="en">Desert Island Discs</title>
@@ -42288,7 +42288,7 @@
   </programme>
   <programme channel="BBCR4LW.uk" start="20260726130000 +0100" stop="20260726133000 +0100">
     <title lang="en">The World This Weekend</title>
-    <desc lang="en">A look at the week's big stories and preview of the week to come.</desc>
+    <desc lang="en">How much has the kingdom changed under Mohammed Bin Salman and his grand plans?</desc>
   </programme>
   <programme channel="BBCR4LW.uk" start="20260726133000 +0100" stop="20260726140000 +0100">
     <title lang="en">Troubled Town</title>
@@ -43380,7 +43380,7 @@
   </programme>
   <programme channel="BBCR5L.uk" start="20260726010000 +0100" stop="20260726050000 +0100">
     <title lang="en">Joel Mitchell</title>
-    <desc lang="en">Joel Mitchell with your calls and features through the night. Call 08085 909693 (calls are free from mobiles and landlines). Text 85058 (charged at your standard message rate).</desc>
+    <desc lang="en">Joel Mitchell with your calls and features through the night. Contains some strong language.</desc>
   </programme>
   <programme channel="BBCR5L.uk" start="20260726050000 +0100" stop="20260726060000 +0100">
     <title lang="en">Newscast</title>
@@ -44728,7 +44728,7 @@
   </programme>
   <programme channel="BBCRScotland.uk" start="20260726070000 +0100" stop="20260726073000 +0100">
     <title lang="en">Scotcast</title>
-    <desc lang="en">The best bits from the past seven days of the BBC's Scottish news podcast, with Laura Miller, Martin Geissler and Natalie Higgins.</desc>
+    <desc lang="en">The best bits from the past seven days of the BBC's Scottish news podcast, with Laura Miller.</desc>
   </programme>
   <programme channel="BBCRScotland.uk" start="20260726073000 +0100" stop="20260726080000 +0100">
     <title lang="en">New Every Sunday</title>
@@ -45072,7 +45072,7 @@
   </programme>
   <programme channel="BBCRUlster.uk" start="20260726110300 +0100" stop="20260726130000 +0100">
     <title lang="en">Sunday with Anna Curran</title>
-    <desc lang="en">Big interviews and conversation, lifestyle and entertainment, and an essential guide to the Sunday papers.</desc>
+    <desc lang="en">Actor Kerri Quinn, singer Winnie Ama, Sport presenter Sarah Mulkerrins, former foster child Laura Harkin, her foster mother, Ann Marie Coyle, Max the dog and his owner Ryan Gray.</desc>
   </programme>
   <programme channel="BBCRUlster.uk" start="20260726130000 +0100" stop="20260726130500 +0100">
     <title lang="en">BBC News NI update</title>
@@ -47128,7 +47128,7 @@
   </programme>
   <programme channel="BBCRadioFoyle.uk" start="20260726110300 +0100" stop="20260726130000 +0100">
     <title lang="en">Sunday with Anna Curran</title>
-    <desc lang="en">Big interviews and conversation, lifestyle and entertainment, and an essential guide to the Sunday papers.</desc>
+    <desc lang="en">Actor Kerri Quinn, singer Winnie Ama, Sport presenter Sarah Mulkerrins, former foster child Laura Harkin, her foster mother, Ann Marie Coyle, Max the dog and his owner Ryan Gray.</desc>
   </programme>
   <programme channel="BBCRadioFoyle.uk" start="20260726130000 +0100" stop="20260726130500 +0100">
     <title lang="en">BBC News NI update</title>
@@ -47777,10 +47777,6 @@
   <programme channel="BBCRadioFoyle.uk" start="20260801235500 +0100" stop="20260802000000 +0100">
     <title lang="en">BBC News NI update</title>
     <desc lang="en">The latest national and international news.</desc>
-  </programme>
-  <programme channel="BBCRadioGaidhael.uk" start="20260725130000 +0100" stop="20260726090000 +0100">
-    <title lang="en">Mar Radio Alba</title>
-    <desc lang="en">Tha BBC Radio nan Gaidheal mar BBC Radio Alba. BBC Radio nan Gaidheal joins BBC Radio Scotland.</desc>
   </programme>
   <programme channel="BBCRadioGaidhael.uk" start="20260726090000 +0100" stop="20260726093000 +0100">
     <title lang="en">Dèanamaid Adhradh</title>
@@ -48610,7 +48606,7 @@
   </programme>
   <programme channel="BBCRadioLeeds.uk" start="20260726100000 +0100" stop="20260726140000 +0100">
     <title lang="en">Nick Ahad</title>
-    <desc lang="en">Fun, updates and entertainment to brighten up Sunday mid-morning.</desc>
+    <desc lang="en">Dixie hears your nickname stories and chats to Jessa's Joybank founder Fiona Cooper.</desc>
     <icon src="http://img.freeviewplay.net/ec9e26080d66209aabda2db78f858c74c?w=800"/>
   </programme>
   <programme channel="BBCRadioLeeds.uk" start="20260726140000 +0100" stop="20260726180000 +0100">
@@ -49093,7 +49089,7 @@
   </programme>
   <programme channel="BBCRadioLondon.uk" start="20260726060000 +0100" stop="20260726100000 +0100">
     <title lang="en">Inspirit with Jumoké Fashola</title>
-    <desc lang="en">Debating the week's big religious, moral and ethical issues.</desc>
+    <desc lang="en">Lady Milena Grenfell-Baines, artist Rudy Loewe &amp; author and artist Huaican Zhang.</desc>
   </programme>
   <programme channel="BBCRadioLondon.uk" start="20260726100000 +0100" stop="20260726140000 +0100">
     <title lang="en">Robert Elms</title>
@@ -55303,7 +55299,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20260726060600 +0100" stop="20260726070000 +0100">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">Police have identified a suspect, who they say has Islamist links.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20260726070000 +0100" stop="20260726070600 +0100">
     <title lang="en">BBC News</title>
@@ -55311,7 +55307,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20260726070600 +0100" stop="20260726080000 +0100">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">One woman is dead and sixteen others are injured after a car was driven into a crowd.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20260726080000 +0100" stop="20260726080600 +0100">
     <title lang="en">BBC News</title>
@@ -55319,7 +55315,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20260726080600 +0100" stop="20260726090000 +0100">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">The Prime Minister said Trump was 'really warm' in their first call, but did not say he trusted him.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20260726090000 +0100" stop="20260726090600 +0100">
     <title lang="en">BBC News</title>
@@ -55379,7 +55375,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20260726120600 +0100" stop="20260726123000 +0100">
     <title lang="en">BBC Conversations</title>
-    <desc lang="en">Survivors and rescuers reflect on how trauma affects them.</desc>
+    <desc lang="en">Survivors of Typhoon Haiyan in Philippines and the Aberfan mining disaster in Wales discuss the long-term impact of the events. Plus rescuers reflect on how trauma affects them.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20260726123000 +0100" stop="20260726123230 +0100">
     <title lang="en">BBC News Summary</title>
@@ -55395,7 +55391,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20260726130600 +0100" stop="20260726140000 +0100">
     <title lang="en">Newshour</title>
-    <desc lang="en">Interviews, news and analysis of the day's global events.</desc>
+    <desc lang="en">Hundreds of thousands of people were attending the annual event in the capital.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20260726140000 +0100" stop="20260726140600 +0100">
     <title lang="en">BBC News</title>
@@ -55411,7 +55407,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20260726143230 +0100" stop="20260726150000 +0100">
     <title lang="en">Happy News</title>
-    <desc lang="en">Positive news stories.</desc>
+    <desc lang="en">Dave and Andrea met by chance at work. They got on so well they could complete each other's sentences - which made sense when they discovered they were actually siblings.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20260726150000 +0100" stop="20260726150600 +0100">
     <title lang="en">BBC News</title>
@@ -56751,7 +56747,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20260731003230 +0100" stop="20260731010000 +0100">
     <title lang="en">Happy News</title>
-    <desc lang="en">Positive news stories.</desc>
+    <desc lang="en">Dave and Andrea met by chance at work. They got on so well they could complete each other's sentences - which made sense when they discovered they were actually siblings.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20260731010000 +0100" stop="20260731010600 +0100">
     <title lang="en">BBC News</title>
@@ -66773,15 +66769,10 @@
     <desc lang="en">Love-wary actor Aaron Mossadeg investigates why young people from Singapore and Asia delay marriage and parenthood, even though many dream of starting a family.</desc>
     <icon src="http://img.freeviewplay.net/ef74eebdaa3cde101288e4708d3236455?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20260729230000 +0100" stop="20260730000008 +0100">
+  <programme channel="CNAInternational.sg" start="20260729230000 +0100" stop="20260730010001 +0100">
     <title lang="en">East Asia Tonight 2026/2027 - Wed 29/07/</title>
     <desc lang="en">No further information...</desc>
     <icon src="http://img.freeviewplay.net/e42b74a6689617ceb3485e3a1501972ab?w=800"/>
-  </programme>
-  <programme channel="CNAInternational.sg" start="20260730000008 +0100" stop="20260730010001 +0100">
-    <title lang="en">Days of rage Episode 3 (2014/02/02) : '6</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e7f9d299c307b496ae7d39581f4da7bf7?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260730010001 +0100" stop="20260730020003 +0100">
     <title lang="en">Asia Tonight 2026/2027 - Wed 29/07/2026</title>
@@ -66794,168 +66785,213 @@
     <icon src="http://img.freeviewplay.net/e30212194a47e8b77bcfdab73bc2db1d4?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260730030005 +0100" stop="20260730040007 +0100">
-    <title lang="en">Aerial Asia</title>
+    <title lang="en">Aerial Indonesia</title>
     <desc lang="en">Join us on non-stop aerial journey over  Indonesia, the greatest archipelago nation on earth. Discover its menacing volcanoes, its impenetrable jungles and fertile valleys, its wondrous waters and its</desc>
-    <icon src="http://img.freeviewplay.net/ef641ad7b750cbb906827d8c3173e9ae1?w=800"/>
+    <icon src="http://img.freeviewplay.net/e7662da61da9522286e3ceab48e8212bd?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260730040007 +0100" stop="20260730050004 +0100">
     <title lang="en">Aerial India</title>
     <desc lang="en">Aerial India takes an epic aerial journey across this vast nation to showcase its dramatic landscape and enormous population in all its myriad colors, shapes and intrigues. An explosion of color, cult</desc>
     <icon src="http://img.freeviewplay.net/ebdf9e464856967a830e35b25ee46a12a?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20260730050004 +0100" stop="20260730060006 +0100">
+  <programme channel="CNAInternational.sg" start="20260730050004 +0100" stop="20260730070002 +0100">
     <title lang="en">East Asia Tonight 2026/2027 - Wed 29/07/</title>
     <desc lang="en">No further information...</desc>
     <icon src="http://img.freeviewplay.net/e42b74a6689617ceb3485e3a1501972ab?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20260730060006 +0100" stop="20260730070002 +0100">
-    <title lang="en">Days of rage Episode 3 (2014/02/02) : '6</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e7f9d299c307b496ae7d39581f4da7bf7?w=800"/>
-  </programme>
   <programme channel="CNAInternational.sg" start="20260730070002 +0100" stop="20260730080000 +0100">
     <title lang="en">Asia Tonight 2026/2027 - Wed 29/07/2026</title>
-    <desc lang="en">Aerial Singapore will present this dynamic island as you have never seen it before: from the air. This is the most planned city in the world and the only way to go is up. Five and a half million peopl</desc>
+    <desc lang="en">No further information...</desc>
     <icon src="http://img.freeviewplay.net/e449d8a6ab1dd433035b1bec6150faf04?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260730080000 +0100" stop="20260730090008 +0100">
     <title lang="en">Aerial Singapore</title>
-    <desc lang="en">Join us on non-stop aerial journey over  Indonesia, the greatest archipelago nation on earth. Discover its menacing volcanoes, its impenetrable jungles and fertile valleys, its wondrous waters and its</desc>
+    <desc lang="en">Aerial Singapore will present this dynamic island as you have never seen it before: from the air. This is the most planned city in the world and the only way to go is up. Five and a half million peopl</desc>
     <icon src="http://img.freeviewplay.net/e30212194a47e8b77bcfdab73bc2db1d4?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260730090008 +0100" stop="20260730100004 +0100">
-    <title lang="en">Aerial Asia</title>
-    <desc lang="en">Aerial India takes an epic aerial journey across this vast nation to showcase its dramatic landscape and enormous population in all its myriad colors, shapes and intrigues. An explosion of color, cult</desc>
-    <icon src="http://img.freeviewplay.net/ef641ad7b750cbb906827d8c3173e9ae1?w=800"/>
+    <title lang="en">Aerial Indonesia</title>
+    <desc lang="en">Join us on non-stop aerial journey over  Indonesia, the greatest archipelago nation on earth. Discover its menacing volcanoes, its impenetrable jungles and fertile valleys, its wondrous waters and its</desc>
+    <icon src="http://img.freeviewplay.net/e7662da61da9522286e3ceab48e8212bd?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260730100004 +0100" stop="20260730110000 +0100">
     <title lang="en">Aerial India</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Aerial India takes an epic aerial journey across this vast nation to showcase its dramatic landscape and enormous population in all its myriad colors, shapes and intrigues. An explosion of color, cult</desc>
     <icon src="http://img.freeviewplay.net/ebdf9e464856967a830e35b25ee46a12a?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20260730110000 +0100" stop="20260730120008 +0100">
+  <programme channel="CNAInternational.sg" start="20260730110000 +0100" stop="20260730130001 +0100">
     <title lang="en">East Asia Tonight 2026/2027 - Wed 29/07/</title>
     <desc lang="en">No further information...</desc>
     <icon src="http://img.freeviewplay.net/e42b74a6689617ceb3485e3a1501972ab?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20260730120008 +0100" stop="20260730130001 +0100">
-    <title lang="en">Days of rage Episode 3 (2014/02/02) : '6</title>
-    <desc lang="en">Aerial Singapore will present this dynamic island as you have never seen it before: from the air. This is the most planned city in the world and the only way to go is up. Five and a half million peopl</desc>
-    <icon src="http://img.freeviewplay.net/e7f9d299c307b496ae7d39581f4da7bf7?w=800"/>
-  </programme>
   <programme channel="CNAInternational.sg" start="20260730130001 +0100" stop="20260730140003 +0100">
     <title lang="en">Asia Tonight 2026/2027 - Wed 29/07/2026</title>
-    <desc lang="en">Join us on non-stop aerial journey over  Indonesia, the greatest archipelago nation on earth. Discover its menacing volcanoes, its impenetrable jungles and fertile valleys, its wondrous waters and its</desc>
+    <desc lang="en">No further information...</desc>
     <icon src="http://img.freeviewplay.net/e449d8a6ab1dd433035b1bec6150faf04?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260730140003 +0100" stop="20260730150005 +0100">
     <title lang="en">Aerial Singapore</title>
-    <desc lang="en">Aerial India takes an epic aerial journey across this vast nation to showcase its dramatic landscape and enormous population in all its myriad colors, shapes and intrigues. An explosion of color, cult</desc>
+    <desc lang="en">Aerial Singapore will present this dynamic island as you have never seen it before: from the air. This is the most planned city in the world and the only way to go is up. Five and a half million peopl</desc>
     <icon src="http://img.freeviewplay.net/e30212194a47e8b77bcfdab73bc2db1d4?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260730150005 +0100" stop="20260730160007 +0100">
-    <title lang="en">Aerial Asia</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/ef641ad7b750cbb906827d8c3173e9ae1?w=800"/>
+    <title lang="en">Aerial Indonesia</title>
+    <desc lang="en">Join us on non-stop aerial journey over  Indonesia, the greatest archipelago nation on earth. Discover its menacing volcanoes, its impenetrable jungles and fertile valleys, its wondrous waters and its</desc>
+    <icon src="http://img.freeviewplay.net/e7662da61da9522286e3ceab48e8212bd?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260730160007 +0100" stop="20260730170004 +0100">
     <title lang="en">Aerial India</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Aerial India takes an epic aerial journey across this vast nation to showcase its dramatic landscape and enormous population in all its myriad colors, shapes and intrigues. An explosion of color, cult</desc>
     <icon src="http://img.freeviewplay.net/ebdf9e464856967a830e35b25ee46a12a?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20260730170004 +0100" stop="20260730180006 +0100">
+  <programme channel="CNAInternational.sg" start="20260730170004 +0100" stop="20260730190002 +0100">
     <title lang="en">East Asia Tonight 2026/2027 - Wed 29/07/</title>
-    <desc lang="en">Aerial Singapore will present this dynamic island as you have never seen it before: from the air. This is the most planned city in the world and the only way to go is up. Five and a half million peopl</desc>
+    <desc lang="en">No further information...</desc>
     <icon src="http://img.freeviewplay.net/e42b74a6689617ceb3485e3a1501972ab?w=800"/>
-  </programme>
-  <programme channel="CNAInternational.sg" start="20260730180006 +0100" stop="20260730190002 +0100">
-    <title lang="en">Days of rage Episode 3 (2014/02/02) : '6</title>
-    <desc lang="en">Join us on non-stop aerial journey over  Indonesia, the greatest archipelago nation on earth. Discover its menacing volcanoes, its impenetrable jungles and fertile valleys, its wondrous waters and its</desc>
-    <icon src="http://img.freeviewplay.net/e7f9d299c307b496ae7d39581f4da7bf7?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260730190002 +0100" stop="20260730200000 +0100">
     <title lang="en">Asia Tonight 2026/2027 - Wed 29/07/2026</title>
-    <desc lang="en">Aerial India takes an epic aerial journey across this vast nation to showcase its dramatic landscape and enormous population in all its myriad colors, shapes and intrigues. An explosion of color, cult</desc>
+    <desc lang="en">No further information...</desc>
     <icon src="http://img.freeviewplay.net/e449d8a6ab1dd433035b1bec6150faf04?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260730200000 +0100" stop="20260730210008 +0100">
     <title lang="en">Aerial Singapore</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Aerial Singapore will present this dynamic island as you have never seen it before: from the air. This is the most planned city in the world and the only way to go is up. Five and a half million peopl</desc>
     <icon src="http://img.freeviewplay.net/e30212194a47e8b77bcfdab73bc2db1d4?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260730210008 +0100" stop="20260730220004 +0100">
-    <title lang="en">Aerial Asia</title>
-    <desc lang="en">31 January 1974, Singapore faced its first international terrorist attack. Terrorists set off bombs in the world's third largest oil refinery and seized a ferry with hostages on board. The siege chang</desc>
-    <icon src="http://img.freeviewplay.net/ef641ad7b750cbb906827d8c3173e9ae1?w=800"/>
+    <title lang="en">Aerial Indonesia</title>
+    <desc lang="en">Join us on non-stop aerial journey over  Indonesia, the greatest archipelago nation on earth. Discover its menacing volcanoes, its impenetrable jungles and fertile valleys, its wondrous waters and its</desc>
+    <icon src="http://img.freeviewplay.net/e7662da61da9522286e3ceab48e8212bd?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260730220004 +0100" stop="20260730230000 +0100">
     <title lang="en">Aerial India</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Aerial India takes an epic aerial journey across this vast nation to showcase its dramatic landscape and enormous population in all its myriad colors, shapes and intrigues. An explosion of color, cult</desc>
     <icon src="http://img.freeviewplay.net/ebdf9e464856967a830e35b25ee46a12a?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20260730230000 +0100" stop="20260731010000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20260730230000 +0100" stop="20260731000008 +0100">
+    <title lang="en">East Asia Tonight 2026/2027 - Thu 30/07/</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e941f6f4ad6f9d9ec451390e80108e8dc?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20260731010000 +0100" stop="20260731030000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20260731000008 +0100" stop="20260731010007 +0100">
+    <title lang="en">Days of rage Episode 4 (2014/02/09) : La</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/ec8cfaeba1e06a09aa1337e179690970b?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20260731030000 +0100" stop="20260731050000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20260731010007 +0100" stop="20260731020005 +0100">
+    <title lang="en">Asia Tonight 2026/2027 - Thu 30/07/2026</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/ed599d978e3b4a37767f40309a1f80885?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20260731020005 +0100" stop="20260731030005 +0100">
+    <title lang="en">Challenge Tomorrow</title>
     <desc lang="en">Singapore's slowing economy worries actor and tech entrepreneur Vignesh Wadarajan, so he journeys to industrial cities in Amercia and Germany to see how they revitalize themselves. He discovers an imm</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e9c4f788086a4b43e448c6b860f94a117?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20260731050000 +0100" stop="20260731070000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20260731030005 +0100" stop="20260731040003 +0100">
+    <title lang="en">Challenge Tomorrow</title>
     <desc lang="en">Rapid changes in technology have caused upheaval in the world of work. It creates new industries and jobs that require updated skills. Host, Khairuddin Saharom, finds out how Spain, Japan and Finland</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e9c4f788086a4b43e448c6b860f94a117?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20260731070000 +0100" stop="20260731090000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20260731040003 +0100" stop="20260731050005 +0100">
+    <title lang="en">Challenge Tomorrow</title>
     <desc lang="en">As climate change poses a growing threat to our future existence, environmental journalist Jessica Cheam explores the impact of rising seas in India, drought in Malaysia and green innovations in Denma</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e9c4f788086a4b43e448c6b860f94a117?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20260731090000 +0100" stop="20260731110000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20260731050005 +0100" stop="20260731060007 +0100">
+    <title lang="en">East Asia Tonight 2026/2027 - Thu 30/07/</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e941f6f4ad6f9d9ec451390e80108e8dc?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20260731110000 +0100" stop="20260731130000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">31 January 1974, Singapore faced its first international terrorist attack. Terrorists set off bombs in the world's third largest oil refinery and seized a ferry with hostages on board. The siege chang</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
-  </programme>
-  <programme channel="CNAInternational.sg" start="20260731130000 +0100" stop="20260731150000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20260731060007 +0100" stop="20260731070006 +0100">
+    <title lang="en">Days of rage Episode 4 (2014/02/09) : La</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/ec8cfaeba1e06a09aa1337e179690970b?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20260731150000 +0100" stop="20260731170000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20260731070006 +0100" stop="20260731080004 +0100">
+    <title lang="en">Asia Tonight 2026/2027 - Thu 30/07/2026</title>
     <desc lang="en">Singapore's slowing economy worries actor and tech entrepreneur Vignesh Wadarajan, so he journeys to industrial cities in Amercia and Germany to see how they revitalize themselves. He discovers an imm</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/ed599d978e3b4a37767f40309a1f80885?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20260731170000 +0100" stop="20260731190000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20260731080004 +0100" stop="20260731090004 +0100">
+    <title lang="en">Challenge Tomorrow</title>
     <desc lang="en">Rapid changes in technology have caused upheaval in the world of work. It creates new industries and jobs that require updated skills. Host, Khairuddin Saharom, finds out how Spain, Japan and Finland</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e9c4f788086a4b43e448c6b860f94a117?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20260731190000 +0100" stop="20260731210000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20260731090004 +0100" stop="20260731100003 +0100">
+    <title lang="en">Challenge Tomorrow</title>
     <desc lang="en">As climate change poses a growing threat to our future existence, environmental journalist Jessica Cheam explores the impact of rising seas in India, drought in Malaysia and green innovations in Denma</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e9c4f788086a4b43e448c6b860f94a117?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20260731210000 +0100" stop="20260731230000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20260731100003 +0100" stop="20260731110000 +0100">
+    <title lang="en">Challenge Tomorrow</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e9c4f788086a4b43e448c6b860f94a117?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20260731110000 +0100" stop="20260731120008 +0100">
+    <title lang="en">East Asia Tonight 2026/2027 - Thu 30/07/</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/e941f6f4ad6f9d9ec451390e80108e8dc?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20260731120008 +0100" stop="20260731130007 +0100">
+    <title lang="en">Days of Rage - Episode 4 - Laju Hijack -</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/e7a924d84add39bcb5dbdcd31002e2a7b?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20260731130007 +0100" stop="20260731140005 +0100">
+    <title lang="en">Asia Tonight 2026/2027 - Thu 30/07/2026</title>
+    <desc lang="en">Singapore's slowing economy worries actor and tech entrepreneur Vignesh Wadarajan, so he journeys to industrial cities in Amercia and Germany to see how they revitalize themselves. He discovers an imm</desc>
+    <icon src="http://img.freeviewplay.net/ed599d978e3b4a37767f40309a1f80885?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20260731140005 +0100" stop="20260731150005 +0100">
+    <title lang="en">Challenge Tomorrow</title>
+    <desc lang="en">Rapid changes in technology have caused upheaval in the world of work. It creates new industries and jobs that require updated skills. Host, Khairuddin Saharom, finds out how Spain, Japan and Finland</desc>
+    <icon src="http://img.freeviewplay.net/e9c4f788086a4b43e448c6b860f94a117?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20260731150005 +0100" stop="20260731160003 +0100">
+    <title lang="en">Challenge Tomorrow</title>
+    <desc lang="en">As climate change poses a growing threat to our future existence, environmental journalist Jessica Cheam explores the impact of rising seas in India, drought in Malaysia and green innovations in Denma</desc>
+    <icon src="http://img.freeviewplay.net/e9c4f788086a4b43e448c6b860f94a117?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20260731160003 +0100" stop="20260731170005 +0100">
+    <title lang="en">Challenge Tomorrow</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/e9c4f788086a4b43e448c6b860f94a117?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20260731170005 +0100" stop="20260731180007 +0100">
+    <title lang="en">East Asia Tonight 2026/2027 - Thu 30/07/</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/e941f6f4ad6f9d9ec451390e80108e8dc?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20260731180007 +0100" stop="20260731190006 +0100">
+    <title lang="en">Days of Rage - Episode 4 - Laju Hijack -</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/e7a924d84add39bcb5dbdcd31002e2a7b?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20260731190006 +0100" stop="20260731200004 +0100">
+    <title lang="en">Asia Tonight 2026/2027 - Thu 30/07/2026</title>
+    <desc lang="en">Singapore's slowing economy worries actor and tech entrepreneur Vignesh Wadarajan, so he journeys to industrial cities in Amercia and Germany to see how they revitalize themselves. He discovers an imm</desc>
+    <icon src="http://img.freeviewplay.net/ed599d978e3b4a37767f40309a1f80885?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20260731200004 +0100" stop="20260731210004 +0100">
+    <title lang="en">Challenge Tomorrow</title>
+    <desc lang="en">Rapid changes in technology have caused upheaval in the world of work. It creates new industries and jobs that require updated skills. Host, Khairuddin Saharom, finds out how Spain, Japan and Finland</desc>
+    <icon src="http://img.freeviewplay.net/e9c4f788086a4b43e448c6b860f94a117?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20260731210004 +0100" stop="20260731220003 +0100">
+    <title lang="en">Challenge Tomorrow</title>
+    <desc lang="en">As climate change poses a growing threat to our future existence, environmental journalist Jessica Cheam explores the impact of rising seas in India, drought in Malaysia and green innovations in Denma</desc>
+    <icon src="http://img.freeviewplay.net/e9c4f788086a4b43e448c6b860f94a117?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20260731220003 +0100" stop="20260731230000 +0100">
+    <title lang="en">Challenge Tomorrow</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/e9c4f788086a4b43e448c6b860f94a117?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260731230000 +0100" stop="20260801010000 +0100">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Singapore is on the front line of an undeclared war with Indonesia. During the 1960s, the island endured bullets, bombs and bloodshed - climaxing in the bombing of MacDonald House on 10th March 1965.</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260801010000 +0100" stop="20260801030000 +0100">
@@ -66965,17 +67001,17 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20260801030000 +0100" stop="20260801050000 +0100">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Explore Singapore's colourful 'hood, discover vinyl havens and go behind-the-scenes of its deepest train station. Finally, meet an American fitness coach who's become one of the locals.</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260801050000 +0100" stop="20260801070000 +0100">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Actor, Joshua Tan, goes on a quest to find out how an ageing population is re-shaping societies in Japan, Australia, the United States and Singapore. Along the way, he discovers some hard truths about</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260801070000 +0100" stop="20260801090000 +0100">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">The "Internet of Things" brings us efficiency and convenience, but at what cost? From cybersecurity to the blurring of identity, living in a world of virtual borders can be exciting yet alarming. Host</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260801090000 +0100" stop="20260801110000 +0100">
@@ -66985,7 +67021,7 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20260801110000 +0100" stop="20260801130000 +0100">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Singapore is on the front line of an undeclared war with Indonesia. During the 1960s, the island endured bullets, bombs and bloodshed - climaxing in the bombing of MacDonald House on 10th March 1965.</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260801130000 +0100" stop="20260801150000 +0100">
@@ -66995,17 +67031,17 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20260801150000 +0100" stop="20260801170000 +0100">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Explore Singapore's colourful 'hood, discover vinyl havens and go behind-the-scenes of its deepest train station. Finally, meet an American fitness coach who's become one of the locals.</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260801170000 +0100" stop="20260801190000 +0100">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Actor, Joshua Tan, goes on a quest to find out how an ageing population is re-shaping societies in Japan, Australia, the United States and Singapore. Along the way, he discovers some hard truths about</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260801190000 +0100" stop="20260801210000 +0100">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">The "Internet of Things" brings us efficiency and convenience, but at what cost? From cybersecurity to the blurring of identity, living in a world of virtual borders can be exciting yet alarming. Host</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20260801210000 +0100" stop="20260801230000 +0100">
@@ -67015,7 +67051,7 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20260801230000 +0100" stop="20260802010000 +0100">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Singapore is on the front line of an undeclared war with Indonesia. During the 1960s, the island endured bullets, bombs and bloodshed - climaxing in the bombing of MacDonald House on 10th March 1965.</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNBCEurope.uk" start="20260725220000 +0100" stop="20260725230000 +0100">
@@ -183262,8 +183298,8 @@
     <desc lang="en">Established in 2012, Shay &amp; Blue is an award-winning boutique perfumery based in London's Marylebone that brings a contemporary twist to artisan fragrance.</desc>
   </programme>
   <programme channel="QVCBeautyUK.uk" start="20260727140000 +0100" stop="20260727150000 +0100">
-    <title lang="en">QVC Selection</title>
-    <desc lang="en">With specially chosen products from across the QVC range, there's something for everyone in the QVC Selection.</desc>
+    <title lang="en">Summer Beauty</title>
+    <desc lang="en">Get yourself in tip top shape for summer with this selection of beauty products.</desc>
   </programme>
   <programme channel="QVCBeautyUK.uk" start="20260727150000 +0100" stop="20260727160000 +0100">
     <title lang="en">Gatineau Prescriptive Skincare</title>
@@ -183282,8 +183318,8 @@
     <desc lang="en">Love beauty? Tune in to see the latest deals and bag a beauty bargain. We've got an exciting array of popular and iconic brands plus cult products you're sure to adore.</desc>
   </programme>
   <programme channel="QVCBeautyUK.uk" start="20260727190000 +0100" stop="20260727200000 +0100">
-    <title lang="en">QVC Selection</title>
-    <desc lang="en">With specially chosen products from across the QVC range, there's something for everyone in the QVC Selection.</desc>
+    <title lang="en">Summer Beauty</title>
+    <desc lang="en">Get yourself in tip top shape for summer with this selection of beauty products.</desc>
   </programme>
   <programme channel="QVCBeautyUK.uk" start="20260727200000 +0100" stop="20260727210000 +0100">
     <title lang="en">Iconic Beauty Products</title>
@@ -183890,8 +183926,8 @@
     <desc lang="en">Continuing the extravaganza celebrating the timeless beauty of Diamonds. Join us as we view at least 60 truly dazzling designs, ranging from subtle to breathtaking and classic to contemporary.</desc>
   </programme>
   <programme channel="QVCExtraUK.uk" start="20260727010000 +0100" stop="20260727020000 +0100">
-    <title lang="en">Best of QVC Extra</title>
-    <desc lang="en">All the highlights and star products.</desc>
+    <title lang="en">Diamond Spectacular</title>
+    <desc lang="en">Continuing the extravaganza celebrating the timeless beauty of Diamonds. Join us as we view at least 60 truly dazzling designs, ranging from subtle to breathtaking and classic to contemporary.</desc>
   </programme>
   <programme channel="QVCExtraUK.uk" start="20260727020000 +0100" stop="20260727030000 +0100">
     <title lang="en">Denim &amp; Co Summer Deals</title>
@@ -183946,8 +183982,8 @@
     <desc lang="en">Discover the latest gadgets and electronics in this show, which offers you a range of innovative TVs, computers, tablets and cameras that you and your family will love.</desc>
   </programme>
   <programme channel="QVCExtraUK.uk" start="20260727150000 +0100" stop="20260727160000 +0100">
-    <title lang="en">Best of QVC Extra</title>
-    <desc lang="en">All the highlights and star products.</desc>
+    <title lang="en">Christmas Gift Ideas</title>
+    <desc lang="en">Take the stress out of Christmas shopping and browse our marvellous selection of gift ideas to find the perfect present for someone special.</desc>
   </programme>
   <programme channel="QVCExtraUK.uk" start="20260727160000 +0100" stop="20260727170000 +0100">
     <title lang="en">Althams</title>
@@ -210994,14 +211030,18 @@
   <programme channel="S4C.uk" start="20260726143500 +0100" stop="20260726153500 +0100">
     <title lang="en">Cynefin</title>
     <desc lang="en">Rhyfel a heddwch, diwydiant a diwylliant - y tro hwn, bydd ein cyflwynwyr yn crwydro tref farchnad ddiddorol Yr Wyddgrug. War and peace, industry and culture, this time it's Mold's turn...</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fd146b17-d742-48e7-80f8-6e9a3ceb8eb9/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/8bffda5f-6509-42c3-bc1d-12fdc17ba8b0/cover"/>
+    <episode-num system="xmltv_ns">2.3.0</episode-num>
+    <episode-num system="onscreen">S3E4</episode-num>
   </programme>
-  <programme channel="S4C.uk" start="20260726153500 +0100" stop="20260726160000 +0100">
+  <programme channel="S4C.uk" start="20260726153500 +0100" stop="20260726160500 +0100">
     <title lang="en">Dan Do</title>
     <desc lang="en">Ymunwch ag Aled Samuel a Mandy Watkins mewn cyfres sy'n edrych ar gartrefi Cymru. Yn y rhaglen hon byddwn yn edrych ar dai newydd. In this programme we'll be featuring new builds.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0607686a-7916-4294-8017-3d0e29301c3f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/fee614e5-5806-345b-9252-e0694bc5293c/cover"/>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
-  <programme channel="S4C.uk" start="20260726160000 +0100" stop="20260726165000 +0100">
+  <programme channel="S4C.uk" start="20260726160500 +0100" stop="20260726165000 +0100">
     <title lang="en">New: Pobol y Cwm Omnibws</title>
     <desc lang="en">Cipolwg yn ôl dros ddigwyddiadau'r wythnos yng Nghwmderi. Gydag isdeitlau Saesneg ar y sgrîn. Omnibus edition looking at the events in Cwmderi over the past week. With English subtitles.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/343e8bdc-a078-4364-a7a6-9ae59c24d16b/cover"/>
@@ -211155,8 +211195,8 @@
     <title lang="en">Guto Gwningen</title>
     <desc lang="en">Mae storm gref wedi chwalu cwt coed y cwningod. When a big storm wrecks the rabbits' tree-house, piecing it back together leads to a big adventure.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/62c7346a-b4a2-4fe0-8805-2a4316837ac9/cover"/>
-    <episode-num system="xmltv_ns">0.11.0</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
+    <episode-num system="xmltv_ns">0.10.0</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme channel="S4C.uk" start="20260727091000 +0100" stop="20260727091500 +0100">
     <title lang="en">Nos Da Cyw</title>
@@ -211894,8 +211934,8 @@
     <title lang="en">Guto Gwningen</title>
     <desc lang="en">Ar ôl i Guto, Lili a Benja fynd allan i gasglu coed tân, maen nhw'n sylweddoli bod tri ysbeiliwr am ddwyn y coed. The bunnies find out that three predators are after their firewood.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7ee37048-ff8f-4451-95ca-a8fffe151c3f/cover"/>
-    <episode-num system="xmltv_ns">0.12.0</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
+    <episode-num system="xmltv_ns">0.11.0</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme channel="S4C.uk" start="20260729091500 +0100" stop="20260729092500 +0100">
     <title lang="en">Abadas</title>
@@ -212638,8 +212678,8 @@
     <title lang="en">Guto Gwningen</title>
     <desc lang="en">Pan mae Sami Wisgars a Mr Cadno yn amharu ar aduniad blynyddol Peredur Pysgotwr ar lan y llyn, rhaid i Guto achub y parti. It's up to Guto to save Peredur Pysgotwr's annual get together.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/33da8c5e-a8e9-4f14-a6ba-73b7cd033366/cover"/>
-    <episode-num system="xmltv_ns">0.13.0</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
+    <episode-num system="xmltv_ns">0.12.0</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme channel="S4C.uk" start="20260731091000 +0100" stop="20260731092000 +0100">
     <title lang="en">Abadas</title>
