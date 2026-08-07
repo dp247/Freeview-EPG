@@ -1,4 +1,4 @@
-Channel list current as of 2026-08-07 16:00
+Channel list current as of 2026-08-07 16:25
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -194,7 +194,8 @@ Channel list current as of 2026-08-07 16:00
 | sky | en | TJC.uk | 1113 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tjc-the-jewellery-channel-uk.png" height="150px" /> | TJC HD |
 | sky | en | TLC.uk | 3812 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TLC.png" height="150px" /> | TLC |
 | sky | en | TLCPlus1.uk | 5451 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TLC-Plus-1.png" height="150px" /> | TLC+1 |
-| sky | en | TogetherTV.uk | 1872 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/together-tv-uk.png" height="150px" /> | Together TV |
+| rt | en | TogetherTV.uk | htnw | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/together-tv-uk.png" height="150px" /> | Together TV |
+| rt | en | TogetherTVPlus1.uk | htnx | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/.Light/Together%20TV%20Plus%201.png" height="150px" /> | Together TV +1 |
 | sky | en | Travelxp.in | 1226 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/travelxp-in.png" height="150px" /> | Travelxp |
 | sky | en | TRTWorld.tr | 5071 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-world-tr.png" height="150px" /> | TRT World |
 | sky | en | TrueCrime.uk | 3352 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-UK.png" height="150px" /> | True Crime |
@@ -233,21 +234,35 @@ Channel list current as of 2026-08-07 16:00
 | sky | en | BBCRUlster.uk | 2119 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Ulster.png" height="150px" /> | BBC Radio Ulster |
 | sky | en | BBCRWales.uk | 2118 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Wales.png" height="150px" /> | BBC Radio Wales |
 | rt | en | BBCRadioBerkshire.uk | hvhd | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Berkshire.png" height="150px" /> | BBC Radio Berkshire |
+| rt | en | BBCRadioBristol.uk | hvjn | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Bristol.png" height="150px" /> | BBC Radio Bristol |
+| rt | en | BBCRadioCambridgeshire.uk | hvfj | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cambridgeshire.png" height="150px" /> | BBC Radio Cambridgeshire |
 | rt | en | BBCRadioCornwall.uk | hvjs | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cornwall.png" height="150px" /> | BBC Radio Cornwall |
 | rt | en | BBCRadioCumbria.uk | hvhn | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cumbria.png" height="150px" /> | BBC Radio Cumbria |
 | sky | en | BBCRadioCymru.uk | 2123 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru.png" height="150px" /> | BBC Radio Cymru |
 | sky | en | BBCRadioCymru2.uk | 2021 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru-2.png" height="150px" /> | BBC Radio Cymru 2 |
+| rt | en | BBCRadioDerby.uk | hvgg | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Derby.png" height="150px" /> | BBC Radio Derby |
+| rt | en | BBCRadioDevon.uk | hvd9 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Devon.png" height="150px" /> | BBC Radio Devon |
 | sky | en | BBCRadioFoyle.uk | 2124 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Foyle.png" height="150px" /> | BBC Radio Foyle |
 | sky | en | BBCRadioGaidhael.uk | 2129 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-nan-Gaidheal.png" height="150px" /> | BBC Radio nan Gaidhael |
+| rt | en | BBCRadioGloucestershire.uk | hvjc | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Gloucestershire.png" height="150px" /> | BBC Radio Gloucestershire |
 | rt | en | BBCRadioHumberside.uk | hvf7 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Humberside.png" height="150px" /> | BBC Radio Humberside |
+| rt | en | BBCRadioJersey.uk | hvks | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Jersey.png" height="150px" /> | BBC Radio Jersey |
 | rt | en | BBCRadioKent.uk | hvhc | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Kent.png" height="150px" /> | BBC Radio Kent |
 | rt | en | BBCRadioLancashire.uk | hvhg | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Lancashire.png" height="150px" /> | BBC Radio Lancashire |
 | freeview | en | BBCRadioLeeds.uk | 6154 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Leeds.png" height="150px" /> | BBC Radio Leeds |
+| rt | en | BBCRadioLeicester.uk | hvfy | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Leicester.png" height="150px" /> | BBC Radio Leicester |
 | freeview | en | BBCRadioLincolnshire.uk | 6159 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Lincolnshire.png" height="150px" /> | BBC Radio Lincolnshire |
 | sky | en | BBCRadioLondon.uk | 2130 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-London.png" height="150px" /> | BBC Radio London |
 | rt | en | BBCRadioManchester.uk | hvfs | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Manchester.png" height="150px" /> | BBC Radio Manchester |
+| rt | en | BBCRadioMerseyside.uk | hvkq | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Merseyside.png" height="150px" /> | BBC Radio Merseyside |
 | rt | en | BBCRadioNewcastle.uk | hvhw | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Newcastle.png" height="150px" /> | BBC Radio Newcastle |
+| rt | en | BBCRadioNorfolk.uk | hvkm | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Norfolk.png" height="150px" /> | BBC Radio Norfolk |
+| rt | en | BBCRadioNorthampton.uk | hvfw | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Northampton.png" height="150px" /> | BBC Radio Northampton |
+| rt | en | BBCRadioNottingham.uk | hvf5 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Nottingham.png" height="150px" /> | BBC Radio Nottingham |
+| rt | en | BBCRadioOrkney.uk | hvhx | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Orkney.png" height="150px" /> | BBC Radio Orkney |
 | rt | en | BBCRadioSheffield.uk | hvct | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Sheffield.png" height="150px" /> | BBC Radio Sheffield |
+| rt | en | BBCRadioShetland.uk | hvm9 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Shetland.png" height="150px" /> | BBC Radio Shetland |
+| rt | en | BBCRadioShropshire.uk | hvcw | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Shropshire.png" height="150px" /> | BBC Radio Shropshire |
 | rt | en | BBCRadioSurrey.uk | hvfn | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Surrey.png" height="150px" /> | BBC Radio Surrey |
 | freeview | en | BBCRadioTees.uk | 6281 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Tees.png" height="150px" /> | BBC Radio Tees |
 | rt | en | BBCRadioThreeCounties.uk | hvhs | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Three-Counties-Radio.png" height="150px" /> | BBC Radio Three Counties |
