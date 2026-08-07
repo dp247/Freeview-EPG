@@ -9,6 +9,7 @@ data.
 
 from typing import List, Dict, Any
 
+from ..utils.parsing import parse_duration_value, parse_timestamp
 from .base import Context
 
 
@@ -88,14 +89,16 @@ def fetch_programmes(channel: Dict[str, Any], ctx: Context) -> List[Dict[str, An
     for item in epg_data:
         title = item.get("name")
         desc = item.get("description")
-        start = item.get("startTime")
-        duration = item.get("duration", 0)
-        if start is None:
+        start_raw = item.get("startTime")
+        duration_raw = item.get("duration", 0)
+        if start_raw is None:
             continue
         try:
+            start = parse_timestamp(start_raw)
+            duration = parse_duration_value(duration_raw)
             end = start + duration
         except Exception:
-            end = start
+            continue
         icon = None
         if item.get("image"):
             icon = (
