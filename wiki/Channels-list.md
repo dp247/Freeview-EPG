@@ -1,4 +1,4 @@
-Channel list current as of 2026-07-08 09:28
+Channel list current as of 2026-08-07 14:49
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@ Channel list current as of 2026-07-08 09:28
 | sky | en | RTE2FM.ie | 1262 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/Radio/RTE-2FM.png" height="150px" /> | RTÉ 2FM |
 | sky | en | RTELyricFM.ie | 1264 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/Radio/RTE-Lyric-FM.png" height="150px" /> | RTÉ Lyric FM |
 | sky | en | RTERnaG.ie | 1263 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/Radio/RTE-Raidio-na-Gaeltachta.png" height="150px" /> | RTÉ Raidió na Gaeltachta |
-| sky | en | S4C.uk | 5701 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png" height="150px" /> | S4C |
+| sky | en | S4C.uk | 2296 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png" height="150px" /> | S4C |
 | sky | en | ShopUnlimited.uk | 3404 | <img src="https://www.shopunlimitedlive.com/cdn/shop/files/LHCCS100_33.png?v=1761321260&width=100" height="150px" /> | Shop Unlimited |
 | sky | en | SkyArts.uk | 1752 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Arts.png" height="150px" /> | Sky Arts |
 | sky | en | SkyArts.ie | 1229 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Arts.png" height="150px" /> | Sky Arts ROI |
