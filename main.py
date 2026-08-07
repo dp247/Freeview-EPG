@@ -27,7 +27,7 @@ from src.config import load_channels
 from src.dedupe import dedupe_programmes
 from src.http import make_session
 from src.xmltv import build_xmltv, write_atomic
-from src.providers import sky, freeview, freesat, radiotimes
+from src.providers import sky, freeview, freesat, radiotimes, youview
 from src.providers.base import Context
 
 
@@ -64,6 +64,8 @@ def main() -> None:
             fetcher = freesat.fetch_programmes
         elif src == "rt":
             fetcher = radiotimes.fetch_programmes
+        elif src == "yv":
+            fetcher = youview.fetch_programmes
         else:
             logging.warning(
                 "Unknown source '%s' for channel %s; skipping.",

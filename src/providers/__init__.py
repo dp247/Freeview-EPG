@@ -11,5 +11,6 @@ from . import sky  # noqa: F401
 from . import freeview  # noqa: F401
 from . import freesat  # noqa: F401
 from . import radiotimes  # noqa: F401
+from . import youview  # noqa: F401
 
-__all__ = ["sky", "freeview", "freesat", "radiotimes"]
+__all__ = ["sky", "freeview", "freesat", "radiotimes", "youview"]
