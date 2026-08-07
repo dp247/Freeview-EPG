@@ -1548,9 +1548,17 @@
             "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/together-tv-uk.png",
             "lang": "en",
             "name": "Together TV",
-            "provider_id": "1872",
-            "src": "sky",
+            "provider_id": "htnw",
+            "src": "rt",
             "xmltv_id": "TogetherTV.uk"
+        },
+        {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/.Light/Together%20TV%20Plus%201.png",
+            "lang": "en",
+            "name": "Together TV +1",
+            "provider_id": "htnx",
+            "src": "rt",
+            "xmltv_id": "TogetherTVPlus1.uk"
         },
         {
             "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/travelxp-in.png",
