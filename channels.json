@@ -1865,6 +1865,22 @@
             "xmltv_id": "BBCRadioBerkshire.uk"
         },
         {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Bristol.png",
+            "lang": "en",
+            "name": "BBC Radio Bristol",
+            "provider_id": "hvjn",
+            "src": "rt",
+            "xmltv_id": "BBCRadioBristol.uk"
+        },
+        {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cambridgeshire.png",
+            "lang": "en",
+            "name": "BBC Radio Cambridgeshire",
+            "provider_id": "hvfj",
+            "src": "rt",
+            "xmltv_id": "BBCRadioCambridgeshire.uk"
+        },
+        {
             "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cornwall.png",
             "lang": "en",
             "name": "BBC Radio Cornwall",
@@ -1897,6 +1913,22 @@
             "xmltv_id": "BBCRadioCymru2.uk"
         },
         {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Derby.png",
+            "lang": "en",
+            "name": "BBC Radio Derby",
+            "provider_id": "hvgg",
+            "src": "rt",
+            "xmltv_id": "BBCRadioDerby.uk"
+        },
+        {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Devon.png",
+            "lang": "en",
+            "name": "BBC Radio Devon",
+            "provider_id": "hvd9",
+            "src": "rt",
+            "xmltv_id": "BBCRadioDevon.uk"
+        },
+        {
             "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Foyle.png",
             "lang": "en",
             "name": "BBC Radio Foyle",
@@ -1913,12 +1945,28 @@
             "xmltv_id": "BBCRadioGaidhael.uk"
         },
         {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Gloucestershire.png",
+            "lang": "en",
+            "name": "BBC Radio Gloucestershire",
+            "provider_id": "hvjc",
+            "src": "rt",
+            "xmltv_id": "BBCRadioGloucestershire.uk"
+        },
+        {
             "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Humberside.png",
             "lang": "en",
             "name": "BBC Radio Humberside",
             "provider_id": "hvf7",
             "src": "rt",
             "xmltv_id": "BBCRadioHumberside.uk"
+        },
+        {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Jersey.png",
+            "lang": "en",
+            "name": "BBC Radio Jersey",
+            "provider_id": "hvks",
+            "src": "rt",
+            "xmltv_id": "BBCRadioJersey.uk"
         },
         {
             "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Kent.png",
@@ -1946,6 +1994,14 @@
             "xmltv_id": "BBCRadioLeeds.uk"
         },
         {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Leicester.png",
+            "lang": "en",
+            "name": "BBC Radio Leicester",
+            "provider_id": "hvfy",
+            "src": "rt",
+            "xmltv_id": "BBCRadioLeicester.uk"
+        },
+        {
             "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Lincolnshire.png",
             "lang": "en",
             "name": "BBC Radio Lincolnshire",
@@ -1971,6 +2027,14 @@
             "xmltv_id": "BBCRadioManchester.uk"
         },
         {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Merseyside.png",
+            "lang": "en",
+            "name": "BBC Radio Merseyside",
+            "provider_id": "hvkq",
+            "src": "rt",
+            "xmltv_id": "BBCRadioMerseyside.uk"
+        },
+        {
             "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Newcastle.png",
             "lang": "en",
             "name": "BBC Radio Newcastle",
@@ -1979,12 +2043,60 @@
             "xmltv_id": "BBCRadioNewcastle.uk"
         },
         {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Norfolk.png",
+            "lang": "en",
+            "name": "BBC Radio Norfolk",
+            "provider_id": "hvkm",
+            "src": "rt",
+            "xmltv_id": "BBCRadioNorfolk.uk"
+        },
+        {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Northampton.png",
+            "lang": "en",
+            "name": "BBC Radio Northampton",
+            "provider_id": "hvfw",
+            "src": "rt",
+            "xmltv_id": "BBCRadioNorthampton.uk"
+        },
+        {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Nottingham.png",
+            "lang": "en",
+            "name": "BBC Radio Nottingham",
+            "provider_id": "hvf5",
+            "src": "rt",
+            "xmltv_id": "BBCRadioNottingham.uk"
+        },
+        {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Orkney.png",
+            "lang": "en",
+            "name": "BBC Radio Orkney",
+            "provider_id": "hvhx",
+            "src": "rt",
+            "xmltv_id": "BBCRadioOrkney.uk"
+        },
+        {
             "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Sheffield.png",
             "lang": "en",
             "name": "BBC Radio Sheffield",
             "provider_id": "hvct",
             "src": "rt",
             "xmltv_id": "BBCRadioSheffield.uk"
+        },
+        {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Shetland.png",
+            "lang": "en",
+            "name": "BBC Radio Shetland",
+            "provider_id": "hvm9",
+            "src": "rt",
+            "xmltv_id": "BBCRadioShetland.uk"
+        },
+        {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Shropshire.png",
+            "lang": "en",
+            "name": "BBC Radio Shropshire",
+            "provider_id": "hvcw",
+            "src": "rt",
+            "xmltv_id": "BBCRadioShropshire.uk"
         },
         {
             "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Surrey.png",
