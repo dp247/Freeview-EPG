@@ -1,4 +1,4 @@
-Channel list current as of 2026-08-07 14:49
+Channel list current as of 2026-08-07 16:00
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@ Channel list current as of 2026-08-07 14:49
 | sky | en | GreatMystery.uk | 3709 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-mystery-uk.png" height="150px" /> | GREAT! Mystery |
 | sky | en | GreatMysteryPlus1.uk | 3771 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-mystery-plus-uk.png" height="150px" /> | GREAT! Mystery +1 |
 | freeview | en | GreatMovies.uk | 15584 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-uk.png" height="150px" /> | GREAT! Movies |
-| sky | en | GreatRomance.uk | 3643 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-uk.png" height="150px" /> | GREAT! romance |
+| rt | en | GreatRomance.uk | htnj | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-uk.png" height="150px" /> | GREAT! Romance |
+| rt | en | GreatRomancePlus1.uk | htqw | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Great-Romance-Plus-1.png" height="150px" /> | GREAT! Romance +1 |
 | sky | en | GreatTV.uk | 4266 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-uk.png" height="150px" /> | GREAT! tv |
 | sky | en | GreatTVPlus1.uk | 5338 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-plus-uk.png" height="150px" /> | GREAT! tv+1 |
 | sky | en | HighStreetTV1.uk | 3580 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/high-street-tv-uk.png" height="150px" /> | High Street TV 1 |
@@ -148,7 +149,6 @@ Channel list current as of 2026-08-07 14:49
 | sky | en | NowRock.uk | 3682 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/NOW_Rock.png" height="150px" /> | Now Rock |
 | sky | en | PanjabRadio.uk | 3363 | <img src="https://www.panjabradio.co.uk/wp-content/uploads/2021/03/Logo-2-768x768.png" height="150px" /> | Panjab Radio |
 | sky | en | PBSAmerica.uk | 5500 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pbs-america-uk.png" height="150px" /> | PBS America |
-| sky | en | Quest.uk | 6761 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png" height="150px" /> | Quest |
 | sky | en | QuestHD.uk | 1128 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png" height="150px" /> | Quest HD |
 | sky | en | QuestHD.ie | 1130 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png" height="150px" /> | Quest HD ROI |
 | sky | en | QuestPlus1.uk | 3621 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-plus-uk.png" height="150px" /> | QUEST+1 |
@@ -186,12 +186,11 @@ Channel list current as of 2026-08-07 14:49
 | rt | en | STVNorthPlus1.uk | htrg | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-plus-uk.png" height="150px" /> | STV North +1 |
 | sky | en | TalkingPicturesTV.uk | 5252 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talking-pictures-tv-uk.png" height="150px" /> | Talking Pictures TV |
 | sky | ga | TG4.ie | 4034 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/tg-4-ie.png" height="150px" /> | TG4 |
-| sky | en | ThatsDance.uk | 1224 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_Dance.png" height="150px" /> | That's Dance |
-| sky | en | ThatsFabulous.uk | 1222 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_Fabulous.png" height="150px" /> | That's Fabulous |
-| sky | en | ThatsMelody.uk | 1305 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_Melody.png" height="150px" /> | That's Melody |
-| sky | en | ThatsTV.uk | 1017 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-TV-plain.png" height="150px" /> | That's TV |
-| sky | en | ThatsTV2.uk | 1311 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-TV-2.png" height="150px" /> | That's TV 2 |
-| sky | en | ThatsTV3.uk | 1134 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_TV_3.png" height="150px" /> | That's TV 3 |
+| rt | en | Thats20thCentury.uk | hvzy | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/thats-20th-century.png" height="150px" /> | That's 20th Century |
+| rt | en | Thats60s.uk | hv22 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Thats-60s.png" height="150px" /> | That's 60s |
+| rt | en | Thats70s.uk | hvzy | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Thats-70s.png" height="150px" /> | That's 70s |
+| rt | en | ThatsTV.uk | hvbp | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-TV-plain.png" height="150px" /> | That's TV |
+| rt | en | ThatsTV2.uk | hv7c | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-TV-2.png" height="150px" /> | That's TV 2 |
 | sky | en | TJC.uk | 1113 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tjc-the-jewellery-channel-uk.png" height="150px" /> | TJC HD |
 | sky | en | TLC.uk | 3812 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TLC.png" height="150px" /> | TLC |
 | sky | en | TLCPlus1.uk | 5451 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TLC-Plus-1.png" height="150px" /> | TLC+1 |
@@ -219,7 +218,6 @@ Channel list current as of 2026-08-07 14:49
 | sky | en | VirginMediaTwo.ie | 1046 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-two-ie.png" height="150px" /> | Virgin Media Two |
 | sky | en | VirginMediaThree.ie | 2817 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-three-ie.png" height="150px" /> | Virgin Media Three |
 | sky | en | VirginMediaFour.ie | 1316 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-four-ie.png" height="150px" /> | Virgin Media Four |
-| sky | en | WION.in | 1084 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/wion-in.png" height="150px" /> | WION HD |
 | sky | en | BBCR1.uk | 2111 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1.png" height="150px" /> | BBC Radio 1 |
 | sky | en | BBCR1X.uk | 2126 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1Xtra.png" height="150px" /> | BBC Radio 1 Xtra |
 | sky | en | BBCR2.uk | 2112 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-2.png" height="150px" /> | BBC Radio 2 |
