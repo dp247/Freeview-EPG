@@ -727,10 +727,18 @@
         {
             "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-uk.png",
             "lang": "en",
-            "name": "GREAT! romance",
-            "provider_id": "3643",
-            "src": "sky",
+            "name": "GREAT! Romance",
+            "provider_id": "htnj",
+            "src": "rt",
             "xmltv_id": "GreatRomance.uk"
+        },
+        {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Great-Romance-Plus-1.png",
+            "lang": "en",
+            "name": "GREAT! Romance +1",
+            "provider_id": "htqw",
+            "src": "rt",
+            "xmltv_id": "GreatRomancePlus1.uk"
         },
         {
             "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-uk.png",
@@ -1179,14 +1187,6 @@
         {
             "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png",
             "lang": "en",
-            "name": "Quest",
-            "provider_id": "6761",
-            "src": "sky",
-            "xmltv_id": "Quest.uk"
-        },
-        {
-            "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png",
-            "lang": "en",
             "name": "Quest HD",
             "provider_id": "1128",
             "src": "sky",
@@ -1481,52 +1481,44 @@
             "xmltv_id": "TG4.ie"
         },
         {
-            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_Dance.png",
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/thats-20th-century.png",
             "lang": "en",
-            "name": "That's Dance",
-            "provider_id": "1224",
-            "src": "sky",
-            "xmltv_id": "ThatsDance.uk"
+            "name": "That's 20th Century",
+            "provider_id": "hvzy",
+            "src": "rt",
+            "xmltv_id": "Thats20thCentury.uk"
         },
         {
-            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_Fabulous.png",
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Thats-60s.png",
             "lang": "en",
-            "name": "That's Fabulous",
-            "provider_id": "1222",
-            "src": "sky",
-            "xmltv_id": "ThatsFabulous.uk"
+            "name": "That's 60s",
+            "provider_id": "hv22",
+            "src": "rt",
+            "xmltv_id": "Thats60s.uk"
         },
         {
-            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_Melody.png",
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Thats-70s.png",
             "lang": "en",
-            "name": "That's Melody",
-            "provider_id": "1305",
-            "src": "sky",
-            "xmltv_id": "ThatsMelody.uk"
+            "name": "That's 70s",
+            "provider_id": "hvzy",
+            "src": "rt",
+            "xmltv_id": "Thats70s.uk"
         },
         {
             "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-TV-plain.png",
             "lang": "en",
             "name": "That's TV",
-            "provider_id": "1017",
-            "src": "sky",
+            "provider_id": "hvbp",
+            "src": "rt",
             "xmltv_id": "ThatsTV.uk"
         },
         {
             "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-TV-2.png",
             "lang": "en",
             "name": "That's TV 2",
-            "provider_id": "1311",
-            "src": "sky",
+            "provider_id": "hv7c",
+            "src": "rt",
             "xmltv_id": "ThatsTV2.uk"
-        },
-        {
-            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_TV_3.png",
-            "lang": "en",
-            "name": "That's TV 3",
-            "provider_id": "1134",
-            "src": "sky",
-            "xmltv_id": "ThatsTV3.uk"
         },
         {
             "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tjc-the-jewellery-channel-uk.png",
@@ -1743,14 +1735,6 @@
             "provider_id": "1316",
             "src": "sky",
             "xmltv_id": "VirginMediaFour.ie"
-        },
-        {
-            "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/wion-in.png",
-            "lang": "en",
-            "name": "WION HD",
-            "provider_id": "1084",
-            "src": "sky",
-            "xmltv_id": "WION.in"
         },
         {
             "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1.png",
