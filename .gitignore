@@ -275,3 +275,4 @@ cython_debug/
 !/sky.com.channels_orig.xml
 !/sky.com.channels_orig.xml
 /.idea/Freeview-EPG.iml
+.vscode/settings.json
