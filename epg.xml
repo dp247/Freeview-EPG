@@ -42154,7 +42154,7 @@
   </programme>
   <programme channel="BBCR4FM.uk" start="20261018071000 +0100" stop="20261018075400 +0100">
     <title lang="en">Sunday</title>
-    <desc lang="en">A look at the ethical and religious issues of the week.</desc>
+    <desc lang="en">A look at the ethical and religious issues of the week with Julie Etchingham.</desc>
   </programme>
   <programme channel="BBCR4FM.uk" start="20261018075400 +0100" stop="20261018075700 +0100">
     <title lang="en">The Radio 4 Appeal</title>
@@ -42182,7 +42182,7 @@
   </programme>
   <programme channel="BBCR4FM.uk" start="20261018090000 +0100" stop="20261018100000 +0100">
     <title lang="en">Broadcasting House</title>
-    <desc lang="en">The Sunday morning news magazine programme. Presented by Paddy O'Connell.</desc>
+    <desc lang="en">The Sunday morning news magazine programme. Presented by Simon Jack.</desc>
   </programme>
   <programme channel="BBCR4FM.uk" start="20261018100000 +0100" stop="20261018110000 +0100">
     <title lang="en">Desert Island Discs</title>
@@ -43334,7 +43334,7 @@
   </programme>
   <programme channel="BBCR4LW.uk" start="20261018071000 +0100" stop="20261018075400 +0100">
     <title lang="en">Sunday</title>
-    <desc lang="en">A look at the ethical and religious issues of the week.</desc>
+    <desc lang="en">A look at the ethical and religious issues of the week with Julie Etchingham.</desc>
   </programme>
   <programme channel="BBCR4LW.uk" start="20261018075400 +0100" stop="20261018075700 +0100">
     <title lang="en">The Radio 4 Appeal</title>
@@ -43362,7 +43362,7 @@
   </programme>
   <programme channel="BBCR4LW.uk" start="20261018090000 +0100" stop="20261018100000 +0100">
     <title lang="en">Broadcasting House</title>
-    <desc lang="en">The Sunday morning news magazine programme. Presented by Paddy O'Connell.</desc>
+    <desc lang="en">The Sunday morning news magazine programme. Presented by Simon Jack.</desc>
   </programme>
   <programme channel="BBCR4LW.uk" start="20261018100000 +0100" stop="20261018110000 +0100">
     <title lang="en">Desert Island Discs</title>
@@ -47957,7 +47957,7 @@
   </programme>
   <programme channel="BBCRadioCymru.uk" start="20261018123000 +0100" stop="20261018130000 +0100">
     <title lang="en">Bwrw Golwg</title>
-    <desc lang="en">Nest Jenkins a'i gwesteion yn trafod materion moesol a chrefyddol. Nest Jenkins and guests discuss ethics and religion.</desc>
+    <desc lang="en">Holi deon newydd Cadeirlan Bangor, yn cofio trychineb Aberfan a dathlu Noddfa Caernarfon yn 70. Getting to know the new Dean at Bangor and discussing Aberfan and Noddfa Caernarfon.</desc>
   </programme>
   <programme channel="BBCRadioCymru.uk" start="20261018130000 +0100" stop="20261018140000 +0100">
     <title lang="en">Llwyfan gyda Manon Steffan Ros</title>
@@ -55006,6 +55006,9 @@
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm.</desc>
   </programme>
+  <programme channel="BBCThreeHD.uk" start="20261018053000 +0100" stop="20261018113000 +0100">
+    <title lang="en">..programmes start at 7.00pm</title>
+  </programme>
   <programme channel="BBCThreeHD.uk" start="20261018113000 +0100" stop="20261018173000 +0100">
     <title lang="en">..programmes start at 7.00pm</title>
   </programme>
@@ -58948,7 +58951,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261018060600 +0100" stop="20261018070000 +0100">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">Hundreds were arrested after huge demonstrations in both countries.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261018070000 +0100" stop="20261018070600 +0100">
     <title lang="en">BBC News</title>
@@ -58956,7 +58959,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261018070600 +0100" stop="20261018080000 +0100">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">Guilfoyle says she will vigorously deny allegations of improper conduct.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261018080000 +0100" stop="20261018080600 +0100">
     <title lang="en">BBC News</title>
@@ -58964,7 +58967,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261018080600 +0100" stop="20261018090000 +0100">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">Heidi Levine is recovering in hospital after she was attacked by Israeli settlers.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261018090000 +0100" stop="20261018090600 +0100">
     <title lang="en">BBC News</title>
@@ -70244,7 +70247,7 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20261023000001 +0100" stop="20261023010001 +0100">
     <title lang="en">The New Hire</title>
-    <desc lang="en">Elina is a deaf woman determined to become a truck driver. However, she has to overcome her fear of failure and insecurities as a driver due to her deafness.    Nurul is blind and is passionate about</desc>
+    <desc lang="en">Four individuals with disabilities pursue the career of their dreams but reality bites.</desc>
     <icon src="http://img.freeviewplay.net/ee89674c7991f639cbff50a156daa73e3?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261023010001 +0100" stop="20261023020003 +0100">
@@ -70254,17 +70257,17 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20261023020003 +0100" stop="20261023030004 +0100">
     <title lang="en">Silk Road 2.0: China In A Post-Pandemic</title>
-    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, witness how the Digital Silk Road is shaping ASEAN's digital economy.  Discover how China is laying undersea fi</desc>
+    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, witness how the Digital Silk Road is shaping ASEAN's digital economy.</desc>
     <icon src="http://img.freeviewplay.net/e06c2decb673f796f00be36477f82602f?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261023030004 +0100" stop="20261023040003 +0100">
     <title lang="en">Silk Road 2.0: China In A Post-Pandemic</title>
-    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, witness how a Health Silk Road emerges to fight COVID-19. But it has to contend with misinformation, mistrust,</desc>
+    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, witness how people in ASEAN are responding to the Health Silk Road and China's vaccine diplomacy.</desc>
     <icon src="http://img.freeviewplay.net/e06c2decb673f796f00be36477f82602f?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261023040003 +0100" stop="20261023050004 +0100">
     <title lang="en">Silk Road 2.0: China In A Post-Pandemic</title>
-    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, China has pledged a Green Silk Road to address climate change. But is it living up to its promise? Amidst prote</desc>
+    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, China has pledged a Green Silk Road to address climate change. But is it living up to its promise?</desc>
     <icon src="http://img.freeviewplay.net/e06c2decb673f796f00be36477f82602f?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261023050004 +0100" stop="20261023060001 +0100">
@@ -70274,7 +70277,7 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20261023060001 +0100" stop="20261023070000 +0100">
     <title lang="en">The New Hire</title>
-    <desc lang="en">Elina is a deaf woman determined to become a truck driver. However, she has to overcome her fear of failure and insecurities as a driver due to her deafness.    Nurul is blind and is passionate about</desc>
+    <desc lang="en">Four individuals with disabilities pursue the career of their dreams but reality bites.</desc>
     <icon src="http://img.freeviewplay.net/ee89674c7991f639cbff50a156daa73e3?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261023070000 +0100" stop="20261023080003 +0100">
@@ -70284,17 +70287,17 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20261023080003 +0100" stop="20261023090002 +0100">
     <title lang="en">Silk Road 2.0: China In A Post-Pandemic</title>
-    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, witness how the Digital Silk Road is shaping ASEAN's digital economy.  Discover how China is laying undersea fi</desc>
+    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, witness how the Digital Silk Road is shaping ASEAN's digital economy.</desc>
     <icon src="http://img.freeviewplay.net/e06c2decb673f796f00be36477f82602f?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261023090002 +0100" stop="20261023100004 +0100">
     <title lang="en">Silk Road 2.0: China In A Post-Pandemic</title>
-    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, witness how a Health Silk Road emerges to fight COVID-19. But it has to contend with misinformation, mistrust,</desc>
+    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, witness how people in ASEAN are responding to the Health Silk Road and China's vaccine diplomacy.</desc>
     <icon src="http://img.freeviewplay.net/e06c2decb673f796f00be36477f82602f?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261023100004 +0100" stop="20261023110000 +0100">
     <title lang="en">Silk Road 2.0: China In A Post-Pandemic</title>
-    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, China has pledged a Green Silk Road to address climate change. But is it living up to its promise? Amidst prote</desc>
+    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, China has pledged a Green Silk Road to address climate change. But is it living up to its promise?</desc>
     <icon src="http://img.freeviewplay.net/e06c2decb673f796f00be36477f82602f?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261023110000 +0100" stop="20261023120001 +0100">
@@ -70304,7 +70307,7 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20261023120001 +0100" stop="20261023130001 +0100">
     <title lang="en">The New Hire</title>
-    <desc lang="en">Elina is a deaf woman determined to become a truck driver. However, she has to overcome her fear of failure and insecurities as a driver due to her deafness.    Nurul is blind and is passionate about</desc>
+    <desc lang="en">Four individuals with disabilities pursue the career of their dreams but reality bites.</desc>
     <icon src="http://img.freeviewplay.net/ee89674c7991f639cbff50a156daa73e3?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261023130001 +0100" stop="20261023140003 +0100">
@@ -70314,17 +70317,17 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20261023140003 +0100" stop="20261023150004 +0100">
     <title lang="en">Silk Road 2.0: China In A Post-Pandemic</title>
-    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, witness how the Digital Silk Road is shaping ASEAN's digital economy.  Discover how China is laying undersea fi</desc>
+    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, witness how the Digital Silk Road is shaping ASEAN's digital economy.</desc>
     <icon src="http://img.freeviewplay.net/e06c2decb673f796f00be36477f82602f?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261023150004 +0100" stop="20261023160003 +0100">
     <title lang="en">Silk Road 2.0: China In A Post-Pandemic</title>
-    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, witness how a Health Silk Road emerges to fight COVID-19. But it has to contend with misinformation, mistrust,</desc>
+    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, witness how people in ASEAN are responding to the Health Silk Road and China's vaccine diplomacy.</desc>
     <icon src="http://img.freeviewplay.net/e06c2decb673f796f00be36477f82602f?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261023160003 +0100" stop="20261023170004 +0100">
     <title lang="en">Silk Road 2.0: China In A Post-Pandemic</title>
-    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, China has pledged a Green Silk Road to address climate change. But is it living up to its promise? Amidst prote</desc>
+    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, China has pledged a Green Silk Road to address climate change. But is it living up to its promise?</desc>
     <icon src="http://img.freeviewplay.net/e06c2decb673f796f00be36477f82602f?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261023170004 +0100" stop="20261023180001 +0100">
@@ -70334,7 +70337,7 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20261023180001 +0100" stop="20261023190000 +0100">
     <title lang="en">The New Hire</title>
-    <desc lang="en">Elina is a deaf woman determined to become a truck driver. However, she has to overcome her fear of failure and insecurities as a driver due to her deafness.    Nurul is blind and is passionate about</desc>
+    <desc lang="en">Four individuals with disabilities pursue the career of their dreams but reality bites.</desc>
     <icon src="http://img.freeviewplay.net/ee89674c7991f639cbff50a156daa73e3?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261023190000 +0100" stop="20261023200003 +0100">
@@ -70344,78 +70347,138 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20261023200003 +0100" stop="20261023210002 +0100">
     <title lang="en">Silk Road 2.0: China In A Post-Pandemic</title>
-    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, witness how the Digital Silk Road is shaping ASEAN's digital economy.  Discover how China is laying undersea fi</desc>
+    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, witness how the Digital Silk Road is shaping ASEAN's digital economy.</desc>
     <icon src="http://img.freeviewplay.net/e06c2decb673f796f00be36477f82602f?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261023210002 +0100" stop="20261023220004 +0100">
     <title lang="en">Silk Road 2.0: China In A Post-Pandemic</title>
-    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, witness how a Health Silk Road emerges to fight COVID-19. But it has to contend with misinformation, mistrust,</desc>
+    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, witness how people in ASEAN are responding to the Health Silk Road and China's vaccine diplomacy.</desc>
     <icon src="http://img.freeviewplay.net/e06c2decb673f796f00be36477f82602f?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261023220004 +0100" stop="20261023230000 +0100">
     <title lang="en">Silk Road 2.0: China In A Post-Pandemic</title>
-    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, China has pledged a Green Silk Road to address climate change. But is it living up to its promise? Amidst prote</desc>
+    <desc lang="en">China's signature Belt and Road Initiative is evolving in the pandemic. In this episode, China has pledged a Green Silk Road to address climate change. But is it living up to its promise?</desc>
     <icon src="http://img.freeviewplay.net/e06c2decb673f796f00be36477f82602f?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261023230000 +0100" stop="20261024010000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261023230000 +0100" stop="20261024000002 +0100">
+    <title lang="en">East Asia Tonight 2026/2027 - Fri 23/10/</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e700882de7283b0eadd9069c1a66d28de?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261024010000 +0100" stop="20261024030000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261024000002 +0100" stop="20261024010002 +0100">
+    <title lang="en">The New Hire</title>
+    <desc lang="en">Four individuals continue the pursuit of their dream jobs.   Trevor is autistic. He loves baking, and has found a job in a bakery. But when a media company asks him to attend a job interview, Trevor f</desc>
+    <icon src="http://img.freeviewplay.net/ee89674c7991f639cbff50a156daa73e3?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261024030000 +0100" stop="20261024050000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261024010002 +0100" stop="20261024020003 +0100">
+    <title lang="en">Asia Tonight 2026/2027 - Fri 23/10/2026</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/ea8d2b59c4256b08b74b4452e7e945baa?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261024050000 +0100" stop="20261024070000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261024020003 +0100" stop="20261024030003 +0100">
+    <title lang="en">Singapore Hour</title>
+    <desc lang="en">From virtual F1 simulators that train pros to gamified go-karts and heart-thumping luge rides, we show you three thrilling ways to chase your racing dreams. Then, step into KADA, a reinvented mission</desc>
+    <icon src="http://img.freeviewplay.net/e545aabeebefa4a89767315549d8a3e59?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261024070000 +0100" stop="20261024090000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261024030003 +0100" stop="20261024040002 +0100">
+    <title lang="en">Sing To Remember: Defying Dementia</title>
+    <desc lang="en">For the first time in his career, Conductor Jason Lai is putting up a concert with a group of amateurs who live with an incurable condition.     Former commando Peter Estrop, 61, was diagnosed with de</desc>
+    <icon src="http://img.freeviewplay.net/ea3344c511768e067f8e8fcbfb6f9076b?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261024090000 +0100" stop="20261024110000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261024040002 +0100" stop="20261024050000 +0100">
+    <title lang="en">Sing To Remember: Defying Dementia</title>
+    <desc lang="en">The clock is ticking.     The Christmas concert is just two months away but some of Jason's choir members are still struggling to keep up. One of them is Steven, 67, whose form of dementia affects his</desc>
+    <icon src="http://img.freeviewplay.net/ea3344c511768e067f8e8fcbfb6f9076b?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261024110000 +0100" stop="20261024130000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261024050000 +0100" stop="20261024060001 +0100">
+    <title lang="en">East Asia Tonight 2026/2027 - Fri 23/10/</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e700882de7283b0eadd9069c1a66d28de?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261024130000 +0100" stop="20261024150000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261024060001 +0100" stop="20261024070000 +0100">
+    <title lang="en">The New Hire</title>
+    <desc lang="en">Four individuals continue the pursuit of their dream jobs.   Trevor is autistic. He loves baking, and has found a job in a bakery. But when a media company asks him to attend a job interview, Trevor f</desc>
+    <icon src="http://img.freeviewplay.net/ee89674c7991f639cbff50a156daa73e3?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261024150000 +0100" stop="20261024170000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261024070000 +0100" stop="20261024080000 +0100">
+    <title lang="en">Asia Tonight 2026/2027 - Fri 23/10/2026</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/ea8d2b59c4256b08b74b4452e7e945baa?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261024170000 +0100" stop="20261024190000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261024080000 +0100" stop="20261024090002 +0100">
+    <title lang="en">Singapore Hour</title>
+    <desc lang="en">From virtual F1 simulators that train pros to gamified go-karts and heart-thumping luge rides, we show you three thrilling ways to chase your racing dreams. Then, step into KADA, a reinvented mission</desc>
+    <icon src="http://img.freeviewplay.net/e545aabeebefa4a89767315549d8a3e59?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261024190000 +0100" stop="20261024210000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261024090002 +0100" stop="20261024100002 +0100">
+    <title lang="en">Sing To Remember: Defying Dementia</title>
+    <desc lang="en">For the first time in his career, Conductor Jason Lai is putting up a concert with a group of amateurs who live with an incurable condition.     Former commando Peter Estrop, 61, was diagnosed with de</desc>
+    <icon src="http://img.freeviewplay.net/ea3344c511768e067f8e8fcbfb6f9076b?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261024210000 +0100" stop="20261024230000 +0100">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261024100002 +0100" stop="20261024110000 +0100">
+    <title lang="en">Sing To Remember: Defying Dementia</title>
+    <desc lang="en">The clock is ticking.     The Christmas concert is just two months away but some of Jason's choir members are still struggling to keep up. One of them is Steven, 67, whose form of dementia affects his</desc>
+    <icon src="http://img.freeviewplay.net/ea3344c511768e067f8e8fcbfb6f9076b?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261024110000 +0100" stop="20261024120002 +0100">
+    <title lang="en">East Asia Tonight 2026/2027 - Fri 23/10/</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e700882de7283b0eadd9069c1a66d28de?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261024120002 +0100" stop="20261024130002 +0100">
+    <title lang="en">The New Hire</title>
+    <desc lang="en">Four individuals continue the pursuit of their dream jobs.   Trevor is autistic. He loves baking, and has found a job in a bakery. But when a media company asks him to attend a job interview, Trevor f</desc>
+    <icon src="http://img.freeviewplay.net/ee89674c7991f639cbff50a156daa73e3?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261024130002 +0100" stop="20261024140003 +0100">
+    <title lang="en">Asia Tonight 2026/2027 - Fri 23/10/2026</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/ea8d2b59c4256b08b74b4452e7e945baa?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261024140003 +0100" stop="20261024150003 +0100">
+    <title lang="en">Singapore Hour</title>
+    <desc lang="en">From virtual F1 simulators that train pros to gamified go-karts and heart-thumping luge rides, we show you three thrilling ways to chase your racing dreams. Then, step into KADA, a reinvented mission</desc>
+    <icon src="http://img.freeviewplay.net/e545aabeebefa4a89767315549d8a3e59?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261024150003 +0100" stop="20261024160002 +0100">
+    <title lang="en">Sing To Remember: Defying Dementia</title>
+    <desc lang="en">For the first time in his career, Conductor Jason Lai is putting up a concert with a group of amateurs who live with an incurable condition.     Former commando Peter Estrop, 61, was diagnosed with de</desc>
+    <icon src="http://img.freeviewplay.net/ea3344c511768e067f8e8fcbfb6f9076b?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261024160002 +0100" stop="20261024170000 +0100">
+    <title lang="en">Sing To Remember: Defying Dementia</title>
+    <desc lang="en">The clock is ticking.     The Christmas concert is just two months away but some of Jason's choir members are still struggling to keep up. One of them is Steven, 67, whose form of dementia affects his</desc>
+    <icon src="http://img.freeviewplay.net/ea3344c511768e067f8e8fcbfb6f9076b?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261024170000 +0100" stop="20261024180001 +0100">
+    <title lang="en">East Asia Tonight 2026/2027 - Fri 23/10/</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/e700882de7283b0eadd9069c1a66d28de?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261024180001 +0100" stop="20261024190000 +0100">
+    <title lang="en">The New Hire</title>
+    <desc lang="en">Four individuals continue the pursuit of their dream jobs.   Trevor is autistic. He loves baking, and has found a job in a bakery. But when a media company asks him to attend a job interview, Trevor f</desc>
+    <icon src="http://img.freeviewplay.net/ee89674c7991f639cbff50a156daa73e3?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261024190000 +0100" stop="20261024200000 +0100">
+    <title lang="en">Asia Tonight 2026/2027 - Fri 23/10/2026</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/ea8d2b59c4256b08b74b4452e7e945baa?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261024200000 +0100" stop="20261024210002 +0100">
+    <title lang="en">Singapore Hour</title>
+    <desc lang="en">From virtual F1 simulators that train pros to gamified go-karts and heart-thumping luge rides, we show you three thrilling ways to chase your racing dreams. Then, step into KADA, a reinvented mission</desc>
+    <icon src="http://img.freeviewplay.net/e545aabeebefa4a89767315549d8a3e59?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261024210002 +0100" stop="20261024220002 +0100">
+    <title lang="en">Sing To Remember: Defying Dementia</title>
+    <desc lang="en">For the first time in his career, Conductor Jason Lai is putting up a concert with a group of amateurs who live with an incurable condition.     Former commando Peter Estrop, 61, was diagnosed with de</desc>
+    <icon src="http://img.freeviewplay.net/ea3344c511768e067f8e8fcbfb6f9076b?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261024220002 +0100" stop="20261024230000 +0100">
+    <title lang="en">Sing To Remember: Defying Dementia</title>
+    <desc lang="en">The clock is ticking.     The Christmas concert is just two months away but some of Jason's choir members are still struggling to keep up. One of them is Steven, 67, whose form of dementia affects his</desc>
+    <icon src="http://img.freeviewplay.net/ea3344c511768e067f8e8fcbfb6f9076b?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261024230000 +0100" stop="20261025010000 +0100">
     <title lang="en">Understand Asia with news, current affai</title>
@@ -73740,8 +73803,8 @@
     <desc lang="en">Manny Norte plays the biggest Hip-Hop and RnB tunes! Get involved @CapitalXTRA</desc>
   </programme>
   <programme channel="CapitalXtra.uk" start="20261019100000 +0100" stop="20261019130000 +0100">
-    <title lang="en">Omah Howard</title>
-    <desc lang="en">Omah brings you the biggest Hip-Hop and RnB riddims to get you through your day! Get involved @CapitalXTRA</desc>
+    <title lang="en">Jourds</title>
+    <desc lang="en">Hip-Hop and RnB vibes with Jourds! Get involved @capitalxtra</desc>
   </programme>
   <programme channel="CapitalXtra.uk" start="20261019130000 +0100" stop="20261019160000 +0100">
     <title lang="en">Toni Phillips</title>
@@ -128719,45 +128782,35 @@
     <desc lang="en">(1955) Suspenseful western with Chill Wills, Lance Fuller and Cathy Downs. When a gun-filled wagon breaks down in enemy territory, will its occupants surrender their cargo or fight for their lives?</desc>
     <icon src="http://img.freeviewplay.net/eaa19653d6184eb47ae46f921269158e6?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261024090000 +0100" stop="20261024110000 +0100">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261024090000 +0100" stop="20261024120000 +0100">
+    <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e213fb1c8338dd6c5f80a18499150a399?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261024110000 +0100" stop="20261024130000 +0100">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261024120000 +0100" stop="20261024150000 +0100">
+    <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e213fb1c8338dd6c5f80a18499150a399?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261024130000 +0100" stop="20261024150000 +0100">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261024150000 +0100" stop="20261024180000 +0100">
+    <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e213fb1c8338dd6c5f80a18499150a399?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261024150000 +0100" stop="20261024170000 +0100">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261024180000 +0100" stop="20261024210000 +0100">
+    <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e213fb1c8338dd6c5f80a18499150a399?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261024170000 +0100" stop="20261024190000 +0100">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261024210000 +0100" stop="20261025000000 +0100">
+    <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e213fb1c8338dd6c5f80a18499150a399?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261024190000 +0100" stop="20261024210000 +0100">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261025000000 +0100" stop="20261025020000 +0000">
+    <title lang="en">To Be Announced</title>
     <desc lang="en">Program information is not yet available</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
-  </programme>
-  <programme channel="GreatMovies.uk" start="20261024210000 +0100" stop="20261024230000 +0100">
-    <title lang="en">GREAT! MOVIES</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
-  </programme>
-  <programme channel="GreatMovies.uk" start="20261024230000 +0100" stop="20261025010000 +0100">
-    <title lang="en">GREAT! MOVIES</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e213fb1c8338dd6c5f80a18499150a399?w=800"/>
   </programme>
   <programme channel="GreatMystery.uk" start="20261017225500 +0100" stop="20261017235100 +0100">
     <title lang="en">Garage Sale Mystery: The Deadly</title>
