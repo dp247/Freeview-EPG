@@ -19728,9 +19728,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/da07141d-5de3-46b6-8648-bfa3edc3f483/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20261024113000 +0100" stop="20261024120000 +0100">
-    <title lang="en">Talking Business</title>
-    <desc lang="en">Record sums are being spent on sports teams. Sal Galatioto explains why the prices keep on climbing, and Daniel Cohen talks of the impact this is having on how we watch and how much we pay.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e0b5f1f8-cbdb-41f5-af9f-955362cb8259/cover"/>
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/acd4cdb3-7c4d-4965-8a5a-fa0a339d939b/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20261024120000 +0100" stop="20261024123000 +0100">
     <title lang="en">BBC News</title>
@@ -37788,7 +37788,7 @@
   <programme channel="BBCParliament.uk" start="20261024034000 +0100" stop="20261024035000 +0100">
     <title lang="en">Northern Ireland Assembly - Court Video Links</title>
     <desc lang="en">Coverage from the Northern Ireland Assembly of the debate on a motion on the use of video links in courts and tribunals, on Monday 19 October.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/03842946-1cc8-45ac-b3d3-4936252570a8/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/07ed6ee9-270b-4aee-9e35-0e65f19abd6a/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20261024035000 +0100" stop="20261024041500 +0100">
     <title lang="en">Northern Ireland Assembly - Cyber Security Bill</title>
@@ -38580,7 +38580,7 @@
     <desc lang="en">Charlie and Jerry get you over hump day by celebrating your Wednesday Wins!</desc>
   </programme>
   <programme channel="BBCR1.uk" start="20261028120000 +0000" stop="20261028124500 +0000">
-    <title lang="en">Radio 1 Live Lounge</title>
+    <title lang="en">Radio 1 Live Lounge: Robyn</title>
     <desc lang="en">Amazing performances from Radio 1's Live Lounge.</desc>
   </programme>
   <programme channel="BBCR1.uk" start="20261028124500 +0000" stop="20261028130000 +0000">
@@ -43747,9 +43747,17 @@
     <title lang="en">Strange But True Crime</title>
     <desc lang="en">A woman says severe anxiety leaves her struggling to leave home, but someone in her community believes her life tells a very different story.</desc>
   </programme>
-  <programme channel="BBCR5L.uk" start="20261025010000 +0100" stop="20261025050000 +0000">
-    <title lang="en">Kathryn Stanczyszyn</title>
+  <programme channel="BBCR5L.uk" start="20261025010000 +0100" stop="20261025040000 +0000">
+    <title lang="en">Kathryn Stanczyszyn - 4 hours from 0100 BST</title>
     <desc lang="en">Joel Mitchell sits in with your calls through the night. Call 08085 909693 (calls are free from mobiles and landlines). Text 85058 (charged at your standard message rate).</desc>
+  </programme>
+  <programme channel="BBCR5L.uk" start="20261025040000 +0000" stop="20261025043000 +0000">
+    <title lang="en">Karel Prince: Lie Detector - Episode 1</title>
+    <desc lang="en">Former Manchester United man Brian McClair shares three extraordinary stories from his career, but only one is true. Karel Prince and Anita Abayomi investigate.</desc>
+  </programme>
+  <programme channel="BBCR5L.uk" start="20261025043000 +0000" stop="20261025050000 +0000">
+    <title lang="en">Karel Prince: Lie Detector - Episode 2</title>
+    <desc lang="en">Asmir Begovic has three remarkable stories from his football career, but only one is true. The team examine the evidence and attempt to separate fact from fiction.</desc>
   </programme>
   <programme channel="BBCR5L.uk" start="20261025050000 +0000" stop="20261025060000 +0000">
     <title lang="en">Newscast</title>
@@ -44023,7 +44031,11 @@
     <title lang="en">Rugby League World Cup</title>
     <desc lang="en">Live commentary from ABC Sport in Australia of Papua New Guinea v Samoa in Pool B of the Men's Rugby League World Cup.</desc>
   </programme>
-  <programme channel="BBCR5SX.uk" start="20261024071500 +0100" stop="20261024094500 +0100">
+  <programme channel="BBCR5SX.uk" start="20261024071500 +0100" stop="20261024072500 +0100">
+    <title lang="en">This is BBC R5SX</title>
+    <desc lang="en">This is BBC R5SX</desc>
+  </programme>
+  <programme channel="BBCR5SX.uk" start="20261024072500 +0100" stop="20261024094500 +0100">
     <title lang="en">Rugby League World Cup</title>
     <desc lang="en">Live commentary of England v France in Pool B of the Men's Rugby League World Cup at HBF Park in Perth.</desc>
   </programme>
@@ -45457,7 +45469,7 @@
   </programme>
   <programme channel="BBCRUlster.uk" start="20261024110300 +0100" stop="20261024130000 +0100">
     <title lang="en">Saturday with John Toal</title>
-    <desc lang="en">John Toal with tales of family and community life, plus great recipes, craic and music.</desc>
+    <desc lang="en">Paula makes barmbrack with stewed apples and spiced whiskey cream.</desc>
   </programme>
   <programme channel="BBCRUlster.uk" start="20261024130000 +0100" stop="20261024130500 +0100">
     <title lang="en">BBC News NI update</title>
@@ -48175,7 +48187,7 @@
   </programme>
   <programme channel="BBCRadioFoyle.uk" start="20261024110300 +0100" stop="20261024130000 +0100">
     <title lang="en">Saturday with John Toal</title>
-    <desc lang="en">John Toal with tales of family and community life, plus great recipes, craic and music.</desc>
+    <desc lang="en">Paula makes barmbrack with stewed apples and spiced whiskey cream.</desc>
   </programme>
   <programme channel="BBCRadioFoyle.uk" start="20261024130000 +0100" stop="20261024130500 +0100">
     <title lang="en">BBC News NI update</title>
@@ -58419,7 +58431,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261024060600 +0100" stop="20261024070000 +0100">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">Two Israeli soldiers were shot dead by Palestinian gunmen on Friday.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261024070000 +0100" stop="20261024070600 +0100">
     <title lang="en">BBC News</title>
@@ -58427,7 +58439,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261024070600 +0100" stop="20261024080000 +0100">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">Israel responds after two soldiers are shot dead by Palestinian gunmen.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261024080000 +0100" stop="20261024080600 +0100">
     <title lang="en">BBC News</title>
@@ -58435,7 +58447,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261024080600 +0100" stop="20261024090000 +0100">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">Gen Z voters share their views on the first election since 7 October Hamas-led attacks.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261024090000 +0100" stop="20261024090600 +0100">
     <title lang="en">BBC News</title>
@@ -58491,7 +58503,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261024130600 +0100" stop="20261024140000 +0100">
     <title lang="en">Newshour</title>
-    <desc lang="en">Interviews, news and analysis of the day's global events.</desc>
+    <desc lang="en">Israel has been bulldozing Palestinian homes in Hebron in the occupied West Bank, where two Israeli soldiers were killed on Friday.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261024140000 +0100" stop="20261024140600 +0100">
     <title lang="en">BBC News</title>
@@ -58683,7 +58695,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261025053230 +0000" stop="20261025055000 +0000">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Essential insights and conversations on the stories shaping the Asia-Pacific region.</desc>
+    <desc lang="en">As AI gets better at translating languages, what will happen to human interpreters? Hote Mariko Oi speaks to pofessional interpreters to find out how AI is disrupting the field.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261025055000 +0000" stop="20261025060000 +0000">
     <title lang="en">Sporting Witness</title>
@@ -65908,11 +65920,6 @@
     <episode-num system="xmltv_ns">2021.815.0</episode-num>
     <episode-num system="onscreen">S2022E816</episode-num>
   </programme>
-  <programme channel="CBeebies.uk" start="20261025043000 +0000" stop="20261025050000 +0000">
-    <title lang="en">This is CBeebies HD</title>
-    <desc lang="en">This is CBeebies HD</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e1c78826-bd6e-499a-82da-49232d6f7e68/cover"/>
-  </programme>
   <programme channel="CBeebies.uk" start="20261025050000 +0000" stop="20261025055959 +0000">
     <title lang="en">..programmes start at 6.00am</title>
   </programme>
@@ -66178,7 +66185,7 @@
   <programme channel="CBeebies.uk" start="20261025122500 +0000" stop="20261025123500 +0000">
     <title lang="en">Waffle's After School Club</title>
     <desc lang="en">Waffle's Tablecloth Trick. Mrs Hobbs is holding a very important tea party. But when her tablecloth keeps disappearing, she has a mystery to solve.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d3701b37-baaa-4ff2-b5ca-03f2d7540b61/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/72f25403-eb74-41bd-8eea-5db484cdae5e/cover"/>
     <episode-num system="xmltv_ns">1.6.0</episode-num>
     <episode-num system="onscreen">S2E7</episode-num>
   </programme>
@@ -69658,125 +69665,225 @@
     <desc lang="en">From starting over in mid-life to pursue passion and purpose, to realising a childhood dream against all odds, and daring to change the world, six Singaporeans share what it takes to dream different.</desc>
     <icon src="http://img.freeviewplay.net/efb0af72adf09127aaae7802c94a21626?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261028220000 +0000" stop="20261029000000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261028220000 +0000" stop="20261028230002 +0000">
+    <title lang="en">East Asia Tonight 2026/2027 - Wed 28/10/</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/efb2d84d0ae42ef3008ae2dbf34ae71b0?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261029000000 +0000" stop="20261029020000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261028230002 +0000" stop="20261029000001 +0000">
+    <title lang="en">Write Of Passage</title>
+    <desc lang="en">Diana Ser finds out how her motley crew of working-adults, illiterate in English, cope in a largely English-speaking environment and realises they are hiding their shame from friends and colleagues.</desc>
+    <icon src="http://img.freeviewplay.net/ef6927ee2e48d635db1133bfadf6ab132?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261029000001 +0000" stop="20261029010002 +0000">
+    <title lang="en">Asia Tonight 2026/2027 - Wed 28/10/2026</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e3a157854e38bb9613a68cad44d79ab92?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261029020000 +0000" stop="20261029040000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261029010002 +0000" stop="20261029020009 +0000">
+    <title lang="en">Power Scramble</title>
     <desc lang="en">A worldwide scramble for rare earth metals broke out. Just why does China have such a grip on them? And why the worry? Well we need them not just for iPhones, but for everything electric in our lives.</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/ee820d82c9f65f774bb4411bce547bb66?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261029040000 +0000" stop="20261029060000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261029020009 +0000" stop="20261029030001 +0000">
+    <title lang="en">Power Scramble</title>
     <desc lang="en">Control over a group of coveted metals has made China king. But what happens when China defends its top spot? Presenter Kartik Kuna confronts the repercussions hidden in unlikely corners of the world.</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/ee820d82c9f65f774bb4411bce547bb66?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261029060000 +0000" stop="20261029080000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261029030001 +0000" stop="20261029040006 +0000">
+    <title lang="en">Power Scramble</title>
     <desc lang="en">Gallium is critical to green tech and China supplies 90% of it. So, when China began to restrict exports of gallium, it leads the world to eye other countries with this precious resource.</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/ee820d82c9f65f774bb4411bce547bb66?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261029080000 +0000" stop="20261029100000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261029040006 +0000" stop="20261029050002 +0000">
+    <title lang="en">East Asia Tonight 2026/2027 - Wed 28/10/</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/efb2d84d0ae42ef3008ae2dbf34ae71b0?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261029100000 +0000" stop="20261029120000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">Imagine texting your crush, and she thinks you're stupid because you misspelt all the words. Or going to the MRT station, and losing your way because you can't read the signs. How about trying to give</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261029050002 +0000" stop="20261029060005 +0000">
+    <title lang="en">Write Of Passage</title>
+    <desc lang="en">Diana Ser finds out how her motley crew of working-adults, illiterate in English, cope in a largely English-speaking environment and realises they are hiding their shame from friends and colleagues.</desc>
+    <icon src="http://img.freeviewplay.net/ef6927ee2e48d635db1133bfadf6ab132?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261029120000 +0000" stop="20261029140000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261029060005 +0000" stop="20261029070003 +0000">
+    <title lang="en">Asia Tonight 2026/2027 - Wed 28/10/2026</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/e3a157854e38bb9613a68cad44d79ab92?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261029140000 +0000" stop="20261029160000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261029070003 +0000" stop="20261029080000 +0000">
+    <title lang="en">Power Scramble</title>
     <desc lang="en">A worldwide scramble for rare earth metals broke out. Just why does China have such a grip on them? And why the worry? Well we need them not just for iPhones, but for everything electric in our lives.</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/ee820d82c9f65f774bb4411bce547bb66?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261029160000 +0000" stop="20261029180000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261029080000 +0000" stop="20261029090000 +0000">
+    <title lang="en">Power Scramble</title>
     <desc lang="en">Control over a group of coveted metals has made China king. But what happens when China defends its top spot? Presenter Kartik Kuna confronts the repercussions hidden in unlikely corners of the world.</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/ee820d82c9f65f774bb4411bce547bb66?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261029180000 +0000" stop="20261029200000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261029090000 +0000" stop="20261029100000 +0000">
+    <title lang="en">Power Scramble</title>
     <desc lang="en">Gallium is critical to green tech and China supplies 90% of it. So, when China began to restrict exports of gallium, it leads the world to eye other countries with this precious resource.</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/ee820d82c9f65f774bb4411bce547bb66?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261029200000 +0000" stop="20261029220000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261029100000 +0000" stop="20261029110002 +0000">
+    <title lang="en">East Asia Tonight 2026/2027 - Wed 28/10/</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/efb2d84d0ae42ef3008ae2dbf34ae71b0?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261029220000 +0000" stop="20261030000000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261029110002 +0000" stop="20261029120001 +0000">
+    <title lang="en">Write Of Passage</title>
+    <desc lang="en">Diana Ser finds out how her motley crew of working-adults, illiterate in English, cope in a largely English-speaking environment and realises they are hiding their shame from friends and colleagues.</desc>
+    <icon src="http://img.freeviewplay.net/ef6927ee2e48d635db1133bfadf6ab132?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261029120001 +0000" stop="20261029130002 +0000">
+    <title lang="en">Asia Tonight 2026/2027 - Wed 28/10/2026</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/e3a157854e38bb9613a68cad44d79ab92?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261029130002 +0000" stop="20261029140009 +0000">
+    <title lang="en">Power Scramble</title>
+    <desc lang="en">A worldwide scramble for rare earth metals broke out. Just why does China have such a grip on them? And why the worry? Well we need them not just for iPhones, but for everything electric in our lives.</desc>
+    <icon src="http://img.freeviewplay.net/ee820d82c9f65f774bb4411bce547bb66?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261029140009 +0000" stop="20261029150001 +0000">
+    <title lang="en">Power Scramble</title>
+    <desc lang="en">Control over a group of coveted metals has made China king. But what happens when China defends its top spot? Presenter Kartik Kuna confronts the repercussions hidden in unlikely corners of the world.</desc>
+    <icon src="http://img.freeviewplay.net/ee820d82c9f65f774bb4411bce547bb66?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261029150001 +0000" stop="20261029160006 +0000">
+    <title lang="en">Power Scramble</title>
+    <desc lang="en">Gallium is critical to green tech and China supplies 90% of it. So, when China began to restrict exports of gallium, it leads the world to eye other countries with this precious resource.</desc>
+    <icon src="http://img.freeviewplay.net/ee820d82c9f65f774bb4411bce547bb66?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261029160006 +0000" stop="20261029170002 +0000">
+    <title lang="en">East Asia Tonight 2026/2027 - Wed 28/10/</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/efb2d84d0ae42ef3008ae2dbf34ae71b0?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261029170002 +0000" stop="20261029180005 +0000">
+    <title lang="en">Write Of Passage</title>
+    <desc lang="en">Diana Ser finds out how her motley crew of working-adults, illiterate in English, cope in a largely English-speaking environment and realises they are hiding their shame from friends and colleagues.</desc>
+    <icon src="http://img.freeviewplay.net/ef6927ee2e48d635db1133bfadf6ab132?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261029180005 +0000" stop="20261029190003 +0000">
+    <title lang="en">Asia Tonight 2026/2027 - Wed 28/10/2026</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/e3a157854e38bb9613a68cad44d79ab92?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261029190003 +0000" stop="20261029200000 +0000">
+    <title lang="en">Power Scramble</title>
+    <desc lang="en">A worldwide scramble for rare earth metals broke out. Just why does China have such a grip on them? And why the worry? Well we need them not just for iPhones, but for everything electric in our lives.</desc>
+    <icon src="http://img.freeviewplay.net/ee820d82c9f65f774bb4411bce547bb66?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261029200000 +0000" stop="20261029210000 +0000">
+    <title lang="en">Power Scramble</title>
+    <desc lang="en">Control over a group of coveted metals has made China king. But what happens when China defends its top spot? Presenter Kartik Kuna confronts the repercussions hidden in unlikely corners of the world.</desc>
+    <icon src="http://img.freeviewplay.net/ee820d82c9f65f774bb4411bce547bb66?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261029210000 +0000" stop="20261029220000 +0000">
+    <title lang="en">Power Scramble</title>
+    <desc lang="en">Gallium is critical to green tech and China supplies 90% of it. So, when China began to restrict exports of gallium, it leads the world to eye other countries with this precious resource.</desc>
+    <icon src="http://img.freeviewplay.net/ee820d82c9f65f774bb4411bce547bb66?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261029220000 +0000" stop="20261029230003 +0000">
+    <title lang="en">East Asia Tonight 2026/2027 - Thu 29/10/</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/edd7998990c7414698c01ca7bd1a18c66?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261029230003 +0000" stop="20261030000005 +0000">
+    <title lang="en">Write Of Passage</title>
     <desc lang="en">Imagine texting your crush, and she thinks you're stupid because you misspelt all the words. Or going to the MRT station, and losing your way because you can't read the signs. How about trying to give</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/ef6927ee2e48d635db1133bfadf6ab132?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261030000000 +0000" stop="20261030020000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261030000005 +0000" stop="20261030020002 +0000">
+    <title lang="en">Asia Tonight 2026/2027 - Thu 29/10/2026</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/efd99ca4106290bd770f4ef83dbc580ab?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261030020000 +0000" stop="20261030040000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261030020002 +0000" stop="20261030030004 +0000">
+    <title lang="en">The Baby Makers</title>
+    <desc lang="en">Alarm bells are ringing over falling birthrates. This episode explores the reasons behind falling fertility rates and the efforts by governments and doctors to make it easier to have children.</desc>
+    <icon src="http://img.freeviewplay.net/e19d4b00991b75e4ad7bb2a4c273af3b3?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261030040000 +0000" stop="20261030060000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261030030004 +0000" stop="20261030040003 +0000">
+    <title lang="en">The Baby Makers</title>
+    <desc lang="en">Experts predict that one in five babies will be born with some sort of artificial assistance. This episode explores dramatic new developments in fertility science and the booming 'Femtech' market.</desc>
+    <icon src="http://img.freeviewplay.net/e19d4b00991b75e4ad7bb2a4c273af3b3?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261030040003 +0000" stop="20261030050002 +0000">
+    <title lang="en">East Asia Tonight 2026/2027 - Thu 29/10/</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/edd7998990c7414698c01ca7bd1a18c66?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261030050002 +0000" stop="20261030060000 +0000">
+    <title lang="en">Write Of Passage</title>
+    <desc lang="en">Imagine texting your crush, and she thinks you're stupid because you misspelt all the words. Or going to the MRT station, and losing your way because you can't read the signs. How about trying to give</desc>
+    <icon src="http://img.freeviewplay.net/ef6927ee2e48d635db1133bfadf6ab132?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261030060000 +0000" stop="20261030080000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+    <title lang="en">Asia Tonight 2026/2027 - Thu 29/10/2026</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/efd99ca4106290bd770f4ef83dbc580ab?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261030080000 +0000" stop="20261030100000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261030080000 +0000" stop="20261030090004 +0000">
+    <title lang="en">The Baby Makers</title>
+    <desc lang="en">Alarm bells are ringing over falling birthrates. This episode explores the reasons behind falling fertility rates and the efforts by governments and doctors to make it easier to have children.</desc>
+    <icon src="http://img.freeviewplay.net/e19d4b00991b75e4ad7bb2a4c273af3b3?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261030100000 +0000" stop="20261030120000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261030090004 +0000" stop="20261030100000 +0000">
+    <title lang="en">The Baby Makers</title>
+    <desc lang="en">Experts predict that one in five babies will be born with some sort of artificial assistance. This episode explores dramatic new developments in fertility science and the booming 'Femtech' market.</desc>
+    <icon src="http://img.freeviewplay.net/e19d4b00991b75e4ad7bb2a4c273af3b3?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261030120000 +0000" stop="20261030140000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261030100000 +0000" stop="20261030110003 +0000">
+    <title lang="en">East Asia Tonight 2026/2027 - Thu 29/10/</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/edd7998990c7414698c01ca7bd1a18c66?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261030140000 +0000" stop="20261030160000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261030110003 +0000" stop="20261030120005 +0000">
+    <title lang="en">Write Of Passage</title>
+    <desc lang="en">Imagine texting your crush, and she thinks you're stupid because you misspelt all the words. Or going to the MRT station, and losing your way because you can't read the signs. How about trying to give</desc>
+    <icon src="http://img.freeviewplay.net/ef6927ee2e48d635db1133bfadf6ab132?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261030160000 +0000" stop="20261030180000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+  <programme channel="CNAInternational.sg" start="20261030120005 +0000" stop="20261030140002 +0000">
+    <title lang="en">Asia Tonight 2026/2027 - Thu 29/10/2026</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/efd99ca4106290bd770f4ef83dbc580ab?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261030140002 +0000" stop="20261030150004 +0000">
+    <title lang="en">The Baby Makers</title>
+    <desc lang="en">Alarm bells are ringing over falling birthrates. This episode explores the reasons behind falling fertility rates and the efforts by governments and doctors to make it easier to have children.</desc>
+    <icon src="http://img.freeviewplay.net/e19d4b00991b75e4ad7bb2a4c273af3b3?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261030150004 +0000" stop="20261030160003 +0000">
+    <title lang="en">The Baby Makers</title>
+    <desc lang="en">Experts predict that one in five babies will be born with some sort of artificial assistance. This episode explores dramatic new developments in fertility science and the booming 'Femtech' market.</desc>
+    <icon src="http://img.freeviewplay.net/e19d4b00991b75e4ad7bb2a4c273af3b3?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261030160003 +0000" stop="20261030170002 +0000">
+    <title lang="en">East Asia Tonight 2026/2027 - Thu 29/10/</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/edd7998990c7414698c01ca7bd1a18c66?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261030170002 +0000" stop="20261030180000 +0000">
+    <title lang="en">Write Of Passage</title>
+    <desc lang="en">Imagine texting your crush, and she thinks you're stupid because you misspelt all the words. Or going to the MRT station, and losing your way because you can't read the signs. How about trying to give</desc>
+    <icon src="http://img.freeviewplay.net/ef6927ee2e48d635db1133bfadf6ab132?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261030180000 +0000" stop="20261030200000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
+    <title lang="en">Asia Tonight 2026/2027 - Thu 29/10/2026</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+    <icon src="http://img.freeviewplay.net/efd99ca4106290bd770f4ef83dbc580ab?w=800"/>
   </programme>
-  <programme channel="CNAInternational.sg" start="20261030200000 +0000" stop="20261030220000 +0000">
-    <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
+  <programme channel="CNAInternational.sg" start="20261030200000 +0000" stop="20261030210004 +0000">
+    <title lang="en">The Baby Makers</title>
+    <desc lang="en">Alarm bells are ringing over falling birthrates. This episode explores the reasons behind falling fertility rates and the efforts by governments and doctors to make it easier to have children.</desc>
+    <icon src="http://img.freeviewplay.net/e19d4b00991b75e4ad7bb2a4c273af3b3?w=800"/>
+  </programme>
+  <programme channel="CNAInternational.sg" start="20261030210004 +0000" stop="20261030220000 +0000">
+    <title lang="en">The Baby Makers</title>
+    <desc lang="en">Experts predict that one in five babies will be born with some sort of artificial assistance. This episode explores dramatic new developments in fertility science and the booming 'Femtech' market.</desc>
+    <icon src="http://img.freeviewplay.net/e19d4b00991b75e4ad7bb2a4c273af3b3?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261030220000 +0000" stop="20261031000000 +0000">
     <title lang="en">Understand Asia with news, current affai</title>
@@ -95719,12 +95826,12 @@
     <desc lang="en">Join Lucy for the ideal selection of music if you rise first thing in the morning.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261026063000 +0000" stop="20261026090000 +0000">
-    <title lang="en">Dan Walker</title>
-    <desc lang="en">Dan Walker has the perfect classical music to get you up in the morning, with all the news and travel updates you need to know for the day ahead, plus the Hall of Fame Hour at 9am.</desc>
+    <title lang="en">Tim Lihoreau</title>
+    <desc lang="en">Tim Lihoreau has the perfect classical music to get you up in the morning, with all the news and travel updates you need for the day ahead, plus the Hall of Fame Hour at 9am.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261026090000 +0000" stop="20261026100000 +0000">
-    <title lang="en">The Classic FM Hall of Fame Hour</title>
-    <desc lang="en">Dan Walker brings you an hour of the biggest classical hits from the Classic FM Hall of Fame - the annual Top 300 chart voted for by you.</desc>
+    <title lang="en">Hall of Fame</title>
+    <desc lang="en">Tim brings you an hour of the biggest classical hits from the Classic FM Hall of Fame - the annual Top 300 chart voted for by you.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261026100000 +0000" stop="20261026130000 +0000">
     <title lang="en">Aled Jones</title>
@@ -95755,16 +95862,16 @@
     <desc lang="en">Bill Overton keeps you company all through the night with beautiful music for the early hours.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261027040000 +0000" stop="20261027063000 +0000">
-    <title lang="en">Early Breakfast with Lucy Coward</title>
-    <desc lang="en">Join Lucy for the ideal selection of music if you rise first thing in the morning.</desc>
+    <title lang="en">Early Breakfast</title>
+    <desc lang="en">Join Jennifer for the ideal selection of music if you rise first thing in the morning.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261027063000 +0000" stop="20261027090000 +0000">
-    <title lang="en">Dan Walker</title>
-    <desc lang="en">Dan Walker has the perfect classical music to get you up in the morning, with all the news and travel updates you need to know for the day ahead, plus the Hall of Fame Hour at 9am.</desc>
+    <title lang="en">Tim Lihoreau</title>
+    <desc lang="en">Tim Lihoreau has the perfect classical music to get you up in the morning, with all the news and travel updates you need for the day ahead, plus the Hall of Fame Hour at 9am.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261027090000 +0000" stop="20261027100000 +0000">
-    <title lang="en">The Classic FM Hall of Fame Hour</title>
-    <desc lang="en">Dan Walker brings you an hour of the biggest classical hits from the Classic FM Hall of Fame - the annual Top 300 chart voted for by you.</desc>
+    <title lang="en">Hall of Fame</title>
+    <desc lang="en">Tim brings you an hour of the biggest classical hits from the Classic FM Hall of Fame - the annual Top 300 chart voted for by you.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261027100000 +0000" stop="20261027130000 +0000">
     <title lang="en">Aled Jones</title>
@@ -95795,16 +95902,16 @@
     <desc lang="en">Bill Overton keeps you company all through the night with beautiful music for the early hours.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261028040000 +0000" stop="20261028063000 +0000">
-    <title lang="en">Early Breakfast with Lucy Coward</title>
-    <desc lang="en">Join Lucy for the ideal selection of music if you rise first thing in the morning.</desc>
+    <title lang="en">Early Breakfast</title>
+    <desc lang="en">Join Jennifer for the ideal selection of music if you rise first thing in the morning.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261028063000 +0000" stop="20261028090000 +0000">
-    <title lang="en">Dan Walker</title>
-    <desc lang="en">Dan Walker has the perfect classical music to get you up in the morning, with all the news and travel updates you need to know for the day ahead, plus the Hall of Fame Hour at 9am.</desc>
+    <title lang="en">Tim Lihoreau</title>
+    <desc lang="en">Tim Lihoreau has the perfect classical music to get you up in the morning, with all the news and travel updates you need for the day ahead, plus the Hall of Fame Hour at 9am.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261028090000 +0000" stop="20261028100000 +0000">
-    <title lang="en">The Classic FM Hall of Fame Hour</title>
-    <desc lang="en">Dan Walker brings you an hour of the biggest classical hits from the Classic FM Hall of Fame - the annual Top 300 chart voted for by you.</desc>
+    <title lang="en">Hall of Fame</title>
+    <desc lang="en">Tim brings you an hour of the biggest classical hits from the Classic FM Hall of Fame - the annual Top 300 chart voted for by you.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261028100000 +0000" stop="20261028130000 +0000">
     <title lang="en">Aled Jones</title>
@@ -95835,16 +95942,16 @@
     <desc lang="en">Bill Overton keeps you company all through the night with beautiful music for the early hours.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261029040000 +0000" stop="20261029063000 +0000">
-    <title lang="en">Early Breakfast with Lucy Coward</title>
-    <desc lang="en">Join Lucy for the ideal selection of music if you rise first thing in the morning.</desc>
+    <title lang="en">Early Breakfast</title>
+    <desc lang="en">Join Jennifer for the ideal selection of music if you rise first thing in the morning.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261029063000 +0000" stop="20261029090000 +0000">
-    <title lang="en">Dan Walker</title>
-    <desc lang="en">Dan Walker has the perfect classical music to get you up in the morning, with all the news and travel updates you need to know for the day ahead, plus the Hall of Fame Hour at 9am.</desc>
+    <title lang="en">Tim Lihoreau</title>
+    <desc lang="en">Tim Lihoreau has the perfect classical music to get you up in the morning, with all the news and travel updates you need for the day ahead, plus the Hall of Fame Hour at 9am.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261029090000 +0000" stop="20261029100000 +0000">
-    <title lang="en">The Classic FM Hall of Fame Hour</title>
-    <desc lang="en">Dan Walker brings you an hour of the biggest classical hits from the Classic FM Hall of Fame - the annual Top 300 chart voted for by you.</desc>
+    <title lang="en">Hall of Fame</title>
+    <desc lang="en">Tim brings you an hour of the biggest classical hits from the Classic FM Hall of Fame - the annual Top 300 chart voted for by you.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261029100000 +0000" stop="20261029130000 +0000">
     <title lang="en">Aled Jones</title>
@@ -95875,16 +95982,16 @@
     <desc lang="en">Bill Overton keeps you company all through the night with beautiful music for the early hours.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261030040000 +0000" stop="20261030063000 +0000">
-    <title lang="en">Early Breakfast with Lucy Coward</title>
-    <desc lang="en">Join Lucy for the ideal selection of music if you rise first thing in the morning.</desc>
+    <title lang="en">Early Breakfast</title>
+    <desc lang="en">Join Jennifer for the ideal selection of music if you rise first thing in the morning.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261030063000 +0000" stop="20261030090000 +0000">
-    <title lang="en">Dan Walker</title>
-    <desc lang="en">Dan Walker has the perfect classical music to get you up in the morning, with all the news and travel updates you need to know for the day ahead, plus the Hall of Fame Hour at 9am.</desc>
+    <title lang="en">Tim Lihoreau</title>
+    <desc lang="en">Tim Lihoreau has the perfect classical music to get you up in the morning, with all the news and travel updates you need for the day ahead, plus the Hall of Fame Hour at 9am.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261030090000 +0000" stop="20261030100000 +0000">
-    <title lang="en">The Classic FM Hall of Fame Hour</title>
-    <desc lang="en">Dan Walker brings you an hour of the biggest classical hits from the Classic FM Hall of Fame - the annual Top 300 chart voted for by you.</desc>
+    <title lang="en">Hall of Fame</title>
+    <desc lang="en">Tim brings you an hour of the biggest classical hits from the Classic FM Hall of Fame - the annual Top 300 chart voted for by you.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261030100000 +0000" stop="20261030130000 +0000">
     <title lang="en">Aled Jones</title>
@@ -123119,65 +123226,75 @@
     <desc lang="en">Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Patrick Christys.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2b0d1dd-c309-4c1b-b560-55f1c829da70/cover"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261024013407 +0100" stop="20261024030000 +0100">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261024013407 +0100" stop="20261024033023 +0100">
+    <title lang="en">INXS: Live Baby Live</title>
     <desc lang="en">INXS's sold-out, 1991 Wembley Stadium performance in front of 74,000 fans. Directed by David Mallet.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f2da6f05c493eb2dfe9752f02dc4fcc16?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261024030000 +0100" stop="20261024050000 +0100">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261024033023 +0100" stop="20261024045808 +0100">
+    <title lang="en">The Police: Everyone Stares</title>
     <desc lang="en">GFull length concert films, documentaries and classic tracks from the likes of U2, Dire Straits, Bryan Ferry, Roxy Music and The Police.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f09584022adaca9e85b3ec20d024bc267?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261024050000 +0100" stop="20261024070000 +0100">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261024045808 +0100" stop="20261024060824 +0100">
+    <title lang="en">Phil Collins: Face Value (Classic Albums</title>
     <desc lang="en">GFull length concert films, documentaries and classic tracks from the likes of U2, Dire Straits, Bryan Ferry, Roxy Music and The Police.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f63acb7eaf4f21cd1b2cc0201680a4f57?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261024070000 +0100" stop="20261024090000 +0100">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261024060824 +0100" stop="20261024084745 +0100">
+    <title lang="en">The Cure: Live Hyde Park</title>
     <desc lang="en">GFull length concert films, documentaries and classic tracks from the likes of U2, Dire Straits, Bryan Ferry, Roxy Music and The Police.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f2f64fb93e6173ae7872f8ed47c95c2c4?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261024090000 +0100" stop="20261024110000 +0100">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261024084745 +0100" stop="20261024105019 +0100">
+    <title lang="en">Deep Purple: They All Came Down To Montr</title>
     <desc lang="en">Few bands are more closely associated with Montreux than Deep Purple and there was simply no other contender when it came to choosing the act to headline the closing night of the 40th Festival in 2006</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/fc818ac27ac7f30f76d006f6a7822bea1?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261024110000 +0100" stop="20261024130000 +0100">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261024105019 +0100" stop="20261024125203 +0100">
+    <title lang="en">Elvis Costello: Detour Live At Liverpool</title>
     <desc lang="en">Elvis Costello brings his solo show Detour to the Liverpool Philharmonic Hall. Combining classic songs performed with guitar or at the piano with reminiscences of his family, life and career, it is by</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f4775251479b88810afd7a5c1637cf73e?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261024130000 +0100" stop="20261024150000 +0100">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261024125203 +0100" stop="20261024142901 +0100">
+    <title lang="en">Florence &amp; The Machine: Live At The Wilt</title>
     <desc lang="en">Florence + The Machine deliver an electrifying live performance, with Florence's powerful stage presence making every show unique.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f86a60c76995c463115cef465159bfcc1?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261024150000 +0100" stop="20261024170000 +0100">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261024142901 +0100" stop="20261024162730 +0100">
+    <title lang="en">Dire Straits</title>
     <desc lang="en">Best of Dire Straits...</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f2574300b108387f0f797b0e793146821?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261024170000 +0100" stop="20261024190000 +0100">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261024162730 +0100" stop="20261024180411 +0100">
+    <title lang="en">Dire Straits: Live in Concert</title>
     <desc lang="en">Some of the bands best performances of their most iconic tracks.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f4b913e7a85c38859e6ba33e2f559d2dd?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261024190000 +0100" stop="20261024210000 +0100">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261024180411 +0100" stop="20261024193126 +0100">
+    <title lang="en">Buddy Holly: Rave On (Documentary)</title>
     <desc lang="en">The story of Buddy Holly's brief but groundbreaking career, and the enduring legacy that shaped rock, pop and generations of artists.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/fd39c27fa1136f6a863557e9d6abaee7e?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261024210000 +0100" stop="20261024230000 +0100">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261024193126 +0100" stop="20261024212623 +0100">
+    <title lang="en">Bryan Ferry: Live in Lyon (2011)</title>
     <desc lang="en">GFull length concert films, documentaries and classic tracks from the likes of U2, Dire Straits, Bryan Ferry, Roxy Music and The Police.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f7576406e9698c3f55acd2102d0698ca9?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261024230000 +0100" stop="20261025010000 +0100">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261024212623 +0100" stop="20261024223324 +0100">
+    <title lang="en">Mike &amp; The Mechanics: Live at Shepherds</title>
     <desc lang="en">Mike &amp; The Mechanics reunite for a 2004 London show, with Paul Carrack leading classics and songs from Rewired.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/fb4ce984a450de92dfec80a168a523128?w=800"/>
+  </programme>
+  <programme channel="GIGS.uk" start="20261024223324 +0100" stop="20261025002443 +0100">
+    <title lang="en">Duran Duran: A Diamond In The Mind Live</title>
+    <desc lang="en">GFull length concert films, documentaries and classic tracks from the likes of U2, Dire Straits, Bryan Ferry, Roxy Music and The Police.</desc>
+    <icon src="http://img.freeviewplay.net/f7228eed4d35c8cdf01371e3df87cbc49?w=800"/>
+  </programme>
+  <programme channel="GIGS.uk" start="20261025002443 +0100" stop="20261025010124 +0000">
+    <title lang="en">Dire Straits: Live in Concert</title>
+    <desc lang="en">Some of the bands best performances of their most iconic tracks.</desc>
+    <icon src="http://img.freeviewplay.net/f4b913e7a85c38859e6ba33e2f559d2dd?w=800"/>
   </programme>
   <programme channel="GIGS.uk" start="20261025010000 +0100" stop="20261025020000 +0000">
     <title lang="en">GIGS</title>
@@ -123359,185 +123476,215 @@
     <desc lang="en">GFull length concert films, documentaries and classic tracks from the likes of U2, Dire Straits, Bryan Ferry, Roxy Music and The Police.</desc>
     <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261028000000 +0000" stop="20261028020000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261028000639 +0000" stop="20261028021141 +0000">
+    <title lang="en">Robbie Williams: Live at Knebworth (2003</title>
     <desc lang="en">Relive Robbie Williams' legendary 2003 Knebworth concert featuring Angels, Let Me Entertain You and more.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f756ca8144d0e197f3634303e61b9522d?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261028020000 +0000" stop="20261028040000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261028021141 +0000" stop="20261028033926 +0000">
+    <title lang="en">The Police: Everyone Stares</title>
     <desc lang="en">GFull length concert films, documentaries and classic tracks from the likes of U2, Dire Straits, Bryan Ferry, Roxy Music and The Police.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f09584022adaca9e85b3ec20d024bc267?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261028040000 +0000" stop="20261028060000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261028033926 +0000" stop="20261028044942 +0000">
+    <title lang="en">Phil Collins: Face Value (Classic Albums</title>
     <desc lang="en">GFull length concert films, documentaries and classic tracks from the likes of U2, Dire Straits, Bryan Ferry, Roxy Music and The Police.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f63acb7eaf4f21cd1b2cc0201680a4f57?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261028060000 +0000" stop="20261028080000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261028044942 +0000" stop="20261028072903 +0000">
+    <title lang="en">The Cure: Live Hyde Park</title>
     <desc lang="en">GFull length concert films, documentaries and classic tracks from the likes of U2, Dire Straits, Bryan Ferry, Roxy Music and The Police.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f2f64fb93e6173ae7872f8ed47c95c2c4?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261028080000 +0000" stop="20261028100000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261028072903 +0000" stop="20261028093137 +0000">
+    <title lang="en">Deep Purple: They All Came Down To Montr</title>
     <desc lang="en">Few bands are more closely associated with Montreux than Deep Purple and there was simply no other contender when it came to choosing the act to headline the closing night of the 40th Festival in 2006</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/fc818ac27ac7f30f76d006f6a7822bea1?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261028100000 +0000" stop="20261028120000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261028093137 +0000" stop="20261028113321 +0000">
+    <title lang="en">Elvis Costello: Detour Live At Liverpool</title>
     <desc lang="en">Elvis Costello brings his solo show Detour to the Liverpool Philharmonic Hall. Combining classic songs performed with guitar or at the piano with reminiscences of his family, life and career, it is by</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f4775251479b88810afd7a5c1637cf73e?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261028120000 +0000" stop="20261028140000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261028113321 +0000" stop="20261028131019 +0000">
+    <title lang="en">Florence &amp; The Machine: Live At The Wilt</title>
     <desc lang="en">Florence + The Machine deliver an electrifying live performance, with Florence's powerful stage presence making every show unique.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f86a60c76995c463115cef465159bfcc1?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261028140000 +0000" stop="20261028160000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261028131019 +0000" stop="20261028150848 +0000">
+    <title lang="en">Dire Straits</title>
     <desc lang="en">Best of Dire Straits...</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f2574300b108387f0f797b0e793146821?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261028160000 +0000" stop="20261028180000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261028150848 +0000" stop="20261028164529 +0000">
+    <title lang="en">Dire Straits: Live in Concert</title>
     <desc lang="en">Some of the bands best performances of their most iconic tracks.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f4b913e7a85c38859e6ba33e2f559d2dd?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261028180000 +0000" stop="20261028200000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261028164529 +0000" stop="20261028181244 +0000">
+    <title lang="en">Buddy Holly: Rave On (Documentary)</title>
     <desc lang="en">The story of Buddy Holly's brief but groundbreaking career, and the enduring legacy that shaped rock, pop and generations of artists.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/fd39c27fa1136f6a863557e9d6abaee7e?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261028200000 +0000" stop="20261028220000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261028181244 +0000" stop="20261028200741 +0000">
+    <title lang="en">Bryan Ferry: Live in Lyon (2011)</title>
     <desc lang="en">GFull length concert films, documentaries and classic tracks from the likes of U2, Dire Straits, Bryan Ferry, Roxy Music and The Police.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f7576406e9698c3f55acd2102d0698ca9?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261028220000 +0000" stop="20261029000000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261028200741 +0000" stop="20261028211442 +0000">
+    <title lang="en">Mike &amp; The Mechanics: Live at Shepherds</title>
     <desc lang="en">Mike &amp; The Mechanics reunite for a 2004 London show, with Paul Carrack leading classics and songs from Rewired.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/fb4ce984a450de92dfec80a168a523128?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261029000000 +0000" stop="20261029020000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261028211442 +0000" stop="20261028230601 +0000">
+    <title lang="en">Duran Duran: A Diamond In The Mind Live</title>
+    <desc lang="en">GFull length concert films, documentaries and classic tracks from the likes of U2, Dire Straits, Bryan Ferry, Roxy Music and The Police.</desc>
+    <icon src="http://img.freeviewplay.net/f7228eed4d35c8cdf01371e3df87cbc49?w=800"/>
+  </programme>
+  <programme channel="GIGS.uk" start="20261028230601 +0000" stop="20261029004242 +0000">
+    <title lang="en">Dire Straits: Live in Concert</title>
+    <desc lang="en">Some of the bands best performances of their most iconic tracks.</desc>
+    <icon src="http://img.freeviewplay.net/f4b913e7a85c38859e6ba33e2f559d2dd?w=800"/>
+  </programme>
+  <programme channel="GIGS.uk" start="20261029004242 +0000" stop="20261029025710 +0000">
+    <title lang="en">Phil Lynott: Songs For While I'm Away</title>
     <desc lang="en">A feature documentary on the life and music of Phil Lynott, telling the story of how a young black boy from working class 1950's Dublin, became Ireland's Greatest Rock Star. As lead singer of Thin Liz</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/fe51bb14ab32c52e2b68849d4d4fea2e7?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261029020000 +0000" stop="20261029040000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261029025710 +0000" stop="20261029050615 +0000">
+    <title lang="en">Rainbow: Live in Munich</title>
     <desc lang="en">Rainbow was formed by Ritchie Blackmore in 1975 after he left Deep Purple at the height of their fame. They were instantly successful and released a string of hit albums, with an ever changing line-up</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f8950be0a68c7542b56444f3c6207701d?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261029040000 +0000" stop="20261029060000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261029050615 +0000" stop="20261029074606 +0000">
+    <title lang="en">Santana: Live From Montreux</title>
     <desc lang="en">Santana were founded in the late sixties and came into the spotlight following their appearance at the Woodstock festival in 1969</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/fc9b5eb644bec51f0934211b693705506?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261029060000 +0000" stop="20261029080000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261029074606 +0000" stop="20261029084445 +0000">
+    <title lang="en">Simply Red: Stars (Classic Albums)</title>
     <desc lang="en">GFull length concert films, documentaries and classic tracks from the likes of U2, Dire Straits, Bryan Ferry, Roxy Music and The Police.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/ff2b233d94b1f18d92c455919b7df7227?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261029080000 +0000" stop="20261029100000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261029084445 +0000" stop="20261029103215 +0000">
+    <title lang="en">Simply Red: Live in Montreux (2003)</title>
     <desc lang="en">Simply Red live at Montreux 2003, performing songs from Home plus classic hits in a polished show led by Mick Hucknall.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f910eb76c5a55183217883bf171348229?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261029100000 +0000" stop="20261029120000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261029103215 +0000" stop="20261029120635 +0000">
+    <title lang="en">John Mellencamp: Plain Spoken - Live Fro</title>
     <desc lang="en">John Mellencamp reflects on his career in an intimate Chicago concert film featuring live performances and personal narration.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/fc9ce5af113ac22806f994fcace77b8cb?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261029120000 +0000" stop="20261029140000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261029120635 +0000" stop="20261029141235 +0000">
+    <title lang="en">Lindsey Buckingham: Songs From the Small</title>
     <desc lang="en">Lindsey Buckingham performs solo favourites, Fleetwood Mac classics and Seeds We Sow in an intimate 2011 concert.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f900e54b06bb30eb381a8ba918f534b38?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261029140000 +0000" stop="20261029160000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261029141235 +0000" stop="20261029162001 +0000">
+    <title lang="en">The Who: Live in Hyde Park (2015)</title>
     <desc lang="en">The Who's spectacular 2015 Hyde Park concert, celebrating 50 years with 65,000 fans.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f8da0a35aee5dfb1ff74444d3d01ee98b?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261029160000 +0000" stop="20261029180000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261029162001 +0000" stop="20261029174306 +0000">
+    <title lang="en">Bryan Adams - The Best Of</title>
     <desc lang="en">Listen to the best tunes by Bryan Adams.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/fd999dfb1dca579c8d52b36630133b73b?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261029180000 +0000" stop="20261029200000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261029174306 +0000" stop="20261029193804 +0000">
+    <title lang="en">Bryan Ferry: Live in Lyon (2011)</title>
     <desc lang="en">GFull length concert films, documentaries and classic tracks from the likes of U2, Dire Straits, Bryan Ferry, Roxy Music and The Police.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f7576406e9698c3f55acd2102d0698ca9?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261029200000 +0000" stop="20261029220000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261029193804 +0000" stop="20261029215231 +0000">
+    <title lang="en">Phil Lynott: Songs For While I'm Away</title>
     <desc lang="en">A feature documentary on the life and music of Phil Lynott, telling the story of how a young black boy from working class 1950's Dublin, became Ireland's Greatest Rock Star. As lead singer of Thin Liz</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/fe51bb14ab32c52e2b68849d4d4fea2e7?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261029220000 +0000" stop="20261030000000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261029215231 +0000" stop="20261029232913 +0000">
+    <title lang="en">Dire Straits: Live in Concert</title>
     <desc lang="en">Some of the bands best performances of their most iconic tracks.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f4b913e7a85c38859e6ba33e2f559d2dd?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261030000000 +0000" stop="20261030020000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261029232913 +0000" stop="20261030003031 +0000">
+    <title lang="en">U2: Joshua Tree (Classic Albums)</title>
+    <desc lang="en">The making of U2's chart topping album through interviews and live performances.</desc>
+    <icon src="http://img.freeviewplay.net/f37943cda7bdc3905ee4c6de19146ca1f?w=800"/>
+  </programme>
+  <programme channel="GIGS.uk" start="20261030003031 +0000" stop="20261030013014 +0000">
+    <title lang="en">Def Leppard: Hysteria (Classic Albums)</title>
     <desc lang="en">Def Leppard explores the making of Hysteria with tapes, stories and performances.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f888b084cf0efc124fce8bce221e382dd?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261030020000 +0000" stop="20261030040000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261030013014 +0000" stop="20261030023602 +0000">
+    <title lang="en">Tom Petty: Damn the Torpedoes (Classic A</title>
     <desc lang="en">Explore the story behind a landmark rock album and its lasting impact on the band's career.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f75787b9f267eea55ab8d43a289d9e1ce?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261030040000 +0000" stop="20261030060000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261030023602 +0000" stop="20261030051754 +0000">
+    <title lang="en">Peter Gabriel: Growing Up Live (2003)</title>
     <desc lang="en">With a backdrop of stunning theatrical sets, Peter Gabriel performs all of his greatest hits to a sold out audience in the Fila Forum, Milan, in 2003. Included in this musical-tour-de-force are the hi</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f64b84ad2230b7c741b1dca9b24b47482?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261030060000 +0000" stop="20261030080000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261030051754 +0000" stop="20261030064539 +0000">
+    <title lang="en">The Police: Everyone Stares</title>
     <desc lang="en">GFull length concert films, documentaries and classic tracks from the likes of U2, Dire Straits, Bryan Ferry, Roxy Music and The Police.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f09584022adaca9e85b3ec20d024bc267?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261030080000 +0000" stop="20261030100000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261030064539 +0000" stop="20261030092500 +0000">
+    <title lang="en">The Cure: Live Hyde Park</title>
     <desc lang="en">GFull length concert films, documentaries and classic tracks from the likes of U2, Dire Straits, Bryan Ferry, Roxy Music and The Police.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f2f64fb93e6173ae7872f8ed47c95c2c4?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261030100000 +0000" stop="20261030120000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261030092500 +0000" stop="20261030103332 +0000">
+    <title lang="en">Don McLean: American Pie (Classic Albums</title>
     <desc lang="en">Classic Albums explores Don McLean's iconic American Pie and its enduring musical legacy.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f243d2b118cd1827181a1d08ddc8090e1?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261030120000 +0000" stop="20261030140000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261030103332 +0000" stop="20261030121031 +0000">
+    <title lang="en">Florence &amp; The Machine: Live At The Wilt</title>
     <desc lang="en">Florence + The Machine deliver an electrifying live performance, with Florence's powerful stage presence making every show unique.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f86a60c76995c463115cef465159bfcc1?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261030140000 +0000" stop="20261030160000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261030121031 +0000" stop="20261030140859 +0000">
+    <title lang="en">Dire Straits</title>
     <desc lang="en">Best of Dire Straits...</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f2574300b108387f0f797b0e793146821?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261030160000 +0000" stop="20261030180000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261030140859 +0000" stop="20261030154540 +0000">
+    <title lang="en">Huey Lewis and The News - Greatest Hits</title>
     <desc lang="en">Listen to the top tunes from Huey Lewis and The News.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/ffa23e464f8132cd6773e458e915a1a11?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261030180000 +0000" stop="20261030200000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261030154540 +0000" stop="20261030172221 +0000">
+    <title lang="en">Dire Straits: Live in Concert</title>
     <desc lang="en">Some of the bands best performances of their most iconic tracks.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f4b913e7a85c38859e6ba33e2f559d2dd?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261030200000 +0000" stop="20261030220000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261030172221 +0000" stop="20261030182922 +0000">
+    <title lang="en">Mike &amp; The Mechanics: Live at Shepherds</title>
     <desc lang="en">Mike &amp; The Mechanics reunite for a 2004 London show, with Paul Carrack leading classics and songs from Rewired.</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/fb4ce984a450de92dfec80a168a523128?w=800"/>
   </programme>
-  <programme channel="GIGS.uk" start="20261030220000 +0000" stop="20261031000000 +0000">
-    <title lang="en">GIGS</title>
+  <programme channel="GIGS.uk" start="20261030182922 +0000" stop="20261030195038 +0000">
+    <title lang="en">Guns N' Roses - The Best Of</title>
     <desc lang="en">Listen to the best tunes from Guns N' Roses!</desc>
-    <icon src="http://img.freeviewplay.net/f9b64385ac47efd510d6a286e633b9e68?w=800"/>
+    <icon src="http://img.freeviewplay.net/f20a298c65d22293d005bb987974b1f90?w=800"/>
+  </programme>
+  <programme channel="GIGS.uk" start="20261030195038 +0000" stop="20261030214106 +0000">
+    <title lang="en">Aerosmith: Rock For The Rising Sun (2011</title>
+    <desc lang="en">Aerosmith's emotional 2011 Japan tour, blending powerful live performances with intimate behind-the-scenes moments after Fukushima.</desc>
+    <icon src="http://img.freeviewplay.net/f94c5458fe2c78a2bdabbc6843693b5c8?w=800"/>
+  </programme>
+  <programme channel="GIGS.uk" start="20261030214106 +0000" stop="20261030234544 +0000">
+    <title lang="en">Aerosmith Rocks Donington</title>
+    <desc lang="en">Aerosmith Rocks Donington is much more than just a great gig.</desc>
+    <icon src="http://img.freeviewplay.net/f045308884b3f67559bcf393e6a666b5f?w=800"/>
+  </programme>
+  <programme channel="GIGS.uk" start="20261030234544 +0000" stop="20261031012226 +0000">
+    <title lang="en">Dire Straits: Live in Concert</title>
+    <desc lang="en">Some of the bands best performances of their most iconic tracks.</desc>
+    <icon src="http://img.freeviewplay.net/f4b913e7a85c38859e6ba33e2f559d2dd?w=800"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261023220000 +0100" stop="20261023230000 +0100">
     <title lang="en">Deal of the Day</title>
@@ -127436,45 +127583,60 @@
     <desc lang="en">(1989) Western with Jeff Fahey. In Australia's untamed outback, a woman will stop at nothing to save her family's ranch, while two rival suitors will risk everything to win her heart...</desc>
     <icon src="http://img.freeviewplay.net/ebd513f8c85da774f9402576d5d874daa?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261030092720 +0000" stop="20261030100000 +0000">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261030092720 +0000" stop="20261030110502 +0000">
+    <title lang="en">Rage at Dawn</title>
     <desc lang="en">(1955) Classic western with Randolph Scott and Forrest Tucker. When the notorious Reno Brothers start rampaging through the west, a special agent is sent to bring them to justice.</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/ee8506af641cc80bf2d139fe0fb1397ac?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261030100000 +0000" stop="20261030120000 +0000">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261030110502 +0000" stop="20261030113210 +0000">
+    <title lang="en">Air Rescue</title>
     <desc lang="en">Fly with the pilots and intensive care paramedics of The Westpac Lifesaver Rescue Helicopter Service who provide emergency medical treatment and assistance to those in life-threatening situations.</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e8195823e9c6b0d9361d2e721460b4534?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261030120000 +0000" stop="20261030140000 +0000">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261030113210 +0000" stop="20261030115702 +0000">
+    <title lang="en">Air Rescue</title>
     <desc lang="en">Fly with the pilots and intensive care paramedics of The Westpac Lifesaver Rescue Helicopter Service who provide emergency medical treatment and assistance to those in life-threatening situations.</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e8195823e9c6b0d9361d2e721460b4534?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261030140000 +0000" stop="20261030160000 +0000">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261030115702 +0000" stop="20261030133329 +0000">
+    <title lang="en">The Wrong Babysitter</title>
     <desc lang="en">A mother must revisit her husband's death in order to rescue her daughter who was kidnapped by her neighbour. Starring Daphne Zuniga (2017)</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e6aada0af233d5280e92307dd6ce71661?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261030160000 +0000" stop="20261030180000 +0000">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261030133329 +0000" stop="20261030151149 +0000">
+    <title lang="en">Staged Killer</title>
     <desc lang="en">When a former co-host works his way back into the life of popular TV host Naomi Spencer, the show's success skyrockets, but Naomi's personal life begins to fall apart. Starring Chrishell Stause (2019)</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e469d8f4a3b106c6c46fe45d814dfe76c?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261030180000 +0000" stop="20261030200000 +0000">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261030151149 +0000" stop="20261030165156 +0000">
+    <title lang="en">Burning Lies</title>
     <desc lang="en">(2021) Tense psychological thriller with Annika Foster. A woman falls for a handsome firefighter who saves her life, but soon discovers that his overprotective nature can get obsessive - and deadly.</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e8ac570bea9658f0c467f0a0da94dc1b7?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261030200000 +0000" stop="20261030220000 +0000">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261030165156 +0000" stop="20261030182405 +0000">
+    <title lang="en">Live Once , Die Twice</title>
     <desc lang="en">(2006) Thriller starring Kellie Martin. A widow discovers her husband faked his death - and had another wife. Now, both women team up to uncover the truth about their heinous hubby's betrayal.</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e9d2f84cbe27707bfd9de73a595dd5161?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261030220000 +0000" stop="20261031000000 +0000">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261030182405 +0000" stop="20261030195316 +0000">
+    <title lang="en">Pretty Little Stalker</title>
     <desc lang="en">A troubled young girl grows obsessed with the author of a series of self-help books, who has recently become her neighbour. Starring Nicky Whelan (2018)</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e37c629236ced8faef73e381f6aa8dfa7?w=800"/>
+  </programme>
+  <programme channel="GreatMovies.uk" start="20261030195316 +0000" stop="20261030212450 +0000">
+    <title lang="en">Death By Friendship</title>
+    <desc lang="en">(2020) Thriller with Natalie Brown. Recently divorced Hope thinks her struggling daughter is back on track when she bonds with Cassie, whose parents also split. But is Cassie a friend or a foe?</desc>
+    <icon src="http://img.freeviewplay.net/e19ceb3ea06ef5c26ecf49ea4ff9ff065?w=800"/>
+  </programme>
+  <programme channel="GreatMovies.uk" start="20261030212450 +0000" stop="20261030232138 +0000">
+    <title lang="en">Master Gardener</title>
+    <desc lang="en">(2022) Thriller with Joel Edgerton and Sigourney Weaver. A horticulturist's ordered life is thrown into chaos when he takes on an apprentice. As dark secrets surface, rules are about to be broken...</desc>
+    <icon src="http://img.freeviewplay.net/e472f8bc6795d2e87ab5d6d284c2a4039?w=800"/>
+  </programme>
+  <programme channel="GreatMovies.uk" start="20261030232138 +0000" stop="20261031005724 +0000">
+    <title lang="en">Farewell to Arms</title>
+    <desc lang="en">(1932) Romance starring Gary Cooper and Helen Hayes. A passionate romance blooms between a wounded American soldier and a brave nurse amidst the chaos and heartache of World War I.</desc>
+    <icon src="http://img.freeviewplay.net/eb17ee05d49fb0360b11cd720116b326a?w=800"/>
   </programme>
   <programme channel="GreatMystery.uk" start="20261023220000 +0100" stop="20261023230000 +0100">
     <title lang="en">Reef Break</title>
@@ -144010,7 +144172,7 @@
   <programme channel="ITV1Granada.uk" start="20261025123000 +0000" stop="20261025130000 +0000">
     <title lang="en">New: Talking Royals</title>
     <desc lang="en">A round-up of royal news with expert analysis from ITV News Royal Editor Chris Ship, ITV News royal expert Lizzie Robinson and a host of guests.</desc>
-    <icon src="https://img.freeviewplay.tv/ec38a42daa2ffb12e8314d6e726746cb3?w=800"/>
+    <icon src="https://img.freeviewplay.tv/p477b3ed518701f1757540881b5688a91?w=800"/>
   </programme>
   <programme channel="ITV1Granada.uk" start="20261025130000 +0000" stop="20261025131500 +0000">
     <title lang="en">ITV News</title>
@@ -171848,17 +172010,17 @@
   </programme>
   <programme channel="LondonTV.uk" start="20261024010000 +0100" stop="20261024020000 +0100">
     <title lang="en">UK Crime Files: The Moors Murders</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">: Simon Toyne travels the north of England to investigate the crimes committed by Ian Brady and Myra Hindley, which resulted in the death of five children.</desc>
     <icon src="http://img.freeviewplay.net/ef5127cf1ac1688f10148f30ff37e077c?w=800"/>
   </programme>
   <programme channel="LondonTV.uk" start="20261024020000 +0100" stop="20261024030000 +0100">
     <title lang="en">New Scotland Yard Files</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">The Murder of Alice Gross: Current and former New Scotland Yard detectives open their files to tell the inside stories of how they caught some of the capital's most notorious killers.</desc>
     <icon src="http://img.freeviewplay.net/efdcf06a94355434e0c9a85577998f35d?w=800"/>
   </programme>
   <programme channel="LondonTV.uk" start="20261024030000 +0100" stop="20261024040000 +0100">
     <title lang="en">Donal MacIntyre's UK Killer Evidence</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Murderer on the Dance Floor: Ten shocking crimes in the UK are solved using forensic investigation.</desc>
     <icon src="http://img.freeviewplay.net/e7588d6d067badc6551deed2aa4f0e821?w=800"/>
   </programme>
   <programme channel="LondonTV.uk" start="20261024040000 +0100" stop="20261024045000 +0100">
@@ -217946,8 +218108,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/bed60e5c-357c-4582-8102-0d703785caca/cover"/>
   </programme>
   <programme channel="S4C.uk" start="20261029210000 +0000" stop="20261029214500 +0000">
-    <title lang="en">New: Y Byd yn ei Le 2026-2027</title>
+    <title lang="en">New: Y Byd yn ei Le</title>
     <desc lang="en">Cyfres wleidyddol sy'n dadansoddi'r diweddara o'r byd gwleidyddol. Political series which analyses the latest from the political world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5a90c919-dff9-4259-bde3-c75f838aed22/cover"/>
     <premiere/>
   </programme>
   <programme channel="S4C.uk" start="20261029214500 +0000" stop="20261029222000 +0000">
@@ -218238,9 +218401,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/2a5df703-8068-43bc-a885-109ae9e50951/cover"/>
   </programme>
   <programme channel="S4C.uk" start="20261030150500 +0000" stop="20261030160000 +0000">
-    <title lang="en">Marathon Eryri 2026</title>
-    <desc lang="en">Uchafbwyntiau marathon lôn galetaf a mwyaf dramatig Prydain: Marathon Eryri 2026. Highlights of Britain's toughest and most dramatic road marathon: the Eryri Marathon 2026.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9895fa86-56bf-43e1-ae0a-97469ba04a20/cover"/>
+    <title lang="en">Cynefin: Llanberis.</title>
+    <desc lang="en">Cyfle i drwsio trac trên bach Yr Wyddfa, a chlywed am hanes y chwarel ac am luniau arbennig. We're in Llanberis, searching Padarn Lake for a rare fish, and enjoying the folklore.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e69bfa44-57f4-4ec8-b476-212305367a3a/cover"/>
   </programme>
   <programme channel="S4C.uk" start="20261030160000 +0000" stop="20261030161000 +0000">
     <title lang="en">Timpo</title>
@@ -218335,7 +218498,9 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="S4C.uk" start="20261030202500 +0000" stop="20261030205500 +0000">
-    <title lang="en">New: Stiwdio247</title>
+    <title lang="en">New: Stiwdio 24/7</title>
+    <desc lang="en">Cyflwyno detholiad o'r bandiau mwyaf cyffrous yn y Sîn Roc Gymraeg wrth iddynt ryddhau cynnyrch newydd. We introduce some of the best bands &amp; artists from the current Welsh rock &amp; pop scene.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c5e82daf-9e68-4d9a-8a11-53bf17e835fe/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">1.0.0</episode-num>
     <episode-num system="onscreen">S2E1</episode-num>
@@ -225868,6 +226033,7 @@
   </programme>
   <programme channel="SkyMix.ie" start="20261025135500 +0000" stop="20261025160000 +0000">
     <title lang="en">FILM: Haunted Wedding</title>
+    <desc lang="en">The wedding between ghost hunters Jane and Brian at a haunted inn is disrupted by Angelique - a ghost who mistakes Brian for her own dead fiancé. (2024)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/17b527f7-8e85-4f37-9d01-36bbdea5b774/cover"/>
   </programme>
   <programme channel="SkyMix.ie" start="20261025160000 +0000" stop="20261025170000 +0000">
@@ -233224,104 +233390,108 @@
     <desc lang="en">Discover festive ideas, gifts, and seasonal deals to celebrate Christmas in style.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025000000 +0100" stop="20261025010000 +0100">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Getting Ready For Christmas with Andrew</title>
+    <desc lang="en">Discover festive ideas, gifts, and seasonal deals to celebrate Christmas in style.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025010000 +0100" stop="20261025010000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Getting Ready For Christmas with Andrew</title>
+    <desc lang="en">Discover festive ideas, gifts, and seasonal deals to celebrate Christmas in style.</desc>
   </programme>
-  <programme channel="TJC.uk" start="20261025010000 +0000" stop="20261025020000 +0000">
-    <title lang="en">TJC - Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+  <programme channel="TJC.uk" start="20261025010000 +0000" stop="20261025013000 +0000">
+    <title lang="en">This is TJC HD</title>
+    <desc lang="en">This is TJC HD</desc>
+  </programme>
+  <programme channel="TJC.uk" start="20261025013000 +0000" stop="20261025020000 +0000">
+    <title lang="en">This is TJC HD</title>
+    <desc lang="en">This is TJC HD</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025020000 +0000" stop="20261025030000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Getting Ready For Christmas with Edd</title>
+    <desc lang="en">Discover festive ideas, gifts, and seasonal deals to celebrate Christmas in style.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025030000 +0000" stop="20261025040000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Getting Ready For Christmas with Edd</title>
+    <desc lang="en">Discover festive ideas, gifts, and seasonal deals to celebrate Christmas in style.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025040000 +0000" stop="20261025050000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Getting Ready For Christmas with Edd</title>
+    <desc lang="en">Discover festive ideas, gifts, and seasonal deals to celebrate Christmas in style.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025050000 +0000" stop="20261025060000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Getting Ready For Christmas with Edd</title>
+    <desc lang="en">Discover festive ideas, gifts, and seasonal deals to celebrate Christmas in style.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025060000 +0000" stop="20261025070000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Getting Ready For Christmas with Andy H</title>
+    <desc lang="en">Discover festive ideas, gifts, and seasonal deals to celebrate Christmas in style.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025070000 +0000" stop="20261025080000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Getting Ready For Christmas with Andy H</title>
+    <desc lang="en">Discover festive ideas, gifts, and seasonal deals to celebrate Christmas in style.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025080000 +0000" stop="20261025090000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Getting Ready For Christmas with Andy H</title>
+    <desc lang="en">Discover festive ideas, gifts, and seasonal deals to celebrate Christmas in style.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025090000 +0000" stop="20261025100000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Getting Ready For Christmas with Andy H</title>
+    <desc lang="en">Discover festive ideas, gifts, and seasonal deals to celebrate Christmas in style.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025100000 +0000" stop="20261025110000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Live From Tanzania - Tanzanite ...</title>
+    <desc lang="en">Tanzanite Collection with Cris. Discover the mesmerising beauty of Tanzanite, a rare gemstone found only in Tanzania.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025110000 +0000" stop="20261025120000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Live From Tanzania - Tanzanite ...</title>
+    <desc lang="en">Tanzanite Collection with Cris. Discover the mesmerising beauty of Tanzanite, a rare gemstone found only in Tanzania.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025120000 +0000" stop="20261025130000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Live From Tanzania - Tanzanite ...</title>
+    <desc lang="en">Tanzanite Collection with Cris. Discover the mesmerising beauty of Tanzanite, a rare gemstone found only in Tanzania.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025130000 +0000" stop="20261025140000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Live From Tanzania - Tanzanite ...</title>
+    <desc lang="en">Tanzanite Collection with Cris. Discover the mesmerising beauty of Tanzanite, a rare gemstone found only in Tanzania.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025140000 +0000" stop="20261025150000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Black Diamond Showcase with Jenny &amp; Craig</title>
+    <desc lang="en">Discover the bold elegance of Black Diamonds, celebrated for their mysterious beauty and timeless sophistication.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025150000 +0000" stop="20261025160000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Black Diamond Showcase with Jenny &amp; Craig</title>
+    <desc lang="en">Discover the bold elegance of Black Diamonds, celebrated for their mysterious beauty and timeless sophistication.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025160000 +0000" stop="20261025170000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Black Diamond Showcase with Jenny &amp; Craig</title>
+    <desc lang="en">Discover the bold elegance of Black Diamonds, celebrated for their mysterious beauty and timeless sophistication.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025170000 +0000" stop="20261025180000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Black Diamond Showcase with Jenny &amp; Craig</title>
+    <desc lang="en">Discover the bold elegance of Black Diamonds, celebrated for their mysterious beauty and timeless sophistication.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025180000 +0000" stop="20261025190000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Getting Ready For Christmas with Derek &amp; Anshu</title>
+    <desc lang="en">Discover festive ideas, gifts, and seasonal deals to celebrate Christmas in style.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025190000 +0000" stop="20261025200000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Getting Ready For Christmas with Derek &amp; Anshu</title>
+    <desc lang="en">Discover festive ideas, gifts, and seasonal deals to celebrate Christmas in style.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025200000 +0000" stop="20261025210000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Lab Grown Colombian Emerald ...</title>
+    <desc lang="en">...Collection with Derek &amp; Anshu. Discover striking Jewellery featuring vivid, lab-grown emeralds for classic elegance with a modern touch.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025210000 +0000" stop="20261025220000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Lab Grown Colombian Emerald ...</title>
+    <desc lang="en">...Collection with Derek &amp; Anshu. Discover striking Jewellery featuring vivid, lab-grown emeralds for classic elegance with a modern touch.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025220000 +0000" stop="20261025230000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Getting Ready For Christmas with Jo</title>
+    <desc lang="en">Discover festive ideas, gifts, and seasonal deals to celebrate Christmas in style.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261025230000 +0000" stop="20261026000000 +0000">
-    <title lang="en">TJC Trust, Joy &amp; Community</title>
-    <desc lang="en">At TJC, it's all about Trust, Joy, and Community. Tune in for the best bargains and place your order anytime on 0800 298 4444.</desc>
+    <title lang="en">Getting Ready For Christmas with Jo</title>
+    <desc lang="en">Discover festive ideas, gifts, and seasonal deals to celebrate Christmas in style.</desc>
   </programme>
   <programme channel="TJC.uk" start="20261026000000 +0000" stop="20261026010000 +0000">
     <title lang="en">TJC Trust, Joy &amp; Community</title>
