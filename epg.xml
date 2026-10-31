@@ -13090,25 +13090,40 @@
     <desc lang="en">Hourly update of international news with an emphasis on the Arab world.</desc>
     <icon src="http://img.freeviewplay.net/f74c72c8028a69ee6d6a7be861dbc80e2?w=800"/>
   </programme>
-  <programme channel="AlJazeeraArabic.qa" start="20261031210000 +0000" stop="20261031220000 +0000">
+  <programme channel="AlJazeeraArabic.qa" start="20261031210000 +0000" stop="20261031210500 +0000">
     <title lang="en">News Bulletin</title>
     <desc lang="en">Hourly update of international news with an emphasis on the Arab world.</desc>
     <icon src="http://img.freeviewplay.net/f74c72c8028a69ee6d6a7be861dbc80e2?w=800"/>
   </programme>
-  <programme channel="AlJazeeraArabic.qa" start="20261031220000 +0000" stop="20261031230000 +0000">
-    <title lang="en">News Bulletin</title>
+  <programme channel="AlJazeeraArabic.qa" start="20261031210500 +0000" stop="20261031215000 +0000">
+    <title lang="en">Maghreb Roundup</title>
     <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/f622d0effceb813e08326acdf056d42a0?w=800"/>
+  </programme>
+  <programme channel="AlJazeeraArabic.qa" start="20261031215000 +0000" stop="20261031220000 +0000">
+    <title lang="en">Sports Roundup</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/f51baf8239450a09bda7e65f87757ad43?w=800"/>
+  </programme>
+  <programme channel="AlJazeeraArabic.qa" start="20261031220000 +0000" stop="20261031220500 +0000">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">Hourly update of international news with an emphasis on the Arab world.</desc>
     <icon src="http://img.freeviewplay.net/f74c72c8028a69ee6d6a7be861dbc80e2?w=800"/>
+  </programme>
+  <programme channel="AlJazeeraArabic.qa" start="20261031220500 +0000" stop="20261031230000 +0000">
+    <title lang="en">Programme</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/fd892499a046b0b3ddb4a800700de4c75?w=800"/>
   </programme>
   <programme channel="AlJazeeraArabic.qa" start="20261031230000 +0000" stop="20261031233000 +0000">
-    <title lang="en">News Bulletin</title>
+    <title lang="en">News</title>
     <desc lang="en">No further information...</desc>
-    <icon src="http://img.freeviewplay.net/f74c72c8028a69ee6d6a7be861dbc80e2?w=800"/>
+    <icon src="http://img.freeviewplay.net/f5eeb2ab51cb542adde7191aa570ccc63?w=800"/>
   </programme>
   <programme channel="AlJazeeraArabic.qa" start="20261031233000 +0000" stop="20261101000000 +0000">
-    <title lang="en">Behind the News</title>
-    <desc lang="en">Hourly update of international news with an emphasis on the Arab world.</desc>
-    <icon src="http://img.freeviewplay.net/f639d5548ceef868534f453ee62264866?w=800"/>
+    <title lang="en">Programme</title>
+    <desc lang="en">No further information...</desc>
+    <icon src="http://img.freeviewplay.net/fd892499a046b0b3ddb4a800700de4c75?w=800"/>
   </programme>
   <programme channel="AlJazeeraArabic.qa" start="20261101000000 +0000" stop="20261101000500 +0000">
     <title lang="en">News Bulletin</title>
@@ -45096,7 +45111,7 @@
     <desc lang="en">The latest news from around the UK and around the world.</desc>
   </programme>
   <programme channel="BBCRAsianNetwork.uk" start="20261102180000 +0000" stop="20261102200000 +0000">
-    <title lang="en">Asian Network Evenings with Vallisa</title>
+    <title lang="en">Asian Network Evenings with Nadia Ali</title>
     <desc lang="en">Nadia Ali gets you moving out of work mode and ready for the evening - whether you're cooking, getting ready to hit the gym or just chilling at home!</desc>
   </programme>
   <programme channel="BBCRAsianNetwork.uk" start="20261102200000 +0000" stop="20261102220000 +0000">
@@ -45741,7 +45756,7 @@
   </programme>
   <programme channel="BBCRUlster.uk" start="20261031100300 +0000" stop="20261031110000 +0000">
     <title lang="en">Consumer Fight Back</title>
-    <desc lang="en">The Consumer Fight Back team gets the answers, rights the wrongs and makes things better for consumers everywhere.</desc>
+    <desc lang="en">Whether it is lawnmowers with technical glitches or deciding if AI is a friend or foe, the Consumer Fight Back team bring you the latest in AI advances.</desc>
   </programme>
   <programme channel="BBCRUlster.uk" start="20261031110000 +0000" stop="20261031110300 +0000">
     <title lang="en">BBC News NI update</title>
@@ -48495,7 +48510,7 @@
   </programme>
   <programme channel="BBCRadioFoyle.uk" start="20261031100300 +0000" stop="20261031110000 +0000">
     <title lang="en">Consumer Fight Back</title>
-    <desc lang="en">The Consumer Fight Back team gets the answers, rights the wrongs and makes things better for consumers everywhere.</desc>
+    <desc lang="en">Whether it is lawnmowers with technical glitches or deciding if AI is a friend or foe, the Consumer Fight Back team bring you the latest in AI advances.</desc>
   </programme>
   <programme channel="BBCRadioFoyle.uk" start="20261031110000 +0000" stop="20261031110300 +0000">
     <title lang="en">BBC News NI update</title>
@@ -58891,7 +58906,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261031060600 +0000" stop="20261031070000 +0000">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">Kyiv infrastructure critically hit by Russian attacks says Mayor Vitali Klitschko.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261031070000 +0000" stop="20261031070600 +0000">
     <title lang="en">BBC News</title>
@@ -58899,7 +58914,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261031070600 +0000" stop="20261031080000 +0000">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">Netanyahu's Likud party is leading the Israel election but still short of the majority seats, according to partial results.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261031080000 +0000" stop="20261031080600 +0000">
     <title lang="en">BBC News</title>
@@ -58907,7 +58922,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261031080600 +0000" stop="20261031090000 +0000">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">The EU and Canada have announced a new alliance open to like-minded countries at their Summit in Montreal.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261031090000 +0000" stop="20261031090600 +0000">
     <title lang="en">BBC News</title>
@@ -72168,37 +72183,31 @@
     <icon src="https://images.metadata.sky.com/pd-image/67a480c7-bfe8-451a-acdc-825a7f3d27c0/cover"/>
     <premiere/>
   </programme>
-  <programme channel="CNNInternational.uk" start="20261101000000 +0000" stop="20261101003000 +0000">
-    <title lang="en">Inside Africa</title>
-    <desc lang="en">Senegalese Surfing. How Senegal's surf culture is developing from a close-knit coastal community into a pathway to international competition.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1c7a9150-466f-4c27-ade2-c9b4777c5672/cover"/>
-  </programme>
-  <programme channel="CNNInternational.uk" start="20261101003000 +0000" stop="20261101010000 +0000">
-    <title lang="en">African Voices</title>
-    <desc lang="en">Funke Akindele. Nigerian media mogul Funke Akindele has made a name for herself in Nollywood through her funny, often relatable films.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/37f25af0-b4cc-4376-b160-c3658ff7c9ca/cover"/>
-    <episode-num system="xmltv_ns">2025.37.0</episode-num>
-    <episode-num system="onscreen">S2026E38</episode-num>
-  </programme>
-  <programme channel="CNNInternational.uk" start="20261101010000 +0000" stop="20261101013000 +0000">
-    <title lang="en">World Sport</title>
-    <desc lang="en">Saturday, October 31, 2026 5pm ET. Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/16cfdb35-8f78-4f7b-ae17-39b482451511/cover"/>
-  </programme>
-  <programme channel="CNNInternational.uk" start="20261101013000 +0000" stop="20261101020000 +0000">
-    <title lang="en">Innovate</title>
-    <desc lang="en">AI and Caring for Humans. Can AI agents and robots filling care roles in hospitals, companionship and physical support help without replacing human connection and judgment?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1178e06d-1ebe-4764-aafb-570da57b282e/cover"/>
-  </programme>
-  <programme channel="CNNInternational.uk" start="20261101020000 +0000" stop="20261101030000 +0000">
+  <programme channel="CNNInternational.uk" start="20261101000000 +0000" stop="20261101010000 +0000">
     <title lang="en">The Whole Story With Anderson Cooper</title>
     <desc lang="en">MAGA Ever After?. Donie O'Sullivan examines how, a decade after MAGA remade the right, President Trump's second term has tested the movement's faithful.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bc0a17b4-1aa9-462f-8927-9a92204dca88/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/5db7499e-d533-47a7-9372-050d01f0e18c/cover"/>
   </programme>
-  <programme channel="CNNInternational.uk" start="20261101030000 +0000" stop="20261101040000 +0000">
+  <programme channel="CNNInternational.uk" start="20261101010000 +0000" stop="20261101020000 +0000">
     <title lang="en">The Whole Story With Anderson Cooper</title>
     <desc lang="en">The Left Insurgency. Donie O'Sullivan examines the growing influence of the Democratic Party's progressive movement, from grassroots activists to digital creators.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e2d79a18-f58d-4b8a-b310-e6a2497bba72/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6cfec937-0dcc-45da-9ecf-0e9e2753eed3/cover"/>
+  </programme>
+  <programme channel="CNNInternational.uk" start="20261101020000 +0000" stop="20261101030000 +0000">
+    <title lang="en">CNN NewsNight</title>
+    <desc lang="en">Saturday, October 31, 2026 10PM. Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/78d471bd-8c9b-4ad1-a0d7-7b22cab7637d/cover"/>
+    <premiere/>
+  </programme>
+  <programme channel="CNNInternational.uk" start="20261101030000 +0000" stop="20261101033000 +0000">
+    <title lang="en">Inside Africa</title>
+    <desc lang="en">Senegalese Surfing. How Senegal's surf culture is developing from a close-knit coastal community into a pathway to international competition.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/645bdb8f-25d4-46a4-9096-3f4b32543377/cover"/>
+  </programme>
+  <programme channel="CNNInternational.uk" start="20261101033000 +0000" stop="20261101040000 +0000">
+    <title lang="en">Innovate</title>
+    <desc lang="en">AI and Caring for Humans. Can AI agents and robots filling care roles in hospitals, companionship and physical support help without replacing human connection and judgment?</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bd246177-8612-4cb9-8c57-e30778b08c6f/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20261101040000 +0000" stop="20261101043000 +0000">
     <title lang="en">CNN Newsroom</title>
@@ -72230,11 +72239,18 @@
     <episode-num system="xmltv_ns">2025.0.0</episode-num>
     <episode-num system="onscreen">S2026E1</episode-num>
   </programme>
-  <programme channel="CNNInternational.uk" start="20261101070000 +0000" stop="20261101080000 +0000">
+  <programme channel="CNNInternational.uk" start="20261101070000 +0000" stop="20261101073000 +0000">
     <title lang="en">CNN Newsroom</title>
     <desc lang="en">Sunday, November 1, 2026 2am ET. Live context and clarity to the day's top stories from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3366ba52-861a-4411-bc09-852b84176362/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/f5f6c7af-c426-487d-ae20-c08c14a3d57c/cover"/>
     <premiere/>
+  </programme>
+  <programme channel="CNNInternational.uk" start="20261101073000 +0000" stop="20261101080000 +0000">
+    <title lang="en">African Voices</title>
+    <desc lang="en">Funke Akindele. Nigerian media mogul Funke Akindele has made a name for herself in Nollywood through her funny, often relatable films.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/37f25af0-b4cc-4376-b160-c3658ff7c9ca/cover"/>
+    <episode-num system="xmltv_ns">2025.37.0</episode-num>
+    <episode-num system="onscreen">S2026E38</episode-num>
   </programme>
   <programme channel="CNNInternational.uk" start="20261101080000 +0000" stop="20261101083000 +0000">
     <title lang="en">CNN Newsroom</title>
@@ -72430,9 +72446,9 @@
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20261102100000 +0000" stop="20261102110000 +0000">
-    <title lang="en">CNN Headline Express</title>
-    <desc lang="en">Monday, November 2, 2026 5AM. The biggest headlines and most buzzworthy stories with live updates throughout the day.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/40da57b6-009a-4c43-9ec5-64af00474d7b/cover"/>
+    <title lang="en">CNN This Morning</title>
+    <desc lang="en">Monday, November 2, 2026 5AM. Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b86fcd78-638f-45bb-8b52-85d41c6694c3/cover"/>
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20261102110000 +0000" stop="20261102120000 +0000">
@@ -96198,15 +96214,15 @@
   </programme>
   <programme channel="ClassicFM.uk" start="20261102130000 +0000" stop="20261102140000 +0000">
     <title lang="en">Classic FM Requests</title>
-    <desc lang="en">Join Anne-Marie Minhall for an hour of your requests, followed by two more hours of the very best classical music.</desc>
+    <desc lang="en">Join Hannah Scott-Joynt for an hour of your requests, followed by two more hours of the very best classical music.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261102140000 +0000" stop="20261102160000 +0000">
-    <title lang="en">Anne-Marie Minhall</title>
-    <desc lang="en">Anne-Marie Minhall presents her own selection of classical music favourites, including the Hall of Fame 3 at 3 - three pieces of music from the Classic FM Hall of Fame chart.</desc>
+    <title lang="en">Hannah Scott-Joynt</title>
+    <desc lang="en">Hannah Scott-Joynt presents her own selection of classical music favourites, including the Hall of Fame 3 at 3 - three pieces of music from the Classic FM Hall of Fame chart.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261102160000 +0000" stop="20261102190000 +0000">
-    <title lang="en">Margherita Taylor</title>
-    <desc lang="en">Join Margherita as she plays the best music to take you into the evening, including a film favourite at 4.30pm.</desc>
+    <title lang="en">Sam Pittis</title>
+    <desc lang="en">Join Sam as he plays the best music to take you into the evening, including a film favourite at 4.30pm.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261102190000 +0000" stop="20261102220000 +0000">
     <title lang="en">Relaxing Evenings with Zeb Soanes</title>
@@ -96238,15 +96254,15 @@
   </programme>
   <programme channel="ClassicFM.uk" start="20261103130000 +0000" stop="20261103140000 +0000">
     <title lang="en">Classic FM Requests</title>
-    <desc lang="en">Join Anne-Marie Minhall for an hour of your requests, followed by two more hours of the very best classical music.</desc>
+    <desc lang="en">Join Hannah Scott-Joynt for an hour of your requests, followed by two more hours of the very best classical music.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261103140000 +0000" stop="20261103160000 +0000">
-    <title lang="en">Anne-Marie Minhall</title>
-    <desc lang="en">Anne-Marie Minhall presents her own selection of classical music favourites, including the Hall of Fame 3 at 3 - three pieces of music from the Classic FM Hall of Fame chart.</desc>
+    <title lang="en">Hannah Scott-Joynt</title>
+    <desc lang="en">Hannah Scott-Joynt presents her own selection of classical music favourites, including the Hall of Fame 3 at 3 - three pieces of music from the Classic FM Hall of Fame chart.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261103160000 +0000" stop="20261103190000 +0000">
-    <title lang="en">Margherita Taylor</title>
-    <desc lang="en">Join Margherita as she plays the best music to take you into the evening, including a film favourite at 4.30pm.</desc>
+    <title lang="en">Sam Pittis</title>
+    <desc lang="en">Join Sam as he plays the best music to take you into the evening, including a film favourite at 4.30pm.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261103190000 +0000" stop="20261103220000 +0000">
     <title lang="en">Relaxing Evenings with Zeb Soanes</title>
@@ -96278,15 +96294,15 @@
   </programme>
   <programme channel="ClassicFM.uk" start="20261104130000 +0000" stop="20261104140000 +0000">
     <title lang="en">Classic FM Requests</title>
-    <desc lang="en">Join Anne-Marie Minhall for an hour of your requests, followed by two more hours of the very best classical music.</desc>
+    <desc lang="en">Join Hannah Scott-Joynt for an hour of your requests, followed by two more hours of the very best classical music.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261104140000 +0000" stop="20261104160000 +0000">
-    <title lang="en">Anne-Marie Minhall</title>
-    <desc lang="en">Anne-Marie Minhall presents her own selection of classical music favourites, including the Hall of Fame 3 at 3 - three pieces of music from the Classic FM Hall of Fame chart.</desc>
+    <title lang="en">Hannah Scott-Joynt</title>
+    <desc lang="en">Hannah Scott-Joynt presents her own selection of classical music favourites, including the Hall of Fame 3 at 3 - three pieces of music from the Classic FM Hall of Fame chart.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261104160000 +0000" stop="20261104190000 +0000">
-    <title lang="en">Margherita Taylor</title>
-    <desc lang="en">Join Margherita as she plays the best music to take you into the evening, including a film favourite at 4.30pm.</desc>
+    <title lang="en">Sam Pittis</title>
+    <desc lang="en">Join Sam as he plays the best music to take you into the evening, including a film favourite at 4.30pm.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261104190000 +0000" stop="20261104220000 +0000">
     <title lang="en">Relaxing Evenings with Zeb Soanes</title>
@@ -96318,19 +96334,15 @@
   </programme>
   <programme channel="ClassicFM.uk" start="20261105130000 +0000" stop="20261105140000 +0000">
     <title lang="en">Classic FM Requests</title>
-    <desc lang="en">Join Anne-Marie Minhall for an hour of your requests, followed by two more hours of the very best classical music.</desc>
+    <desc lang="en">Join Hannah Scott-Joynt for an hour of your requests, followed by two more hours of the very best classical music.</desc>
   </programme>
-  <programme channel="ClassicFM.uk" start="20261105140000 +0000" stop="20261105160000 +0000">
-    <title lang="en">Anne-Marie Minhall</title>
-    <desc lang="en">Anne-Marie Minhall presents her own selection of classical music favourites, including the Hall of Fame 3 at 3 - three pieces of music from the Classic FM Hall of Fame chart.</desc>
+  <programme channel="ClassicFM.uk" start="20261105140000 +0000" stop="20261105170000 +0000">
+    <title lang="en">Hannah Scott-Joynt</title>
+    <desc lang="en">Hannah Scott-Joynt presents her own selection of classical music favourites, including the Hall of Fame 3 at 3 - three pieces of music from the Classic FM Hall of Fame chart.</desc>
   </programme>
-  <programme channel="ClassicFM.uk" start="20261105160000 +0000" stop="20261105190000 +0000">
-    <title lang="en">Margherita Taylor</title>
-    <desc lang="en">Join Margherita as she plays the best music to take you into the evening, including a film favourite at 4.30pm.</desc>
-  </programme>
-  <programme channel="ClassicFM.uk" start="20261105190000 +0000" stop="20261105220000 +0000">
-    <title lang="en">Relaxing Evenings with Zeb Soanes</title>
-    <desc lang="en">Zeb Soanes eases you into the evening with a relaxing soundtrack of all-time favourites and contemporary classics.</desc>
+  <programme channel="ClassicFM.uk" start="20261105170000 +0000" stop="20261105220000 +0000">
+    <title lang="en">Pet Classics with Dan Walker</title>
+    <desc lang="en">Dan Walker plays the perfect mix of classical music to help you and your pets prepare for fireworks season.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261105220000 +0000" stop="20261106010000 +0000">
     <title lang="en">Calm Classics with Ritula Shah</title>
@@ -96358,23 +96370,15 @@
   </programme>
   <programme channel="ClassicFM.uk" start="20261106130000 +0000" stop="20261106140000 +0000">
     <title lang="en">Classic FM Requests</title>
-    <desc lang="en">Join Anne-Marie Minhall for an hour of your requests, followed by two more hours of the very best classical music.</desc>
+    <desc lang="en">Join Hannah Scott-Joynt for an hour of your requests, followed by two more hours of the very best classical music.</desc>
   </programme>
-  <programme channel="ClassicFM.uk" start="20261106140000 +0000" stop="20261106160000 +0000">
-    <title lang="en">Anne-Marie Minhall</title>
-    <desc lang="en">Anne-Marie Minhall presents her own selection of classical music favourites, including the Hall of Fame 3 at 3 - three pieces of music from the Classic FM Hall of Fame chart.</desc>
+  <programme channel="ClassicFM.uk" start="20261106140000 +0000" stop="20261106170000 +0000">
+    <title lang="en">Hannah Scott-Joynt</title>
+    <desc lang="en">Hannah Scott-Joynt presents her own selection of classical music favourites, including the Hall of Fame 3 at 3 - three pieces of music from the Classic FM Hall of Fame chart.</desc>
   </programme>
-  <programme channel="ClassicFM.uk" start="20261106160000 +0000" stop="20261106180000 +0000">
-    <title lang="en">Margherita Taylor</title>
-    <desc lang="en">Join Margherita as she plays the best music to take you into the evening, including a film favourite at 4.30pm.</desc>
-  </programme>
-  <programme channel="ClassicFM.uk" start="20261106180000 +0000" stop="20261106200000 +0000">
-    <title lang="en">Movies</title>
-    <desc lang="en">Jonathan Ross, award-winning presenter and film critic, presents the greatest music from the silver screen.</desc>
-  </programme>
-  <programme channel="ClassicFM.uk" start="20261106200000 +0000" stop="20261106220000 +0000">
-    <title lang="en">Spotlight</title>
-    <desc lang="en">Every week, Alexander will shine the spotlight on a well-known artist, featuring a selection of new recordings, a full work, and celebrating one of Classic FM's Rising Stars.</desc>
+  <programme channel="ClassicFM.uk" start="20261106170000 +0000" stop="20261106220000 +0000">
+    <title lang="en">Pet Classics with Aled Jones</title>
+    <desc lang="en">Aled Jones plays the perfect mix of classical music to help you and your pets prepare for fireworks season.</desc>
   </programme>
   <programme channel="ClassicFM.uk" start="20261106220000 +0000" stop="20261107020000 +0000">
     <title lang="en">Calm Classics with Myleene Klass</title>
@@ -142809,7 +142813,7 @@
     <icon src="https://img.freeviewplay.tv/p56f53f2069c520a5fd325d63be0722eb?w=800"/>
   </programme>
   <programme channel="ITV1Granada.uk" start="20261101123000 +0000" stop="20261101130000 +0000">
-    <title lang="en">New: Talking Royals</title>
+    <title lang="en">Talking Royals</title>
     <desc lang="en">A round-up of royal news with expert analysis from ITV News Royal Editor Chris Ship, ITV News royal expert Lizzie Robinson and a host of guests.</desc>
     <icon src="https://img.freeviewplay.tv/p4ebc4b0fb078920d3203b53d4eecdbd2?w=800"/>
   </programme>
@@ -185141,7 +185145,7 @@
   <programme channel="NowRock.uk" start="20261101034500 +0000" stop="20261101040000 +0000">
     <title lang="en">Party Rock Anthems!</title>
     <desc lang="en">Party pop rock anthems spanning 5 decades! From Queen, Kiss &amp; Aerosmith to Blur, Paramore &amp; The White Stripes.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8d0b2ccd-56b4-45e5-99d9-7cdd5675030c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2eda41d5-2298-40c8-a81c-96df6e076327/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261101040000 +0000" stop="20261101060000 +0000">
     <title lang="en">Weekend Anthems!</title>
@@ -185156,7 +185160,7 @@
   <programme channel="NowRock.uk" start="20261101065000 +0000" stop="20261101070000 +0000">
     <title lang="en">The New Legends Of Rock</title>
     <desc lang="en">Rock Riffs, indie anthems and a new generation of rock legends from 2000 to now! Expect YungBlud, BMTH, The Arctic Monkeys, Fall Out Boy &amp; loads more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/12569009-63c6-4d23-aa1d-9b9f0d88a732/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d3d311d1-d800-4e82-a8c4-66f284abe84a/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261101070000 +0000" stop="20261101150000 +0000">
     <title lang="en">101 Feelgood Rock Songs!</title>
@@ -185191,27 +185195,27 @@
   <programme channel="NowRock.uk" start="20261102010000 +0000" stop="20261102020000 +0000">
     <title lang="en">Bon Jovi: Rock Icons</title>
     <desc lang="en">An hour of Anthems and the biggest rock songs from 90s rock legends Bon Jovi!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8996282e-20b6-4b3c-b851-00aa77ab8258/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d0ef95c3-25e6-4d84-9047-44b0b145f3a2/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261102020000 +0000" stop="20261102040000 +0000">
     <title lang="en">Maxed Out On Anthems!</title>
     <desc lang="en">Live it loud and Max out on the finest rock anthems! Featuring Paramore, Imagine Dragons, Linkin Park, Evanescence &amp; The Arctic Monkeys. This is Now Rock!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c7c9a358-a5b8-4d25-9eb4-25e467357512/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3455ce36-2eb5-3dba-8beb-409dd518c1c1/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261102040000 +0000" stop="20261102060000 +0000">
     <title lang="en">The New Legends Of Rock</title>
     <desc lang="en">Rock Riffs, indie anthems and a new generation of rock legends from 2000 to now! Expect YungBlud, BMTH, The Arctic Monkeys, Fall Out Boy &amp; loads more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bc932fd4-9766-4f37-b400-6086c740475e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d3d311d1-d800-4e82-a8c4-66f284abe84a/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261102060000 +0000" stop="20261102070000 +0000">
     <title lang="en">21st Century Rock Queens</title>
     <desc lang="en">These are power ladies who really rock! From Avril Lavigne and Pink to Amy Lee and Hayley Williams.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fd053d12-8e98-4361-b9bd-bef42fffec68/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/bfb72a5b-9cb6-349a-a8d5-3cfa5c56d8ff/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261102070000 +0000" stop="20261102085000 +0000">
     <title lang="en">Kings &amp; Queens: 2000 - NOW!</title>
     <desc lang="en">Starting in the 00s, bow before the royal rock stage! Home to the best front men and leading ladies that the world of rock has produced!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5b72f2f2-124f-42da-b515-4fa8fe56a5b1/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/257b9b04-5fd3-4cca-b4b3-9cedf9997cc2/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261102085000 +0000" stop="20261102090000 +0000">
     <title lang="en">The Anthems!</title>
@@ -185221,7 +185225,7 @@
   <programme channel="NowRock.uk" start="20261102090000 +0000" stop="20261102130500 +0000">
     <title lang="en">Turn Up The Alt Rock Anthems!</title>
     <desc lang="en">Turn up your speakers to 11 &amp; live life even louder! 50 alt rock anthems in order, featuring Imagine Dragons, Blink-182, The Killers &amp; The Foo Fighters!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8cd1cb46-6440-419e-961b-24f279e428a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/cb50fb5e-fbb8-3482-9d0e-7582fdcb62a5/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261102130500 +0000" stop="20261102140000 +0000">
     <title lang="en">The Anthems!</title>
@@ -185231,7 +185235,7 @@
   <programme channel="NowRock.uk" start="20261102140000 +0000" stop="20261102162500 +0000">
     <title lang="en">30 Rock &amp; Indie Heroes of the 10s</title>
     <desc lang="en">Claire Sturgess relives the 2010s with her 30 greatest heroes in rock and indie. The Vaccines, Biffy Clyro and Imagine Dragons are all in the Top 10, but who is her number 1?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/83c38284-bdc3-4d29-b416-111b3bf7f5aa/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/516db5db-959f-430e-b573-309829553505/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261102162500 +0000" stop="20261102170000 +0000">
     <title lang="en">The Anthems!</title>
@@ -185241,37 +185245,37 @@
   <programme channel="NowRock.uk" start="20261102170000 +0000" stop="20261102190000 +0000">
     <title lang="en">Teenage Dirtbags! 1995-2010</title>
     <desc lang="en">From the rebellious teens of the 90s and 00s we bring you the stars who said "To hell with the world" and expressed themselves through great tunes!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4280d47b-7e53-4799-931d-4d78a549daa8/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/1bada805-4bb2-4ecc-a6c7-84f509f29086/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261102190000 +0000" stop="20261102205000 +0000">
     <title lang="en">All Killer: 00s Rock Bands!</title>
     <desc lang="en">25 of the greatest rock bands of the noughties featuring Paramore, Bullet For My Valentine, Slipknot and My Chemical Romance.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/db708d76-72fc-4cd4-9ac1-faa8c70f6cd2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/15ccb350-6711-3544-bc0a-ccccd8f2b74b/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261102205000 +0000" stop="20261102210000 +0000">
     <title lang="en">Rated Rock! The No.1s</title>
     <desc lang="en">Number 1 rock songs from the last 50 years! With mega hits from the Arctic Monkeys &amp; KOL right back to legends like The Stones &amp; T.Rex!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/09dd5d5f-a649-4535-8e36-02f0fb07dbe4/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/aadc3197-30dd-4fa7-8b1d-7dcdd1616635/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261102210000 +0000" stop="20261103001500 +0000">
     <title lang="en">50 Years Of Rock Number 1s!</title>
     <desc lang="en">Nicky Horne's journey through 50 years of rock history &amp; stopping off at the biggest no.1 songs. Featuring classics from Elvis &amp; The Stones to Queen, The Verve &amp; Kings of Leon.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a5da527e-35bb-4327-a9db-3a6fd6653706/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6776de43-7f60-36fa-9cbb-4a27a9d02ee5/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261103001500 +0000" stop="20261103010000 +0000">
     <title lang="en">Rated Rock! The No.1s</title>
     <desc lang="en">Number 1 rock songs from the last 50 years! With mega hits from the Arctic Monkeys &amp; KOL right back to legends like The Stones &amp; T.Rex!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/be37f674-9d17-4b61-b944-493c6483019f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/aadc3197-30dd-4fa7-8b1d-7dcdd1616635/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261103010000 +0000" stop="20261103014500 +0000">
     <title lang="en">Muse: Fan Favourites</title>
     <desc lang="en">From 2003 to 2022 - 45 minutes of the biggest rock songs from Muse!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6aad060c-cbec-4c77-871a-b8c432d93188/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0dc6b7cf-f61a-4584-9b14-bf144935cdd6/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261103014500 +0000" stop="20261103030000 +0000">
     <title lang="en">Killer Cuts Of The 00s!</title>
     <desc lang="en">A decade of mega hits and the loudest anthems! Expect Biffy Clyro, Linkin Park, Blink 182, Evanescence, Fall Out Boy &amp; loads more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c391cd74-41e3-4697-b9c7-4489381712e5/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/58c47f78-8802-48fb-b5d7-0c4034ddbebb/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261103030000 +0000" stop="20261103060000 +0000">
     <title lang="en">The Anthems!</title>
@@ -185281,72 +185285,72 @@
   <programme channel="NowRock.uk" start="20261103060000 +0000" stop="20261103070000 +0000">
     <title lang="en">High School Rock Out: 1995-2005</title>
     <desc lang="en">We open the high school year book with Weezer in 1995 and remember the amazing bands that rocked every school party through to 2005!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6de7c212-d1bb-44d4-95d5-1228a2da798b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2c9cbb0a-cdb0-4fd3-99ce-49b72747e01d/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261103070000 +0000" stop="20261103105000 +0000">
     <title lang="en">50 Reasons The 10s Rocked!</title>
     <desc lang="en">50 anthems of rock from the 2010s! With the 1975, Wolf Alice, Linkin Park, Royal Blood, Paramore, Biffy Clyro, YUNGBLUD &amp; much more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f5e46d16-1649-410a-8d0b-b48da360761e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/fa099c76-4c66-40e1-a239-f3a04b93ea08/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261103105000 +0000" stop="20261103110000 +0000">
     <title lang="en">Blazing Rock Ballads!</title>
     <desc lang="en">The Biggest Ballads from the royals of rock! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Nickleback &amp; Evanescence.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fb0652d7-d8be-4f17-a9dd-691aabd8b304/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/1ed0ce35-cf32-4a81-b2f3-bc2ce7116f49/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261103110000 +0000" stop="20261103130000 +0000">
     <title lang="en">Love Bites! With Nicky Horne</title>
     <desc lang="en">Nicky brings a masterclass in the most popular (&amp; dangerous) subject in rock history! 20 songs loaded with lust, desire, breakups &amp; despair - this is how love really does bite!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4e21f076-16c8-4ac3-8a08-495721b0677c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/5b9249d3-d49f-4029-b98c-34d54fe6d5e4/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261103130000 +0000" stop="20261103140000 +0000">
     <title lang="en">Blazing Rock Ballads!</title>
     <desc lang="en">The Biggest Ballads from the royals of rock! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Nickleback &amp; Evanescence.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7cf271dd-0c18-454e-8a66-1e3f2da0f6f1/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/1ed0ce35-cf32-4a81-b2f3-bc2ce7116f49/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261103140000 +0000" stop="20261103160000 +0000">
     <title lang="en">U.S. Ballads 1977-2007</title>
     <desc lang="en">In order from 1977 to 2007, power ballads and the best love songs that the bands stateside have to offer! Featuring Toto, Heart, Bon Jovi, Nickelback and the Goo Goo Dolls.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4d5dbca4-c917-42cf-a198-ca7faa4b2d0d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b1eb300f-485a-301d-bc99-890f334d8f49/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261103160000 +0000" stop="20261103205000 +0000">
     <title lang="en">Heart &amp; Soul: 50 Rock Ballads</title>
     <desc lang="en">Carol Decker from T'Pau with 50 Rock Ballads written from the Heart and Soul! With Queen, Bon Jovi, Cutting Crew and Bonnie Tyler.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/88cdd35d-76a8-42d1-b298-4a979d9a2532/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7e71aac1-a907-49b3-a7ad-2c1eb079867e/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261103205000 +0000" stop="20261103210000 +0000">
     <title lang="en">Blazing Rock Ballads!</title>
     <desc lang="en">The Biggest Ballads from the royals of rock! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Nickleback &amp; Evanescence.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5c0eab1c-9387-416f-a964-43505a2194cb/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/1ed0ce35-cf32-4a81-b2f3-bc2ce7116f49/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261103210000 +0000" stop="20261104001500 +0000">
     <title lang="en">Backtrack: 1st Ladies 2015-1980</title>
     <desc lang="en">In reverse: Starting in 2015, we're going back 35 years with the power ladies who really rock! Expect Pink, Hayley Williams, Sheryl Crow, Bonnie Tyler and many more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b50a451f-a403-4def-b799-94e1fc948ef9/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7d403b6a-1fd1-3582-868b-f9a4b832fcf6/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261104001500 +0000" stop="20261104010000 +0000">
     <title lang="en">Legendary Rock: 1980-1989</title>
     <desc lang="en">These are the legendary rock stars that made the 80s! Expect Meat Loaf, Bonnie Tyler, Queen, Bon Jovi, AC/DC, Iron Maiden &amp; loads more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9386acf5-c59a-4dd1-b11b-10638a095800/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/47f83b34-4363-4748-83fe-6efa740e8c0c/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261104010000 +0000" stop="20261104020000 +0000">
     <title lang="en">Fleetwood Mac: Rock Icons</title>
     <desc lang="en">Spanning two decades, an hour of Anthems and the biggest rock songs from rock legends Fleetwood Mac!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/46e5e5e9-0682-4056-ab02-54f20e018bfc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9051df3b-d108-4a44-9cdc-d558f692be81/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261104020000 +0000" stop="20261104040000 +0000">
     <title lang="en">The 90s: Guitars, Grunge &amp; Glory!</title>
     <desc lang="en">Grunge happened, we kept the guitars! Britpop happened, we kept the Gallaghers! Nirvana brought angst, Blur brought swagger &amp; everyone brought riffs, anthems &amp; questionable hair!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6c5cdace-e71d-4a9c-a498-e4da5197d281/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/527f916b-a425-4050-8f22-255543f46d9b/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261104040000 +0000" stop="20261104060000 +0000">
     <title lang="en">Classic Rock Day!</title>
     <desc lang="en">24 hours of rock classics &amp; anthems! We guarantee AC/DC, Nirvana, Queen, Meat Loaf, Bon Jovi &amp; much more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/aa9be666-f63f-4523-be4a-fab344e4f806/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/328f9939-c7d9-4808-b346-4354440c8baa/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261104060000 +0000" stop="20261104070000 +0000">
     <title lang="en">AC/DC: Rock Icons</title>
     <desc lang="en">An hour of Anthems and the biggest rock songs from rock legends ACDC!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9760b194-139c-487a-86dc-696af4723ea8/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ccf26002-6464-4520-a785-bc3a7ef85e75/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261104070000 +0000" stop="20261104160000 +0000">
     <title lang="en">The Rock 100 of the 80s</title>
@@ -185356,97 +185360,97 @@
   <programme channel="NowRock.uk" start="20261104160000 +0000" stop="20261105000000 +0000">
     <title lang="en">The Classic Rock 101!</title>
     <desc lang="en">We've compiled a brand new classic 101, celebrating 5 decades of rock - from the 60s to the 00s. Which guitar legends will be at number 1?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5482428b-6518-4611-adb4-0421312b5266/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0f790836-2f46-4b76-8c80-f7a1024ef70f/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261105000000 +0000" stop="20261105005000 +0000">
     <title lang="en">The Classic Rock 101!</title>
     <desc lang="en">We've compiled a brand new classic 101, celebrating 5 decades of rock - from the 60s to the 00s. Which guitar legends will be at number 1?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2374acd8-c313-42ff-a8a1-d6d646531bc8/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0f790836-2f46-4b76-8c80-f7a1024ef70f/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261105005000 +0000" stop="20261105010000 +0000">
     <title lang="en">Legendary Rock: 1980-1989</title>
     <desc lang="en">These are the legendary rock stars that made the 80s! Expect Meat Loaf, Bonnie Tyler, Queen, Bon Jovi, AC/DC, Iron Maiden &amp; loads more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c4aa5a78-c0a1-4a1d-b11b-3a5c78737bf4/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/47f83b34-4363-4748-83fe-6efa740e8c0c/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261105010000 +0000" stop="20261105020000 +0000">
     <title lang="en">Guns N' Roses: Rock Icons</title>
     <desc lang="en">An hour of Anthems and the biggest rock songs from rock legends Guns N' Roses!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/46c9f171-2c5b-4db1-8429-df5e2d819353/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/270b2b16-4987-4b3a-818e-17d31a07e6b9/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261105020000 +0000" stop="20261105060000 +0000">
     <title lang="en">The Glam Years!</title>
     <desc lang="en">1970-79, Glam, Glitter &amp; a big slice of classic rock! From flamboyant trailblazers to stadium anthems including Bowie, Alice Cooper, T.Rex, Slade, Queen, Suzi Quatro &amp; loads more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1512ef5c-e04c-4389-970c-76c7e1cfb6b6/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/beb35f5b-4743-4a3f-a0b3-7f5494aeec3b/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261105060000 +0000" stop="20261105064500 +0000">
     <title lang="en">All Killer: 00s No.1s!</title>
     <desc lang="en">In order, an hour of every song a number 1 rock song in the noughties!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/930911aa-7aff-4005-b311-f4330267354a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c175c43a-87e7-3894-8d92-d7a50fd2ac6a/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261105064500 +0000" stop="20261105070000 +0000">
     <title lang="en">Maxed Out On 2003 Anthems!</title>
     <desc lang="en">Live it loud and Max out on the finest rock anthems! Featuring The White Stripes, Iron Maiden, Evanescense &amp; The Foo Fighters. This is Now Rock!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2cebfedd-8466-4b26-a1a5-a0b7b00fccbc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2795e89d-b6ba-3320-b9f3-755b2e0357ef/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261105070000 +0000" stop="20261105100000 +0000">
     <title lang="en">90s Rock: From Grunge to Alt</title>
     <desc lang="en">A 90s evolution of Rock: From the raw energy of glam and the grunge to the alt rock revolution. Expect to see Def Leppard, Guns N' Roses, Alanis, No Doubt and many more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/afc526b9-117f-4c85-8d45-fdc387cde959/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/da28f3a7-d1e4-375d-87c7-3a3b03489d9a/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261105100000 +0000" stop="20261105122000 +0000">
     <title lang="en">Alex Baker's 30 High School Heroes</title>
     <desc lang="en">Dust off your old posters as Alex relives 30 era-defining mega bangers that made high school legendary! Featuring Evanescence, No Doubt, Limp Bizkit, Wheatus &amp; many more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/88971377-8366-4ae1-a0f2-067823dc1c8d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3b88c9ca-8c7d-4b5d-bf24-27828ad8116d/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261105122000 +0000" stop="20261105130000 +0000">
     <title lang="en">The New Legends Of Rock</title>
     <desc lang="en">Rock Riffs, indie anthems and a new generation of rock legends from 2000 to now! Expect YungBlud, BMTH, The Arctic Monkeys, Fall Out Boy &amp; loads more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b9d5f249-1aed-4a84-8e4c-f31ddac3f921/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d3d311d1-d800-4e82-a8c4-66f284abe84a/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261105130000 +0000" stop="20261105150000 +0000">
     <title lang="en">20 Years Of Noise! The Class Of 06</title>
     <desc lang="en">26 mega anthems that are 20 years old this year! All hail the great work from 2006, featuring Keane, The Arctic Monkeys, Fall Out Boy, The Zutons, My Chemical Romance &amp; loads more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96235900-f8e5-4641-b155-b3ff5eff6c71/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b9c41483-05ba-4573-9919-0fb127e70d56/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261105150000 +0000" stop="20261105181500 +0000">
     <title lang="en">Rock's Most Streamed of the 00s!</title>
     <desc lang="en">Mark Goodier with a countdown of bands and artists who've had one rock song that has been viewed over a billion times since the 00s.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fb158c61-9438-457e-8462-0ddd353b63fb/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/5584bd01-20ef-4cf1-8206-ef9df7d3490a/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261105181500 +0000" stop="20261105190000 +0000">
     <title lang="en">Killer Cuts Of The 00s!</title>
     <desc lang="en">A decade of mega hits and the loudest anthems! Expect Biffy Clyro, Linkin Park, Blink 182, Evanescence, Fall Out Boy &amp; loads more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/29699d55-45f9-4739-bed3-33bacdbafeec/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/58c47f78-8802-48fb-b5d7-0c4034ddbebb/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261105190000 +0000" stop="20261105203500 +0000">
     <title lang="en">All Killer: Stateside Anthems!</title>
     <desc lang="en">In order, 20 of the biggest American anthems from the 21st Century featuring The Killers, Bon Jovi, Nickelback and OneRepublic.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/84b2a852-37f5-400c-9d54-7cfd4a7d9590/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/76133ef6-4699-37a5-9441-220c629397ad/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261105203500 +0000" stop="20261105210000 +0000">
     <title lang="en">Rated Rock! The No.1s</title>
     <desc lang="en">Number 1 rock songs from the last 50 years! With mega hits from the Arctic Monkeys &amp; KOL right back to legends like The Stones &amp; T.Rex!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/448fc44f-4abf-4c58-ae1b-5065e709598e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/aadc3197-30dd-4fa7-8b1d-7dcdd1616635/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261105210000 +0000" stop="20261106000000 +0000">
     <title lang="en">Nicky Horne's 30 Hardest Hitters!</title>
     <desc lang="en">The 30 greatest rock drummers in the world! These are Nicky's hardest hitters, featuring Dave Grohl, Tommy Lee, Keith Moon, Ginger Baker, John Bonham but who is his Number 1?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/be16be6f-e681-4a27-ad3f-c13b2b78ab02/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a68f783b-be2c-4a42-ac1a-8583d2ba110e/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261106000000 +0000" stop="20261106014000 +0000">
     <title lang="en">Loud &amp; Legendary: The 20 Greatest!</title>
     <desc lang="en">The most iconic &amp; ear-shattering rock songs that shaped the genre! Including Led Zeppelin's timeless Whole Lotta Love &amp; AC/DC's rebellious Highway to Hell. Crank it up &amp; enjoy!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7ec79dff-23d5-426f-ae94-18713529ad63/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0e172fad-2665-3ca9-9b2a-7bb1cbb5332c/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261106014000 +0000" stop="20261106040000 +0000">
     <title lang="en">Legendary Rock: 1980-1989</title>
     <desc lang="en">These are the legendary rock stars that made the 80s! Expect Meat Loaf, Bonnie Tyler, Queen, Bon Jovi, AC/DC, Iron Maiden &amp; loads more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/18f1de28-e186-4f8c-8e00-e0337c15699c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/47f83b34-4363-4748-83fe-6efa740e8c0c/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261106040000 +0000" stop="20261106060000 +0000">
     <title lang="en">What Were They Wearing? 80s Rock</title>
     <desc lang="en">Big Hair, bold looks &amp; even bigger anthems! From leather &amp; spandex to new-wave style. Expect Bon Jovi, Def Leppard, Billy Idol, Van Halen, The Cure &amp; loads more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9c465b99-9b51-45fe-9487-2bef54f57983/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9d7f0e61-61fc-4209-8802-1bc37069cc50/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261106060000 +0000" stop="20261106064500 +0000">
     <title lang="en">10 Biggest Legends Of The 80s</title>
@@ -185612,12 +185616,16 @@
   <programme channel="PBSAmerica.uk" start="20261031223500 +0000" stop="20261101000000 +0000">
     <title lang="en">Sicily: the Conquered Isle</title>
     <desc lang="en">Crossroads explores Sicily's ancient past when it was the breadbasket of the ancient and then medieval world and occupied by Greeks, Romans, Carthaginians, Arabs and Normans. (Part 1 of 2) (S)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/69e26eaa-3651-486a-b4f0-122ccf584d12/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3ed44855-427e-4083-a908-1c94084f09a5/cover"/>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="PBSAmerica.uk" start="20261101000000 +0000" stop="20261101012000 +0000">
     <title lang="en">Sicily: the Conquered Isle</title>
     <desc lang="en">Borderlands examines the island's role on the frontlines of a clash of civilisations during the Spanish era, when its glorious baroque buildings were also created. (Part 2 of 2) (S)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/78bc4ff0-c890-4a03-8846-84e1cb9e3077/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/694a59db-893f-4964-8ed7-c8822dc6f222/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="PBSAmerica.uk" start="20261101012000 +0000" stop="20261101020000 +0000">
     <title lang="en">Weathered: Earth's Extremes</title>
@@ -216044,7 +216052,7 @@
   </programme>
   <programme channel="S4C.uk" start="20261103123000 +0000" stop="20261103130000 +0000">
     <title lang="en">Heno</title>
-    <desc lang="en">Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with stories from all over Wales and special guests.</desc>
+    <desc lang="en">Cawn hanes Mererid Rees o Lambed, sy'n trefnu'r Sparkle Ball i godi ymwybyddiaeth ar ôl cael strôc yn ddim ond 26 oed. We discuss the new S4C drama-documentary about Owain Glyndwr.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f88b8699-4341-4304-a4fd-12b32b5b80ad/cover"/>
     <episode-num system="xmltv_ns">2025.153.0</episode-num>
     <episode-num system="onscreen">S2026E154</episode-num>
@@ -217046,7 +217054,7 @@
     <icon src="https://images.metadata.sky.com/pd-image/d7127287-2910-4d93-bd77-c99b1f029c3c/cover"/>
   </programme>
   <programme channel="S4C.uk" start="20261105223000 +0000" stop="20261105233500 +0000">
-    <title lang="en">Croeso i Gymru</title>
+    <title lang="en">Cyrraedd Cymru</title>
     <desc lang="en">Mae Seren Jones yn datgelu straeon pobl o Affrica a'r Caribî sydd wedi siapio Cymru heddiw. Seren Jones uncovers the stories of people from Africa and the Caribbean who helped shape Wales.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dfc4a93b-94eb-4b88-b53c-735c9420d2ca/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
@@ -217327,7 +217335,7 @@
     <icon src="https://images.metadata.sky.com/pd-image/823c7005-2e0c-444f-88e8-7ac9a53a200a/cover"/>
   </programme>
   <programme channel="S4C.uk" start="20261106150500 +0000" stop="20261106160000 +0000">
-    <title lang="en">Croeso i Gymru</title>
+    <title lang="en">Cyrraedd Cymru</title>
     <desc lang="en">Mae Seren Jones yn datgelu straeon pobl o Affrica a'r Caribî sydd wedi siapio Cymru heddiw. Seren Jones uncovers the stories of people from Africa and the Caribbean who helped shape Wales.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dfc4a93b-94eb-4b88-b53c-735c9420d2ca/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
