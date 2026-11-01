@@ -45356,7 +45356,7 @@
   </programme>
   <programme channel="BBCRScotland.uk" start="20261101080000 +0000" stop="20261101100000 +0000">
     <title lang="en">Sunday Morning</title>
-    <desc lang="en">Two hours of music and conversation with a faith and ethical perspective. Taking the week's events to ask what they say about our values and beliefs.</desc>
+    <desc lang="en">Jimmy McGovern, the writer behind Time, Cracker and Brookside, shares his Spiritual Life; reflecting on faith doubt and the beliefs that have stayed with him throughout his life.</desc>
   </programme>
   <programme channel="BBCRScotland.uk" start="20261101100000 +0000" stop="20261101120000 +0000">
     <title lang="en">The Sunday Show</title>
@@ -51006,7 +51006,7 @@
   </programme>
   <programme channel="BBCRadioLondon.uk" start="20261101060000 +0000" stop="20261101100000 +0000">
     <title lang="en">Inspirit with Jumoké Fashola</title>
-    <desc lang="en">Debating the week's big religious, moral and ethical issues.</desc>
+    <desc lang="en">Director Rob Kaplan, artistic director Lisa Mead and founder of Shout Out UK, Matteo Bergamini.</desc>
   </programme>
   <programme channel="BBCRadioLondon.uk" start="20261101100000 +0000" stop="20261101140000 +0000">
     <title lang="en">Robert Elms</title>
@@ -58828,7 +58828,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261101060600 +0000" stop="20261101070000 +0000">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">Emotional reunions for Ukrainian evacuees who spent over 4 years under Russian occupation.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261101070000 +0000" stop="20261101070600 +0000">
     <title lang="en">BBC News</title>
@@ -58836,7 +58836,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261101070600 +0000" stop="20261101080000 +0000">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">Residents of Oleshky were able to evacuate due to a ceasefire in the Kherson region.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261101080000 +0000" stop="20261101080600 +0000">
     <title lang="en">BBC News</title>
@@ -58844,7 +58844,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261101080600 +0000" stop="20261101090000 +0000">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">Israelis are urging the opposition leader Gadi Eisenkot to make a deal with Arab parties.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261101090000 +0000" stop="20261101090600 +0000">
     <title lang="en">BBC News</title>
@@ -71843,8 +71843,8 @@
     <title lang="en">Answers with Bayless Conley</title>
     <desc lang="en">Jonah: the Lies That Rob US: Religious programming. (Ep45)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ca187714-237e-467a-849d-16da58c6b6d2/cover"/>
-    <episode-num system="xmltv_ns">2025.73.0</episode-num>
-    <episode-num system="onscreen">S2026E74</episode-num>
+    <episode-num system="xmltv_ns">2025.74.0</episode-num>
+    <episode-num system="onscreen">S2026E75</episode-num>
   </programme>
   <programme channel="CNBCEurope.uk" start="20261107083000 +0000" stop="20261107090000 +0000">
     <title lang="en">CNBC Sport: On the Record</title>
@@ -126535,50 +126535,50 @@
     <desc lang="en">(1963) Western starring John Wayne, Maureen O'Hara and Patrick Wayne. A wealthy rancher must navigate warring factions in the Wild West while also fighting to save his troubled marriage.</desc>
     <icon src="http://img.freeviewplay.net/e7d861824654c45a838d38f61a2e90200?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261107092426 +0000" stop="20261107093628 +0000">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261107092426 +0000" stop="20261107112635 +0000">
+    <title lang="en">Death Rides a Horse</title>
     <desc lang="en">(1967) Brutal western with Lee Van Cleef and John Phillip Law. Fifteen years after his family were massacred by bandits, a young boy is now a skilled gunslinger - and he's hell-bent on revenge...</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/ea5d6d7a3cc06a97160dc765ea496cc9c?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261107093628 +0000" stop="20261107113628 +0000">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261107112635 +0000" stop="20261107125938 +0000">
+    <title lang="en">Death By Friendship</title>
     <desc lang="en">(2020) Thriller with Natalie Brown. Recently divorced Hope thinks her struggling daughter is back on track when she bonds with Cassie, whose parents also split. But is Cassie a friend or a foe?</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e19ceb3ea06ef5c26ecf49ea4ff9ff065?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261107113628 +0000" stop="20261107133628 +0000">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261107125938 +0000" stop="20261107143437 +0000">
+    <title lang="en">Wish You Were Dead</title>
     <desc lang="en">(2017) Thriller with Emily Rose. Wishing for a better life for her and her daughter, a struggling mother makes a pact with two strangers who say they can 'eliminate' her problems.</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e2de34358b60b17b9717659a1a436998f?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261107133628 +0000" stop="20261107153628 +0000">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261107143437 +0000" stop="20261107161506 +0000">
+    <title lang="en">The Daughter Stalker</title>
     <desc lang="en">(2020) Twist-laden thriller with Karynn Moore. When her wealthy estranged sister dies, Carly is shocked to be named guardian of her daughter. But someone's plans didn't include a long-lost relative...</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/ed2da9b3c8cc6b8d96997f1a0b442532b?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261107153628 +0000" stop="20261107173628 +0000">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261107161506 +0000" stop="20261107175328 +0000">
+    <title lang="en">Dating to Kill</title>
     <desc lang="en">(2019) Cradle-robbing thriller with Clare Kramer. Jessica is shocked when her daughter starts dating an older man. But that soon turns to terror when she discovers her lethal connection to him...</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e390ab2a883a9d134d8fc3bbceba76ab5?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261107173628 +0000" stop="20261107193628 +0000">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261107175328 +0000" stop="20261107192741 +0000">
+    <title lang="en">Killer Mom</title>
     <desc lang="en">At her father's funeral, Allison meets her birth mother who has a plan to stop her from inheriting $40-million. Starring Karen Cliché (2017)</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e9562d44c76b9a27f64a32ae677d0ae5c?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261107193628 +0000" stop="20261107213628 +0000">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261107192741 +0000" stop="20261107210243 +0000">
+    <title lang="en">The House On The Hill</title>
     <desc lang="en">(2019) Dark thriller with Samaire Armstrong. After years in a mental hospital, Megan visits her brother, only to find no one even remembers him. Is she losing her mind or is a sinister plot in play?</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e0615d2e301e2a742f7b86a0ce58079bc?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261107213628 +0000" stop="20261107233628 +0000">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261107210243 +0000" stop="20261107225447 +0000">
+    <title lang="en">The Ice Road</title>
     <desc lang="en">(2021) Subzero action thriller starring Liam Neeson. An ice road trucker leads a treacherous mission to rescue trapped miners. But as the ice thaws and secrets surface, cracks soon start to form...</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/e3757bcc4a7739ea03a41cc876a88253e?w=800"/>
   </programme>
-  <programme channel="GreatMovies.uk" start="20261107233628 +0000" stop="20261108013628 +0000">
-    <title lang="en">GREAT! MOVIES</title>
+  <programme channel="GreatMovies.uk" start="20261107225447 +0000" stop="20261108002525 +0000">
+    <title lang="en">Jet Stream</title>
     <desc lang="en">A TV weatherman tries to find a way to stop devastating winds from ravaging the Earth. Starring David Chokachi, Ruth Kearney and Steven Hartley (2013).</desc>
-    <icon src="http://img.freeviewplay.net/ec86c00db7c71008e46fb3f1465ad7c27?w=800"/>
+    <icon src="http://img.freeviewplay.net/ec263ae71e58aaf7f18a516b3b0588d13?w=800"/>
   </programme>
   <programme channel="GreatMystery.uk" start="20261031225000 +0000" stop="20261031234600 +0000">
     <title lang="en">Garage Sale Mysteries: Murder...</title>
@@ -158598,7 +158598,7 @@
     <desc lang="en">Lively comedy film starring Jim Carrey and Jennifer Aniston, 2003. A man who complains about God too much is given almighty powers to show him how difficult it is to run the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a9741ad6-d39d-4f91-812c-7b9402b98ea1/cover"/>
   </programme>
-  <programme channel="ITV2.uk" start="20261101210000 +0000" stop="20261101220000 +0000">
+  <programme channel="ITV2.uk" start="20261101210000 +0000" stop="20261101221500 +0000">
     <title lang="en">New: Big Brother</title>
     <desc lang="en">Housemates live under 24-hour surveillance as they attempt to avoid eviction from the Big Brother house with the most unpopular housemates facing a public vote.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba006e55-dc51-43cd-a55a-64c8c176c3c7/cover"/>
@@ -158606,7 +158606,7 @@
     <episode-num system="xmltv_ns">3.42.0</episode-num>
     <episode-num system="onscreen">S4E43</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20261101220000 +0000" stop="20261101230500 +0000">
+  <programme channel="ITV2.uk" start="20261101221500 +0000" stop="20261101230500 +0000">
     <title lang="en">New: Big Brother: The Group Chat</title>
     <desc lang="en">Get closer to the personalities at the heart of the show as Kate Lawler and GK Barry host exclusive interviews with evicted Housemates, celebrity fans and special guests.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/498464e5-688b-482f-bf02-de9140123355/cover"/>
@@ -159918,7 +159918,7 @@
     <desc lang="en">Lively comedy film starring Jim Carrey and Jennifer Aniston, 2003. A man who complains about God too much is given almighty powers to show him how difficult it is to run the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a9741ad6-d39d-4f91-812c-7b9402b98ea1/cover"/>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20261101220000 +0000" stop="20261101230000 +0000">
+  <programme channel="ITV2Plus1.uk" start="20261101220000 +0000" stop="20261101231500 +0000">
     <title lang="en">New: Big Brother</title>
     <desc lang="en">Housemates live under 24-hour surveillance as they attempt to avoid eviction from the Big Brother house with the most unpopular housemates facing a public vote.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba006e55-dc51-43cd-a55a-64c8c176c3c7/cover"/>
@@ -159926,7 +159926,7 @@
     <episode-num system="xmltv_ns">3.42.0</episode-num>
     <episode-num system="onscreen">S4E43</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20261101230000 +0000" stop="20261102000500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20261101231500 +0000" stop="20261102000500 +0000">
     <title lang="en">New: Big Brother: The Group Chat</title>
     <desc lang="en">Get closer to the personalities at the heart of the show as Kate Lawler and GK Barry host exclusive interviews with evicted Housemates, celebrity fans and special guests.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/498464e5-688b-482f-bf02-de9140123355/cover"/>
@@ -184643,37 +184643,37 @@
   <programme channel="NowRock.uk" start="20261106060000 +0000" stop="20261106064500 +0000">
     <title lang="en">10 Biggest Legends Of The 80s</title>
     <desc lang="en">Rock Gods &amp; Goddesses that were massive in the 80s &amp; have stood the test of time ever since! Here are the 10 biggest selling &amp; the most streamed legends the decade has to offer!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/89209308-37a6-4e7f-9826-515b02ddb445/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/e5dd032d-cb39-4d44-9fee-79e1656aca81/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261106064500 +0000" stop="20261106070000 +0000">
     <title lang="en">Legendary Rock: 1980-1989</title>
     <desc lang="en">These are the legendary rock stars that made the 80s! Expect Meat Loaf, Bonnie Tyler, Queen, Bon Jovi, AC/DC, Iron Maiden &amp; loads more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ff57ad4e-1ea6-45ca-b7c5-6d4fa47ba9b4/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/47f83b34-4363-4748-83fe-6efa740e8c0c/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261106070000 +0000" stop="20261106090000 +0000">
     <title lang="en">All American Frontmen!</title>
     <desc lang="en">40 years of the greatest leading men US Rock has to offer! From Lemmy Kilmister and Steve Perry in the 70s right through to Brandon Flowers and Jack White in the 21st Century.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/98378c4e-1f1b-413f-a2e2-b9b9131b8004/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/fbc092c2-cc05-35ea-ae14-48b6bcb5a55d/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261106090000 +0000" stop="20261106113000 +0000">
     <title lang="en">Claire Sturgess Alt Rock Heroes!</title>
     <desc lang="en">Claire has 30 of her best alternative rock bands &amp; artists who side-stepped classic rock to include influences from Punk, Funk, Goth, Indie &amp; even Hip Hop!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a88871db-c73f-4afe-baa2-2423abe4bbe6/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d7c4fb58-9ec2-4c1b-98ec-1b1a382b8129/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261106113000 +0000" stop="20261106120000 +0000">
     <title lang="en">Rated Rock! The No.1s</title>
     <desc lang="en">Number 1 rock songs from the last 50 years! With mega hits from the Arctic Monkeys &amp; KOL right back to legends like The Stones &amp; T.Rex!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e897f98e-1986-4401-8a50-38c6878b43a4/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/aadc3197-30dd-4fa7-8b1d-7dcdd1616635/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261106120000 +0000" stop="20261106140000 +0000">
     <title lang="en">Teenage Kicks: The Misfit Years</title>
     <desc lang="en">From angsty misfit anthems &amp; teen rebellion, to non-conformers &amp; pure emotional turbulence, these songs reminded us growing up that sometimes it's totally fine to feel different!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c71a24f4-e051-4886-a90c-9c7a76349623/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/8de4531c-a5cc-42e4-8f3e-2362e689661c/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261106140000 +0000" stop="20261106162000 +0000">
     <title lang="en">Alex Baker's 30 Emo Anthems</title>
     <desc lang="en">Alex serves up 30 of the greatest, darkest, skinny jeans-iest, heavy eye makeup-iest &amp; back-combed hair-iest anthems from the worlds most glorious miserable genre!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4fc0de84-0c20-4347-b55f-5a771b8fbd66/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/76e65dca-6f86-4ccb-88a3-e5c2edfe6176/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261106162000 +0000" stop="20261106170000 +0000">
     <title lang="en">The Anthems!</title>
@@ -184693,7 +184693,7 @@
   <programme channel="NowRock.uk" start="20261107050000 +0000" stop="20261107060000 +0000">
     <title lang="en">Legendary Rock: 1980-1989</title>
     <desc lang="en">These are the legendary rock stars that made the 80s! Expect Meat Loaf, Bonnie Tyler, Queen, Bon Jovi, AC/DC, Iron Maiden &amp; loads more!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b754f004-d001-444e-b3c5-fe8f696c79ff/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/47f83b34-4363-4748-83fe-6efa740e8c0c/cover"/>
   </programme>
   <programme channel="NowRock.uk" start="20261107060000 +0000" stop="20261107064000 +0000">
     <title lang="en">80s Metal Monsters: Heavy Hitters</title>
@@ -209646,12 +209646,16 @@
   <programme channel="Really.ie" start="20261102120000 +0000" stop="20261102130000 +0000">
     <title lang="en">Antiques Road Trip</title>
     <desc lang="en">James Braxton and Irita Marriot cruise through Kent in a classic car. James finds a 19th century child's rattle while Irita's hopes rest on a damaged lamp. S23, Ep6</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6026501f-3bfd-4f0d-8c6b-26970e233416/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/13a1b0be-e727-4523-b947-afbe4ece2900/cover"/>
+    <episode-num system="xmltv_ns">22.5.0</episode-num>
+    <episode-num system="onscreen">S23E6</episode-num>
   </programme>
   <programme channel="Really.ie" start="20261102130000 +0000" stop="20261102140000 +0000">
     <title lang="en">Antiques Road Trip</title>
     <desc lang="en">James Braxton and Irita Marriot shop along England's south coast. James goes on the hunt for high value items whilst Irita makes some canny purchases. S23, Ep7</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3f97892f-d8ba-4e68-9fea-1a06244d45d4/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/4260682e-a1ec-4a40-8c9f-3d3d5d06a2eb/cover"/>
+    <episode-num system="xmltv_ns">22.6.0</episode-num>
+    <episode-num system="onscreen">S23E7</episode-num>
   </programme>
   <programme channel="Really.ie" start="20261102140000 +0000" stop="20261102150000 +0000">
     <title lang="en">The Repair Shop</title>
@@ -209677,12 +209681,14 @@
   <programme channel="Really.ie" start="20261102170000 +0000" stop="20261102180000 +0000">
     <title lang="en">A Place In The Sun</title>
     <desc lang="en">Episode 56. British couples seek to swap grey skies for sun, sea and sand abroad. With the help of property experts, can they find the home of their dreams? S1, Ep16</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1f83bc88-6887-401e-82ad-9520c539d30e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/207ded77-8fee-3700-ae1e-48b21013d89d/cover"/>
   </programme>
   <programme channel="Really.ie" start="20261102180000 +0000" stop="20261102190000 +0000">
     <title lang="en">Money For Nothing</title>
     <desc lang="en">Sarah Moore calls on leather crafter Uzo Okwuosa and blacksmith Kev Paxton to repurpose a canvas army bed, a drain cover, and a tulip table. S12, Ep16</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d9b0a540-aad7-4941-a2fb-db247d19c237/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c9580b34-924c-4d35-a152-1573a98778b0/cover"/>
+    <episode-num system="xmltv_ns">11.15.0</episode-num>
+    <episode-num system="onscreen">S12E16</episode-num>
   </programme>
   <programme channel="Really.ie" start="20261102190000 +0000" stop="20261102200000 +0000">
     <title lang="en">The Yorkshire Auction House</title>
@@ -210091,12 +210097,16 @@
   <programme channel="Really.ie" start="20261105120000 +0000" stop="20261105130000 +0000">
     <title lang="en">Antiques Road Trip</title>
     <desc lang="en">Catherine Southon and Serhat Ahmet visit the East Midlands. Catherine finds an antique with a wartime love story, Serhat builds a diverse collection. S23, Ep17</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3e94a8a4-d13c-4674-8838-66ba17b47c92/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae3a326b-34c8-43d0-8ef8-6e0b7f4bf2d1/cover"/>
+    <episode-num system="xmltv_ns">22.16.0</episode-num>
+    <episode-num system="onscreen">S23E17</episode-num>
   </programme>
   <programme channel="Really.ie" start="20261105130000 +0000" stop="20261105140000 +0000">
     <title lang="en">Antiques Road Trip</title>
     <desc lang="en">For the penultimate leg of their trip, Catherine and Serhat visit Norfolk and Northamptonshire. Who will make the biggest profit at auction? S23, Ep18</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/de9e7c58-4647-44d1-81ae-161b733c7321/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/435735bf-c07b-4c53-bf05-e0d83282fbfa/cover"/>
+    <episode-num system="xmltv_ns">22.17.0</episode-num>
+    <episode-num system="onscreen">S23E18</episode-num>
   </programme>
   <programme channel="Really.ie" start="20261105140000 +0000" stop="20261105150000 +0000">
     <title lang="en">The Repair Shop</title>
@@ -210122,12 +210132,16 @@
   <programme channel="Really.ie" start="20261105170000 +0000" stop="20261105180000 +0000">
     <title lang="en">A Place In The Sun</title>
     <desc lang="en">Episode 59. British couples seek to swap grey skies for sun, sea and sand abroad. With the help of property experts, can they find the home of their dreams? S1, Ep19</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c7387e18-c0bc-4f82-8bbe-fe643d6dd1d6/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/e2775c76-9d72-33e8-9084-320710ff5423/cover"/>
+    <episode-num system="xmltv_ns">2016.8.0</episode-num>
+    <episode-num system="onscreen">S2017E9</episode-num>
   </programme>
   <programme channel="Really.ie" start="20261105180000 +0000" stop="20261105190000 +0000">
     <title lang="en">Money For Nothing</title>
     <desc lang="en">Jacqui Joseph calls on designer Ayo Daramola-Martin and bag maker Neil Wragg to repurpose a nest of tables, an inflatable pool and a dinghy. S12, Ep19</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/618e6ce6-e6c5-4181-b7b5-47ed3315f1d6/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/38fb0874-2c77-46c6-97f6-c00e29af3bbb/cover"/>
+    <episode-num system="xmltv_ns">11.18.0</episode-num>
+    <episode-num system="onscreen">S12E19</episode-num>
   </programme>
   <programme channel="Really.ie" start="20261105190000 +0000" stop="20261105200000 +0000">
     <title lang="en">The Yorkshire Auction House</title>
@@ -210744,12 +210758,16 @@
   <programme channel="Really.uk" start="20261102120000 +0000" stop="20261102130000 +0000">
     <title lang="en">Antiques Road Trip</title>
     <desc lang="en">James Braxton and Irita Marriot cruise through Kent in a classic car. James finds a 19th century child's rattle while Irita's hopes rest on a damaged lamp. S23, Ep6</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8666d4f4-4502-4482-9d52-a924c77c8d19/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/13a1b0be-e727-4523-b947-afbe4ece2900/cover"/>
+    <episode-num system="xmltv_ns">22.5.0</episode-num>
+    <episode-num system="onscreen">S23E6</episode-num>
   </programme>
   <programme channel="Really.uk" start="20261102130000 +0000" stop="20261102140000 +0000">
     <title lang="en">Antiques Road Trip</title>
     <desc lang="en">James Braxton and Irita Marriot shop along England's south coast. James goes on the hunt for high value items whilst Irita makes some canny purchases. S23, Ep7</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a168a59d-b6a4-46f7-baec-f64bda20bc58/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/4260682e-a1ec-4a40-8c9f-3d3d5d06a2eb/cover"/>
+    <episode-num system="xmltv_ns">22.6.0</episode-num>
+    <episode-num system="onscreen">S23E7</episode-num>
   </programme>
   <programme channel="Really.uk" start="20261102140000 +0000" stop="20261102150000 +0000">
     <title lang="en">The Repair Shop</title>
@@ -210775,12 +210793,14 @@
   <programme channel="Really.uk" start="20261102170000 +0000" stop="20261102180000 +0000">
     <title lang="en">A Place In The Sun</title>
     <desc lang="en">Episode 56. British couples seek to swap grey skies for sun, sea and sand abroad. With the help of property experts, can they find the home of their dreams? S1, Ep16</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a0c8005-e274-40ec-944a-032f23e909b6/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/207ded77-8fee-3700-ae1e-48b21013d89d/cover"/>
   </programme>
   <programme channel="Really.uk" start="20261102180000 +0000" stop="20261102190000 +0000">
     <title lang="en">Money For Nothing</title>
     <desc lang="en">Sarah Moore calls on leather crafter Uzo Okwuosa and blacksmith Kev Paxton to repurpose a canvas army bed, a drain cover, and a tulip table. S12, Ep16</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b5589e3c-8dff-465c-86c3-ffa7a5da770b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c9580b34-924c-4d35-a152-1573a98778b0/cover"/>
+    <episode-num system="xmltv_ns">11.15.0</episode-num>
+    <episode-num system="onscreen">S12E16</episode-num>
   </programme>
   <programme channel="Really.uk" start="20261102190000 +0000" stop="20261102200000 +0000">
     <title lang="en">The Yorkshire Auction House</title>
@@ -211189,12 +211209,16 @@
   <programme channel="Really.uk" start="20261105120000 +0000" stop="20261105130000 +0000">
     <title lang="en">Antiques Road Trip</title>
     <desc lang="en">Catherine Southon and Serhat Ahmet visit the East Midlands. Catherine finds an antique with a wartime love story, Serhat builds a diverse collection. S23, Ep17</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cac1b73b-7d3b-411f-91fc-f33df845133f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae3a326b-34c8-43d0-8ef8-6e0b7f4bf2d1/cover"/>
+    <episode-num system="xmltv_ns">22.16.0</episode-num>
+    <episode-num system="onscreen">S23E17</episode-num>
   </programme>
   <programme channel="Really.uk" start="20261105130000 +0000" stop="20261105140000 +0000">
     <title lang="en">Antiques Road Trip</title>
     <desc lang="en">For the penultimate leg of their trip, Catherine and Serhat visit Norfolk and Northamptonshire. Who will make the biggest profit at auction? S23, Ep18</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/30242ebe-b61d-4ec4-9f76-6bd04b9b1565/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/435735bf-c07b-4c53-bf05-e0d83282fbfa/cover"/>
+    <episode-num system="xmltv_ns">22.17.0</episode-num>
+    <episode-num system="onscreen">S23E18</episode-num>
   </programme>
   <programme channel="Really.uk" start="20261105140000 +0000" stop="20261105150000 +0000">
     <title lang="en">The Repair Shop</title>
@@ -211220,12 +211244,16 @@
   <programme channel="Really.uk" start="20261105170000 +0000" stop="20261105180000 +0000">
     <title lang="en">A Place In The Sun</title>
     <desc lang="en">Episode 59. British couples seek to swap grey skies for sun, sea and sand abroad. With the help of property experts, can they find the home of their dreams? S1, Ep19</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8e66792c-0f0d-485e-a1c8-4c522bd97f50/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/e2775c76-9d72-33e8-9084-320710ff5423/cover"/>
+    <episode-num system="xmltv_ns">2016.8.0</episode-num>
+    <episode-num system="onscreen">S2017E9</episode-num>
   </programme>
   <programme channel="Really.uk" start="20261105180000 +0000" stop="20261105190000 +0000">
     <title lang="en">Money For Nothing</title>
     <desc lang="en">Jacqui Joseph calls on designer Ayo Daramola-Martin and bag maker Neil Wragg to repurpose a nest of tables, an inflatable pool and a dinghy. S12, Ep19</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/edc10969-4a10-4cc3-ae2b-d3663109b0e1/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/38fb0874-2c77-46c6-97f6-c00e29af3bbb/cover"/>
+    <episode-num system="xmltv_ns">11.18.0</episode-num>
+    <episode-num system="onscreen">S12E19</episode-num>
   </programme>
   <programme channel="Really.uk" start="20261105190000 +0000" stop="20261105200000 +0000">
     <title lang="en">The Yorkshire Auction House</title>
