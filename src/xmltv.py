@@ -164,6 +164,15 @@ def build_xmltv(channels: List[Dict], programmes: List[Dict], tz) -> bytes:
             ep_os.set("system", "onscreen")
             ep_os.text = f"S{season}E{episode}"
 
+        category = pr.get("category")
+        if category:
+            for cat in (c.strip() for c in category.split(",")):
+                if not cat:
+                    continue
+                cat_el = etree.SubElement(programme_el, "category")
+                cat_el.set("lang", "en")
+                cat_el.text = cat
+
     # Return the pretty-printed XML string as bytes
     return etree.tostring(root, pretty_print=True, encoding="utf-8")
 
