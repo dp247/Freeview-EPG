@@ -1,4 +1,4 @@
-Channel list current as of 2026-11-07 14:58
+Channel list current as of 2026-11-07 15:39
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -155,10 +155,11 @@ Channel list current as of 2026-11-07 14:58
 | sky | en | QuestRed.uk | 2411 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/quest-red-uk.png" height="150px" /> | Quest Red |
 | sky | en | QuestRed.ie | 2410 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/quest-red-uk.png" height="150px" /> | Quest Red ROI |
 | sky | en | QuestRedPlus1.uk | 4547 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/quest-red-plus-uk.png" height="150px" /> | Quest Red+1 |
-| sky | en | QVCBeautyUK.uk | 4105 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-beauty-uk.png" height="150px" /> | QVC Beauty |
-| sky | en | QVCExtraUK.uk | 3359 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-extra-uk.png" height="150px" /> | QVC Extra |
-| sky | en | QVCStyleUK.uk | 1118 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-style-uk.png" height="150px" /> | QVC Style UK |
-| sky | en | QVCUK.uk | 1076 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-uk.png" height="150px" /> | QVC UK |
+| sky | en | QVCBeauty.uk | 4105 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-beauty-uk.png" height="150px" /> | QVC Beauty |
+| sky | en | QVCExtra.uk | 3359 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-extra-uk.png" height="150px" /> | QVC Extra |
+| sky | en | QVCStyle.uk | 1118 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-style-uk.png" height="150px" /> | QVC Style |
+| rt | en | QVC.uk | hv4p | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/in/out/QVC_2019_II.png" height="150px" /> | QVC |
+| rt | en | QVC2.uk | hv6m | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/in/out/QVC2_2019_II.png" height="150px" /> | QVC 2 |
 | sky | en | Really.uk | 2325 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Really.png" height="150px" /> | Really |
 | sky | en | ReallyPlus1.uk | 1015 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Really-Plus-1.png" height="150px" /> | Really +1 |
 | sky | en | Really.ie | 2324 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Really.png" height="150px" /> | Really ROI |
@@ -185,6 +186,7 @@ Channel list current as of 2026-11-07 14:58
 | rt | en | STVNorth.uk | htrf | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-uk.png" height="150px" /> | STV North HD |
 | rt | en | STVNorthPlus1.uk | htrg | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-plus-uk.png" height="150px" /> | STV North +1 |
 | sky | en | TalkingPicturesTV.uk | 5252 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talking-pictures-tv-uk.png" height="150px" /> | Talking Pictures TV |
+| sky | en | TBN.uk | 3109 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tbn-uk.png" height="150px" /> | TBN UK |
 | sky | ga | TG4.ie | 4034 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/tg-4-ie.png" height="150px" /> | TG4 |
 | rt | en | Thats20thCentury.uk | hvzy | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/thats-20th-century.png" height="150px" /> | That's 20th Century |
 | rt | en | Thats60s.uk | hv22 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Thats-60s.png" height="150px" /> | That's 60s |
@@ -219,6 +221,7 @@ Channel list current as of 2026-11-07 14:58
 | sky | en | VirginMediaTwo.ie | 1046 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-two-ie.png" height="150px" /> | Virgin Media Two |
 | sky | en | VirginMediaThree.ie | 2817 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-three-ie.png" height="150px" /> | Virgin Media Three |
 | sky | en | VirginMediaFour.ie | 1316 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-four-ie.png" height="150px" /> | Virgin Media Four |
+| rt | en | WeDoTVMovies.uk | hw8v | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Wedotv_Movies.png" height="150px" /> | wedotv Movies UK |
 | sky | en | BBCR1.uk | 2111 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1.png" height="150px" /> | BBC Radio 1 |
 | sky | en | BBCR1X.uk | 2126 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1Xtra.png" height="150px" /> | BBC Radio 1 Xtra |
 | sky | en | BBCR2.uk | 2112 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-2.png" height="150px" /> | BBC Radio 2 |
