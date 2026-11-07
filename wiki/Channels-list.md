@@ -1,4 +1,4 @@
-Channel list current as of 2026-11-07 14:26
+Channel list current as of 2026-11-07 14:58
 
 | Source | Language | XMLTV ID | Provider ID | Logo | Name |
 |---|---|---|---|---|---|
@@ -89,11 +89,11 @@ Channel list current as of 2026-11-07 14:26
 | freeview | en | GIGS.uk | 16170 | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/GIGS.png" height="150px" /> | GIGS |
 | sky | en | GreatAction.uk | 3708 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-uk.png" height="150px" /> | GREAT! action |
 | sky | en | GreatActionPlus1.uk | 3721 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-plus-uk.png" height="150px" /> | GREAT! action+1 |
+| rt | en | GreatChristmas.uk | htnj | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-christmas-uk.png" height="150px" /> | GREAT! Christmas |
+| rt | en | GreatChristmasPlus1.uk | htqw | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-christmas-plus-uk.png" height="150px" /> | GREAT! Christmas +1 |
 | sky | en | GreatMystery.uk | 3709 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-mystery-uk.png" height="150px" /> | GREAT! Mystery |
 | sky | en | GreatMysteryPlus1.uk | 3771 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-mystery-plus-uk.png" height="150px" /> | GREAT! Mystery +1 |
 | freeview | en | GreatMovies.uk | 15584 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-uk.png" height="150px" /> | GREAT! Movies |
-| rt | en | GreatRomance.uk | htnj | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-uk.png" height="150px" /> | GREAT! Romance |
-| rt | en | GreatRomancePlus1.uk | htqw | <img src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Great-Romance-Plus-1.png" height="150px" /> | GREAT! Romance +1 |
 | sky | en | GreatTV.uk | 4266 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-uk.png" height="150px" /> | GREAT! tv |
 | sky | en | GreatTVPlus1.uk | 5338 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-plus-uk.png" height="150px" /> | GREAT! tv+1 |
 | sky | en | HighStreetTV1.uk | 3580 | <img src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/high-street-tv-uk.png" height="150px" /> | High Street TV 1 |
