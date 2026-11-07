@@ -124,13 +124,12 @@ def fetch_programmes(channel: Dict[str, Any], ctx: Context) -> List[Dict[str, An
             title = item.get("title")
 
             category = None
-            if item.get("genre") and len(item.get("genre")) > 0:
-                category = ', '.join([g.get("name", "").capitalize() for g in item.get("genre")]).strip()
-            if category is not None and item.get("type") == "film":
-                category = "Film, " + category
-            elif item.get("type") == "film":
-                category = "Movie"
-
+            genres = [g.get("name", "").strip() for g in (item.get("genre") or [])]
+            genres = [g for g in genres if g]
+            if genres:
+                category = ", ".join(genres)
+            if item.get("type") == "film":
+                category = f"Film, {category}" if category else "Movie"
             # Skip duplicate broadcasts with the same start time as the previous real entry
             if (
                 programmes
