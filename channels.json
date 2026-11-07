@@ -700,6 +700,22 @@
             "xmltv_id": "GreatActionPlus1.uk"
         },
         {
+            "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-christmas-uk.png",
+            "lang": "en",
+            "name": "GREAT! Christmas",
+            "provider_id": "htnj",
+            "src": "rt",
+            "xmltv_id": "GreatChristmas.uk"
+        },
+        {
+            "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-christmas-plus-uk.png",
+            "lang": "en",
+            "name": "GREAT! Christmas +1",
+            "provider_id": "htqw",
+            "src": "rt",
+            "xmltv_id": "GreatChristmasPlus1.uk"
+        },
+        {
             "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-mystery-uk.png",
             "lang": "en",
             "name": "GREAT! Mystery",
@@ -723,22 +739,6 @@
             "region_id": "64257",
             "src": "freeview",
             "xmltv_id": "GreatMovies.uk"
-        },
-        {
-            "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-uk.png",
-            "lang": "en",
-            "name": "GREAT! Romance",
-            "provider_id": "htnj",
-            "src": "rt",
-            "xmltv_id": "GreatRomance.uk"
-        },
-        {
-            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Great-Romance-Plus-1.png",
-            "lang": "en",
-            "name": "GREAT! Romance +1",
-            "provider_id": "htqw",
-            "src": "rt",
-            "xmltv_id": "GreatRomancePlus1.uk"
         },
         {
             "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-uk.png",
