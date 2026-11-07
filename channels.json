@@ -1238,7 +1238,7 @@
             "name": "QVC Beauty",
             "provider_id": "4105",
             "src": "sky",
-            "xmltv_id": "QVCBeautyUK.uk"
+            "xmltv_id": "QVCBeauty.uk"
         },
         {
             "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-extra-uk.png",
@@ -1246,23 +1246,31 @@
             "name": "QVC Extra",
             "provider_id": "3359",
             "src": "sky",
-            "xmltv_id": "QVCExtraUK.uk"
+            "xmltv_id": "QVCExtra.uk"
         },
         {
             "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-style-uk.png",
             "lang": "en",
-            "name": "QVC Style UK",
+            "name": "QVC Style",
             "provider_id": "1118",
             "src": "sky",
-            "xmltv_id": "QVCStyleUK.uk"
+            "xmltv_id": "QVCStyle.uk"
         },
         {
-            "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-uk.png",
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/in/out/QVC_2019_II.png",
             "lang": "en",
-            "name": "QVC UK",
-            "provider_id": "1076",
-            "src": "sky",
-            "xmltv_id": "QVCUK.uk"
+            "name": "QVC",
+            "provider_id": "hv4p",
+            "src": "rt",
+            "xmltv_id": "QVC.uk"
+        },
+        {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/in/out/QVC2_2019_II.png",
+            "lang": "en",
+            "name": "QVC 2",
+            "provider_id": "hv6m",
+            "src": "rt",
+            "xmltv_id": "QVC2.uk"
         },
         {
             "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Really.png",
@@ -1471,6 +1479,14 @@
             "provider_id": "5252",
             "src": "sky",
             "xmltv_id": "TalkingPicturesTV.uk"
+        },
+        {
+            "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tbn-uk.png",
+            "lang": "en",
+            "name": "TBN UK",
+            "provider_id": "3109",
+            "src": "sky",
+            "xmltv_id": "TBN.uk"
         },
         {
             "icon_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/tg-4-ie.png",
@@ -1743,6 +1759,14 @@
             "provider_id": "1316",
             "src": "sky",
             "xmltv_id": "VirginMediaFour.ie"
+        },
+        {
+            "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/refs/heads/master/TV/Wedotv_Movies.png",
+            "lang": "en",
+            "name": "wedotv Movies UK",
+            "provider_id": "hw8v",
+            "src": "rt",
+            "xmltv_id": "WeDoTVMovies.uk"
         },
         {
             "icon_url": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1.png",
