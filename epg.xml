@@ -2566,7 +2566,7 @@
   </programme>
   <programme channel="5.uk" start="20261109210000 +0000" stop="20261109220000 +0000">
     <title lang="en">New: Police: Suspect No.1</title>
-    <desc lang="en">After a moped rider is stabbed 13 times in a daylight attack on Easter Sunday, armed officers quickly stop the getaway car - but detectives must build a case without the weapon.</desc>
+    <desc lang="en">When a builder suffers brain damage in an assault over a pay dispute, a secret recording blows the case wide open, forcing detectives to question everything they thought they knew.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1effa650-9174-4c3f-b1a8-f80309014644/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">4.2.0</episode-num>
@@ -5804,7 +5804,7 @@
   </programme>
   <programme channel="5Plus1.uk" start="20261109220000 +0000" stop="20261109230000 +0000">
     <title lang="en">New: Police: Suspect No.1</title>
-    <desc lang="en">After a moped rider is stabbed 13 times in a daylight attack on Easter Sunday, armed officers quickly stop the getaway car - but detectives must build a case without the weapon.</desc>
+    <desc lang="en">When a builder suffers brain damage in an assault over a pay dispute, a secret recording blows the case wide open, forcing detectives to question everything they thought they knew.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1effa650-9174-4c3f-b1a8-f80309014644/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">4.2.0</episode-num>
@@ -20094,29 +20094,29 @@
     <title lang="en">TOTP: 2000</title>
     <desc lang="en">Richard Blackwood presents the pop chart programme, first broadcast on 4 August 2000 and featuring Macy Gray, Bomfunk MCs, Santana, Moloko, Janet Jackson and Craig David.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/20ee3f12-d91d-47d6-a935-9538ea80e458/cover"/>
-    <episode-num system="xmltv_ns">1999.31.0</episode-num>
-    <episode-num system="onscreen">S2000E32</episode-num>
+    <episode-num system="xmltv_ns">1999.29.0</episode-num>
+    <episode-num system="onscreen">S2000E30</episode-num>
   </programme>
   <programme channel="BBCFourHD.uk" start="20261113193000 +0000" stop="20261113200000 +0000">
     <title lang="en">TOTP: 2000</title>
     <desc lang="en">Jayne Middlemiss presents the pop chart programme, first broadcast on 11 August 2000 and featuring Craig David, Reef, Mansun, Storm, MJ Cole, Ronan Keating and Robbie Williams.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5fe1a89d-7aa5-44dd-9c82-90f559406994/cover"/>
-    <episode-num system="xmltv_ns">1999.32.0</episode-num>
-    <episode-num system="onscreen">S2000E33</episode-num>
+    <episode-num system="xmltv_ns">1999.30.0</episode-num>
+    <episode-num system="onscreen">S2000E31</episode-num>
   </programme>
   <programme channel="BBCFourHD.uk" start="20261113200000 +0000" stop="20261113202500 +0000">
     <title lang="en">TOTP: 1988</title>
     <desc lang="en">Bruno Brookes and Sybil Ruscoe present the pop chart programme, first broadcast on 10 November 1988 and featuring Brother Beyond, Bryan Ferry, Salt-N-Pepa, INXS, Deacon Blue and Prince.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a11e5d47-a1a4-41d0-a91d-7b2e9ddc1ba1/cover"/>
-    <episode-num system="xmltv_ns">1987.19.0</episode-num>
-    <episode-num system="onscreen">S1988E20</episode-num>
+    <episode-num system="xmltv_ns">1987.17.0</episode-num>
+    <episode-num system="onscreen">S1988E18</episode-num>
   </programme>
   <programme channel="BBCFourHD.uk" start="20261113202500 +0000" stop="20261113210000 +0000">
     <title lang="en">TOTP: 1982</title>
     <desc lang="en">David Jensen presents the pop chart programme. Featuring Blue Zoo, A Flock of Seagulls, Clannad, Dionne Warwick, Donna Summer, Marvin Gaye, Eddy Grant and Zoo.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aee559c8-c301-3daf-b12f-d947d5ea679e/cover"/>
-    <episode-num system="xmltv_ns">1981.11.0</episode-num>
-    <episode-num system="onscreen">S1982E12</episode-num>
+    <episode-num system="xmltv_ns">1981.10.0</episode-num>
+    <episode-num system="onscreen">S1982E11</episode-num>
   </programme>
   <programme channel="BBCFourHD.uk" start="20261113210000 +0000" stop="20261113213000 +0000">
     <title lang="en">TOTP: 1976</title>
@@ -20149,15 +20149,15 @@
     <title lang="en">TOTP: 1988</title>
     <desc lang="en">Bruno Brookes and Sybil Ruscoe present the pop chart programme, first broadcast on 10 November 1988 and featuring Brother Beyond, Bryan Ferry, Salt-N-Pepa, INXS, Deacon Blue and Prince.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a11e5d47-a1a4-41d0-a91d-7b2e9ddc1ba1/cover"/>
-    <episode-num system="xmltv_ns">1987.19.0</episode-num>
-    <episode-num system="onscreen">S1988E20</episode-num>
+    <episode-num system="xmltv_ns">1987.17.0</episode-num>
+    <episode-num system="onscreen">S1988E18</episode-num>
   </programme>
   <programme channel="BBCFourHD.uk" start="20261114020000 +0000" stop="20261114023000 +0000">
     <title lang="en">TOTP: 1982</title>
     <desc lang="en">David Jensen presents the pop chart programme. Featuring Blue Zoo, A Flock of Seagulls, Clannad, Dionne Warwick, Donna Summer, Marvin Gaye, Eddy Grant and Zoo.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aee559c8-c301-3daf-b12f-d947d5ea679e/cover"/>
-    <episode-num system="xmltv_ns">1981.11.0</episode-num>
-    <episode-num system="onscreen">S1982E12</episode-num>
+    <episode-num system="xmltv_ns">1981.10.0</episode-num>
+    <episode-num system="onscreen">S1982E11</episode-num>
   </programme>
   <programme channel="BBCFourHD.uk" start="20261114023000 +0000" stop="20261114030000 +0000">
     <title lang="en">TOTP: 1976</title>
@@ -20170,15 +20170,15 @@
     <title lang="en">TOTP: 2000</title>
     <desc lang="en">Richard Blackwood presents the pop chart programme, first broadcast on 4 August 2000 and featuring Macy Gray, Bomfunk MCs, Santana, Moloko, Janet Jackson and Craig David.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/20ee3f12-d91d-47d6-a935-9538ea80e458/cover"/>
-    <episode-num system="xmltv_ns">1999.31.0</episode-num>
-    <episode-num system="onscreen">S2000E32</episode-num>
+    <episode-num system="xmltv_ns">1999.29.0</episode-num>
+    <episode-num system="onscreen">S2000E30</episode-num>
   </programme>
   <programme channel="BBCFourHD.uk" start="20261114033000 +0000" stop="20261114040000 +0000">
     <title lang="en">TOTP: 2000</title>
     <desc lang="en">Jayne Middlemiss presents the pop chart programme, first broadcast on 11 August 2000 and featuring Craig David, Reef, Mansun, Storm, MJ Cole, Ronan Keating and Robbie Williams.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5fe1a89d-7aa5-44dd-9c82-90f559406994/cover"/>
-    <episode-num system="xmltv_ns">1999.32.0</episode-num>
-    <episode-num system="onscreen">S2000E33</episode-num>
+    <episode-num system="xmltv_ns">1999.30.0</episode-num>
+    <episode-num system="onscreen">S2000E31</episode-num>
   </programme>
   <programme channel="BBCFourHD.uk" start="20261114040000 +0000" stop="20261114053000 +0000">
     <title lang="en">This is BBC Four</title>
@@ -22098,7 +22098,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261109093000 +0000" stop="20261109104500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Helen Skelton are joined by Chris Packham and Megan McCubbin to discuss BBC's new Naturewatch. Plus, your rights as energy meters change.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c73fe034-136c-4e73-8e94-603a4fe2f902/cover"/>
     <episode-num system="xmltv_ns">7.108.0</episode-num>
     <episode-num system="onscreen">S8E109</episode-num>
@@ -22176,7 +22176,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261109190000 +0000" stop="20261109193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Radio 2's Angela Scanlon and Hollywood actor Andy Serkis join Alex Jones and Roman Kemp. Plus, it's the start of a big week for our BBC Children in Need Challenge Squad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a61d77d7-0fe9-4d34-9983-7e4909e882fd/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261109193000 +0000" stop="20261109200000 +0000">
@@ -23077,7 +23077,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20261109093000 +0000" stop="20261109104500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Helen Skelton are joined by Chris Packham and Megan McCubbin to discuss BBC's new Naturewatch. Plus, your rights as energy meters change.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c73fe034-136c-4e73-8e94-603a4fe2f902/cover"/>
     <episode-num system="xmltv_ns">7.108.0</episode-num>
     <episode-num system="onscreen">S8E109</episode-num>
@@ -23155,7 +23155,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20261109190000 +0000" stop="20261109193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Radio 2's Angela Scanlon and Hollywood actor Andy Serkis join Alex Jones and Roman Kemp. Plus, it's the start of a big week for our BBC Children in Need Challenge Squad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a61d77d7-0fe9-4d34-9983-7e4909e882fd/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20261109193000 +0000" stop="20261109200000 +0000">
@@ -24056,7 +24056,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261109093000 +0000" stop="20261109104500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Helen Skelton are joined by Chris Packham and Megan McCubbin to discuss BBC's new Naturewatch. Plus, your rights as energy meters change.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c73fe034-136c-4e73-8e94-603a4fe2f902/cover"/>
     <episode-num system="xmltv_ns">7.108.0</episode-num>
     <episode-num system="onscreen">S8E109</episode-num>
@@ -24134,7 +24134,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261109190000 +0000" stop="20261109193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Radio 2's Angela Scanlon and Hollywood actor Andy Serkis join Alex Jones and Roman Kemp. Plus, it's the start of a big week for our BBC Children in Need Challenge Squad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a61d77d7-0fe9-4d34-9983-7e4909e882fd/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261109193000 +0000" stop="20261109200000 +0000">
@@ -25035,7 +25035,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261109093000 +0000" stop="20261109104500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Helen Skelton are joined by Chris Packham and Megan McCubbin to discuss BBC's new Naturewatch. Plus, your rights as energy meters change.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c73fe034-136c-4e73-8e94-603a4fe2f902/cover"/>
     <episode-num system="xmltv_ns">7.108.0</episode-num>
     <episode-num system="onscreen">S8E109</episode-num>
@@ -25113,7 +25113,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261109190000 +0000" stop="20261109193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Radio 2's Angela Scanlon and Hollywood actor Andy Serkis join Alex Jones and Roman Kemp. Plus, it's the start of a big week for our BBC Children in Need Challenge Squad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a61d77d7-0fe9-4d34-9983-7e4909e882fd/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261109193000 +0000" stop="20261109200000 +0000">
@@ -26014,7 +26014,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261109093000 +0000" stop="20261109104500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Helen Skelton are joined by Chris Packham and Megan McCubbin to discuss BBC's new Naturewatch. Plus, your rights as energy meters change.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c73fe034-136c-4e73-8e94-603a4fe2f902/cover"/>
     <episode-num system="xmltv_ns">7.108.0</episode-num>
     <episode-num system="onscreen">S8E109</episode-num>
@@ -26092,7 +26092,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261109190000 +0000" stop="20261109193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Radio 2's Angela Scanlon and Hollywood actor Andy Serkis join Alex Jones and Roman Kemp. Plus, it's the start of a big week for our BBC Children in Need Challenge Squad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a61d77d7-0fe9-4d34-9983-7e4909e882fd/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261109193000 +0000" stop="20261109200000 +0000">
@@ -26993,7 +26993,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261109093000 +0000" stop="20261109104500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Helen Skelton are joined by Chris Packham and Megan McCubbin to discuss BBC's new Naturewatch. Plus, your rights as energy meters change.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c73fe034-136c-4e73-8e94-603a4fe2f902/cover"/>
     <episode-num system="xmltv_ns">7.108.0</episode-num>
     <episode-num system="onscreen">S8E109</episode-num>
@@ -27071,7 +27071,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261109190000 +0000" stop="20261109193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Radio 2's Angela Scanlon and Hollywood actor Andy Serkis join Alex Jones and Roman Kemp. Plus, it's the start of a big week for our BBC Children in Need Challenge Squad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a61d77d7-0fe9-4d34-9983-7e4909e882fd/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261109193000 +0000" stop="20261109200000 +0000">
@@ -27974,7 +27974,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261109093000 +0000" stop="20261109104500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Helen Skelton are joined by Chris Packham and Megan McCubbin to discuss BBC's new Naturewatch. Plus, your rights as energy meters change.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c73fe034-136c-4e73-8e94-603a4fe2f902/cover"/>
     <episode-num system="xmltv_ns">7.108.0</episode-num>
     <episode-num system="onscreen">S8E109</episode-num>
@@ -28052,7 +28052,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261109190000 +0000" stop="20261109193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Radio 2's Angela Scanlon and Hollywood actor Andy Serkis join Alex Jones and Roman Kemp. Plus, it's the start of a big week for our BBC Children in Need Challenge Squad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a61d77d7-0fe9-4d34-9983-7e4909e882fd/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261109193000 +0000" stop="20261109200000 +0000">
@@ -28971,7 +28971,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261109093000 +0000" stop="20261109104500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Helen Skelton are joined by Chris Packham and Megan McCubbin to discuss BBC's new Naturewatch. Plus, your rights as energy meters change.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c73fe034-136c-4e73-8e94-603a4fe2f902/cover"/>
     <episode-num system="xmltv_ns">7.108.0</episode-num>
     <episode-num system="onscreen">S8E109</episode-num>
@@ -29049,7 +29049,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261109190000 +0000" stop="20261109193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Radio 2's Angela Scanlon and Hollywood actor Andy Serkis join Alex Jones and Roman Kemp. Plus, it's the start of a big week for our BBC Children in Need Challenge Squad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a61d77d7-0fe9-4d34-9983-7e4909e882fd/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261109193000 +0000" stop="20261109200000 +0000">
@@ -29082,7 +29082,7 @@
     <icon src="https://images.metadata.sky.com/pd-image/c7d36e80-8cca-47fd-bf04-58de4616caa8/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261109224000 +0000" stop="20261109231500 +0000">
-    <title lang="en">Have I Got News for You</title>
+    <title lang="en">Have I Got News For You</title>
     <desc lang="en">6/10. Steph McGovern hosts, with guest panellists Helen Lewis and John Tothill joining team captains Ian Hislop and Paul Merton as they delve into the news. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a9016bf5-342e-473c-adb2-f1a93b7cb363/cover"/>
     <episode-num system="xmltv_ns">71.5.0</episode-num>
@@ -29975,7 +29975,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261109093000 +0000" stop="20261109104500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Helen Skelton are joined by Chris Packham and Megan McCubbin to discuss BBC's new Naturewatch. Plus, your rights as energy meters change.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c73fe034-136c-4e73-8e94-603a4fe2f902/cover"/>
     <episode-num system="xmltv_ns">7.108.0</episode-num>
     <episode-num system="onscreen">S8E109</episode-num>
@@ -30053,7 +30053,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261109190000 +0000" stop="20261109193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Radio 2's Angela Scanlon and Hollywood actor Andy Serkis join Alex Jones and Roman Kemp. Plus, it's the start of a big week for our BBC Children in Need Challenge Squad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a61d77d7-0fe9-4d34-9983-7e4909e882fd/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261109193000 +0000" stop="20261109200000 +0000">
@@ -30954,7 +30954,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261109093000 +0000" stop="20261109104500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Helen Skelton are joined by Chris Packham and Megan McCubbin to discuss BBC's new Naturewatch. Plus, your rights as energy meters change.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c73fe034-136c-4e73-8e94-603a4fe2f902/cover"/>
     <episode-num system="xmltv_ns">7.108.0</episode-num>
     <episode-num system="onscreen">S8E109</episode-num>
@@ -31032,7 +31032,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261109190000 +0000" stop="20261109193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Radio 2's Angela Scanlon and Hollywood actor Andy Serkis join Alex Jones and Roman Kemp. Plus, it's the start of a big week for our BBC Children in Need Challenge Squad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a61d77d7-0fe9-4d34-9983-7e4909e882fd/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261109193000 +0000" stop="20261109200000 +0000">
@@ -31933,7 +31933,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261109093000 +0000" stop="20261109104500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Helen Skelton are joined by Chris Packham and Megan McCubbin to discuss BBC's new Naturewatch. Plus, your rights as energy meters change.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c73fe034-136c-4e73-8e94-603a4fe2f902/cover"/>
     <episode-num system="xmltv_ns">7.108.0</episode-num>
     <episode-num system="onscreen">S8E109</episode-num>
@@ -32011,7 +32011,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261109190000 +0000" stop="20261109193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Radio 2's Angela Scanlon and Hollywood actor Andy Serkis join Alex Jones and Roman Kemp. Plus, it's the start of a big week for our BBC Children in Need Challenge Squad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a61d77d7-0fe9-4d34-9983-7e4909e882fd/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261109193000 +0000" stop="20261109200000 +0000">
@@ -32912,7 +32912,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261109093000 +0000" stop="20261109104500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Helen Skelton are joined by Chris Packham and Megan McCubbin to discuss BBC's new Naturewatch. Plus, your rights as energy meters change.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c73fe034-136c-4e73-8e94-603a4fe2f902/cover"/>
     <episode-num system="xmltv_ns">7.108.0</episode-num>
     <episode-num system="onscreen">S8E109</episode-num>
@@ -32995,7 +32995,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261109190000 +0000" stop="20261109193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Radio 2's Angela Scanlon and Hollywood actor Andy Serkis join Alex Jones and Roman Kemp. Plus, it's the start of a big week for our BBC Children in Need Challenge Squad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a61d77d7-0fe9-4d34-9983-7e4909e882fd/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261109193000 +0000" stop="20261109200000 +0000">
@@ -33946,7 +33946,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20261109093000 +0000" stop="20261109104500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Helen Skelton are joined by Chris Packham and Megan McCubbin to discuss BBC's new Naturewatch. Plus, your rights as energy meters change.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c73fe034-136c-4e73-8e94-603a4fe2f902/cover"/>
     <episode-num system="xmltv_ns">7.108.0</episode-num>
     <episode-num system="onscreen">S8E109</episode-num>
@@ -34024,7 +34024,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20261109190000 +0000" stop="20261109193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Radio 2's Angela Scanlon and Hollywood actor Andy Serkis join Alex Jones and Roman Kemp. Plus, it's the start of a big week for our BBC Children in Need Challenge Squad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a61d77d7-0fe9-4d34-9983-7e4909e882fd/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20261109193000 +0000" stop="20261109200000 +0000">
@@ -34925,7 +34925,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261109093000 +0000" stop="20261109104500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Helen Skelton are joined by Chris Packham and Megan McCubbin to discuss BBC's new Naturewatch. Plus, your rights as energy meters change.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c73fe034-136c-4e73-8e94-603a4fe2f902/cover"/>
     <episode-num system="xmltv_ns">7.108.0</episode-num>
     <episode-num system="onscreen">S8E109</episode-num>
@@ -35003,7 +35003,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261109190000 +0000" stop="20261109193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Radio 2's Angela Scanlon and Hollywood actor Andy Serkis join Alex Jones and Roman Kemp. Plus, it's the start of a big week for our BBC Children in Need Challenge Squad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a61d77d7-0fe9-4d34-9983-7e4909e882fd/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261109193000 +0000" stop="20261109200000 +0000">
@@ -35904,7 +35904,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261109093000 +0000" stop="20261109104500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Helen Skelton are joined by Chris Packham and Megan McCubbin to discuss BBC's new Naturewatch. Plus, your rights as energy meters change.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c73fe034-136c-4e73-8e94-603a4fe2f902/cover"/>
     <episode-num system="xmltv_ns">7.108.0</episode-num>
     <episode-num system="onscreen">S8E109</episode-num>
@@ -35982,7 +35982,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261109190000 +0000" stop="20261109193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Radio 2's Angela Scanlon and Hollywood actor Andy Serkis join Alex Jones and Roman Kemp. Plus, it's the start of a big week for our BBC Children in Need Challenge Squad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a61d77d7-0fe9-4d34-9983-7e4909e882fd/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261109193000 +0000" stop="20261109200000 +0000">
@@ -36883,7 +36883,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261109093000 +0000" stop="20261109104500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Helen Skelton are joined by Chris Packham and Megan McCubbin to discuss BBC's new Naturewatch. Plus, your rights as energy meters change.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c73fe034-136c-4e73-8e94-603a4fe2f902/cover"/>
     <episode-num system="xmltv_ns">7.108.0</episode-num>
     <episode-num system="onscreen">S8E109</episode-num>
@@ -36961,7 +36961,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261109190000 +0000" stop="20261109193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Radio 2's Angela Scanlon and Hollywood actor Andy Serkis join Alex Jones and Roman Kemp. Plus, it's the start of a big week for our BBC Children in Need Challenge Squad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a61d77d7-0fe9-4d34-9983-7e4909e882fd/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261109193000 +0000" stop="20261109200000 +0000">
@@ -39005,7 +39005,7 @@
   </programme>
   <programme channel="BBCR1X.uk" start="20261109100000 +0000" stop="20261109124500 +0000">
     <title lang="en">DJ Day Day</title>
-    <desc lang="en">It's just a new week, new day! DJ Day Day soundtracks your mid-morning and tests your music knowledge. @1Xtra on social.</desc>
+    <desc lang="en">Day Day brings all the vibes, games, music &amp; new dish of Bangers &amp; Mash. @1Xtra on social.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b2c00af6-f1ce-44ab-8b7b-d24b83d55020/cover"/>
   </programme>
   <programme channel="BBCR1X.uk" start="20261109124500 +0000" stop="20261109130000 +0000">
@@ -39033,10 +39033,15 @@
     <desc lang="en">It's Monday, so you know what that means - Pitch Perfect! Get your requests in! @1Xtra on social.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/68d1e7bd-15d0-4f7a-a74e-4009841ecd9e/cover"/>
   </programme>
-  <programme channel="BBCR1X.uk" start="20261109190000 +0000" stop="20261109210000 +0000">
+  <programme channel="BBCR1X.uk" start="20261109190000 +0000" stop="20261109200000 +0000">
     <title lang="en">DJ Target</title>
     <desc lang="en">Target has 1Xtra's ultimate guide to new music. @1Xtra on social.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/67f37db4-943c-4f9e-91be-5c4041b63557/cover"/>
+  </programme>
+  <programme channel="BBCR1X.uk" start="20261109200000 +0000" stop="20261109210000 +0000">
+    <title lang="en">DJ Target</title>
+    <desc lang="en">Target has 1Xtra's ultimate guide to new music. @1Xtra on social.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c874871c-b699-4981-97a0-cc01e62fb172/cover"/>
   </programme>
   <programme channel="BBCR1X.uk" start="20261109210000 +0000" stop="20261109230000 +0000">
     <title lang="en">Snoochie Shy</title>
@@ -39080,7 +39085,7 @@
   </programme>
   <programme channel="BBCR1X.uk" start="20261110053000 +0000" stop="20261110063200 +0000">
     <title lang="en">1Xtra's Throwback Party</title>
-    <desc lang="en">Keke brings your throwback hour rave honouring North West London artist, Donae'o with a My G celebrating his career in UK music.</desc>
+    <desc lang="en">Keke brings your throwback hour rave honouring north west London artist Donae'o with a My G celebrating his career in UK music.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cce645ea-8008-4882-a768-7b2f1774866f/cover"/>
   </programme>
   <programme channel="BBCR1X.uk" start="20261110063200 +0000" stop="20261110070000 +0000">
@@ -39095,7 +39100,7 @@
   </programme>
   <programme channel="BBCR1X.uk" start="20261110100000 +0000" stop="20261110124500 +0000">
     <title lang="en">DJ Day Day</title>
-    <desc lang="en">Lively chat with DJ Day Day and the best soundtrack for your mid-morning! Get in touch. @1Xtra on social.</desc>
+    <desc lang="en">DJ Day Day returns with Drums Please and Salutes one of the best In SZA! Get in touch @1Xtra on socials.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/87c94df8-ed88-4293-bc89-370ecb30c140/cover"/>
   </programme>
   <programme channel="BBCR1X.uk" start="20261110124500 +0000" stop="20261110130000 +0000">
@@ -39180,7 +39185,7 @@
   </programme>
   <programme channel="BBCR1X.uk" start="20261111100000 +0000" stop="20261111124500 +0000">
     <title lang="en">DJ Day Day</title>
-    <desc lang="en">Lively chat with DJ Day Day and the best soundtrack for your morning! @1Xtra on social.</desc>
+    <desc lang="en">Day Day wants you to know what you think in his Question Of The Day! Get In Touch @1Xtra on socials.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72ca1f7f-0dad-419c-b57d-62328f4e1b97/cover"/>
   </programme>
   <programme channel="BBCR1X.uk" start="20261111124500 +0000" stop="20261111130000 +0000">
@@ -39365,7 +39370,7 @@
   </programme>
   <programme channel="BBCR1X.uk" start="20261113100000 +0000" stop="20261113124500 +0000">
     <title lang="en">DJ Day Day</title>
-    <desc lang="en">Day Day tests your music knowledge with Lyrical Genius and jumps in the mix! @1Xtra on social.</desc>
+    <desc lang="en">Games Master Day Day brings two games and a mix of hits from November-born artists! Get In touch @1Xtra on socials.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/28465ecc-660b-4c7f-8162-c842476bbe45/cover"/>
   </programme>
   <programme channel="BBCR1X.uk" start="20261113124500 +0000" stop="20261113130000 +0000">
@@ -39515,7 +39520,7 @@
   </programme>
   <programme channel="BBCR1X.uk" start="20261115060000 +0000" stop="20261115070000 +0000">
     <title lang="en">1Xtra's Throwback Party</title>
-    <desc lang="en">Keke brings your throwback hour rave honouring North West London artist, Donae'o with a My G celebrating his career in UK music.</desc>
+    <desc lang="en">Keke brings your throwback hour rave honouring north west London artist Donae'o with a My G celebrating his career in UK music.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d380e7c1-bdb1-4145-93bb-67503996222a/cover"/>
   </programme>
   <programme channel="BBCR1X.uk" start="20261115070000 +0000" stop="20261115110000 +0000">
@@ -39610,7 +39615,7 @@
   </programme>
   <programme channel="BBCR2.uk" start="20261109190000 +0000" stop="20261109220000 +0000">
     <title lang="en">Jo Whiley</title>
-    <desc lang="en">Jo hand-picks her favourite new music from all genres of the musical spectrum.</desc>
+    <desc lang="en">Mark Goodier sits in as the first day of Owain's Cycle Challenge concludes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6080b32a-4968-486d-8e0b-1f32bd4a758b/cover"/>
   </programme>
   <programme channel="BBCR2.uk" start="20261109220000 +0000" stop="20261110000000 +0000">
@@ -39620,7 +39625,7 @@
   </programme>
   <programme channel="BBCR2.uk" start="20261110000000 +0000" stop="20261110023000 +0000">
     <title lang="en">OJ Borg</title>
-    <desc lang="en">OJ is live through the night from Salford.</desc>
+    <desc lang="en">OJ's live through the night from Salford with a c-word check in, have you done anything festive yet? Plus, Midnight Mastermind, Wish You Were There and the Midnight Caller phone.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a29eafb9-8f93-4e88-9406-7c11db19128a/cover"/>
   </programme>
   <programme channel="BBCR2.uk" start="20261110023000 +0000" stop="20261110030000 +0000">
@@ -39670,7 +39675,7 @@
   </programme>
   <programme channel="BBCR2.uk" start="20261110220000 +0000" stop="20261111000000 +0000">
     <title lang="en">The Good Groove with Melvin Odoom</title>
-    <desc lang="en">Celebrity Traitors star King Kenny chooses the tracks that take him back to the dance floors of his youth in Rewind Selector.</desc>
+    <desc lang="en">David Rodigan MBE OD chooses the tracks that take him back to the dance floors of his youth in Rewind Selector.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1f6a1c9-8c06-45d1-8b4e-7bb4e51a5bd8/cover"/>
   </programme>
   <programme channel="BBCR2.uk" start="20261111000000 +0000" stop="20261111030000 +0000">
@@ -39975,17 +39980,17 @@
   </programme>
   <programme channel="BBCR2.uk" start="20261115200000 +0000" stop="20261115220000 +0000">
     <title lang="en">The Paul Gambaccini Collection</title>
-    <desc lang="en">Paul guides you through seven decades of music, with the stories behind classic tracks.</desc>
+    <desc lang="en">Paul focuses on artists who left successful bands to go solo... including Paul McCartney, Annie Lennox and Harry Styles.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9e95a87a-7eb6-3b6b-9240-8b1d4e4aa67f/cover"/>
   </programme>
   <programme channel="BBCR2.uk" start="20261115220000 +0000" stop="20261115230000 +0000">
     <title lang="en">Radio 2 Unwinds with Angela Griffin</title>
-    <desc lang="en">Angela invites you to unwind and relax with a fabulously calming soundtrack.</desc>
+    <desc lang="en">Unwind and take a moment with soothing tunes from Phil Collins, SWV and Carole King.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/306d3f0c-1531-4d8f-8339-cbc6c9ea3d0c/cover"/>
   </programme>
   <programme channel="BBCR2.uk" start="20261115230000 +0000" stop="20261116000000 +0000">
     <title lang="en">Radio 2 Unwinds Mix with Angela Griffin</title>
-    <desc lang="en">Let Angela's Unwinds Mix help soothe you and restore your balance.</desc>
+    <desc lang="en">Enter a world of serene stripped-back songs from the likes of James Taylor, Joni Mitchell, Eva Cassidy, Raye and many more.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fe928dd7-7855-4259-b232-1993d3ea642a/cover"/>
   </programme>
   <programme channel="BBCR3.uk" start="20261108220000 +0000" stop="20261108233000 +0000">
@@ -40010,7 +40015,7 @@
   </programme>
   <programme channel="BBCR3.uk" start="20261109093000 +0000" stop="20261109130000 +0000">
     <title lang="en">Essential Classics</title>
-    <desc lang="en">Refresh your morning with a great selection of classical music.</desc>
+    <desc lang="en">Georgia Mann plays the best in classical music for your morning, with discoveries and surprises rubbing shoulders with familiar favourites.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ce533f04-64fc-4380-81ac-8b0fb68ee83b/cover"/>
   </programme>
   <programme channel="BBCR3.uk" start="20261109130000 +0000" stop="20261109160000 +0000">
@@ -41951,7 +41956,7 @@
   </programme>
   <programme channel="BBCR4EX.uk" start="20261113220000 +0000" stop="20261113223000 +0000">
     <title lang="en">Randy Feltface's Human Handbook</title>
-    <desc lang="en">2/4. International comedy sensation Randy Feltface in his brand-new series about humans - from the perspective of a non-human.</desc>
+    <desc lang="en">2/4. International comedy sensation Randy Feltface in his brand-new series about humans - from the perspective of a non-human. Contains strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e38971c6-09d5-4344-8584-ae66e2d8412f/cover"/>
   </programme>
   <programme channel="BBCR4EX.uk" start="20261113223000 +0000" stop="20261113230000 +0000">
@@ -42395,7 +42400,7 @@
   </programme>
   <programme channel="BBCR4FM.uk" start="20261109120000 +0000" stop="20261109130000 +0000">
     <title lang="en">You and Yours</title>
-    <desc lang="en">News and discussion of consumer affairs.</desc>
+    <desc lang="en">The Bank of England has changed its base interest rate from 3.75% to 4%. What should you do if you need to fix your mortgage in the coming months?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/43f72d56-2fdd-4c3f-a054-3fd67c9607c7/cover"/>
   </programme>
   <programme channel="BBCR4FM.uk" start="20261109130000 +0000" stop="20261109134500 +0000">
@@ -43459,7 +43464,7 @@
   </programme>
   <programme channel="BBCR4FM.uk" start="20261114230000 +0000" stop="20261114233000 +0000">
     <title lang="en">Randy Feltface's Human Handbook</title>
-    <desc lang="en">3/4. International comedy sensation Randy Feltface in his brand-new stand-up series about humans - from the perspective of a non-human.</desc>
+    <desc lang="en">3/4. International comedy sensation Randy Feltface in his brand-new stand-up series about humans - from the perspective of a non-human. Contains strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/56b570fa-aa52-4a9c-bd79-0c3ed86bbf86/cover"/>
   </programme>
   <programme channel="BBCR4FM.uk" start="20261114233000 +0000" stop="20261115000000 +0000">
@@ -43794,7 +43799,7 @@
   </programme>
   <programme channel="BBCR4LW.uk" start="20261109120000 +0000" stop="20261109130000 +0000">
     <title lang="en">You and Yours</title>
-    <desc lang="en">News and discussion of consumer affairs.</desc>
+    <desc lang="en">The Bank of England has changed its base interest rate from 3.75% to 4%. What should you do if you need to fix your mortgage in the coming months?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/43f72d56-2fdd-4c3f-a054-3fd67c9607c7/cover"/>
   </programme>
   <programme channel="BBCR4LW.uk" start="20261109130000 +0000" stop="20261109134500 +0000">
@@ -44858,7 +44863,7 @@
   </programme>
   <programme channel="BBCR4LW.uk" start="20261114230000 +0000" stop="20261114233000 +0000">
     <title lang="en">Randy Feltface's Human Handbook</title>
-    <desc lang="en">3/4. International comedy sensation Randy Feltface in his brand-new stand-up series about humans - from the perspective of a non-human.</desc>
+    <desc lang="en">3/4. International comedy sensation Randy Feltface in his brand-new stand-up series about humans - from the perspective of a non-human. Contains strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/56b570fa-aa52-4a9c-bd79-0c3ed86bbf86/cover"/>
   </programme>
   <programme channel="BBCR4LW.uk" start="20261114233000 +0000" stop="20261115000000 +0000">
@@ -47198,7 +47203,7 @@
   </programme>
   <programme channel="BBCRUlster.uk" start="20261109103000 +0000" stop="20261109120000 +0000">
     <title lang="en">Vinny &amp; Cate</title>
-    <desc lang="en">From the kitchen to the office, the work van and beyond... This is YOUR mid-morning escape, with Vinny &amp; Cate.</desc>
+    <desc lang="en">A live wardrobe swap puts Vinny &amp; Cate in each other's shoes as part of Children In Need.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5923309e-2a67-4320-95f5-4bcf8d220a65/cover"/>
   </programme>
   <programme channel="BBCRUlster.uk" start="20261109120000 +0000" stop="20261109120300 +0000">
@@ -48003,12 +48008,12 @@
   </programme>
   <programme channel="BBCRWales.uk" start="20261109120000 +0000" stop="20261109140000 +0000">
     <title lang="en">The Phone In</title>
-    <desc lang="en">Be part of the nation's conversation.</desc>
+    <desc lang="en">Should the Government be taking environmental targets more seriously? What have you seen on the school run? And is Jess Fishlock the Goat?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4f057788-ca08-4874-9609-ccb1bbdfc50d/cover"/>
   </programme>
   <programme channel="BBCRWales.uk" start="20261109140000 +0000" stop="20261109170000 +0000">
     <title lang="en">Behnaz Akhgar</title>
-    <desc lang="en">Celebrity guests, TV Turn Ons ,and we test your anagram-solving skills with The Name Game. Call or WhatsApp 03700 100 110 Text 81012.</desc>
+    <desc lang="en">Jason Mohammad talks about his new BBC series Dashcam Justice, plus Derfel Williams rounds up the week's best television, from Cunk on Cinema to Shetland.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0fd50f4-9435-4398-81db-a6adb40902e1/cover"/>
   </programme>
   <programme channel="BBCRWales.uk" start="20261109170000 +0000" stop="20261109183000 +0000">
@@ -50342,7 +50347,7 @@
   </programme>
   <programme channel="BBCRadioFoyle.uk" start="20261109080000 +0000" stop="20261109090000 +0000">
     <title lang="en">North West Today</title>
-    <desc lang="en">An essential roundup of local news, sport and weather across the north west of Northern Ireland.</desc>
+    <desc lang="en">Tributes are paid to the veteran Bloody Sunday campaigner John Kelly, who has passed away following an illness. And we have reaction to Derry City's FAI Cup win.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1e8cb408-3df3-3a62-8cb3-ad68ca46bded/cover"/>
   </programme>
   <programme channel="BBCRadioFoyle.uk" start="20261109090000 +0000" stop="20261109103000 +0000">
@@ -50352,7 +50357,7 @@
   </programme>
   <programme channel="BBCRadioFoyle.uk" start="20261109103000 +0000" stop="20261109120000 +0000">
     <title lang="en">Vinny &amp; Cate</title>
-    <desc lang="en">From the kitchen to the office, the work van and beyond... This is YOUR mid-morning escape, with Vinny &amp; Cate.</desc>
+    <desc lang="en">A live wardrobe swap puts Vinny &amp; Cate in each other's shoes as part of Children In Need.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6e5881b0-cd48-4467-99f2-5ec9f1adef47/cover"/>
   </programme>
   <programme channel="BBCRadioFoyle.uk" start="20261109120000 +0000" stop="20261109120300 +0000">
@@ -55899,29 +55904,22 @@
     <episode-num system="xmltv_ns">2021.1.0</episode-num>
     <episode-num system="onscreen">S2022E2</episode-num>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20261109100000 +0000" stop="20261109123000 +0000">
+  <programme channel="BBCRedButton1.uk" start="20261109100000 +0000" stop="20261109130500 +0000">
     <title lang="en">MOTD Live: Altrincham v Notts County</title>
     <desc lang="en">Action from the first round of the FA Cup as Altrincham of the National League take on League One Notts County.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd8ee11e-8afe-4b91-8454-705d764eb746/cover"/>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20261109123000 +0000" stop="20261109150000 +0000">
+  <programme channel="BBCRedButton1.uk" start="20261109130500 +0000" stop="20261109161500 +0000">
     <title lang="en">MOTD Live: Cray Wanderers v Stockport County</title>
     <desc lang="en">Cray Wanderers of the Isthmian League face League One Stockport County in the first round of the FA Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84b5f76e-5515-46cf-94db-723cb45023b6/cover"/>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20261109150000 +0000" stop="20261109172500 +0000">
+  <programme channel="BBCRedButton1.uk" start="20261109161500 +0000" stop="20261109184500 +0000">
     <title lang="en">Women's Super League: London City v Birmingham City</title>
     <desc lang="en">Women's Super League action as London City Lionesses play Birmingham City.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6eaf6c9f-9431-43fd-8fea-874c7492e666/cover"/>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20261109172500 +0000" stop="20261109180000 +0000">
-    <title lang="en">Autumnwatch: Autumn Calm</title>
-    <desc lang="en">Enjoy the very best of the season in a natural escape that lets nature do the talking.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/73ebd0d5-6b9a-4410-a00d-f5eb2d622c70/cover"/>
-    <episode-num system="xmltv_ns">2021.1.0</episode-num>
-    <episode-num system="onscreen">S2022E2</episode-num>
-  </programme>
-  <programme channel="BBCRedButton1.uk" start="20261109180000 +0000" stop="20261110000000 +0000">
+  <programme channel="BBCRedButton1.uk" start="20261109184500 +0000" stop="20261110000000 +0000">
     <title lang="en">Autumnwatch: Autumn Calm</title>
     <desc lang="en">Enjoy the very best of the season in a natural escape that lets nature do the talking.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/73ebd0d5-6b9a-4410-a00d-f5eb2d622c70/cover"/>
@@ -56742,7 +56740,7 @@
   </programme>
   <programme channel="BBCThreeHD.uk" start="20261109190000 +0000" stop="20261109190500 +0000">
     <title lang="en">The Catch Up</title>
-    <desc lang="en">A round-up of the day's news.</desc>
+    <desc lang="en">A round-up of the day's news with Ben Henley.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/34851d9c-c713-4d84-811f-8db08e7944d4/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20261109190500 +0000" stop="20261109193000 +0000">
@@ -57436,7 +57434,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261109121500 +0000" stop="20261109130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Should the rules requiring manufacturers to produce more electric cars be changed?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ea899e60-68eb-431f-9923-223e405057f5/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261109130000 +0000" stop="20261109134500 +0000">
@@ -58371,17 +58369,10 @@
     <desc lang="en">Radio 1's Sian Eleri takes to the road visiting BBC Children in Need projects in Wales.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2cfaf0c0-861f-4b03-b333-aa2a253a1717/cover"/>
   </programme>
-  <programme channel="BBCTwoHD.uk" start="20261115100000 +0000" stop="20261115113000 +0000">
+  <programme channel="BBCTwoHD.uk" start="20261115100000 +0000" stop="20261115121000 +0000">
     <title lang="en">Saturday Kitchen Best Bites</title>
     <desc lang="en">More mouthwatering dishes from Andi Oliver, Niklas Ekstedt, Sabrina Ghayour and Rick Stein. Meanwhile, Rick Stein and Clive Myrie head out across the UK and abroad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4eb41df3-5263-4850-aeed-d2aa8b13c842/cover"/>
-  </programme>
-  <programme channel="BBCTwoHD.uk" start="20261115113000 +0000" stop="20261115121000 +0000">
-    <title lang="en">Eva Longoria: Searching for France</title>
-    <desc lang="en">7/8. How one of the greatest French arts is that of patisserie.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4f17a71d-52ec-4e75-be40-ab381c0ed187/cover"/>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261115121000 +0000" stop="20261115134500 +0000">
     <title lang="en">Jane Eyre</title>
@@ -58514,7 +58505,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20261109121500 +0000" stop="20261109130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Should the rules requiring manufacturers to produce more electric cars be changed?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ea899e60-68eb-431f-9923-223e405057f5/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20261109130000 +0000" stop="20261109134500 +0000">
@@ -59470,17 +59461,10 @@
     <desc lang="en">Radio 1's Sian Eleri takes to the road visiting BBC Children in Need projects in Wales.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2cfaf0c0-861f-4b03-b333-aa2a253a1717/cover"/>
   </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20261115100000 +0000" stop="20261115113000 +0000">
+  <programme channel="BBCTwoNorthernIreland.uk" start="20261115100000 +0000" stop="20261115121000 +0000">
     <title lang="en">Saturday Kitchen Best Bites</title>
     <desc lang="en">More mouthwatering dishes from Andi Oliver, Niklas Ekstedt, Sabrina Ghayour and Rick Stein. Meanwhile, Rick Stein and Clive Myrie head out across the UK and abroad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4eb41df3-5263-4850-aeed-d2aa8b13c842/cover"/>
-  </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20261115113000 +0000" stop="20261115121000 +0000">
-    <title lang="en">Eva Longoria: Searching for France</title>
-    <desc lang="en">7/8. How one of the greatest French arts is that of patisserie.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4f17a71d-52ec-4e75-be40-ab381c0ed187/cover"/>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20261115121000 +0000" stop="20261115134500 +0000">
     <title lang="en">Jane Eyre</title>
@@ -59641,7 +59625,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261109121500 +0000" stop="20261109130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Should the rules requiring manufacturers to produce more electric cars be changed?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ea899e60-68eb-431f-9923-223e405057f5/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261109130000 +0000" stop="20261109134500 +0000">
@@ -60595,17 +60579,10 @@
     <desc lang="en">Radio 1's Sian Eleri takes to the road visiting BBC Children in Need projects in Wales.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2cfaf0c0-861f-4b03-b333-aa2a253a1717/cover"/>
   </programme>
-  <programme channel="BBCTwoWales.uk" start="20261115100000 +0000" stop="20261115113000 +0000">
+  <programme channel="BBCTwoWales.uk" start="20261115100000 +0000" stop="20261115121000 +0000">
     <title lang="en">Saturday Kitchen Best Bites</title>
     <desc lang="en">More mouthwatering dishes from Andi Oliver, Niklas Ekstedt, Sabrina Ghayour and Rick Stein. Meanwhile, Rick Stein and Clive Myrie head out across the UK and abroad.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4eb41df3-5263-4850-aeed-d2aa8b13c842/cover"/>
-  </programme>
-  <programme channel="BBCTwoWales.uk" start="20261115113000 +0000" stop="20261115121000 +0000">
-    <title lang="en">Eva Longoria: Searching for France</title>
-    <desc lang="en">7/8. How one of the greatest French arts is that of patisserie.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4f17a71d-52ec-4e75-be40-ab381c0ed187/cover"/>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261115121000 +0000" stop="20261115134500 +0000">
     <title lang="en">Jane Eyre</title>
@@ -60816,7 +60793,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261109050600 +0000" stop="20261109060000 +0000">
     <title lang="en">Newsday</title>
-    <desc lang="en">Live news, business and sport from around the world.</desc>
+    <desc lang="en">Huang admits to having been 'unfaithful' to his wife and apologises for hurting her and their children.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d3bd56a5-11c3-417a-9477-575e63697755/cover"/>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261109060000 +0000" stop="20261109060600 +0000">
@@ -60826,7 +60803,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261109060600 +0000" stop="20261109070000 +0000">
     <title lang="en">Newsday</title>
-    <desc lang="en">Live news, business and sport from around the world.</desc>
+    <desc lang="en">The New York Times reported last month that US intelligence officials believe Alice Huang, who had a close relationship with the Nvidia boss, was a spy for Beijing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b38a94f4-ce80-4f5d-943e-b47765921395/cover"/>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261109070000 +0000" stop="20261109070600 +0000">
@@ -60836,7 +60813,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261109070600 +0000" stop="20261109080000 +0000">
     <title lang="en">Newsday</title>
-    <desc lang="en">Live news, business and sport from around the world.</desc>
+    <desc lang="en">he company, one of the most valuable in the world, says its board has no reason to believe Nvidia's secrets or national security were compromised.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba4e9789-5273-4e6b-b8a6-341a0b703b3e/cover"/>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261109080000 +0000" stop="20261109080600 +0000">
@@ -60911,7 +60888,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261109113230 +0000" stop="20261109120000 +0000">
     <title lang="en">The Global Story</title>
-    <desc lang="en">.</desc>
+    <desc lang="en">The inside story of the hackers behind the biggest theft in history.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/76f14022-5aac-48bc-ad81-ba547a56ff07/cover"/>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261109120000 +0000" stop="20261109120600 +0000">
@@ -61136,7 +61113,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261110013230 +0000" stop="20261110020000 +0000">
     <title lang="en">The Global Story</title>
-    <desc lang="en">.</desc>
+    <desc lang="en">The inside story of the hackers behind the biggest theft in history.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/76f14022-5aac-48bc-ad81-ba547a56ff07/cover"/>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261110020000 +0000" stop="20261110020600 +0000">
@@ -61191,7 +61168,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261110043230 +0000" stop="20261110050000 +0000">
     <title lang="en">In the Studio</title>
-    <desc lang="en">Camilla Costa meets artist Ramesh Mario Nithiyendran as creates a new work of art.</desc>
+    <desc lang="en">Camilla Costa meets artist Ramesh Mario Nithiyendran as he creates a new work of art.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f8336999-091d-435f-8b0e-39c01e52f46e/cover"/>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261110050000 +0000" stop="20261110050600 +0000">
@@ -61331,7 +61308,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261110133230 +0000" stop="20261110140000 +0000">
     <title lang="en">In the Studio</title>
-    <desc lang="en">Camilla Costa meets artist Ramesh Mario Nithiyendran as creates a new work of art.</desc>
+    <desc lang="en">Camilla Costa meets artist Ramesh Mario Nithiyendran as he creates a new work of art.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f8336999-091d-435f-8b0e-39c01e52f46e/cover"/>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261110140000 +0000" stop="20261110140600 +0000">
@@ -61491,7 +61468,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261110233230 +0000" stop="20261111000000 +0000">
     <title lang="en">In the Studio</title>
-    <desc lang="en">Camilla Costa meets artist Ramesh Mario Nithiyendran as creates a new work of art.</desc>
+    <desc lang="en">Camilla Costa meets artist Ramesh Mario Nithiyendran as he creates a new work of art.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f8336999-091d-435f-8b0e-39c01e52f46e/cover"/>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261111000000 +0000" stop="20261111000600 +0000">
@@ -63161,7 +63138,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261115103230 +0000" stop="20261115105000 +0000">
     <title lang="en">More than the Score</title>
-    <desc lang="en">Unexpected questions and stories from beyond the scoresheet.</desc>
+    <desc lang="en">The five nominees have been announced for BBC Women's Footballer of the Year 2026.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cb2f41cf-bab2-4044-b0bd-b6ae1cdbed6b/cover"/>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261115105000 +0000" stop="20261115110000 +0000">
@@ -63311,7 +63288,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261115223230 +0000" stop="20261115225000 +0000">
     <title lang="en">More than the Score</title>
-    <desc lang="en">Unexpected questions and stories from beyond the scoresheet.</desc>
+    <desc lang="en">The five nominees have been announced for BBC Women's Footballer of the Year 2026.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cb2f41cf-bab2-4044-b0bd-b6ae1cdbed6b/cover"/>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261115225000 +0000" stop="20261115230000 +0000">
@@ -72890,7 +72867,7 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20261113230003 +0000" stop="20261114000002 +0000">
     <title lang="en">Climate For Change 2: Closing The Loop</title>
-    <desc lang="en">Waste is generated on an epic scale. As humans, we have adopted a linear approach to food, plastic and clothes in our daily lives. We take, we make, and we dispose. Each time we do this, we eat into a</desc>
+    <desc lang="en">How can a Circular Economy reduce tonnes of food, fashion, electronics and construction waste from ending up in landfills? How can cities unlock lucrative opportunities in closing the resource loop?</desc>
     <icon src="http://img.freeviewplay.net/e5e7eb2dd980a9a1ffa176f4d519c97d0?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261114000002 +0000" stop="20261114010003 +0000">
@@ -72900,17 +72877,17 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20261114010003 +0000" stop="20261114020001 +0000">
     <title lang="en">Singapore Hour</title>
-    <desc lang="en">Want to see Singapore from a new angle? Look up! We kick things off with sky-high thrills - flying jets, dropping from swings, and taking the ultimate bungy leap. Then, we find calm among the city's r</desc>
+    <desc lang="en">From jet sims to sky farms and vanilla vines, we explore Singapore's highs and lows - chasing thrills, meeting dreamers, and finding heart in the streets of Kallang.</desc>
     <icon src="http://img.freeviewplay.net/e545aabeebefa4a89767315549d8a3e59?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261114020001 +0000" stop="20261114030000 +0000">
     <title lang="en">Hawkers In Our Centre</title>
-    <desc lang="en">This 2-part documentary series examines why hawkers and hawker centres are such an essential part of the Singaporean DNA. The series looks at the parallel history between Singapore's development, and</desc>
+    <desc lang="en">Hawkers In Our Centre</desc>
     <icon src="http://img.freeviewplay.net/e51503a4e979f48f39e6640e5658f7a71?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261114030000 +0000" stop="20261114040008 +0000">
     <title lang="en">Hawkers In Our Centre</title>
-    <desc lang="en">This 2-part documentary series examines why hawkers and hawker centres are such an essential part of the Singaporean DNA. The series looks at the parallel history between Singapore's development, and</desc>
+    <desc lang="en">Hawkers In Our Centre</desc>
     <icon src="http://img.freeviewplay.net/e51503a4e979f48f39e6640e5658f7a71?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261114040008 +0000" stop="20261114050005 +0000">
@@ -72920,7 +72897,7 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20261114050005 +0000" stop="20261114060000 +0000">
     <title lang="en">Climate For Change 2: Closing The Loop</title>
-    <desc lang="en">Waste is generated on an epic scale. As humans, we have adopted a linear approach to food, plastic and clothes in our daily lives. We take, we make, and we dispose. Each time we do this, we eat into a</desc>
+    <desc lang="en">How can a Circular Economy reduce tonnes of food, fashion, electronics and construction waste from ending up in landfills? How can cities unlock lucrative opportunities in closing the resource loop?</desc>
     <icon src="http://img.freeviewplay.net/e5e7eb2dd980a9a1ffa176f4d519c97d0?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261114060000 +0000" stop="20261114070006 +0000">
@@ -72930,17 +72907,17 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20261114070006 +0000" stop="20261114080002 +0000">
     <title lang="en">Singapore Hour</title>
-    <desc lang="en">Want to see Singapore from a new angle? Look up! We kick things off with sky-high thrills - flying jets, dropping from swings, and taking the ultimate bungy leap. Then, we find calm among the city's r</desc>
+    <desc lang="en">From jet sims to sky farms and vanilla vines, we explore Singapore's highs and lows - chasing thrills, meeting dreamers, and finding heart in the streets of Kallang.</desc>
     <icon src="http://img.freeviewplay.net/e545aabeebefa4a89767315549d8a3e59?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261114080002 +0000" stop="20261114090002 +0000">
     <title lang="en">Hawkers In Our Centre</title>
-    <desc lang="en">This 2-part documentary series examines why hawkers and hawker centres are such an essential part of the Singaporean DNA. The series looks at the parallel history between Singapore's development, and</desc>
+    <desc lang="en">Hawkers In Our Centre</desc>
     <icon src="http://img.freeviewplay.net/e51503a4e979f48f39e6640e5658f7a71?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261114090002 +0000" stop="20261114100000 +0000">
     <title lang="en">Hawkers In Our Centre</title>
-    <desc lang="en">This 2-part documentary series examines why hawkers and hawker centres are such an essential part of the Singaporean DNA. The series looks at the parallel history between Singapore's development, and</desc>
+    <desc lang="en">Hawkers In Our Centre</desc>
     <icon src="http://img.freeviewplay.net/e51503a4e979f48f39e6640e5658f7a71?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261114100000 +0000" stop="20261114110003 +0000">
@@ -72950,7 +72927,7 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20261114110003 +0000" stop="20261114120002 +0000">
     <title lang="en">Climate For Change 2: Closing The Loop</title>
-    <desc lang="en">Waste is generated on an epic scale. As humans, we have adopted a linear approach to food, plastic and clothes in our daily lives. We take, we make, and we dispose. Each time we do this, we eat into a</desc>
+    <desc lang="en">How can a Circular Economy reduce tonnes of food, fashion, electronics and construction waste from ending up in landfills? How can cities unlock lucrative opportunities in closing the resource loop?</desc>
     <icon src="http://img.freeviewplay.net/e5e7eb2dd980a9a1ffa176f4d519c97d0?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261114120002 +0000" stop="20261114130003 +0000">
@@ -72960,17 +72937,17 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20261114130003 +0000" stop="20261114140001 +0000">
     <title lang="en">Singapore Hour</title>
-    <desc lang="en">Want to see Singapore from a new angle? Look up! We kick things off with sky-high thrills - flying jets, dropping from swings, and taking the ultimate bungy leap. Then, we find calm among the city's r</desc>
+    <desc lang="en">From jet sims to sky farms and vanilla vines, we explore Singapore's highs and lows - chasing thrills, meeting dreamers, and finding heart in the streets of Kallang.</desc>
     <icon src="http://img.freeviewplay.net/e545aabeebefa4a89767315549d8a3e59?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261114140001 +0000" stop="20261114150000 +0000">
     <title lang="en">Hawkers In Our Centre</title>
-    <desc lang="en">This 2-part documentary series examines why hawkers and hawker centres are such an essential part of the Singaporean DNA. The series looks at the parallel history between Singapore's development, and</desc>
+    <desc lang="en">Hawkers In Our Centre</desc>
     <icon src="http://img.freeviewplay.net/e51503a4e979f48f39e6640e5658f7a71?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261114150000 +0000" stop="20261114160008 +0000">
     <title lang="en">Hawkers In Our Centre</title>
-    <desc lang="en">This 2-part documentary series examines why hawkers and hawker centres are such an essential part of the Singaporean DNA. The series looks at the parallel history between Singapore's development, and</desc>
+    <desc lang="en">Hawkers In Our Centre</desc>
     <icon src="http://img.freeviewplay.net/e51503a4e979f48f39e6640e5658f7a71?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261114160008 +0000" stop="20261114170005 +0000">
@@ -72980,7 +72957,7 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20261114170005 +0000" stop="20261114180000 +0000">
     <title lang="en">Climate For Change 2: Closing The Loop</title>
-    <desc lang="en">Waste is generated on an epic scale. As humans, we have adopted a linear approach to food, plastic and clothes in our daily lives. We take, we make, and we dispose. Each time we do this, we eat into a</desc>
+    <desc lang="en">How can a Circular Economy reduce tonnes of food, fashion, electronics and construction waste from ending up in landfills? How can cities unlock lucrative opportunities in closing the resource loop?</desc>
     <icon src="http://img.freeviewplay.net/e5e7eb2dd980a9a1ffa176f4d519c97d0?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261114180000 +0000" stop="20261114190006 +0000">
@@ -72990,82 +72967,82 @@
   </programme>
   <programme channel="CNAInternational.sg" start="20261114190006 +0000" stop="20261114200002 +0000">
     <title lang="en">Singapore Hour</title>
-    <desc lang="en">Want to see Singapore from a new angle? Look up! We kick things off with sky-high thrills - flying jets, dropping from swings, and taking the ultimate bungy leap. Then, we find calm among the city's r</desc>
+    <desc lang="en">From jet sims to sky farms and vanilla vines, we explore Singapore's highs and lows - chasing thrills, meeting dreamers, and finding heart in the streets of Kallang.</desc>
     <icon src="http://img.freeviewplay.net/e545aabeebefa4a89767315549d8a3e59?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261114200002 +0000" stop="20261114210002 +0000">
     <title lang="en">Hawkers In Our Centre</title>
-    <desc lang="en">This 2-part documentary series examines why hawkers and hawker centres are such an essential part of the Singaporean DNA. The series looks at the parallel history between Singapore's development, and</desc>
+    <desc lang="en">Hawkers In Our Centre</desc>
     <icon src="http://img.freeviewplay.net/e51503a4e979f48f39e6640e5658f7a71?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261114210002 +0000" stop="20261114220000 +0000">
     <title lang="en">Hawkers In Our Centre</title>
-    <desc lang="en">This 2-part documentary series examines why hawkers and hawker centres are such an essential part of the Singaporean DNA. The series looks at the parallel history between Singapore's development, and</desc>
+    <desc lang="en">Hawkers In Our Centre</desc>
     <icon src="http://img.freeviewplay.net/e51503a4e979f48f39e6640e5658f7a71?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261114220000 +0000" stop="20261115000000 +0000">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Heiress Kathlyn Tan swims against the tide to make oceans clean and vibrant. We discover why she invests her paychecks, and her passion, into tackling issues like overfishing and plastic pollution.</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261115000000 +0000" stop="20261115020000 +0000">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Third-generation sugar maker, John Cheng believes there is a strong business case for going green. We follow his journey to revolutionise the food industry, starting with his own business.</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261115020000 +0000" stop="20261115040000 +0000">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Entrepreneurs are using hi-tech to turn plastic into fuel, or even back into plastic. Others are turning food waste into fuel, or new types of food. And lab-grown meat aims to avoid waste altogether.</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261115040000 +0000" stop="20261115060000 +0000">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">How can a Circular Economy reduce tonnes of food, fashion, electronics and construction waste from ending up in landfills? How can cities unlock lucrative opportunities in closing the resource loop?</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261115060000 +0000" stop="20261115080000 +0000">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">From jet sims to sky farms and vanilla vines, we explore Singapore's highs and lows - chasing thrills, meeting dreamers, and finding heart in the streets of Kallang.</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261115080000 +0000" stop="20261115100000 +0000">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Heiress Kathlyn Tan swims against the tide to make oceans clean and vibrant. We discover why she invests her paychecks, and her passion, into tackling issues like overfishing and plastic pollution.</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261115100000 +0000" stop="20261115120000 +0000">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Eight years ago, Kia Jiehui left her father's engineering firm to join an NGO. She's now back with her dad, and with a mission. To green the industry, not just for the environment, but workers too.</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261115120000 +0000" stop="20261115140000 +0000">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Third-generation sugar maker, John Cheng believes there is a strong business case for going green. We follow his journey to revolutionise the food industry, starting with his own business.</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261115140000 +0000" stop="20261115160000 +0000">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Entrepreneurs are using hi-tech to turn plastic into fuel, or even back into plastic. Others are turning food waste into fuel, or new types of food. And lab-grown meat aims to avoid waste altogether.</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261115160000 +0000" stop="20261115180000 +0000">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">How can a Circular Economy reduce tonnes of food, fashion, electronics and construction waste from ending up in landfills? How can cities unlock lucrative opportunities in closing the resource loop?</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261115180000 +0000" stop="20261115200000 +0000">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">From jet sims to sky farms and vanilla vines, we explore Singapore's highs and lows - chasing thrills, meeting dreamers, and finding heart in the streets of Kallang.</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261115200000 +0000" stop="20261115220000 +0000">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Heiress Kathlyn Tan swims against the tide to make oceans clean and vibrant. We discover why she invests her paychecks, and her passion, into tackling issues like overfishing and plastic pollution.</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNAInternational.sg" start="20261115220000 +0000" stop="20261116000000 +0000">
     <title lang="en">Understand Asia with news, current affai</title>
-    <desc lang="en">No further information...</desc>
+    <desc lang="en">Eight years ago, Kia Jiehui left her father's engineering firm to join an NGO. She's now back with her dad, and with a mission. To green the industry, not just for the environment, but workers too.</desc>
     <icon src="http://img.freeviewplay.net/e189cf00907727dfe61a94708a5d544d9?w=800"/>
   </programme>
   <programme channel="CNBCEurope.uk" start="20261108220000 +0000" stop="20261108230000 +0000">
@@ -79699,7 +79676,7 @@
   </programme>
   <programme channel="Channel4London.uk" start="20261110221500 +0000" stop="20261110230500 +0000">
     <title lang="en">New: The Great British Bake...</title>
-    <desc lang="en">...Off: Second Helpings: Jon Richardson and Judi Love welcome celeb guests to get stuck into Caramel Week.</desc>
+    <desc lang="en">...Off: Second Helpings: Jon Richardson and guest host Sophie Willan welcome presenter Vogue Williams and Bake Off star Lottie Bedlow to get stuck into Caramel Week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f0afc36b-0c44-4e56-8d7c-701002410a16/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
@@ -81269,7 +81246,7 @@
   </programme>
   <programme channel="Channel4Midlands.uk" start="20261110221500 +0000" stop="20261110230500 +0000">
     <title lang="en">New: The Great British Bake...</title>
-    <desc lang="en">...Off: Second Helpings: Jon Richardson and Judi Love welcome celeb guests to get stuck into Caramel Week.</desc>
+    <desc lang="en">...Off: Second Helpings: Jon Richardson and guest host Sophie Willan welcome presenter Vogue Williams and Bake Off star Lottie Bedlow to get stuck into Caramel Week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f0afc36b-0c44-4e56-8d7c-701002410a16/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
@@ -82839,7 +82816,7 @@
   </programme>
   <programme channel="Channel4North.uk" start="20261110221500 +0000" stop="20261110230500 +0000">
     <title lang="en">New: The Great British Bake...</title>
-    <desc lang="en">...Off: Second Helpings: Jon Richardson and Judi Love welcome celeb guests to get stuck into Caramel Week.</desc>
+    <desc lang="en">...Off: Second Helpings: Jon Richardson and guest host Sophie Willan welcome presenter Vogue Williams and Bake Off star Lottie Bedlow to get stuck into Caramel Week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f0afc36b-0c44-4e56-8d7c-701002410a16/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
@@ -84417,7 +84394,7 @@
   </programme>
   <programme channel="Channel4Plus1London.uk" start="20261110231500 +0000" stop="20261111000500 +0000">
     <title lang="en">New: The Great British Bake...</title>
-    <desc lang="en">...Off: Second Helpings: Jon Richardson and Judi Love welcome celeb guests to get stuck into Caramel Week.</desc>
+    <desc lang="en">...Off: Second Helpings: Jon Richardson and guest host Sophie Willan welcome presenter Vogue Williams and Bake Off star Lottie Bedlow to get stuck into Caramel Week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f0afc36b-0c44-4e56-8d7c-701002410a16/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
@@ -85988,7 +85965,7 @@
   </programme>
   <programme channel="Channel4Plus1North.uk" start="20261110231500 +0000" stop="20261111000500 +0000">
     <title lang="en">New: The Great British Bake...</title>
-    <desc lang="en">...Off: Second Helpings: Jon Richardson and Judi Love welcome celeb guests to get stuck into Caramel Week.</desc>
+    <desc lang="en">...Off: Second Helpings: Jon Richardson and guest host Sophie Willan welcome presenter Vogue Williams and Bake Off star Lottie Bedlow to get stuck into Caramel Week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f0afc36b-0c44-4e56-8d7c-701002410a16/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
@@ -87559,7 +87536,7 @@
   </programme>
   <programme channel="Channel4Plus1ROI.uk" start="20261110231500 +0000" stop="20261111000500 +0000">
     <title lang="en">New: The Great British Bake...</title>
-    <desc lang="en">...Off: Second Helpings: Jon Richardson and Judi Love welcome celeb guests to get stuck into Caramel Week.</desc>
+    <desc lang="en">...Off: Second Helpings: Jon Richardson and guest host Sophie Willan welcome presenter Vogue Williams and Bake Off star Lottie Bedlow to get stuck into Caramel Week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f0afc36b-0c44-4e56-8d7c-701002410a16/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
@@ -89130,7 +89107,7 @@
   </programme>
   <programme channel="Channel4Plus1Scotland.uk" start="20261110231500 +0000" stop="20261111000500 +0000">
     <title lang="en">New: The Great British Bake...</title>
-    <desc lang="en">...Off: Second Helpings: Jon Richardson and Judi Love welcome celeb guests to get stuck into Caramel Week.</desc>
+    <desc lang="en">...Off: Second Helpings: Jon Richardson and guest host Sophie Willan welcome presenter Vogue Williams and Bake Off star Lottie Bedlow to get stuck into Caramel Week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f0afc36b-0c44-4e56-8d7c-701002410a16/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
@@ -90701,7 +90678,7 @@
   </programme>
   <programme channel="Channel4Plus1South.uk" start="20261110231500 +0000" stop="20261111000500 +0000">
     <title lang="en">New: The Great British Bake...</title>
-    <desc lang="en">...Off: Second Helpings: Jon Richardson and Judi Love welcome celeb guests to get stuck into Caramel Week.</desc>
+    <desc lang="en">...Off: Second Helpings: Jon Richardson and guest host Sophie Willan welcome presenter Vogue Williams and Bake Off star Lottie Bedlow to get stuck into Caramel Week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f0afc36b-0c44-4e56-8d7c-701002410a16/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
@@ -92264,7 +92241,7 @@
   </programme>
   <programme channel="Channel4ROI.uk" start="20261110221500 +0000" stop="20261110230500 +0000">
     <title lang="en">New: The Great British Bake...</title>
-    <desc lang="en">...Off: Second Helpings: Jon Richardson and Judi Love welcome celeb guests to get stuck into Caramel Week.</desc>
+    <desc lang="en">...Off: Second Helpings: Jon Richardson and guest host Sophie Willan welcome presenter Vogue Williams and Bake Off star Lottie Bedlow to get stuck into Caramel Week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f0afc36b-0c44-4e56-8d7c-701002410a16/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
@@ -93834,7 +93811,7 @@
   </programme>
   <programme channel="Channel4Scotland.uk" start="20261110221500 +0000" stop="20261110230500 +0000">
     <title lang="en">New: The Great British Bake...</title>
-    <desc lang="en">...Off: Second Helpings: Jon Richardson and Judi Love welcome celeb guests to get stuck into Caramel Week.</desc>
+    <desc lang="en">...Off: Second Helpings: Jon Richardson and guest host Sophie Willan welcome presenter Vogue Williams and Bake Off star Lottie Bedlow to get stuck into Caramel Week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f0afc36b-0c44-4e56-8d7c-701002410a16/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
@@ -95404,7 +95381,7 @@
   </programme>
   <programme channel="Channel4South.uk" start="20261110221500 +0000" stop="20261110230500 +0000">
     <title lang="en">New: The Great British Bake...</title>
-    <desc lang="en">...Off: Second Helpings: Jon Richardson and Judi Love welcome celeb guests to get stuck into Caramel Week.</desc>
+    <desc lang="en">...Off: Second Helpings: Jon Richardson and guest host Sophie Willan welcome presenter Vogue Williams and Bake Off star Lottie Bedlow to get stuck into Caramel Week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f0afc36b-0c44-4e56-8d7c-701002410a16/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
@@ -96974,7 +96951,7 @@
   </programme>
   <programme channel="Channel4Ulster.uk" start="20261110221500 +0000" stop="20261110230500 +0000">
     <title lang="en">New: The Great British Bake...</title>
-    <desc lang="en">...Off: Second Helpings: Jon Richardson and Judi Love welcome celeb guests to get stuck into Caramel Week.</desc>
+    <desc lang="en">...Off: Second Helpings: Jon Richardson and guest host Sophie Willan welcome presenter Vogue Williams and Bake Off star Lottie Bedlow to get stuck into Caramel Week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f0afc36b-0c44-4e56-8d7c-701002410a16/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
@@ -99424,9 +99401,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/58fd6d63-d6e9-4da1-8d97-0f0548942606/cover"/>
   </programme>
   <programme channel="ClassicFM.uk" start="20261109100000 +0000" stop="20261109130000 +0000">
-    <title lang="en">Aled Jones</title>
-    <desc lang="en">Aled Jones presents three hours of the best classical music from late morning to lunchtime.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/06c855d7-b45f-4a22-bfb9-c067dae2035b/cover"/>
+    <title lang="en">Tim Lihoreau</title>
+    <desc lang="en">Tim presents three hours of the best classical music from late morning to lunchtime.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6f0b5d7f-92f8-435c-845c-fa8cb9995ac5/cover"/>
   </programme>
   <programme channel="ClassicFM.uk" start="20261109130000 +0000" stop="20261109140000 +0000">
     <title lang="en">Classic FM Requests</title>
@@ -99456,7 +99433,7 @@
   <programme channel="ClassicFM.uk" start="20261110010000 +0000" stop="20261110040000 +0000">
     <title lang="en">Ben Gernon</title>
     <desc lang="en">Ben Gernon keeps you company all through the night with beautiful music for the early hours.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f7a761c1-2f27-48ac-9807-30c85591740f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/41dd143e-8e80-4177-a96a-da623c50663f/cover"/>
   </programme>
   <programme channel="ClassicFM.uk" start="20261110040000 +0000" stop="20261110063000 +0000">
     <title lang="en">Early Breakfast with Lucy Coward</title>
@@ -99474,9 +99451,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/dc34b907-aad8-4739-acf2-15b723066217/cover"/>
   </programme>
   <programme channel="ClassicFM.uk" start="20261110100000 +0000" stop="20261110130000 +0000">
-    <title lang="en">Aled Jones</title>
-    <desc lang="en">Aled Jones presents three hours of the best classical music from late morning to lunchtime.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5067960f-494b-4da1-b790-f13db93f7cfc/cover"/>
+    <title lang="en">Tim Lihoreau</title>
+    <desc lang="en">Tim presents three hours of the best classical music from late morning to lunchtime.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/291fe23d-d3a4-493a-9eea-3780c6588e8f/cover"/>
   </programme>
   <programme channel="ClassicFM.uk" start="20261110130000 +0000" stop="20261110140000 +0000">
     <title lang="en">Classic FM Requests</title>
@@ -99506,7 +99483,7 @@
   <programme channel="ClassicFM.uk" start="20261111010000 +0000" stop="20261111040000 +0000">
     <title lang="en">Ben Gernon</title>
     <desc lang="en">Ben Gernon keeps you company all through the night with beautiful music for the early hours.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f7cb16bb-134c-4a5d-b4cf-8f7775e620d6/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/1b49ea15-8984-413a-a818-6d83db2aa92a/cover"/>
   </programme>
   <programme channel="ClassicFM.uk" start="20261111040000 +0000" stop="20261111063000 +0000">
     <title lang="en">Early Breakfast with Lucy Coward</title>
@@ -99524,9 +99501,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/fb27b92d-8a62-46cc-ae92-52528f9ae39e/cover"/>
   </programme>
   <programme channel="ClassicFM.uk" start="20261111100000 +0000" stop="20261111130000 +0000">
-    <title lang="en">Aled Jones</title>
-    <desc lang="en">Aled Jones presents three hours of the best classical music from late morning to lunchtime.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e64eea35-5464-4a1e-bc4e-0e1ddadb5709/cover"/>
+    <title lang="en">Tim Lihoreau</title>
+    <desc lang="en">Tim presents three hours of the best classical music from late morning to lunchtime.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/21d665b4-4a6a-4d28-b89b-a5d500c20f58/cover"/>
   </programme>
   <programme channel="ClassicFM.uk" start="20261111130000 +0000" stop="20261111140000 +0000">
     <title lang="en">Classic FM Requests</title>
@@ -99556,7 +99533,7 @@
   <programme channel="ClassicFM.uk" start="20261112010000 +0000" stop="20261112040000 +0000">
     <title lang="en">Ben Gernon</title>
     <desc lang="en">Ben Gernon keeps you company all through the night with beautiful music for the early hours.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/81c7993d-1682-48c6-ab4f-2f47470a169e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6dcbc025-4d71-4c27-854e-97a9e59c529c/cover"/>
   </programme>
   <programme channel="ClassicFM.uk" start="20261112040000 +0000" stop="20261112063000 +0000">
     <title lang="en">Early Breakfast with Lucy Coward</title>
@@ -99574,9 +99551,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/6dede82a-0cfb-4ea9-a4a8-062e27a38862/cover"/>
   </programme>
   <programme channel="ClassicFM.uk" start="20261112100000 +0000" stop="20261112130000 +0000">
-    <title lang="en">Aled Jones</title>
-    <desc lang="en">Aled Jones presents three hours of the best classical music from late morning to lunchtime.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5c7a1c91-9a69-4e07-ba0b-12a7797d01f4/cover"/>
+    <title lang="en">Tim Lihoreau</title>
+    <desc lang="en">Tim presents three hours of the best classical music from late morning to lunchtime.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c58513a8-7934-4f3f-b815-8a990417410d/cover"/>
   </programme>
   <programme channel="ClassicFM.uk" start="20261112130000 +0000" stop="20261112140000 +0000">
     <title lang="en">Classic FM Requests</title>
@@ -99606,7 +99583,7 @@
   <programme channel="ClassicFM.uk" start="20261113010000 +0000" stop="20261113040000 +0000">
     <title lang="en">Ben Gernon</title>
     <desc lang="en">Ben Gernon keeps you company all through the night with beautiful music for the early hours.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/36b67e5a-a986-4265-bf06-e3577193b5f7/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/f0dd1d7c-5772-4f91-bdd3-5a403e9a3864/cover"/>
   </programme>
   <programme channel="ClassicFM.uk" start="20261113040000 +0000" stop="20261113063000 +0000">
     <title lang="en">Early Breakfast with Lucy Coward</title>
@@ -99624,9 +99601,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/15d95d4c-93e0-48fe-8516-3a65320cdf4a/cover"/>
   </programme>
   <programme channel="ClassicFM.uk" start="20261113100000 +0000" stop="20261113130000 +0000">
-    <title lang="en">Aled Jones</title>
-    <desc lang="en">Aled Jones presents three hours of the best classical music from late morning to lunchtime.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3fa6297b-786a-4987-8839-65f86218ed69/cover"/>
+    <title lang="en">Tim Lihoreau</title>
+    <desc lang="en">Tim presents three hours of the best classical music from late morning to lunchtime.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/44c4f2d1-d2cd-45bc-9940-fe18227e0835/cover"/>
   </programme>
   <programme channel="ClassicFM.uk" start="20261113130000 +0000" stop="20261113140000 +0000">
     <title lang="en">Classic FM Requests</title>
@@ -126766,14 +126743,14 @@
     <icon src="https://images.metadata.sky.com/pd-image/36ee5198-9b7d-48d4-ae82-cd7960bc0de5/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261109100000 +0000" stop="20261109110000 +0000">
-    <title lang="en">Live Falling Auctions</title>
-    <desc lang="en">Watch live as the prices fall during our jewellery auctions at Gemporia.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d9b4bf03-f4b7-4079-94a7-146fbc581a63/cover"/>
+    <title lang="en">Collector's Hour</title>
+    <desc lang="en">If you're an avid gemstone collector, don't miss this Collector's Hour full of our finest gemstone jewellery!</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2f48a93e-2c8f-4c6d-9203-51c7c8246db9/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261109110000 +0000" stop="20261109120000 +0000">
-    <title lang="en">Great Value Jewellery</title>
-    <desc lang="en">Shop and save with live falling jewellery auctions from Gemporia your family jeweller.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5de889e7-2f75-47ee-a306-b3151d3c6c94/cover"/>
+    <title lang="en">Black Friday Deals</title>
+    <desc lang="en">Join us for big offers and unmissable deals on the biggest shopping day of the year!</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/89735077-ac27-493d-9783-da581a773069/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261109120000 +0000" stop="20261109130000 +0000">
     <title lang="en">Toby's Organic Cut Show</title>
@@ -126781,9 +126758,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/f178f468-aec5-4b19-a662-e51e4672c201/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261109130000 +0000" stop="20261109140000 +0000">
-    <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f726d946-4bc7-4607-b8a8-7d1d5886f56b/cover"/>
+    <title lang="en">Silver Showcase</title>
+    <desc lang="en">Some of our finest gemstones set into 925 Sterling Silver at low prices!</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/69fa6572-0117-4b4a-b950-00db2da74fab/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261109140000 +0000" stop="20261109150000 +0000">
     <title lang="en">A Deal 2 Treasure</title>
@@ -126796,9 +126773,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/1d8f231e-4a10-41ff-86ef-90412e2f1168/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261109160000 +0000" stop="20261109170000 +0000">
-    <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1b312be4-e76a-481c-9848-8fd86b62f0d9/cover"/>
+    <title lang="en">Under ?30</title>
+    <desc lang="en">Join Gemporia for huge savings on genuine gemstone jewellery - all under ?30 inc VAT (ex P&amp;P).</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/497649f6-680d-4e24-9b67-6b59d5db1865/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261109170000 +0000" stop="20261109180000 +0000">
     <title lang="en">Kaduna Canary Zircon with Toby ...</title>
@@ -126837,12 +126814,12 @@
   </programme>
   <programme channel="GemsTV.uk" start="20261110000000 +0000" stop="20261110010000 +0000">
     <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
+    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2adf2779-456b-408e-8cb8-925e5e31781e/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261110010000 +0000" stop="20261110020000 +0000">
     <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
+    <desc lang="en">Join us for huge savings on our genuine gemstone jewellery at Gemporia, your family jeweller.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/41255ab8-fedf-4b28-a177-640e6c61cf7a/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261110020000 +0000" stop="20261110030000 +0000">
@@ -126857,12 +126834,12 @@
   </programme>
   <programme channel="GemsTV.uk" start="20261110040000 +0000" stop="20261110050000 +0000">
     <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
+    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices</desc>
     <icon src="https://images.metadata.sky.com/pd-image/540e9aed-3aab-477e-b35d-06f4d4730d61/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261110050000 +0000" stop="20261110060000 +0000">
     <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
+    <desc lang="en">Join us for huge savings on our genuine gemstone jewellery at Gemporia, your family jeweller.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6c0d4f7e-0cde-4b8c-8e14-3fe28add8bd6/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261110060000 +0000" stop="20261110070000 +0000">
@@ -126991,19 +126968,19 @@
     <icon src="https://images.metadata.sky.com/pd-image/c2cc11a3-da20-4f52-88a5-6370f6626c24/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261111070000 +0000" stop="20261111080000 +0000">
-    <title lang="en">Great Value Jewellery</title>
-    <desc lang="en">Shop and save with live falling jewellery auctions from Gemporia your family jeweller.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cf776c12-093b-4ab9-8b37-cc96b30320bb/cover"/>
+    <title lang="en">Last Chance Speed Wheel!</title>
+    <desc lang="en">It's the wheel that will have you in a spin! Join us for our last chance deals and get yours before they're gone forever!</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7acf94d9-f956-4a63-a497-03a4042a69c3/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261111080000 +0000" stop="20261111090000 +0000">
-    <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ff667af5-c864-4f9c-8074-2baa99c3bbea/cover"/>
+    <title lang="en">Last Chance Speed Wheel!</title>
+    <desc lang="en">It's the wheel that will have you in a spin! Join us for our last chance deals and get yours before they're gone forever!</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d524a265-aa85-4561-adeb-ede9b765950e/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261111090000 +0000" stop="20261111100000 +0000">
-    <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d3866306-b42d-4d70-b99a-ce0b25a7f592/cover"/>
+    <title lang="en">Thai Sapphire with Toby</title>
+    <desc lang="en">Join Gem expert Toby Cavill live as he showcases our stunning Thai Sapphire jewellery. Thailand produces some of the finest sapphires in one of the most diverse range of colours found anywhere in t...</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f1a8b6a8-d8bf-41e7-8257-ba7a590ec643/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261111100000 +0000" stop="20261111110000 +0000">
     <title lang="en">Ethiopian Emerald</title>
@@ -127026,19 +127003,19 @@
     <icon src="https://images.metadata.sky.com/pd-image/e86189b7-2eba-435e-88d5-4bf647dbfa25/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261111140000 +0000" stop="20261111150000 +0000">
-    <title lang="en">A Deal 2 Treasure</title>
-    <desc lang="en">We love bringing you deals like this on your gemstone jewellery! Looking to find out more? Join us live for a very special hour!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8602cb8e-69ec-4272-aa9b-c405db9e4288/cover"/>
+    <title lang="en">Mutton Fat Jade with Dave Troth</title>
+    <desc lang="en">Dave Troth joins the team to bring a stunning showcase of Mutton Fat Jade. One of the most revered gemstones on the planet for over 7000 years, it probably is the most cherished gemstone across all...</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5dba8b9f-67c9-4e5d-bb82-a7827ca1d057/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261111150000 +0000" stop="20261111160000 +0000">
-    <title lang="en">The Daily Discount</title>
-    <desc lang="en">Don't miss the Daily Discount!! Grab unbeatable savings every day at 6pm - once it's gone, it's gone! Tune in and save big before time runs out.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d16be7d6-8669-49be-bd0b-3bdbde8be3bf/cover"/>
+    <title lang="en">Type A Lavender Jadeite with Da...</title>
+    <desc lang="en">Sometimes referred to as Lilac Jade, Type A Lavender Jadeite is a gorgeous, gentle purple stone that has been present since ancient civilizations roamed the Earth. Join David Troth live as he showc...</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/30480f44-359a-4c5f-8e72-6524eaa54d1e/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261111160000 +0000" stop="20261111170000 +0000">
-    <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/40022ea6-44af-4134-bede-e2e76ae4d103/cover"/>
+    <title lang="en">Pearl Showcase</title>
+    <desc lang="en">A gemstone born of the ocean. Join us for this showcase of delightful perfect pearls at prices for every budget</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/be627848-2525-4c29-9edc-b52c54d682cc/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261111170000 +0000" stop="20261111180000 +0000">
     <title lang="en">DHJ x Gemporia</title>
@@ -127051,24 +127028,24 @@
     <icon src="https://images.metadata.sky.com/pd-image/70e6493f-1d43-4112-86ac-4a08588ad4d9/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261111190000 +0000" stop="20261111200000 +0000">
-    <title lang="en">Great Value Jewellery</title>
-    <desc lang="en">Shop and save with live falling jewellery auctions from Gemporia your family jeweller.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b646a018-b985-492b-a1da-620e95aab8bb/cover"/>
+    <title lang="en">Zambian Amethyst with Jake Thom...</title>
+    <desc lang="en">Displaying the best deep purple colour Amethyst has to offer, this gemstone is very sought after, even more so when it display undertones of feminine pinks and very rarely, reds.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b874f867-55ef-4188-b260-d31f1dc883bb/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261111200000 +0000" stop="20261111210000 +0000">
-    <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6b9265d5-3a7a-4e2b-a2c9-da1748fef384/cover"/>
+    <title lang="en">Rutile Quartz</title>
+    <desc lang="en">Join the team at Gemporia live as we showcase a stunning collection of Rutile Quartz jewellery with unique inclusions.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/62fcca0a-cfe6-496a-8d7a-57398c20247c/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261111210000 +0000" stop="20261111220000 +0000">
-    <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a3a69186-2652-45dc-b218-0b023eeeb8ec/cover"/>
+    <title lang="en">Burmese Ruby Showcase</title>
+    <desc lang="en">With no gemstone on earth is provenance more important and respected than with Burmese Ruby. The Brightest, Most Desirable Ruby Ever Discovered</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0278e59e-5fde-4757-83ae-189f9672daf3/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261111220000 +0000" stop="20261111230000 +0000">
-    <title lang="en">Deal of the Day</title>
-    <desc lang="en">Join the team as they auction a sensational piece of genuine gemstone jewellery that has been specially selected for today's Deal of the Day.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e6e0d22c-cf98-40a8-9513-62cf09a01655/cover"/>
+    <title lang="en">Burmese Ruby Showcase</title>
+    <desc lang="en">With no gemstone on earth is provenance more important and respected than with Burmese Ruby. The Brightest, Most Desirable Ruby Ever Discovered</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2b9d9f87-3c33-4709-b678-9adaaf6b0107/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261111230000 +0000" stop="20261112000000 +0000">
     <title lang="en">Great Value Jewellery</title>
@@ -127077,12 +127054,12 @@
   </programme>
   <programme channel="GemsTV.uk" start="20261112000000 +0000" stop="20261112010000 +0000">
     <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
+    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ed4459a6-b5b9-4a57-859b-676b313d746f/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261112010000 +0000" stop="20261112020000 +0000">
     <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
+    <desc lang="en">Join us for huge savings on our genuine gemstone jewellery at Gemporia, your family jeweller.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ef3c8ba9-7958-4eed-b781-682f58abbe37/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261112020000 +0000" stop="20261112030000 +0000">
@@ -127097,12 +127074,12 @@
   </programme>
   <programme channel="GemsTV.uk" start="20261112040000 +0000" stop="20261112050000 +0000">
     <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
+    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices</desc>
     <icon src="https://images.metadata.sky.com/pd-image/879a7a48-ac1b-470b-bd88-e8b37311a672/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261112050000 +0000" stop="20261112060000 +0000">
     <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
+    <desc lang="en">Join us for huge savings on our genuine gemstone jewellery at Gemporia, your family jeweller.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4f7412a-485d-4c42-8a76-abc96292e20b/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261112060000 +0000" stop="20261112070000 +0000">
@@ -127111,34 +127088,34 @@
     <icon src="https://images.metadata.sky.com/pd-image/546816ff-57bd-4990-8457-82a5468ee150/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261112070000 +0000" stop="20261112080000 +0000">
-    <title lang="en">Great Value Jewellery</title>
-    <desc lang="en">Shop and save with live falling jewellery auctions from Gemporia your family jeweller.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fbc3bfe8-9819-446d-a20f-ae59867d8f01/cover"/>
+    <title lang="en">Last Chance Speed Wheel!</title>
+    <desc lang="en">It's the wheel that will have you in a spin! Join us for our last chance deals and get yours before they're gone forever!</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9e5abd3a-e20d-4ed6-9d44-b698383e45a4/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261112080000 +0000" stop="20261112090000 +0000">
-    <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4f7a0ab7-c6c0-4afd-b706-a24980f4f08f/cover"/>
+    <title lang="en">Last Chance Speed Wheel!</title>
+    <desc lang="en">It's the wheel that will have you in a spin! Join us for our last chance deals and get yours before they're gone forever!</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d8d5be9a-341a-4896-81a8-093bc0f249f4/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261112090000 +0000" stop="20261112100000 +0000">
-    <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f19a5baa-a51a-465b-a9b5-cfd15efc927f/cover"/>
+    <title lang="en">White Zircon</title>
+    <desc lang="en">Few gemstones shine brighter than White Zircon, and we have a whole hour of it for you! Join us live now.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4b61eed7-0977-4295-9cb9-2dcb695576e7/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261112100000 +0000" stop="20261112110000 +0000">
-    <title lang="en">Live Falling Auctions</title>
-    <desc lang="en">Watch live as the prices fall during our jewellery auctions at Gemporia.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d40fd38c-2bdd-4292-850d-5986f9edaaaa/cover"/>
+    <title lang="en">Diamond Showcase</title>
+    <desc lang="en">Beauty, elegance and sophistication - a stunning showcase of Diamonds. Don't miss your chance to join the 'Carat Club' at incredible prices!</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/07d3ce95-d119-4206-b9a8-6a3f33cebd73/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261112110000 +0000" stop="20261112120000 +0000">
-    <title lang="en">Great Value Jewellery</title>
-    <desc lang="en">Shop and save with live falling jewellery auctions from Gemporia your family jeweller.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c916e6bf-1c70-4efe-a8b8-a8022b84dc5d/cover"/>
+    <title lang="en">Anahi Ametrine</title>
+    <desc lang="en">A mixture of Amethyst and Citrine in one gemstone and hailing from one location, experience the wonder that is Anahi Ametrine.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/59e66b5f-3f47-4c31-b209-16cdcb3c7903/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261112120000 +0000" stop="20261112130000 +0000">
-    <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05f82419-3586-4218-81ee-ddeac7309c8d/cover"/>
+    <title lang="en">Naturally Lavender Pearls</title>
+    <desc lang="en">Known worldwide for their beauty and elegance, Lavender Pearls are one of the most sought-after gemstones on the planet.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/95bf9ab9-fed5-4035-a2c1-d38f3a19e934/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261112130000 +0000" stop="20261112140000 +0000">
     <title lang="en">Zambian Emerald Showcase</title>
@@ -127156,9 +127133,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/729bbf46-ec3c-4f44-87e5-38cbdf6b2f53/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261112160000 +0000" stop="20261112170000 +0000">
-    <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/40e5c141-afaa-4c80-a917-d1fb17ff7660/cover"/>
+    <title lang="en">Silver Obsidian with Toby Cavill</title>
+    <desc lang="en">Said to be a beneficial grounding stone, don't miss your chance to add Silver Obsidian to your gemstone collection!</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/171fba9c-3c8b-4ba5-a845-aef64b3baa6a/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261112170000 +0000" stop="20261112180000 +0000">
     <title lang="en">Ruby Showcase</title>
@@ -127166,9 +127143,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/3ff50d5a-1445-4ec5-8ae6-c812563e6c6c/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261112180000 +0000" stop="20261112190000 +0000">
-    <title lang="en">Live Falling Auctions</title>
-    <desc lang="en">Watch live as the prices fall during our jewellery auctions at Gemporia.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/afce9cb2-4757-4f61-984c-45175f978881/cover"/>
+    <title lang="en">Hot Pick at Six</title>
+    <desc lang="en">Tune in this hour for our incredible Hot Pick at Six! A fantastic deal on a beautiful piece of jewellery.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/96b228f4-cd7c-4532-8627-8722ee65115a/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261112190000 +0000" stop="20261112200000 +0000">
     <title lang="en">Ratanakiri White Zircon</title>
@@ -127176,9 +127153,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/efd846e9-bffb-47dd-a01d-daee079e7061/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261112200000 +0000" stop="20261112210000 +0000">
-    <title lang="en">Sleeping Beauty Turquoise Jewelry</title>
-    <desc lang="en">Sleeping Beauty Turquoise is revered and highly sought after due to its pure sky blue color. Join us today as we uncover this beautiful collection.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e623e6f7-7115-40b1-ab53-4f0f0ac49551/cover"/>
+    <title lang="en">Sleeping Beauty Turquoise</title>
+    <desc lang="en">With the most perfect Sea Blue colours, Sleeping Beauty Turquoise is from a now depleted mine. Tune in for this incredible showcase.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/de3860ff-8e6a-30ca-bdfe-d907a2ae796f/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261112210000 +0000" stop="20261112220000 +0000">
     <title lang="en">Tahitian Cultured Pearl</title>
@@ -127197,12 +127174,12 @@
   </programme>
   <programme channel="GemsTV.uk" start="20261113000000 +0000" stop="20261113010000 +0000">
     <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
+    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dfbda0ee-a4f8-4c4c-a9d1-681576e4eb55/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261113010000 +0000" stop="20261113020000 +0000">
     <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
+    <desc lang="en">Join us for huge savings on our genuine gemstone jewellery at Gemporia, your family jeweller.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e7bba283-547c-4558-b2b3-b7c8b088f700/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261113020000 +0000" stop="20261113030000 +0000">
@@ -127217,12 +127194,12 @@
   </programme>
   <programme channel="GemsTV.uk" start="20261113040000 +0000" stop="20261113050000 +0000">
     <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
+    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8194d840-c41e-42f5-a78e-fda04663da08/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261113050000 +0000" stop="20261113060000 +0000">
     <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
+    <desc lang="en">Join us for huge savings on our genuine gemstone jewellery at Gemporia, your family jeweller.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7d57230f-06be-426e-b0d3-c345f5563158/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261113060000 +0000" stop="20261113070000 +0000">
@@ -127237,12 +127214,12 @@
   </programme>
   <programme channel="GemsTV.uk" start="20261113080000 +0000" stop="20261113090000 +0000">
     <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
+    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0b1868e8-c6e2-41b4-b654-52c3c05dd7c0/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261113090000 +0000" stop="20261113100000 +0000">
     <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
+    <desc lang="en">Join us for huge savings on our genuine gemstone jewellery at Gemporia, your family jeweller.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ea9e38dc-a010-40eb-bfde-416fcbba9f51/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261113100000 +0000" stop="20261113110000 +0000">
@@ -127262,7 +127239,7 @@
   </programme>
   <programme channel="GemsTV.uk" start="20261113130000 +0000" stop="20261113140000 +0000">
     <title lang="en">Csarite Showcase</title>
-    <desc lang="en">Said to be 10,000 times rarer than Diamonds - The beauty and intrigue of this regal gemstone lies within its exceptional brilliance and array of colours.</desc>
+    <desc lang="en">Said to be 10,000 times rarer than a Diamond, the intrigue of this regal gemstone lies within its brilliance and array of colours.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b53264ab-a485-4417-a759-0fbf8bdce99e/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261113140000 +0000" stop="20261113150000 +0000">
@@ -127277,12 +127254,12 @@
   </programme>
   <programme channel="GemsTV.uk" start="20261113160000 +0000" stop="20261113170000 +0000">
     <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
+    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90b9d185-b582-4ec3-94f6-ba8ccc5a9063/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261113170000 +0000" stop="20261113180000 +0000">
     <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
+    <desc lang="en">Join us for huge savings on our genuine gemstone jewellery at Gemporia, your family jeweller.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8e2e8cbc-c998-40b8-a19a-efb44ae16563/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261113180000 +0000" stop="20261113190000 +0000">
@@ -127296,14 +127273,14 @@
     <icon src="https://images.metadata.sky.com/pd-image/3e2a87c3-1666-4940-8b13-f43d4468ff60/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261113200000 +0000" stop="20261113210000 +0000">
-    <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/abecf5e1-4086-46f6-9507-395cc9c50fad/cover"/>
+    <title lang="en">Ammolite Showcase</title>
+    <desc lang="en">Ammolite displays a stunning play of colour, acknowledged as one of the rarest minerals on the planet it has formed over millions of years.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1c8f3a6a-00a3-49f0-ab85-4a532c760ee8/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261113210000 +0000" stop="20261113220000 +0000">
-    <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/aea45204-f811-48eb-9d77-59bcee97d40f/cover"/>
+    <title lang="en">Argyle Champagne Diamonds</title>
+    <desc lang="en">Join your host as we explore this exquisite parcel of Champagne Diamonds from the recently closed Argyle Mine in Australia.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/34890968-0a95-44f8-bf0c-2bed025276ac/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261113220000 +0000" stop="20261113230000 +0000">
     <title lang="en">Deal of the Day</title>
@@ -127337,12 +127314,12 @@
   </programme>
   <programme channel="GemsTV.uk" start="20261114040000 +0000" stop="20261114050000 +0000">
     <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
+    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices</desc>
     <icon src="https://images.metadata.sky.com/pd-image/282e5dba-00b8-43e5-b1ea-bb7bfb7c41fc/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261114050000 +0000" stop="20261114060000 +0000">
     <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
+    <desc lang="en">Join us for huge savings on our genuine gemstone jewellery at Gemporia, your family jeweller.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8b7d5b9a-f60c-4087-979b-32d3d66d3501/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261114060000 +0000" stop="20261114070000 +0000">
@@ -127357,28 +127334,28 @@
   </programme>
   <programme channel="GemsTV.uk" start="20261114080000 +0000" stop="20261114090000 +0000">
     <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
+    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices</desc>
     <icon src="https://images.metadata.sky.com/pd-image/22a11b53-1b68-429e-bd3d-211126a40a48/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261114090000 +0000" stop="20261114100000 +0000">
     <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
+    <desc lang="en">Join us for huge savings on our genuine gemstone jewellery at Gemporia, your family jeweller.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5f7c244d-9926-4466-861b-45e2ea0e3e21/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261114100000 +0000" stop="20261114110000 +0000">
-    <title lang="en">Live Falling Auctions</title>
-    <desc lang="en">Watch live as the prices fall during our jewellery auctions at Gemporia.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dbccced7-df4f-494d-a57b-34e48ca3fc45/cover"/>
+    <title lang="en">Cavill &amp; Co. Collection</title>
+    <desc lang="en">There's nothing plain about 18ct plain gold jewellery from Cavill &amp; Co. Well-designed, carefully-crafted, and amazingly-priced pieces in luxurious 18K Gold. Watch our jewellery experts live as they...</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b8f04618-2e48-4422-952d-da3c305f3a97/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261114110000 +0000" stop="20261114120000 +0000">
-    <title lang="en">Anahi Ametrine</title>
-    <desc lang="en">A mixture of Amethyst and Citrine in one gemstone and hailing from one location, experience the wonder that is Anahi Ametrine.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/41b31af4-581d-4ced-b19d-be86a7aee0e4/cover"/>
+    <title lang="en">Cavill &amp; Co. Collection</title>
+    <desc lang="en">There's nothing plain about 18ct plain gold jewellery from Cavill &amp; Co. Well-designed, carefully-crafted, and amazingly-priced pieces in luxurious 18K Gold. Watch our jewellery experts live as they...</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c8089f06-174d-482f-871e-27fffdf992e8/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261114120000 +0000" stop="20261114130000 +0000">
-    <title lang="en">Asscher Cut</title>
-    <desc lang="en">A cut that will display an endless 'hall of mirrors' internal reflection giving you endless hours of pleasure which truly brings any gemstone to life!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/626a6135-a3e5-42fc-9c30-c1709eb21b79/cover"/>
+    <title lang="en">Cavill &amp; Co. Collection</title>
+    <desc lang="en">There's nothing plain about 18ct plain gold jewellery from Cavill &amp; Co. Well-designed, carefully-crafted, and amazingly-priced pieces in luxurious 18K Gold. Watch our jewellery experts live as they...</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/41c6c2d1-82fb-4744-bbab-68eb227a5cd3/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261114130000 +0000" stop="20261114140000 +0000">
     <title lang="en">Danburite</title>
@@ -127397,7 +127374,7 @@
   </programme>
   <programme channel="GemsTV.uk" start="20261114160000 +0000" stop="20261114170000 +0000">
     <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
+    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices</desc>
     <icon src="https://images.metadata.sky.com/pd-image/adcf0c82-be96-43e3-adc9-2e7cd5d799c2/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261114170000 +0000" stop="20261114180000 +0000">
@@ -127457,12 +127434,12 @@
   </programme>
   <programme channel="GemsTV.uk" start="20261115040000 +0000" stop="20261115050000 +0000">
     <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
+    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices</desc>
     <icon src="https://images.metadata.sky.com/pd-image/adcf0c82-be96-43e3-adc9-2e7cd5d799c2/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261115050000 +0000" stop="20261115060000 +0000">
     <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
+    <desc lang="en">Join us for huge savings on our genuine gemstone jewellery at Gemporia, your family jeweller.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ef460cbb-089c-4f75-ae3a-d534556123ea/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261115060000 +0000" stop="20261115070000 +0000">
@@ -127477,23 +127454,23 @@
   </programme>
   <programme channel="GemsTV.uk" start="20261115080000 +0000" stop="20261115090000 +0000">
     <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
+    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices</desc>
     <icon src="https://images.metadata.sky.com/pd-image/adcf0c82-be96-43e3-adc9-2e7cd5d799c2/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
+    <desc lang="en">Join us for huge savings on our genuine gemstone jewellery at Gemporia, your family jeweller.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3ed05c6c-d1bc-4e77-b0e1-c2e44afd9a4f/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261115100000 +0000" stop="20261115110000 +0000">
-    <title lang="en">Wobito Briolette Cut</title>
-    <desc lang="en">Join us for the Briolette Cut Collection showcase created by the World famous 3rd generation Idar-Oberstein master gem cutter Rudi Wobito. Tune in to grab your exclusive piece now!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f656701d-806f-4254-a944-eae845a2579a/cover"/>
+    <title lang="en">Live Falling Auctions</title>
+    <desc lang="en">Watch live as the prices fall during our jewellery auctions at Gemporia.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7713bf4f-8d28-4b15-ac65-90327034203b/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261115110000 +0000" stop="20261115120000 +0000">
-    <title lang="en">Great Value Jewellery</title>
-    <desc lang="en">Shop and save with live falling jewellery auctions from Gemporia your family jeweller.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e19e13e-d0c4-4871-8419-9c2830416309/cover"/>
+    <title lang="en">Anahi Ametrine</title>
+    <desc lang="en">A mixture of Amethyst and Citrine in one gemstone and hailing from one location, experience the wonder that is Anahi Ametrine.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b234f46-8619-4c3d-b2a4-2758e0a3da89/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261115120000 +0000" stop="20261115130000 +0000">
     <title lang="en">Apatite</title>
@@ -127517,13 +127494,13 @@
   </programme>
   <programme channel="GemsTV.uk" start="20261115160000 +0000" stop="20261115170000 +0000">
     <title lang="en">Gemporia Jewellery</title>
-    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices.</desc>
+    <desc lang="en">Join your host live for beautiful gemstones set in precious gold and silver at incredible prices</desc>
     <icon src="https://images.metadata.sky.com/pd-image/adcf0c82-be96-43e3-adc9-2e7cd5d799c2/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261115170000 +0000" stop="20261115180000 +0000">
-    <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/096fdc5f-7f11-43d4-bef1-35e98bd4d455/cover"/>
+    <title lang="en">Asscher Cut</title>
+    <desc lang="en">A cut that will display an endless 'hall of mirrors' internal reflection giving you endless hours of pleasure which truly brings any gemstone to life!</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9640298d-eac5-4cbb-bee8-fbc0a34be564/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261115180000 +0000" stop="20261115190000 +0000">
     <title lang="en">Hot Pick at Six</title>
@@ -127542,7 +127519,7 @@
   </programme>
   <programme channel="GemsTV.uk" start="20261115210000 +0000" stop="20261115220000 +0000">
     <title lang="en">Huge Jewellery Savings</title>
-    <desc lang="en">Discover the rich red beauty of Thai Ruby with this stunning bracelet. A captivating gemstone with timeless appeal, beautifully crafted to bring colour and elegance to your jewellery collection.</desc>
+    <desc lang="en">Join us for huge savings on our genuine gemstone jewellery at Gemporia, your family jeweller.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/13fd6f0b-51d1-4fe1-a934-2a7b5dc5b7f7/cover"/>
   </programme>
   <programme channel="GemsTV.uk" start="20261115220000 +0000" stop="20261115230000 +0000">
@@ -127581,9 +127558,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/d09af8e7-385f-473c-be38-a9316ca30e44/cover"/>
   </programme>
   <programme channel="GoldRadio.uk" start="20261109160000 +0000" stop="20261109190000 +0000">
-    <title lang="en">Kirsty Gallacher</title>
-    <desc lang="en">Kirsty Gallacher plays All Time Classics on Gold Radio Drive, every weekday from 4pm!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ec2bfd77-3a21-4489-b2e5-298bd7b3e150/cover"/>
+    <title lang="en">Gold Radio Drive with Russ Morris</title>
+    <desc lang="en">Russ Morris plays All Time Classics on Gold Radio Drive, every weekday from 4pm!</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/34e457a5-fee3-41bd-ad80-cb23fa29b862/cover"/>
   </programme>
   <programme channel="GoldRadio.uk" start="20261109190000 +0000" stop="20261109220000 +0000">
     <title lang="en">Evenings on Gold Radio</title>
@@ -149174,13 +149151,13 @@
   </programme>
   <programme channel="ITV1Granada.uk" start="20261109060000 +0000" stop="20261109093000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
-    <icon src="https://img.freeviewplay.tv/e264540363c648c092c509326541c652e?w=800"/>
+    <desc lang="en">Health Minister Karin Smyth joins Susanna &amp; Ed to announce plans to help GPs keep vulnerable patients out of hospital this winter. Plus, James Blunt on his Celebrity Traitors 'betrayal'.</desc>
+    <icon src="https://img.freeviewplay.tv/p910eaaf8286c84322ad49bb309f80eb2?w=800"/>
   </programme>
   <programme channel="ITV1Granada.uk" start="20261109093000 +0000" stop="20261109100000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
-    <icon src="https://img.freeviewplay.tv/ee75a43e9fb9d9207589285a849260334?w=800"/>
+    <desc lang="en">As he prepares to make his return to the West End, Michael Ball is in the studio. And Ross King's in LA with the latest headlines from Hollywood.</desc>
+    <icon src="https://img.freeviewplay.tv/p57a05fb7bf7d9174b8d1bb69b32184f4?w=800"/>
   </programme>
   <programme channel="ITV1Granada.uk" start="20261109100000 +0000" stop="20261109123000 +0000">
     <title lang="en">This Morning</title>
@@ -193551,8 +193528,7 @@
     <desc lang="en">Find the perfect sparkle with this dazzling collection of Diamonique simulated diamonds. You can enjoy all the glamour and style of diamonds without the price tag!</desc>
   </programme>
   <programme channel="QVC.uk" start="20261113170000 +0000" stop="20261113180000 +0000">
-    <title lang="en">QVC Selection</title>
-    <desc lang="en">With specially chosen products from across the QVC range, there's something for everyone in the QVC Selection.</desc>
+    <title lang="en">Fashion on Friday with Orla Kiely</title>
   </programme>
   <programme channel="QVC.uk" start="20261113180000 +0000" stop="20261113190000 +0000">
     <title lang="en">Kipling Christmas Glitter &amp; Gifting</title>
@@ -193992,8 +193968,7 @@
     <title lang="en">High Street New to Sale</title>
   </programme>
   <programme channel="QVC2.uk" start="20261111160000 +0000" stop="20261111170000 +0000">
-    <title lang="en">QVC Selection</title>
-    <desc lang="en">With specially chosen products from across the QVC range, there's something for everyone in the QVC Selection.</desc>
+    <title lang="en">New Season East Clothing</title>
   </programme>
   <programme channel="QVC2.uk" start="20261111170000 +0000" stop="20261111180000 +0000">
     <title lang="en">Best of QVC Style</title>
@@ -194497,9 +194472,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/7e7c56bb-9188-4895-bc2c-fe221fbbecf0/cover"/>
   </programme>
   <programme channel="QVCBeauty.uk" start="20261109160000 +0000" stop="20261109170000 +0000">
-    <title lang="en">Nails Inc Christmas Gifts</title>
-    <desc lang="en">Hit the nail on the head with Christmas gifts for friends and family from Nails Inc - they'll love the perfecting treatments, on-trend colours and fabulous finishing touches.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f0fddd7a-587f-456a-8bdc-5c9f8105d1ec/cover"/>
+    <title lang="en">Gift Ideas with L'Occitane</title>
+    <desc lang="en">Discover a range of brilliant beauty gifts to delight your friends and family this year, featuring gorgeous bath, body and skincare products from the experts at L'Occitane.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1269be22-1991-4c2b-abe9-2748ea0acb09/cover"/>
   </programme>
   <programme channel="QVCBeauty.uk" start="20261109170000 +0000" stop="20261109180000 +0000">
     <title lang="en">Molton Brown Indulgent Gifts</title>
@@ -195342,9 +195317,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/350f80bb-fe45-4243-b862-d450f5b6cf65/cover"/>
   </programme>
   <programme channel="QVCExtra.uk" start="20261109150000 +0000" stop="20261109160000 +0000">
-    <title lang="en">The Charlie Bears Collection</title>
-    <desc lang="en">QVC is proud to present the Charlie Bears Collection, an exceptional range of collectable plush and limited edition bears, exclusively designed by celebrated teddy bear artists from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96c4c956-168d-4a0f-9c8c-1358202e33ed/cover"/>
+    <title lang="en">QVC Christmas</title>
+    <desc lang="en">In this hour, discover festive deals across Fashion, Beauty, Jewellery and more - the perfect way to treat yourself and loved ones at this time of year, or just take advantage of our great offers!</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/788db7be-b157-44b7-a04c-6868ed69a497/cover"/>
   </programme>
   <programme channel="QVCExtra.uk" start="20261109160000 +0000" stop="20261109170000 +0000">
     <title lang="en">Christmas Gift Ideas</title>
@@ -196207,9 +196182,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/070ad8d9-ca7c-4312-9698-40a823150edc/cover"/>
   </programme>
   <programme channel="QVCStyle.uk" start="20261109180000 +0000" stop="20261109190000 +0000">
-    <title lang="en">Accessory Gifts by Kipling</title>
-    <desc lang="en">Accessorise to the max with these great gift ideas from the purveyors of funky, fashionable bags!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7ec97521-0612-41ac-a6f1-45596c9b2048/cover"/>
+    <title lang="en">Fashion on Friday</title>
+    <desc lang="en">Step into the world of Helene Berman, offering beautiful womenswear that boasts a classic, elegant style you'll love. Keep things timeless in your wardrobe with this fabulous collection.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ef6c5c36-24af-4cad-b579-804456865bf8/cover"/>
   </programme>
   <programme channel="QVCStyle.uk" start="20261109190000 +0000" stop="20261109200000 +0000">
     <title lang="en">Accessories by Kipling</title>
@@ -196227,9 +196202,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/d2730bd1-c7b9-4eb8-a77b-1e2ca3f00f27/cover"/>
   </programme>
   <programme channel="QVCStyle.uk" start="20261109220000 +0000" stop="20261109230000 +0000">
-    <title lang="en">Kim &amp; Co</title>
-    <desc lang="en">Join designer Kim Mendelson as she presents her latest lines. Daytime chic to evening sophistication, weekend comfort to party glamour, the Kim &amp; Co collection is designed for every aspect of life.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/38ebbf9b-6793-4e0f-91ba-6c62d067a8e0/cover"/>
+    <title lang="en">Ben de Lisi</title>
+    <desc lang="en">Ben de Lisi is bringing his gorgeous fashion aesthetic to QVC UK. With a focus on beautiful fabrics and innovative design, Ben's distinctive look is the epitome of modern elegance.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/19730112-5510-4356-9b1d-2f0ac205e8c2/cover"/>
   </programme>
   <programme channel="QVCStyle.uk" start="20261109230000 +0000" stop="20261110000000 +0000">
     <title lang="en">Accessory Gifts by Kipling</title>
@@ -207272,7 +207247,7 @@
   <programme channel="RTE2.ie" start="20261115112000 +0000" stop="20261115130000 +0000">
     <title lang="en">The Christmas Set Up</title>
     <desc lang="en">Hugo reunites with Patrick, his high school crush, with the help of his mom Kate. As they start to fall in love with each other, he suddenly needs to head to London for work. (HD)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1f87fca8-0a66-4bb4-bf0d-6a8a887fe817/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c1219cb5-57c0-448b-9356-3fa9018a5606/cover"/>
   </programme>
   <programme channel="RTE2.ie" start="20261115130000 +0000" stop="20261115153000 +0000">
     <title lang="en">Navan Winter Festival</title>
@@ -207329,7 +207304,9 @@
   <programme channel="RTE2.ie" start="20261115230000 +0000" stop="20261115235500 +0000">
     <title lang="en">The Light in the Hall: Still Waters</title>
     <desc lang="en">Caryl's torn between truth and loyalty, as new leads and Rhys's doubts stir up secrets. Meanwhile, protests deepen the divides in the community. (HD)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/10401041-4b45-448f-a223-ca47a167b5a9/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/44eedffc-f2d3-4082-ab0e-e58b7afe901a/cover"/>
+    <episode-num system="xmltv_ns">1.2.0</episode-num>
+    <episode-num system="onscreen">S2E3</episode-num>
   </programme>
   <programme channel="RTE2.ie" start="20261115235500 +0000" stop="20261116005500 +0000">
     <title lang="en">Nightsleeper</title>
@@ -208673,12 +208650,16 @@
   <programme channel="RTE2Plus1.ie" start="20261115012500 +0000" stop="20261115021000 +0000">
     <title lang="en">Under The Bridge</title>
     <desc lang="en">Beautiful British Columbia: In 1979, Suman and Manjit fall in love, setting into motion a series of events that will change their lives forever.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8a9e7bed-6679-4aa1-87fe-6ac9d5e3bd92/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/05791207-7024-3bb1-995a-baef58f2b718/cover"/>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme channel="RTE2Plus1.ie" start="20261115021000 +0000" stop="20261115031000 +0000">
     <title lang="en">The Light in the Hall</title>
     <desc lang="en">Cat and Joe return to the woods to see whether anything ignites Joe's memories.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/58e9128e-5135-4067-b1b3-d8886a914235/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/18eadecf-90fd-4836-85c7-dc8236e54dc8/cover"/>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme channel="RTE2Plus1.ie" start="20261115031000 +0000" stop="20261115070000 +0000">
     <title lang="en">EuroNews</title>
@@ -208693,22 +208674,30 @@
   <programme channel="RTE2Plus1.ie" start="20261115084500 +0000" stop="20261115085500 +0000">
     <title lang="en">Open Season: Call of Nature</title>
     <desc lang="en">Playing Dead: When a visiting tortoise gets in an accident, Elliot is forced into the most awkward of charades.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ce834e85-ee3e-4601-83a9-dc931c202219/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a2ee3fc5-136a-4437-a3cc-29018a426cc6/cover"/>
+    <episode-num system="xmltv_ns">0.46.0</episode-num>
+    <episode-num system="onscreen">S1E47</episode-num>
   </programme>
   <programme channel="RTE2Plus1.ie" start="20261115085500 +0000" stop="20261115091000 +0000">
     <title lang="en">Open Season: Call of Nature</title>
     <desc lang="en">Beef In the Mess Hall: Elliot's big mouth gets him in trouble once again, when he accepts the challenge of a fight with the Pet Palace's most ferocious member.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2b6b07c4-fae5-4254-b985-8ae9060fd27c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/37177c82-430b-3919-908d-6ed160d70ba3/cover"/>
+    <episode-num system="xmltv_ns">0.47.0</episode-num>
+    <episode-num system="onscreen">S1E48</episode-num>
   </programme>
   <programme channel="RTE2Plus1.ie" start="20261115091000 +0000" stop="20261115092500 +0000">
     <title lang="en">Holt as Gaeilge</title>
     <desc lang="en">Damháin Phortán: Bíonn ar Mhata aghaidh a thabhairt ar an bhfaitíos chun Roo agus Cré a thabhairt slán as scoilt dhainséarach atá lán le damháin alla-portáin chontúirteacha.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ed386d97-7b6f-4372-b99f-dbac6f6be6bb/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a2332696-b73d-42c9-a5e3-bd582c04f137/cover"/>
+    <episode-num system="xmltv_ns">0.6.0</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme channel="RTE2Plus1.ie" start="20261115092500 +0000" stop="20261115094000 +0000">
     <title lang="en">Holt as Gaeilge</title>
     <desc lang="en">Dopó: Tugann an triúr aghaidh ar fheallmharfóirí den scoth Blight chun píosa ríthábhachtach de Loah a chosaint. Cé go gcailleann siad go leor tugtar splanc dóchais dóibh.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3fb369c0-e892-427c-b227-5a87e4492309/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/12a41b03-acd4-4674-9a4d-de3467c80569/cover"/>
+    <episode-num system="xmltv_ns">0.7.0</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme channel="RTE2Plus1.ie" start="20261115094000 +0000" stop="20261115100500 +0000">
     <title lang="en">Wild Kratts</title>
@@ -208718,12 +208707,16 @@
   <programme channel="RTE2Plus1.ie" start="20261115100500 +0000" stop="20261115103000 +0000">
     <title lang="en">The Next Step</title>
     <desc lang="en">In the final round of internationals, A-Troupe face off against fearsome competitors, sticking together through their biggest challenge yet.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d6ae5a45-2bfc-4bc6-96c5-899cb9d483db/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2b336724-b97f-39be-b018-d04b9a982403/cover"/>
+    <episode-num system="xmltv_ns">8.21.0</episode-num>
+    <episode-num system="onscreen">S9E22</episode-num>
   </programme>
   <programme channel="RTE2Plus1.ie" start="20261115103000 +0000" stop="20261115110000 +0000">
     <title lang="en">The Sarah Jane Adventures</title>
     <desc lang="en">Part two of two. The Doctor returns to help Sarah Jane combat the Pantheon of Discord, but the friends become separated across different time zones.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2d0064bb-73ae-4999-824a-88c266c4fb8d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/8a1a0c06-8af2-43a7-b6c0-d982b123cb42/cover"/>
+    <episode-num system="xmltv_ns">2.5.0</episode-num>
+    <episode-num system="onscreen">S3E6</episode-num>
   </programme>
   <programme channel="RTE2Plus1.ie" start="20261115110000 +0000" stop="20261115112000 +0000">
     <title lang="en">news2day Weekly</title>
@@ -208733,17 +208726,21 @@
   <programme channel="RTE2Plus1.ie" start="20261115112000 +0000" stop="20261115115000 +0000">
     <title lang="en">Home and Away</title>
     <desc lang="en">The brothers are locked in battle - Sonny's furious at Dylan for upsetting Lacey, and Dylan's sick of Sonny always thinking the worst of him.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/301ff94e-8921-4442-86ee-e8e4cc562a9c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0d53c497-48bf-47c2-9ce5-698449e91bde/cover"/>
+    <episode-num system="xmltv_ns">38.188.0</episode-num>
+    <episode-num system="onscreen">S39E189</episode-num>
   </programme>
   <programme channel="RTE2Plus1.ie" start="20261115115000 +0000" stop="20261115122000 +0000">
     <title lang="en">Home and Away</title>
     <desc lang="en">Levi arrives home from visiting Eden in hospital and Mackenzie's worried about how little sleep and self-care he's allowing himself.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/18494d78-069c-4f69-97da-246689efe31a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/87d960b9-6472-4b87-b809-745357d7e4ed/cover"/>
+    <episode-num system="xmltv_ns">38.189.0</episode-num>
+    <episode-num system="onscreen">S39E190</episode-num>
   </programme>
   <programme channel="RTE2Plus1.ie" start="20261115122000 +0000" stop="20261115140000 +0000">
     <title lang="en">The Christmas Set Up</title>
     <desc lang="en">Hugo reunites with Patrick, his high school crush, with the help of his mom Kate. As they start to fall in love with each other, he suddenly needs to head to London for work.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5998f390-f105-4095-ad61-3f5ed7c921e9/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c1219cb5-57c0-448b-9356-3fa9018a5606/cover"/>
   </programme>
   <programme channel="RTE2Plus1.ie" start="20261115140000 +0000" stop="20261115163000 +0000">
     <title lang="en">Navan Winter Festival</title>
@@ -214917,7 +214914,9 @@
   <programme channel="RTEOne.ie" start="20261115223000 +0000" stop="20261115231000 +0000">
     <title lang="en">Mrs Brown's Boys - Mammy's Motel</title>
     <desc lang="en">Mrs Brown's Boys: Mammy's Motel: The doting mother offers Winnie and Sharon a place to stay when the pipes in their house burst. (HD)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4ce681d9-58f3-4d00-b635-8ec0da06ff4e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/88cad2b6-bbbd-4ed7-be19-1f9624714415/cover"/>
+    <episode-num system="xmltv_ns">2017.1.0</episode-num>
+    <episode-num system="onscreen">S2018E2</episode-num>
   </programme>
   <programme channel="RTEOne.ie" start="20261115231000 +0000" stop="20261116001500 +0000">
     <title lang="en">The Week In Politics</title>
@@ -216116,7 +216115,9 @@
   <programme channel="RTEOnePlus1.ie" start="20261115233000 +0000" stop="20261116001000 +0000">
     <title lang="en">Mrs Brown's Boys - Mammy's Motel</title>
     <desc lang="en">Mrs Brown's Boys: Mammy's Motel: The doting mother offers Winnie and Sharon a place to stay when the pipes in their house burst.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7df68d34-caaf-4671-83d2-2916eb521b83/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/88cad2b6-bbbd-4ed7-be19-1f9624714415/cover"/>
+    <episode-num system="xmltv_ns">2017.1.0</episode-num>
+    <episode-num system="onscreen">S2018E2</episode-num>
   </programme>
   <programme channel="RTERadio1.ie" start="20261108220000 +0000" stop="20261108230000 +0000">
     <title lang="en">South Wind Blows</title>
@@ -216521,7 +216522,7 @@
   <programme channel="RTERadio1.ie" start="20261114110000 +0000" stop="20261114130000 +0000">
     <title lang="en">Brendan O'Connor</title>
     <desc lang="en">Brendan O'Connor presents a live stimulating mix of news, interviews, reports and discussion.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/24b5f38e-04ca-4231-8fe0-35c67ee39018/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/1188790a-0d0f-4065-bac9-8e171f08ab48/cover"/>
   </programme>
   <programme channel="RTERadio1.ie" start="20261114130000 +0000" stop="20261114140000 +0000">
     <title lang="en">Saturday with Cormac Ó hEadhra</title>
@@ -216716,7 +216717,7 @@
   <programme channel="RTERnaG.ie" start="20261109143000 +0000" stop="20261109170000 +0000">
     <title lang="en">Cóisir Cheoil</title>
     <desc lang="en">Clár ceoil á chur i láthair ag Dónall Mac Ruairí ó stiúideo na nDoirí Beaga, i nDún na nGall.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ee2fb9b5-33fc-441d-97ff-fdc9b6fed93d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/deae2369-b04a-47b3-b7bc-51653b1bf2ab/cover"/>
   </programme>
   <programme channel="RTERnaG.ie" start="20261109170000 +0000" stop="20261109175500 +0000">
     <title lang="en">Tús Áite</title>
@@ -216821,7 +216822,7 @@
   <programme channel="RTERnaG.ie" start="20261110143500 +0000" stop="20261110170000 +0000">
     <title lang="en">Cóisir Cheoil</title>
     <desc lang="en">Clár ceoil á chur i láthair ag Dónall Mac Ruairí ó stiúideo na nDoirí Beaga, i nDún na nGall.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c848e99d-3950-4f92-9714-75c86fea47b9/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c07addc0-08cc-48da-8096-016bdc5a3cbf/cover"/>
   </programme>
   <programme channel="RTERnaG.ie" start="20261110170000 +0000" stop="20261110175500 +0000">
     <title lang="en">Tús Áite</title>
@@ -217364,14 +217365,14 @@
     <icon src="https://images.metadata.sky.com/pd-image/2fdbc8ed-ffd2-48bb-88a1-f85cb74227ca/cover"/>
   </programme>
   <programme channel="RadioX.uk" start="20261109160000 +0000" stop="20261109190000 +0000">
-    <title lang="en">Johnny Vaughan</title>
-    <desc lang="en">Johnny is joined by the crack team of Gavin "The Woodman" Woods and Dr Sunta Templeton for the Radio X 4til7 Thang.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/559448c7-8fb1-4466-a322-ee69acddb501/cover"/>
+    <title lang="en">Dan O'Connell</title>
+    <desc lang="en">Dan is in for Johnny and the Thang Gang tonight!</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4cc3e6b4-4208-49f7-a695-f0b2f0db670b/cover"/>
   </programme>
   <programme channel="RadioX.uk" start="20261109190000 +0000" stop="20261109220000 +0000">
-    <title lang="en">Dan O'Connell</title>
-    <desc lang="en">Dan OC is back on the Evening Show with guests, features, chat and the best music | @RadioX</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/98c8e85a-36a3-3f01-aacd-5e62e45ed1db/cover"/>
+    <title lang="en">Indie Night</title>
+    <desc lang="en">Rich Wolfenden is on the Evening Show with guests, features, chat and the best music | @RadioX</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1227bd28-fb8f-4660-8ec8-554757174b1d/cover"/>
   </programme>
   <programme channel="RadioX.uk" start="20261109220000 +0000" stop="20261110010000 +0000">
     <title lang="en">Sarah Gosling</title>
@@ -225056,8 +225057,9 @@
     <premiere/>
   </programme>
   <programme channel="S4C.uk" start="20261115171500 +0000" stop="20261115194500 +0000">
-    <title lang="en">Sgorio 2026/27: gemau byw llinol</title>
-    <icon src="https://images.metadata.sky.com/pd-image/acad257c-d5dc-4a4d-88f4-0e450a5bc326/cover"/>
+    <title lang="en">Sgorio: Cambrian v Bangor 1876</title>
+    <desc lang="en">Gêm Trydedd Rownd Cwpan Cymru FAW rhwng Cambrian United a Bangor 1876, yn Stadiwm M&amp;P Group 3G. C/G 17:35. The FAW Welsh Cup Round Three tie: Cambrian United v Bangor City 1876, K/O 17:35.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/523a726e-343e-4d2e-b01d-3ab876eb59c4/cover"/>
   </programme>
   <programme channel="S4C.uk" start="20261115194500 +0000" stop="20261115200000 +0000">
     <title lang="en">Newyddion S4C</title>
@@ -225579,12 +225581,12 @@
     <title lang="en">Laura's Story: The Stranger in My Bed</title>
     <desc lang="en">Laura waives anonymity after her jailed husband repeatedly drugged, filmed, and invited strange men to rape her at home, echoing the shocking 2024 Gisèle Pelicot case in France.</desc>
   </programme>
-  <programme channel="STVCentral.uk" start="20261112234500 +0000" stop="20261113005500 +0000">
+  <programme channel="STVCentral.uk" start="20261112234500 +0000" stop="20261113001500 +0000">
     <title lang="en">Millionaire Hot Seat</title>
     <desc lang="en">Jeremy Clarkson hosts the quiz where each episode sees six hopefuls compete for £1 million. However, only one player can take their place in the Hot Seat at a time and answer multiple-choice questions to work their way up the Money Ladder</desc>
     <icon src="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/297c1bca-d25f-5187-9feb-6898c61a475e.jpg"/>
   </programme>
-  <programme channel="STVCentral.uk" start="20261113005500 +0000" stop="20261113030000 +0000">
+  <programme channel="STVCentral.uk" start="20261113001500 +0000" stop="20261113030000 +0000">
     <title lang="en">Shop on TV</title>
     <icon src="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/aac68f56-48b3-5869-a5fd-7e0462b7c6d7.jpg"/>
   </programme>
@@ -225889,6 +225891,7 @@
   <programme channel="STVCentral.uk" start="20261115232000 +0000" stop="20261116002500 +0000">
     <title lang="en">The Debrief with Dan and ROG</title>
     <desc lang="en">As two of the most talented fly halves the game has produced, Dan Biggar and Ronan O'Gara were never short of a word or two on the pitch and now they team up to talk rugby in The Debrief. Alongside Claire Thomas, Dan and Ronan will analyse the best of the action from rugby's Nations Championship</desc>
+    <icon src="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/b899834d-d64a-5531-bc01-ade1126cbfb3.jpg"/>
   </programme>
   <programme channel="STVCentralPlus1.uk" start="20261108232000 +0000" stop="20261109001500 +0000">
     <title lang="en">Long Lost Family</title>
@@ -226377,12 +226380,12 @@
     <title lang="en">Laura's Story: The Stranger in My Bed</title>
     <desc lang="en">Laura waives anonymity after her jailed husband repeatedly drugged, filmed, and invited strange men to rape her at home, echoing the shocking 2024 Gisèle Pelicot case in France.</desc>
   </programme>
-  <programme channel="STVCentralPlus1.uk" start="20261113004500 +0000" stop="20261113015500 +0000">
+  <programme channel="STVCentralPlus1.uk" start="20261113004500 +0000" stop="20261113011500 +0000">
     <title lang="en">Millionaire Hot Seat</title>
     <desc lang="en">Jeremy Clarkson hosts the quiz where each episode sees six hopefuls compete for £1 million. However, only one player can take their place in the Hot Seat at a time and answer multiple-choice questions to work their way up the Money Ladder</desc>
     <icon src="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/297c1bca-d25f-5187-9feb-6898c61a475e.jpg"/>
   </programme>
-  <programme channel="STVCentralPlus1.uk" start="20261113015500 +0000" stop="20261113040000 +0000">
+  <programme channel="STVCentralPlus1.uk" start="20261113011500 +0000" stop="20261113040000 +0000">
     <title lang="en">Shop on TV</title>
     <icon src="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/aac68f56-48b3-5869-a5fd-7e0462b7c6d7.jpg"/>
   </programme>
@@ -227165,12 +227168,12 @@
     <title lang="en">Laura's Story: The Stranger in My Bed</title>
     <desc lang="en">Laura waives anonymity after her jailed husband repeatedly drugged, filmed, and invited strange men to rape her at home, echoing the shocking 2024 Gisèle Pelicot case in France.</desc>
   </programme>
-  <programme channel="STVNorth.uk" start="20261112234500 +0000" stop="20261113005500 +0000">
+  <programme channel="STVNorth.uk" start="20261112234500 +0000" stop="20261113001500 +0000">
     <title lang="en">Millionaire Hot Seat</title>
     <desc lang="en">Jeremy Clarkson hosts the quiz where each episode sees six hopefuls compete for £1 million. However, only one player can take their place in the Hot Seat at a time and answer multiple-choice questions to work their way up the Money Ladder</desc>
     <icon src="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/297c1bca-d25f-5187-9feb-6898c61a475e.jpg"/>
   </programme>
-  <programme channel="STVNorth.uk" start="20261113005500 +0000" stop="20261113030000 +0000">
+  <programme channel="STVNorth.uk" start="20261113001500 +0000" stop="20261113030000 +0000">
     <title lang="en">Shop on TV</title>
     <icon src="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/aac68f56-48b3-5869-a5fd-7e0462b7c6d7.jpg"/>
   </programme>
@@ -227475,6 +227478,7 @@
   <programme channel="STVNorth.uk" start="20261115232000 +0000" stop="20261116002500 +0000">
     <title lang="en">The Debrief with Dan and ROG</title>
     <desc lang="en">As two of the most talented fly halves the game has produced, Dan Biggar and Ronan O'Gara were never short of a word or two on the pitch and now they team up to talk rugby in The Debrief. Alongside Claire Thomas, Dan and Ronan will analyse the best of the action from rugby's Nations Championship</desc>
+    <icon src="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/b899834d-d64a-5531-bc01-ade1126cbfb3.jpg"/>
   </programme>
   <programme channel="STVNorthPlus1.uk" start="20261108232000 +0000" stop="20261109001500 +0000">
     <title lang="en">Long Lost Family</title>
@@ -236524,10 +236528,10 @@
     <desc lang="en">A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/570138e4-1856-4591-9e03-226d5ab63d1d/cover"/>
   </programme>
-  <programme channel="SkyNews.uk" start="20261113213000 +0000" stop="20261113220000 +0000">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3951051f-f7f7-413c-bb3a-9e7559bbc176/cover"/>
+  <programme channel="SkyNews.uk" start="20261113210000 +0000" stop="20261113220000 +0000">
+    <title lang="en">The Drug Lords Next Door</title>
+    <desc lang="en">The Drug Lords Next Door: Undercover reporting reveals the rise of Albanian gangs taking over Britain's cocaine trade, from international supply lines to local streets. (S1, ep 1)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f53973ec-1ae0-48d9-ad06-f9e2ce57052a/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20261113220000 +0000" stop="20261113223000 +0000">
     <title lang="en">The Wrap With Gillian Joseph</title>
@@ -236719,15 +236723,10 @@
     <desc lang="en">Highlights from the Cathy Newman show, including news-making interviews, debate and straight-talking analysis from Westminster and beyond.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1095e667-6bfe-4fb8-8ea1-a20c8cf04fba/cover"/>
   </programme>
-  <programme channel="SkyNews.uk" start="20261114200000 +0000" stop="20261114203000 +0000">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a1d1293f-11c0-4aa4-9477-2ea00f4db6a1/cover"/>
-  </programme>
-  <programme channel="SkyNews.uk" start="20261114203000 +0000" stop="20261114210000 +0000">
-    <title lang="en">UK Tonight Highlights</title>
-    <desc lang="en">Another chance to see the big interviews this week on UK Tonight with Sarah-Jane Mee.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/25de8426-c932-49df-bb3e-56cb0a365260/cover"/>
+  <programme channel="SkyNews.uk" start="20261114200000 +0000" stop="20261114210000 +0000">
+    <title lang="en">The Drug Lords Next Door</title>
+    <desc lang="en">The Drug Lords Next Door: Undercover reporting reveals the rise of Albanian gangs taking over Britain's cocaine trade, from international supply lines to local streets. (S1, ep 1)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/92603a86-7028-4592-a64e-3c9feeca7f4f/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20261114210000 +0000" stop="20261114213000 +0000">
     <title lang="en">Sky News</title>
@@ -236929,15 +236928,10 @@
     <desc lang="en">Another chance to see the big interviews this week on UK Tonight with Sarah-Jane Mee.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b7765cd8-00f7-4e66-8edb-416ddc9f778c/cover"/>
   </programme>
-  <programme channel="SkyNews.uk" start="20261115210000 +0000" stop="20261115213000 +0000">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/63252a32-1805-4ec8-833e-2f4dc24ec723/cover"/>
-  </programme>
-  <programme channel="SkyNews.uk" start="20261115213000 +0000" stop="20261115220000 +0000">
-    <title lang="en">The World with Yalda Hakim</title>
-    <desc lang="en">Eyewitness reports, interviews and analysis on the big stories around the world with Yalda Hakim.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fbeb8f2e-8cb3-4128-be9c-856b1ac13c2f/cover"/>
+  <programme channel="SkyNews.uk" start="20261115210000 +0000" stop="20261115220000 +0000">
+    <title lang="en">The Drug Lords Next Door</title>
+    <desc lang="en">The Drug Lords Next Door: Undercover reporting reveals the rise of Albanian gangs taking over Britain's cocaine trade, from international supply lines to local streets. (S1, ep 1)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9e79f5cf-fc0c-4926-a39e-7678d89a2b98/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20261115220000 +0000" stop="20261115223000 +0000">
     <title lang="en">The Wrap With Gillian Joseph</title>
@@ -237410,9 +237404,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/48603077-979f-4612-917b-728a2f4fb375/cover"/>
   </programme>
   <programme channel="TBN.uk" start="20261109183000 +0000" stop="20261109190000 +0000">
-    <title lang="en">Voice of Grace with Dr Emmanuel Ziga</title>
-    <desc lang="en">Voice of Grace with Dr Emmanuel Ziga</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/651cd090-02ff-4e37-bc79-5c932e1d2b87/cover"/>
+    <title lang="en">Declarations of Rosh Hashanah</title>
+    <desc lang="en">Declarations of Rosh Hashanah</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ab7e30b2-b724-4b37-ab97-071df776cfaf/cover"/>
   </programme>
   <programme channel="TBN.uk" start="20261109190000 +0000" stop="20261109193000 +0000">
     <title lang="en">Guy Stein Gospel Show</title>
@@ -238020,9 +238014,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/d6d5059b-a4cb-4f84-81d8-65ded45e07df/cover"/>
   </programme>
   <programme channel="TBN.uk" start="20261112150000 +0000" stop="20261112153000 +0000">
-    <title lang="en">Voice of Grace with Dr Emmanuel Ziga</title>
-    <desc lang="en">Voice of Grace with Dr Emmanuel Ziga</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0a0a0c10-f2bd-4e5b-814f-9b9bd660cf86/cover"/>
+    <title lang="en">Declarations of Rosh Hashanah</title>
+    <desc lang="en">Declarations of Rosh Hashanah</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e62e13c3-f8be-42e1-9475-25228c610e88/cover"/>
   </programme>
   <programme channel="TBN.uk" start="20261112153000 +0000" stop="20261112160000 +0000">
     <title lang="en">Nejat TV</title>
@@ -238135,9 +238129,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/261c7771-215b-4c48-b2aa-304a1cda6074/cover"/>
   </programme>
   <programme channel="TBN.uk" start="20261113043000 +0000" stop="20261113050000 +0000">
-    <title lang="en">Voice of Grace with Dr Emmanuel Ziga</title>
-    <desc lang="en">Voice of Grace with Dr Emmanuel Ziga</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e2bf851d-368b-4092-860c-96aea5d5b2a4/cover"/>
+    <title lang="en">Declarations of Rosh Hashanah</title>
+    <desc lang="en">Declarations of Rosh Hashanah</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ed647244-2124-4cac-b623-795828f96c1c/cover"/>
   </programme>
   <programme channel="TBN.uk" start="20261113050000 +0000" stop="20261113053000 +0000">
     <title lang="en">TBN UK Music</title>
@@ -238590,9 +238584,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/dbe75ad9-b823-4c52-a61e-25827abd5055/cover"/>
   </programme>
   <programme channel="TBN.uk" start="20261115120000 +0000" stop="20261115123000 +0000">
-    <title lang="en">Voice of Grace with Dr Emmanuel Ziga</title>
-    <desc lang="en">Voice of Grace with Dr Emmanuel Ziga</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e70c3573-87f1-42b0-aa33-0de64351d38c/cover"/>
+    <title lang="en">Declarations of Rosh Hashanah</title>
+    <desc lang="en">Declarations of Rosh Hashanah</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bc5ec5b2-8f0e-49b7-ae1e-032aafa3fdeb/cover"/>
   </programme>
   <programme channel="TBN.uk" start="20261115123000 +0000" stop="20261115130000 +0000">
     <title lang="en">Kingdom Connection</title>
@@ -247753,9 +247747,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/12ea7dd6-0a31-4d49-a17c-adce96bb234e/cover"/>
   </programme>
   <programme channel="TRTWorld.tr" start="20261114180000 +0000" stop="20261114183000 +0000">
-    <title lang="en">News</title>
-    <desc lang="en">TRT World brings the latest news from around the globe, when it happens.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3c4b76d7-9b8d-4243-a0ef-e0abede48fb2/cover"/>
+    <title lang="en">Roundtable</title>
+    <desc lang="en">Ideas are changing our world. See them discussed and dissected, every weekday.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6557f847-ce80-43d4-aeb0-ca0c10503ebf/cover"/>
   </programme>
   <programme channel="TRTWorld.tr" start="20261114183000 +0000" stop="20261114190000 +0000">
     <title lang="en">Just 2 Degrees</title>
@@ -248012,9 +248006,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/10e93603-7689-4f98-b393-0ca797f5df72/cover"/>
   </programme>
   <programme channel="TRTWorld.tr" start="20261115180000 +0000" stop="20261115183000 +0000">
-    <title lang="en">News</title>
-    <desc lang="en">TRT World brings the latest news from around the globe, when it happens.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a9ad9028-de7e-4643-b47d-fa895d00be55/cover"/>
+    <title lang="en">The Newsmakers</title>
+    <desc lang="en">With in-depth reports and strong, unfiltered debates - The Newsmakers examine the people and the stories that are shaping our lives.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a56f08a2-de50-4465-be6a-05d418663d11/cover"/>
   </programme>
   <programme channel="TRTWorld.tr" start="20261115183000 +0000" stop="20261115190000 +0000">
     <title lang="en">Across The Balkans</title>
@@ -251485,7 +251479,7 @@
   <programme channel="TalkSport.uk" start="20261110060000 +0000" stop="20261110100000 +0000">
     <title lang="en">talkSPORT Breakfast</title>
     <desc lang="en">Join us as we bring you a breakfast buffet of sport. Call the show on 03717 22 33 44 (Calls charged at national rate) or text 81089 (50p + charges).</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/83e6ce58-91d0-4a01-9e1e-b9b461e582f2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/8c3915eb-feb7-4a2c-91a7-9663e0063e51/cover"/>
   </programme>
   <programme channel="TalkSport.uk" start="20261110100000 +0000" stop="20261110130000 +0000">
     <title lang="en">White &amp; Jordan</title>
@@ -251504,7 +251498,7 @@
   </programme>
   <programme channel="TalkSport.uk" start="20261110190000 +0000" stop="20261110220000 +0000">
     <title lang="en">Kick Off with Natalie Sawyer</title>
-    <desc lang="en">The best football discussion, debate and updates from the Europa League and Conference League. Crystal Palace v Real Sociedad is on talkSPORT 2.</desc>
+    <desc lang="en">The best football discussion, debate and live coverage. Call the show on 03717 22 33 44 (Calls charged at national rate) or text 81089 (50p + charges).</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bedd9609-5de4-462e-b00d-ed6633cf5979/cover"/>
   </programme>
   <programme channel="TalkSport.uk" start="20261110220000 +0000" stop="20261111010000 +0000">
@@ -251608,9 +251602,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/e4979d46-8015-4c81-a0ee-d4a4213cf840/cover"/>
   </programme>
   <programme channel="TalkSport.uk" start="20261113100000 +0000" stop="20261113130000 +0000">
-    <title lang="en">Sam Matterface, Alex Crook</title>
+    <title lang="en">Sam Matterface</title>
     <desc lang="en">Breaking sports news, big name guests and opinionated debate on the day's top stories. Call the show on 03717 22 33 44 (Calls charged at national rate) or text 81089 (50p + charges).</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/70ad9d09-13ce-4355-8c27-8d4e1d836a6b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b06286d3-0462-462e-99b0-32e44583d9e7/cover"/>
   </programme>
   <programme channel="TalkSport.uk" start="20261113130000 +0000" stop="20261113160000 +0000">
     <title lang="en">Hawksbee &amp; Jacobs</title>
@@ -255571,8 +255565,8 @@
   </programme>
   <programme channel="ThatsTV2.uk" start="20261113145000 +0000" stop="20261113152000 +0000">
     <title lang="en">Please Sir!</title>
-    <desc lang="en">Potter as chief usher and class 5C as guests spell potential disaster for Bernard's long-awaited wedding day.</desc>
-    <icon src="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/p/efb9b7d8-f022-4e4a-b0a8-8e48f0ce0095.jpg"/>
+    <desc lang="en">Bernard and Penny dream of their wedding day. It should be the happiest day of their lives - but Potter is chief usher, class 5C are guests, the meteorological department forecasts snow and there are unforeseen problems.</desc>
+    <icon src="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/ovp.itv.com/v2/images/episode/67k9t1z/itv_hub/08_Episodic/16x9_distributionPartner=itv_hub_fallback=standard_w=767_h=767_q=65_blur=0_bg=false"/>
   </programme>
   <programme channel="ThatsTV2.uk" start="20261113152000 +0000" stop="20261113162000 +0000">
     <title lang="en">You Rang, M'Lord?</title>
@@ -281577,14 +281571,9 @@
     <desc lang="en">When a corpse is discovered in an Afro-Caribbean neighbourhood of London, the controversial subject of racism in the police force rears its head and D. C. I. Tennison is called in.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d656a854-5b61-437f-a85b-3f2b4fb1e550/cover"/>
   </programme>
-  <programme channel="VirginMediaThree.ie" start="20261114023500 +0000" stop="20261114070000 +0000">
+  <programme channel="VirginMediaThree.ie" start="20261114023500 +0000" stop="20261114070500 +0000">
     <title lang="en">Off Air</title>
     <desc lang="en">This channel is currently off air.</desc>
-  </programme>
-  <programme channel="VirginMediaThree.ie" start="20261114070000 +0000" stop="20261114070500 +0000">
-    <title lang="en">This is Virgin Media Three</title>
-    <desc lang="en">This is Virgin Media Three</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e79baea-58f8-4f80-a016-ab9f6953d0d8/cover"/>
   </programme>
   <programme channel="VirginMediaThree.ie" start="20261114070500 +0000" stop="20261114080000 +0000">
     <title lang="en">Heartbeat</title>
@@ -282768,14 +282757,14 @@
     <episode-num system="xmltv_ns">7.21.0</episode-num>
     <episode-num system="onscreen">S8E22</episode-num>
   </programme>
-  <programme channel="VirginMediaTwo.ie" start="20261115013500 +0000" stop="20261115021600 +0000">
+  <programme channel="VirginMediaTwo.ie" start="20261115013500 +0000" stop="20261115021800 +0000">
     <title lang="en">Vanderpump Rules</title>
     <desc lang="en">Lisa Vanderpump rules over her exclusive Hollywood restaurant and its lively and mischievous staff--with a platinum fist. (HD)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7ae90b4a-4521-47f7-adde-2727eb90cce2/cover"/>
     <episode-num system="xmltv_ns">7.22.0</episode-num>
     <episode-num system="onscreen">S8E23</episode-num>
   </programme>
-  <programme channel="VirginMediaTwo.ie" start="20261115021600 +0000" stop="20261115072000 +0000">
+  <programme channel="VirginMediaTwo.ie" start="20261115021800 +0000" stop="20261115072000 +0000">
     <title lang="en">Off Air</title>
     <desc lang="en">This channel is currently off air.</desc>
   </programme>
@@ -283782,11 +283771,12 @@
   </programme>
   <programme channel="WeDoTVMovies.uk" start="20261115111400 +0000" stop="20261115130700 +0000">
     <title lang="en">Tin Man</title>
-    <desc lang="en">Re-imagining of the Wizard of Oz, in which a student is whisked away to a magical realm known as the Outer Zone. Starring Zooey Deschanel, Alan Cumming and Richard Dreyfuss</desc>
+    <desc lang="en">Part one of two. Reimagining of the Wizard of Oz. DG, a student and part-time waitress, finds herself whisked away to a magical realm known as the Outer Zone</desc>
+    <icon src="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/7454548d-ec9d-5367-926d-dd0fc038d1d0.jpg"/>
   </programme>
   <programme channel="WeDoTVMovies.uk" start="20261115130700 +0000" stop="20261115145800 +0000">
     <title lang="en">Tin Man</title>
-    <desc lang="en">Re-imagining of the Wizard of Oz, in which a student is whisked away to a magical realm known as the Outer Zone. Starring Zooey Deschanel, Alan Cumming and Richard Dreyfuss</desc>
+    <desc lang="en">Reimagining of the Wizard of Oz. Part-time waitress DG struggles to find her way through the Outer Zone, and spots a chance to discover the truth about her mother</desc>
   </programme>
   <programme channel="WeDoTVMovies.uk" start="20261115145800 +0000" stop="20261115163700 +0000">
     <title lang="en">Eat, Drink and Be Married</title>
