@@ -1312,7 +1312,7 @@
   </programme>
   <programme channel="4seven.uk" start="20261115210000 +0000" stop="20261115220000 +0000">
     <title lang="en">Gogglebox</title>
-    <desc lang="en">What's the Gogglebox verdict on this week's TV?</desc>
+    <desc lang="en">What do the Goggleboxers make of the week's TV? Featuring Rivals, Jamie's 20 Minute Meals, Strictly, First Dates, Made in Chelsea, The Famous Finish Line and Hanging by a Wire.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/322344c0-a374-48d0-889c-819d6cbe2ab7/cover"/>
     <episode-num system="xmltv_ns">27.10.0</episode-num>
     <episode-num system="onscreen">S28E11</episode-num>
@@ -1336,14 +1336,14 @@
     <episode-num system="xmltv_ns">0.1.0</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme channel="4seven.uk" start="20261116021000 +0000" stop="20261116031000 +0000">
+  <programme channel="4seven.uk" start="20261116021000 +0000" stop="20261116031500 +0000">
     <title lang="en">Gogglebox</title>
-    <desc lang="en">What's the Gogglebox verdict on this week's TV?</desc>
+    <desc lang="en">What do the Goggleboxers make of the week's TV? Featuring Rivals, Jamie's 20 Minute Meals, Strictly, First Dates, Made in Chelsea, The Famous Finish Line and Hanging by a Wire.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/322344c0-a374-48d0-889c-819d6cbe2ab7/cover"/>
     <episode-num system="xmltv_ns">27.10.0</episode-num>
     <episode-num system="onscreen">S28E11</episode-num>
   </programme>
-  <programme channel="4seven.uk" start="20261116031000 +0000" stop="20261116041000 +0000">
+  <programme channel="4seven.uk" start="20261116031500 +0000" stop="20261116041000 +0000">
     <title lang="en">Gogglebox</title>
     <desc lang="en">This time on the 'Box: Adolescence, 99 to Beat, Coronation Street, David Blaine: Do Not Attempt, Big Night of Musicals by The National Lottery and Building Britain's Superhomes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d31e8483-74c7-4144-899d-92395f2e3da0/cover"/>
@@ -19770,7 +19770,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, work and pensions secretary Pat McFadden MP and shadow work and pensions secretary Helen Whateley MP.</desc>
+    <desc lang="en">Laura Kuenssberg talks exclusively to the author of the key report on youth unemployment, Alan Milburn. She also talks with Pat McFadden MP, Helen Whately MP, and UB40 featuring Ali Campbell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5b4c142-7193-4f3e-8129-795c7c197f94/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -21457,7 +21457,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, work and pensions secretary Pat McFadden MP and shadow work and pensions secretary Helen Whateley MP.</desc>
+    <desc lang="en">Laura Kuenssberg talks exclusively to the author of the key report on youth unemployment, Alan Milburn. She also talks with Pat McFadden MP, Helen Whately MP, and UB40 featuring Ali Campbell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5b4c142-7193-4f3e-8129-795c7c197f94/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -22502,7 +22502,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, work and pensions secretary Pat McFadden MP and shadow work and pensions secretary Helen Whateley MP.</desc>
+    <desc lang="en">Laura Kuenssberg talks exclusively to the author of the key report on youth unemployment, Alan Milburn. She also talks with Pat McFadden MP, Helen Whately MP, and UB40 featuring Ali Campbell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5b4c142-7193-4f3e-8129-795c7c197f94/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -23547,7 +23547,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, work and pensions secretary Pat McFadden MP and shadow work and pensions secretary Helen Whateley MP.</desc>
+    <desc lang="en">Laura Kuenssberg talks exclusively to the author of the key report on youth unemployment, Alan Milburn. She also talks with Pat McFadden MP, Helen Whately MP, and UB40 featuring Ali Campbell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5b4c142-7193-4f3e-8129-795c7c197f94/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -24592,7 +24592,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, work and pensions secretary Pat McFadden MP and shadow work and pensions secretary Helen Whateley MP.</desc>
+    <desc lang="en">Laura Kuenssberg talks exclusively to the author of the key report on youth unemployment, Alan Milburn. She also talks with Pat McFadden MP, Helen Whately MP, and UB40 featuring Ali Campbell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5b4c142-7193-4f3e-8129-795c7c197f94/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -25637,7 +25637,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, work and pensions secretary Pat McFadden MP and shadow work and pensions secretary Helen Whateley MP.</desc>
+    <desc lang="en">Laura Kuenssberg talks exclusively to the author of the key report on youth unemployment, Alan Milburn. She also talks with Pat McFadden MP, Helen Whately MP, and UB40 featuring Ali Campbell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5b4c142-7193-4f3e-8129-795c7c197f94/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -26682,7 +26682,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, work and pensions secretary Pat McFadden MP and shadow work and pensions secretary Helen Whateley MP.</desc>
+    <desc lang="en">Laura Kuenssberg talks exclusively to the author of the key report on youth unemployment, Alan Milburn. She also talks with Pat McFadden MP, Helen Whately MP, and UB40 featuring Ali Campbell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5b4c142-7193-4f3e-8129-795c7c197f94/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -27727,7 +27727,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, work and pensions secretary Pat McFadden MP and shadow work and pensions secretary Helen Whateley MP.</desc>
+    <desc lang="en">Laura Kuenssberg talks exclusively to the author of the key report on youth unemployment, Alan Milburn. She also talks with Pat McFadden MP, Helen Whately MP, and UB40 featuring Ali Campbell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5b4c142-7193-4f3e-8129-795c7c197f94/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -28768,7 +28768,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, work and pensions secretary Pat McFadden MP and shadow work and pensions secretary Helen Whateley MP.</desc>
+    <desc lang="en">Laura Kuenssberg talks exclusively to the author of the key report on youth unemployment, Alan Milburn. She also talks with Pat McFadden MP, Helen Whately MP, and UB40 featuring Ali Campbell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5b4c142-7193-4f3e-8129-795c7c197f94/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -29850,7 +29850,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, work and pensions secretary Pat McFadden MP and shadow work and pensions secretary Helen Whateley MP.</desc>
+    <desc lang="en">Laura Kuenssberg talks exclusively to the author of the key report on youth unemployment, Alan Milburn. She also talks with Pat McFadden MP, Helen Whately MP, and UB40 featuring Ali Campbell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5b4c142-7193-4f3e-8129-795c7c197f94/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -30895,7 +30895,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, work and pensions secretary Pat McFadden MP and shadow work and pensions secretary Helen Whateley MP.</desc>
+    <desc lang="en">Laura Kuenssberg talks exclusively to the author of the key report on youth unemployment, Alan Milburn. She also talks with Pat McFadden MP, Helen Whately MP, and UB40 featuring Ali Campbell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5b4c142-7193-4f3e-8129-795c7c197f94/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -31940,7 +31940,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, work and pensions secretary Pat McFadden MP and shadow work and pensions secretary Helen Whateley MP.</desc>
+    <desc lang="en">Laura Kuenssberg talks exclusively to the author of the key report on youth unemployment, Alan Milburn. She also talks with Pat McFadden MP, Helen Whately MP, and UB40 featuring Ali Campbell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5b4c142-7193-4f3e-8129-795c7c197f94/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -32985,7 +32985,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, work and pensions secretary Pat McFadden MP and shadow work and pensions secretary Helen Whateley MP.</desc>
+    <desc lang="en">Laura Kuenssberg talks exclusively to the author of the key report on youth unemployment, Alan Milburn. She also talks with Pat McFadden MP, Helen Whately MP, and UB40 featuring Ali Campbell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5b4c142-7193-4f3e-8129-795c7c197f94/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -34052,7 +34052,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, work and pensions secretary Pat McFadden MP and shadow work and pensions secretary Helen Whateley MP.</desc>
+    <desc lang="en">Laura Kuenssberg talks exclusively to the author of the key report on youth unemployment, Alan Milburn. She also talks with Pat McFadden MP, Helen Whately MP, and UB40 featuring Ali Campbell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5b4c142-7193-4f3e-8129-795c7c197f94/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -35097,7 +35097,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, work and pensions secretary Pat McFadden MP and shadow work and pensions secretary Helen Whateley MP.</desc>
+    <desc lang="en">Laura Kuenssberg talks exclusively to the author of the key report on youth unemployment, Alan Milburn. She also talks with Pat McFadden MP, Helen Whately MP, and UB40 featuring Ali Campbell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5b4c142-7193-4f3e-8129-795c7c197f94/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -36142,7 +36142,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, work and pensions secretary Pat McFadden MP and shadow work and pensions secretary Helen Whateley MP.</desc>
+    <desc lang="en">Laura Kuenssberg talks exclusively to the author of the key report on youth unemployment, Alan Milburn. She also talks with Pat McFadden MP, Helen Whately MP, and UB40 featuring Ali Campbell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5b4c142-7193-4f3e-8129-795c7c197f94/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -37187,7 +37187,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261115090000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, work and pensions secretary Pat McFadden MP and shadow work and pensions secretary Helen Whateley MP.</desc>
+    <desc lang="en">Laura Kuenssberg talks exclusively to the author of the key report on youth unemployment, Alan Milburn. She also talks with Pat McFadden MP, Helen Whately MP, and UB40 featuring Ali Campbell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5b4c142-7193-4f3e-8129-795c7c197f94/cover"/>
     <episode-num system="xmltv_ns">2025.43.0</episode-num>
     <episode-num system="onscreen">S2026E44</episode-num>
@@ -38742,7 +38742,7 @@
   </programme>
   <programme channel="BBCR1.uk" start="20261115103200 +0000" stop="20261115130000 +0000">
     <title lang="en">Radio 1 Group Chat with Vicky and Charley</title>
-    <desc lang="en">Charley's excited about the Grammys, plus the Rogue Quiz returns.</desc>
+    <desc lang="en">The Rogue Quiz returns. Can you figure out the theme connecting the answers before everyone else? Plus the chance to channel your inner radio presenter.</desc>
   </programme>
   <programme channel="BBCR1.uk" start="20261115130000 +0000" stop="20261115140000 +0000">
     <title lang="en">Radio 1 00s with Sam and Danni</title>
@@ -44528,15 +44528,19 @@
     <title lang="en">Test Match Special</title>
     <desc lang="en">Test Match Special joins ABC Sport in Australia for live ball-by-ball commentary of Australia v England in the 2nd ODI in Adelaide.</desc>
   </programme>
-  <programme channel="BBCR5SX.uk" start="20261115113000 +0000" stop="20261115125500 +0000">
+  <programme channel="BBCR5SX.uk" start="20261115113000 +0000" stop="20261115114500 +0000">
+    <title lang="en">This is BBC R5SX</title>
+    <desc lang="en">This is BBC R5SX</desc>
+  </programme>
+  <programme channel="BBCR5SX.uk" start="20261115114500 +0000" stop="20261115120000 +0000">
     <title lang="en">This Is Sports Extra</title>
     <desc lang="en">This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.</desc>
   </programme>
-  <programme channel="BBCR5SX.uk" start="20261115125500 +0000" stop="20261115150000 +0000">
+  <programme channel="BBCR5SX.uk" start="20261115120000 +0000" stop="20261115160000 +0000">
     <title lang="en">Rugby Union</title>
     <desc lang="en">Live rugby union commentary of Leicester Tigers v Saracens in the PREM Rugby Cup.</desc>
   </programme>
-  <programme channel="BBCR5SX.uk" start="20261115150000 +0000" stop="20261115161500 +0000">
+  <programme channel="BBCR5SX.uk" start="20261115160000 +0000" stop="20261115161500 +0000">
     <title lang="en">This Is Sports Extra</title>
     <desc lang="en">This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.</desc>
   </programme>
@@ -45626,7 +45630,7 @@
   </programme>
   <programme channel="BBCRScotland.uk" start="20261115080000 +0000" stop="20261115100000 +0000">
     <title lang="en">Sunday Morning</title>
-    <desc lang="en">Two hours of music and conversation with a faith and ethical perspective. Taking the week's events to ask what they say about our values and beliefs.</desc>
+    <desc lang="en">Comedian and writer Fatiha El-Ghorri shares her Spiritual Life, and Doctor Who star Ruth Madeley is taking on the role of disability rights pioneer in a new biopic of Judy Heumann.</desc>
   </programme>
   <programme channel="BBCRScotland.uk" start="20261115100000 +0000" stop="20261115120000 +0000">
     <title lang="en">The Sunday Show</title>
@@ -47130,9 +47134,11 @@
   </programme>
   <programme channel="BBCRadioBristol.uk" start="20261117180000 +0000" stop="20261117190000 +0000">
     <title lang="en">The Scrum</title>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0grybl0.jpg"/>
   </programme>
   <programme channel="BBCRadioBristol.uk" start="20261117190000 +0000" stop="20261117220000 +0000">
     <title lang="en">Dan Pascoe</title>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0pdcxy7.jpg"/>
   </programme>
   <programme channel="BBCRadioBristol.uk" start="20261117220000 +0000" stop="20261118010000 +0000">
     <title lang="en">The Late Show</title>
@@ -47159,6 +47165,7 @@
   </programme>
   <programme channel="BBCRadioBristol.uk" start="20261118190000 +0000" stop="20261118220000 +0000">
     <title lang="en">Dan Pascoe</title>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0pdcxy7.jpg"/>
   </programme>
   <programme channel="BBCRadioBristol.uk" start="20261118220000 +0000" stop="20261119010000 +0000">
     <title lang="en">The Late Show</title>
@@ -47216,7 +47223,6 @@
   <programme channel="BBCRadioBristol.uk" start="20261120190000 +0000" stop="20261120223000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioBristol.uk" start="20261120223000 +0000" stop="20261121010000 +0000">
     <title lang="en">Jo Good</title>
@@ -47237,7 +47243,6 @@
   <programme channel="BBCRadioBristol.uk" start="20261121140000 +0000" stop="20261121200000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioBristol.uk" start="20261121200000 +0000" stop="20261121220000 +0000">
     <title lang="en">BBC Introducing</title>
@@ -47257,7 +47262,7 @@
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261115060000 +0000" stop="20261115100000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf8012.jpg"/>
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261115100000 +0000" stop="20261115140000 +0000">
     <title lang="en">Thordis Fridriksson</title>
@@ -47285,7 +47290,7 @@
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261116100000 +0000" stop="20261116140000 +0000">
     <title lang="en">Chris Mann</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0fjqxrz.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0lgs7v1.jpg"/>
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261116140000 +0000" stop="20261116180000 +0000">
     <title lang="en">Louise Hulland</title>
@@ -47313,7 +47318,7 @@
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261117100000 +0000" stop="20261117140000 +0000">
     <title lang="en">Chris Mann</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0fjqxrz.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0lgs7v1.jpg"/>
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261117140000 +0000" stop="20261117180000 +0000">
     <title lang="en">Louise Hulland</title>
@@ -47337,7 +47342,7 @@
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261118100000 +0000" stop="20261118140000 +0000">
     <title lang="en">Chris Mann</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0fjqxrz.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0lgs7v1.jpg"/>
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261118140000 +0000" stop="20261118180000 +0000">
     <title lang="en">Louise Hulland</title>
@@ -47361,7 +47366,7 @@
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261119100000 +0000" stop="20261119140000 +0000">
     <title lang="en">Chris Mann</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0fjqxrz.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0lgs7v1.jpg"/>
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261119140000 +0000" stop="20261119180000 +0000">
     <title lang="en">Louise Hulland</title>
@@ -47402,7 +47407,6 @@
   <programme channel="BBCRadioCambridgeshire.uk" start="20261120180000 +0000" stop="20261120190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261120190000 +0000" stop="20261120220000 +0000">
     <title lang="en">Angelle Joseph</title>
@@ -47433,7 +47437,6 @@
   <programme channel="BBCRadioCambridgeshire.uk" start="20261121150000 +0000" stop="20261121170000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioCambridgeshire.uk" start="20261121170000 +0000" stop="20261121180000 +0000">
     <title lang="en">Post-Match</title>
@@ -47520,6 +47523,7 @@
   </programme>
   <programme channel="BBCRadioCornwall.uk" start="20261117180000 +0000" stop="20261117220000 +0000">
     <title lang="en">Dan Pascoe</title>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0pdcxy7.jpg"/>
   </programme>
   <programme channel="BBCRadioCornwall.uk" start="20261117220000 +0000" stop="20261118010000 +0000">
     <title lang="en">The Late Show</title>
@@ -47542,6 +47546,7 @@
   </programme>
   <programme channel="BBCRadioCornwall.uk" start="20261118180000 +0000" stop="20261118220000 +0000">
     <title lang="en">Dan Pascoe</title>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0pdcxy7.jpg"/>
   </programme>
   <programme channel="BBCRadioCornwall.uk" start="20261118220000 +0000" stop="20261119010000 +0000">
     <title lang="en">The Late Show</title>
@@ -47594,6 +47599,7 @@
   </programme>
   <programme channel="BBCRadioCornwall.uk" start="20261120190000 +0000" stop="20261120220000 +0000">
     <title lang="en">Dan Pascoe</title>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0pdcxy7.jpg"/>
   </programme>
   <programme channel="BBCRadioCornwall.uk" start="20261120220000 +0000" stop="20261121010000 +0000">
     <title lang="en">Jo Good</title>
@@ -47614,7 +47620,6 @@
   <programme channel="BBCRadioCornwall.uk" start="20261121140000 +0000" stop="20261121180000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioCornwall.uk" start="20261121180000 +0000" stop="20261121200000 +0000">
     <title lang="en">Upload</title>
@@ -48504,7 +48509,7 @@
   </programme>
   <programme channel="BBCRadioDerby.uk" start="20261117180000 +0000" stop="20261117190000 +0000">
     <title lang="en">Sportscene at Six</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjdpg6.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0nkksvv.jpg"/>
   </programme>
   <programme channel="BBCRadioDerby.uk" start="20261117190000 +0000" stop="20261117220000 +0000">
     <title lang="en">Deke Hardman</title>
@@ -48531,7 +48536,7 @@
   </programme>
   <programme channel="BBCRadioDerby.uk" start="20261118180000 +0000" stop="20261118190000 +0000">
     <title lang="en">Sportscene at Six</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjdpg6.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0nkksvv.jpg"/>
   </programme>
   <programme channel="BBCRadioDerby.uk" start="20261118190000 +0000" stop="20261118220000 +0000">
     <title lang="en">Deke Hardman</title>
@@ -48558,7 +48563,7 @@
   </programme>
   <programme channel="BBCRadioDerby.uk" start="20261119180000 +0000" stop="20261119190000 +0000">
     <title lang="en">Sportscene at Six</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjdpg6.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0nkksvv.jpg"/>
   </programme>
   <programme channel="BBCRadioDerby.uk" start="20261119190000 +0000" stop="20261119200000 +0000">
     <title lang="en">Upload</title>
@@ -48588,7 +48593,7 @@
   </programme>
   <programme channel="BBCRadioDerby.uk" start="20261120180000 +0000" stop="20261120190000 +0000">
     <title lang="en">Sportscene at Six</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjdpg6.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0nkksvv.jpg"/>
   </programme>
   <programme channel="BBCRadioDerby.uk" start="20261120190000 +0000" stop="20261120220000 +0000">
     <title lang="en">Letitia George</title>
@@ -48712,9 +48717,11 @@
   </programme>
   <programme channel="BBCRadioDevon.uk" start="20261117180000 +0000" stop="20261117190000 +0000">
     <title lang="en">The Scrum</title>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0grybl0.jpg"/>
   </programme>
   <programme channel="BBCRadioDevon.uk" start="20261117190000 +0000" stop="20261117220000 +0000">
     <title lang="en">Dan Pascoe</title>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0pdcxy7.jpg"/>
   </programme>
   <programme channel="BBCRadioDevon.uk" start="20261117220000 +0000" stop="20261118010000 +0000">
     <title lang="en">The Late Show</title>
@@ -48737,6 +48744,7 @@
   </programme>
   <programme channel="BBCRadioDevon.uk" start="20261118180000 +0000" stop="20261118220000 +0000">
     <title lang="en">Dan Pascoe</title>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0pdcxy7.jpg"/>
   </programme>
   <programme channel="BBCRadioDevon.uk" start="20261118220000 +0000" stop="20261119010000 +0000">
     <title lang="en">The Late Show</title>
@@ -48789,6 +48797,7 @@
   </programme>
   <programme channel="BBCRadioDevon.uk" start="20261120190000 +0000" stop="20261120220000 +0000">
     <title lang="en">Dan Pascoe</title>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0pdcxy7.jpg"/>
   </programme>
   <programme channel="BBCRadioDevon.uk" start="20261120220000 +0000" stop="20261121010000 +0000">
     <title lang="en">Jo Good</title>
@@ -48809,7 +48818,6 @@
   <programme channel="BBCRadioDevon.uk" start="20261121140000 +0000" stop="20261121190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioDevon.uk" start="20261121190000 +0000" stop="20261121200000 +0000">
     <title lang="en">Upload</title>
@@ -49937,9 +49945,11 @@
   </programme>
   <programme channel="BBCRadioGloucestershire.uk" start="20261117180000 +0000" stop="20261117190000 +0000">
     <title lang="en">The Scrum</title>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0grybl0.jpg"/>
   </programme>
   <programme channel="BBCRadioGloucestershire.uk" start="20261117190000 +0000" stop="20261117220000 +0000">
     <title lang="en">Dan Pascoe</title>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0pdcxy7.jpg"/>
   </programme>
   <programme channel="BBCRadioGloucestershire.uk" start="20261117220000 +0000" stop="20261118010000 +0000">
     <title lang="en">The Late Show</title>
@@ -49966,6 +49976,7 @@
   </programme>
   <programme channel="BBCRadioGloucestershire.uk" start="20261118190000 +0000" stop="20261118220000 +0000">
     <title lang="en">Dan Pascoe</title>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0pdcxy7.jpg"/>
   </programme>
   <programme channel="BBCRadioGloucestershire.uk" start="20261118220000 +0000" stop="20261119010000 +0000">
     <title lang="en">The Late Show</title>
@@ -50043,7 +50054,6 @@
   <programme channel="BBCRadioGloucestershire.uk" start="20261121150000 +0000" stop="20261121170000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioGloucestershire.uk" start="20261121170000 +0000" stop="20261121180000 +0000">
     <title lang="en">Extra Time</title>
@@ -50295,7 +50305,7 @@
   </programme>
   <programme channel="BBCRadioJersey.uk" start="20261116060000 +0000" stop="20261116100000 +0000">
     <title lang="en">Jenny Mullin</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0k0nsp8.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0g89t55.jpg"/>
   </programme>
   <programme channel="BBCRadioJersey.uk" start="20261116100000 +0000" stop="20261116140000 +0000">
     <title lang="en">Alison Moss</title>
@@ -50320,7 +50330,7 @@
   </programme>
   <programme channel="BBCRadioJersey.uk" start="20261117060000 +0000" stop="20261117100000 +0000">
     <title lang="en">Jenny Mullin</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0k0nsp8.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0g89t55.jpg"/>
   </programme>
   <programme channel="BBCRadioJersey.uk" start="20261117100000 +0000" stop="20261117140000 +0000">
     <title lang="en">Alison Moss</title>
@@ -50332,6 +50342,7 @@
   </programme>
   <programme channel="BBCRadioJersey.uk" start="20261117180000 +0000" stop="20261117220000 +0000">
     <title lang="en">Dan Pascoe</title>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0pdcxy7.jpg"/>
   </programme>
   <programme channel="BBCRadioJersey.uk" start="20261117220000 +0000" stop="20261118010000 +0000">
     <title lang="en">The Late Show</title>
@@ -50342,7 +50353,7 @@
   </programme>
   <programme channel="BBCRadioJersey.uk" start="20261118060000 +0000" stop="20261118100000 +0000">
     <title lang="en">Jenny Mullin</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0k0nsp8.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0g89t55.jpg"/>
   </programme>
   <programme channel="BBCRadioJersey.uk" start="20261118100000 +0000" stop="20261118140000 +0000">
     <title lang="en">Alison Moss</title>
@@ -50354,6 +50365,7 @@
   </programme>
   <programme channel="BBCRadioJersey.uk" start="20261118180000 +0000" stop="20261118220000 +0000">
     <title lang="en">Dan Pascoe</title>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0pdcxy7.jpg"/>
   </programme>
   <programme channel="BBCRadioJersey.uk" start="20261118220000 +0000" stop="20261119010000 +0000">
     <title lang="en">The Late Show</title>
@@ -50364,7 +50376,7 @@
   </programme>
   <programme channel="BBCRadioJersey.uk" start="20261119060000 +0000" stop="20261119100000 +0000">
     <title lang="en">Jenny Mullin</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0k0nsp8.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0g89t55.jpg"/>
   </programme>
   <programme channel="BBCRadioJersey.uk" start="20261119100000 +0000" stop="20261119140000 +0000">
     <title lang="en">Alison Moss</title>
@@ -50391,7 +50403,7 @@
   </programme>
   <programme channel="BBCRadioJersey.uk" start="20261120060000 +0000" stop="20261120100000 +0000">
     <title lang="en">Jenny Mullin</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0k0nsp8.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0g89t55.jpg"/>
   </programme>
   <programme channel="BBCRadioJersey.uk" start="20261120100000 +0000" stop="20261120140000 +0000">
     <title lang="en">Alison Moss</title>
@@ -50407,6 +50419,7 @@
   </programme>
   <programme channel="BBCRadioJersey.uk" start="20261120190000 +0000" stop="20261120220000 +0000">
     <title lang="en">Dan Pascoe</title>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0pdcxy7.jpg"/>
   </programme>
   <programme channel="BBCRadioJersey.uk" start="20261120220000 +0000" stop="20261121010000 +0000">
     <title lang="en">Jo Good</title>
@@ -50671,7 +50684,6 @@
   <programme channel="BBCRadioLancashire.uk" start="20261116180000 +0000" stop="20261116190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioLancashire.uk" start="20261116190000 +0000" stop="20261116220000 +0000">
     <title lang="en">Raees Khan</title>
@@ -50699,7 +50711,6 @@
   <programme channel="BBCRadioLancashire.uk" start="20261117180000 +0000" stop="20261117190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioLancashire.uk" start="20261117190000 +0000" stop="20261117220000 +0000">
     <title lang="en">Joel Mitchell</title>
@@ -50727,7 +50738,6 @@
   <programme channel="BBCRadioLancashire.uk" start="20261118180000 +0000" stop="20261118190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioLancashire.uk" start="20261118190000 +0000" stop="20261118220000 +0000">
     <title lang="en">Joel Mitchell</title>
@@ -50755,7 +50765,6 @@
   <programme channel="BBCRadioLancashire.uk" start="20261119180000 +0000" stop="20261119190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioLancashire.uk" start="20261119190000 +0000" stop="20261119200000 +0000">
     <title lang="en">Upload</title>
@@ -50786,7 +50795,6 @@
   <programme channel="BBCRadioLancashire.uk" start="20261120180000 +0000" stop="20261120200000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioLancashire.uk" start="20261120200000 +0000" stop="20261120220000 +0000">
     <title lang="en">Rachel Teate</title>
@@ -51149,7 +51157,7 @@
   <programme channel="BBCRadioLeicester.uk" start="20261117180000 +0000" stop="20261117190000 +0000">
     <title lang="en">The Women's Sports Show</title>
     <desc lang="en">Taking a look at the role women play in sport.</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjdw0v.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0lwmw0p.jpg"/>
   </programme>
   <programme channel="BBCRadioLeicester.uk" start="20261117190000 +0000" stop="20261117220000 +0000">
     <title lang="en">Deke Hardman</title>
@@ -51263,11 +51271,10 @@
   <programme channel="BBCRadioLeicester.uk" start="20261121150000 +0000" stop="20261121170000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioLeicester.uk" start="20261121170000 +0000" stop="20261121180000 +0000">
     <title lang="en">Sport: Post-match</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0fy8y2c.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioLeicester.uk" start="20261121180000 +0000" stop="20261121200000 +0000">
     <title lang="en">Dean Jackson</title>
@@ -51551,7 +51558,7 @@
   </programme>
   <programme channel="BBCRadioLondon.uk" start="20261115060000 +0000" stop="20261115100000 +0000">
     <title lang="en">Inspirit with Jumoké Fashola</title>
-    <desc lang="en">Debating the week's big religious, moral and ethical issues.</desc>
+    <desc lang="en">Nick Spencer from Theos, actor Cherelle Skeete and Spencer Martin from Church of Sound.</desc>
   </programme>
   <programme channel="BBCRadioLondon.uk" start="20261115100000 +0000" stop="20261115140000 +0000">
     <title lang="en">Robert Elms</title>
@@ -52342,7 +52349,7 @@
   </programme>
   <programme channel="BBCRadioNorfolk.uk" start="20261115060000 +0000" stop="20261115100000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf8012.jpg"/>
   </programme>
   <programme channel="BBCRadioNorfolk.uk" start="20261115100000 +0000" stop="20261115140000 +0000">
     <title lang="en">Thordis Fridriksson</title>
@@ -52405,7 +52412,7 @@
   </programme>
   <programme channel="BBCRadioNorfolk.uk" start="20261117180000 +0000" stop="20261117220000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf8012.jpg"/>
   </programme>
   <programme channel="BBCRadioNorfolk.uk" start="20261117220000 +0000" stop="20261118010000 +0000">
     <title lang="en">The Late Show</title>
@@ -52428,7 +52435,7 @@
   </programme>
   <programme channel="BBCRadioNorfolk.uk" start="20261118180000 +0000" stop="20261118220000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf8012.jpg"/>
   </programme>
   <programme channel="BBCRadioNorfolk.uk" start="20261118220000 +0000" stop="20261119010000 +0000">
     <title lang="en">The Late Show</title>
@@ -52508,7 +52515,6 @@
   <programme channel="BBCRadioNorfolk.uk" start="20261121140000 +0000" stop="20261121170000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioNorfolk.uk" start="20261121170000 +0000" stop="20261121180000 +0000">
     <title lang="en">Canary Call</title>
@@ -52535,7 +52541,7 @@
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261115060000 +0000" stop="20261115100000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf8012.jpg"/>
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261115100000 +0000" stop="20261115140000 +0000">
     <title lang="en">Justin Dealey</title>
@@ -52602,7 +52608,7 @@
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261117190000 +0000" stop="20261117220000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf8012.jpg"/>
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261117220000 +0000" stop="20261118010000 +0000">
     <title lang="en">The Late Show</title>
@@ -52630,7 +52636,7 @@
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261118190000 +0000" stop="20261118220000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf8012.jpg"/>
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261118220000 +0000" stop="20261119010000 +0000">
     <title lang="en">The Late Show</title>
@@ -52701,7 +52707,7 @@
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261121060000 +0000" stop="20261121100000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf8012.jpg"/>
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261121100000 +0000" stop="20261121140000 +0000">
     <title lang="en">Justin Dealey</title>
@@ -52710,7 +52716,6 @@
   <programme channel="BBCRadioNorthampton.uk" start="20261121140000 +0000" stop="20261121180000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioNorthampton.uk" start="20261121180000 +0000" stop="20261121200000 +0000">
     <title lang="en">Upload</title>
@@ -53672,7 +53677,6 @@
   <programme channel="BBCRadioShropshire.uk" start="20261121140000 +0000" stop="20261121170000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioShropshire.uk" start="20261121170000 +0000" stop="20261121180000 +0000">
     <title lang="en">The Verdict</title>
@@ -54138,7 +54142,7 @@
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261115060000 +0000" stop="20261115100000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf8012.jpg"/>
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261115100000 +0000" stop="20261115140000 +0000">
     <title lang="en">Justin Dealey</title>
@@ -54282,7 +54286,6 @@
   <programme channel="BBCRadioThreeCounties.uk" start="20261120180000 +0000" stop="20261120190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261120190000 +0000" stop="20261120220000 +0000">
     <title lang="en">Angelle Joseph</title>
@@ -54298,7 +54301,7 @@
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261121060000 +0000" stop="20261121100000 +0000">
     <title lang="en">Babs Michel</title>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf7xs0.jpg"/>
+    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0gf8012.jpg"/>
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261121100000 +0000" stop="20261121140000 +0000">
     <title lang="en">Justin Dealey</title>
@@ -54311,7 +54314,6 @@
   <programme channel="BBCRadioThreeCounties.uk" start="20261121150000 +0000" stop="20261121170000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioThreeCounties.uk" start="20261121170000 +0000" stop="20261121180000 +0000">
     <title lang="en">5-0-5</title>
@@ -54374,7 +54376,6 @@
   <programme channel="BBCRadioYork.uk" start="20261116180000 +0000" stop="20261116190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioYork.uk" start="20261116190000 +0000" stop="20261116220000 +0000">
     <title lang="en">Arzu Dutta</title>
@@ -54403,7 +54404,6 @@
   <programme channel="BBCRadioYork.uk" start="20261117180000 +0000" stop="20261117190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioYork.uk" start="20261117190000 +0000" stop="20261117220000 +0000">
     <title lang="en">Bek Homer</title>
@@ -54432,7 +54432,6 @@
   <programme channel="BBCRadioYork.uk" start="20261118180000 +0000" stop="20261118190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioYork.uk" start="20261118190000 +0000" stop="20261118220000 +0000">
     <title lang="en">John Kane's Northern Soul</title>
@@ -54492,7 +54491,6 @@
   <programme channel="BBCRadioYork.uk" start="20261120180000 +0000" stop="20261120190000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioYork.uk" start="20261120190000 +0000" stop="20261120220000 +0000">
     <title lang="en">Sile Sibanda</title>
@@ -54518,7 +54516,6 @@
   <programme channel="BBCRadioYork.uk" start="20261121140000 +0000" stop="20261121180000 +0000">
     <title lang="en">Sport</title>
     <desc lang="en">Coverage of the day's local sport action</desc>
-    <icon src="https://images.immediate.co.uk/remote/ichef.bbci.co.uk/images/ic/1920x1080/p0cjf1gh.jpg"/>
   </programme>
   <programme channel="BBCRadioYork.uk" start="20261121180000 +0000" stop="20261121200000 +0000">
     <title lang="en">Upload</title>
@@ -59525,7 +59522,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261115070600 +0000" stop="20261115080000 +0000">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">SpaceX catches Starship rocket in historic first.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261115080000 +0000" stop="20261115080600 +0000">
     <title lang="en">BBC News</title>
@@ -59533,7 +59530,7 @@
   </programme>
   <programme channel="BBCWorldService.uk" start="20261115080600 +0000" stop="20261115090000 +0000">
     <title lang="en">Weekend</title>
-    <desc lang="en">A review of the week with the latest news.</desc>
+    <desc lang="en">Trump, Putin and Xi set for talks on sidelines of APEC summit.</desc>
   </programme>
   <programme channel="BBCWorldService.uk" start="20261115090000 +0000" stop="20261115090600 +0000">
     <title lang="en">BBC News</title>
@@ -137653,8 +137650,8 @@
     <desc lang="en">Ant Payne starts your Saturday and Sunday mornings with the best feel good music and chat.</desc>
   </programme>
   <programme channel="HeartRadio.uk" start="20261115090000 +0000" stop="20261115120000 +0000">
-    <title lang="en">Zoe Hardman</title>
-    <desc lang="en">Zoe Hardman has the best music and chat for your Sunday morning!</desc>
+    <title lang="en">Pandora Christie</title>
+    <desc lang="en">Pandora has the best music and chat for your Sunday morning! Get in touch on WhatsApp, 0800 04 82122.</desc>
   </programme>
   <programme channel="HeartRadio.uk" start="20261115120000 +0000" stop="20261115160000 +0000">
     <title lang="en">Yasmin Evans</title>
@@ -137673,8 +137670,8 @@
     <desc lang="en">Turn up the Feel Good with Ben Atkinson to end the day right.</desc>
   </programme>
   <programme channel="HeartRadio.uk" start="20261116010000 +0000" stop="20261116040000 +0000">
-    <title lang="en">Guy Howard</title>
-    <desc lang="en">If you're up late, working or heading home, Guy's got the best feel good music.</desc>
+    <title lang="en">Seb Bailey</title>
+    <desc lang="en">Seb Bailey keeps you company through the night, with music to turn up the feel good!</desc>
   </programme>
   <programme channel="HeartRadio.uk" start="20261116040000 +0000" stop="20261116063000 +0000">
     <title lang="en">Early Breakfast</title>
@@ -220453,7 +220450,9 @@
   <programme channel="S4C.uk" start="20261119223000 +0000" stop="20261119233500 +0000">
     <title lang="en">Am Dro!</title>
     <desc lang="en">Tro hwn, aiff Eifion, Alys, Meriel a Gareth â ni ar deithiau i Lyn y Fan Fach, Llangrannog, Cei Newydd, a Moel Eilio. We take trips to Llyn y Fan Fach, Llangrannog, New Quay and Snowdonia.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/92a9c333-8388-4850-80e5-f46e751d7272/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3dfa5cb6-3027-4d74-ab81-05f8f98e746d/cover"/>
+    <episode-num system="xmltv_ns">7.3.0</episode-num>
+    <episode-num system="onscreen">S8E4</episode-num>
   </programme>
   <programme channel="S4C.uk" start="20261119233500 +0000" stop="20261120000000 +0000">
     <title lang="en">..programmes start at 6.00am</title>
@@ -220732,7 +220731,9 @@
   <programme channel="S4C.uk" start="20261120150500 +0000" stop="20261120160000 +0000">
     <title lang="en">Am Dro!</title>
     <desc lang="en">Tro hwn, aiff Eifion, Alys, Meriel a Gareth â ni ar deithiau i Lyn y Fan Fach, Llangrannog, Cei Newydd, a Moel Eilio. We take trips to Llyn y Fan Fach, Llangrannog, New Quay and Snowdonia.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5d632390-7a26-465d-868b-77a1df81f460/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3dfa5cb6-3027-4d74-ab81-05f8f98e746d/cover"/>
+    <episode-num system="xmltv_ns">7.3.0</episode-num>
+    <episode-num system="onscreen">S8E4</episode-num>
   </programme>
   <programme channel="S4C.uk" start="20261120160000 +0000" stop="20261120160500 +0000">
     <title lang="en">Howie</title>
@@ -228439,6 +228440,7 @@
   </programme>
   <programme channel="SkyMix.ie" start="20261116060000 +0000" stop="20261116063000 +0000">
     <title lang="en">Teleshopping 2026</title>
+    <desc lang="en">Teleshopping.</desc>
   </programme>
   <programme channel="SkyMix.ie" start="20261116063000 +0000" stop="20261116070000 +0000">
     <title lang="en">Teleshopping 2026</title>
@@ -228916,6 +228918,7 @@
   </programme>
   <programme channel="SkyMix.ie" start="20261118060000 +0000" stop="20261118063000 +0000">
     <title lang="en">Teleshopping 2026</title>
+    <desc lang="en">Teleshopping.</desc>
   </programme>
   <programme channel="SkyMix.ie" start="20261118063000 +0000" stop="20261118070000 +0000">
     <title lang="en">Teleshopping 2026</title>
@@ -229393,6 +229396,7 @@
   </programme>
   <programme channel="SkyMix.ie" start="20261120060000 +0000" stop="20261120063000 +0000">
     <title lang="en">Teleshopping 2026</title>
+    <desc lang="en">Teleshopping.</desc>
   </programme>
   <programme channel="SkyMix.ie" start="20261120063000 +0000" stop="20261120070000 +0000">
     <title lang="en">Teleshopping 2026</title>
@@ -230060,6 +230064,7 @@
   </programme>
   <programme channel="SkyMix.uk" start="20261116060000 +0000" stop="20261116063000 +0000">
     <title lang="en">Teleshopping 2026</title>
+    <desc lang="en">Teleshopping.</desc>
   </programme>
   <programme channel="SkyMix.uk" start="20261116063000 +0000" stop="20261116070000 +0000">
     <title lang="en">Teleshopping 2026</title>
@@ -230537,6 +230542,7 @@
   </programme>
   <programme channel="SkyMix.uk" start="20261118060000 +0000" stop="20261118063000 +0000">
     <title lang="en">Teleshopping 2026</title>
+    <desc lang="en">Teleshopping.</desc>
   </programme>
   <programme channel="SkyMix.uk" start="20261118063000 +0000" stop="20261118070000 +0000">
     <title lang="en">Teleshopping 2026</title>
@@ -231014,6 +231020,7 @@
   </programme>
   <programme channel="SkyMix.uk" start="20261120060000 +0000" stop="20261120063000 +0000">
     <title lang="en">Teleshopping 2026</title>
+    <desc lang="en">Teleshopping.</desc>
   </programme>
   <programme channel="SkyMix.uk" start="20261120063000 +0000" stop="20261120070000 +0000">
     <title lang="en">Teleshopping 2026</title>
@@ -241862,15 +241869,10 @@
     <desc lang="en">NexTech looks at tomorrow?s industries, getting ahead of future trends and understanding the challenges that come with any new technological breakthroughs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/928d72a7-f799-465c-a9a1-4471b8ee55b1/cover"/>
   </programme>
-  <programme channel="TRTWorld.tr" start="20261115140000 +0000" stop="20261115141500 +0000">
+  <programme channel="TRTWorld.tr" start="20261115140000 +0000" stop="20261115143000 +0000">
     <title lang="en">News</title>
     <desc lang="en">TRT World brings the latest news from around the globe, when it happens.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cf493aed-cff8-493d-b114-a8af4fd4979a/cover"/>
-  </programme>
-  <programme channel="TRTWorld.tr" start="20261115141500 +0000" stop="20261115143000 +0000">
-    <title lang="en">Today At Cop31</title>
-    <desc lang="en">As the climate summit continues in T?rkiye, we bring you world leaders and scientists, all debating how to tackle the existential crisis of our time</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/12ae5067-3693-4dce-941a-7e1168dbbe0c/cover"/>
   </programme>
   <programme channel="TRTWorld.tr" start="20261115143000 +0000" stop="20261115150000 +0000">
     <title lang="en">Inside America</title>
@@ -241948,9 +241950,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/ebddd5a1-ce4f-4865-8656-4998775449fd/cover"/>
   </programme>
   <programme channel="TRTWorld.tr" start="20261115214500 +0000" stop="20261115220000 +0000">
-    <title lang="en">In Fact</title>
-    <desc lang="en">IN FACT explores T?rkiye?s history, policies and culture, uncovering the stories and people shaping the country and its place in the world today</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4c581031-4196-4377-836f-5325d1a137e8/cover"/>
+    <title lang="en">Digital Documentaries</title>
+    <desc lang="en">Israel?s systemic racism and coercive contraception practices against Ethiopian Jewish women expose cracks in the 'Promised Land' narrative for marginalised communities.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bc70e261-df57-4d96-8538-c89a7e2fb12d/cover"/>
   </programme>
   <programme channel="TRTWorld.tr" start="20261115220000 +0000" stop="20261115223000 +0000">
     <title lang="en">News</title>
